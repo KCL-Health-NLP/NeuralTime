@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+
 def plot_train_test_annotations(documents):
     count_dict = {}
     for ann_list in documents['annotations'].to_numpy():
@@ -97,12 +98,20 @@ def plot_training(score_df):
 
     plt.show()
 
-scores = []
-for i in range(5):
-    scores += [pd.read_excel('all_types_model_' + str(i) + 'fold.xlsx')]
 
-scores = np.array([score.to_numpy() for score in scores])
-scores = scores.sum(axis = 0)
-scores = scores / 5.0
-df_scores = pd.DataFrame(scores, columns = ['index', 'span_precision', 'span_recall', 'span_f1', 'type_precision', 'type_recall', 'type_f1'])
-plot_training(df_scores)
+def plot_5_models_average():
+    scores = []
+    for i in range(5):
+        scores += [pd.read_excel('all_types_model_' + str(i) + 'fold.xlsx')]
+
+    scores = np.array([score.to_numpy() for score in scores])
+    scores = scores.sum(axis = 0)
+    scores = scores / 5.0
+    df_scores = pd.DataFrame(scores, columns = ['index', 'span_precision', 'span_recall', 'span_f1', 'type_precision', 'type_recall', 'type_f1'])
+    plot_training(df_scores)
+
+
+
+plot_training(pd.read_excel('all_types_model_2fold.xlsx'))
+plot_training(pd.read_excel('all_types_model_on_all_data.xlsx'))
+

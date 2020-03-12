@@ -4,6 +4,7 @@ import numpy as np
 from training_spacy import test_model
 import random
 from training_spacy import merge_intervals
+import pickle
 
 ## Annotation format : a dataframe with the following columns : doc, start, end, text, type, value, corpus (?)
 
@@ -83,20 +84,59 @@ def create_data(annotations, file_path_dict):
     return pd.DataFrame(docs, columns = ['docname', 'text', 'corpus', 'test'])
 
 
-# data creation
-all_annotations = pd.read_excel('data/all_mtsamples_annotations.xlsx')
-file_path_dict = dict([(docname, 'data/corpus/' + docname + '.txt') for docname in all_annotations['doc'].unique()])
-documents = pd.read_excel('data/mtsamples_data.xlsx')
+def load_mt_samples():
 
-# data preprocessing
-documents = annotate(all_annotations, documents)
-# type conversion
-spacy_type = False
-if spacy_type:
-    documents['annotations'] = [[(start, end, 'TIME') if label == 'TIME' else (start, end, 'DATE') for (start, end, label) in annotations] for annotations in documents['annotations'].to_numpy()]
+    # data creation
+    all_annotations = pd.read_excel('data/all_mtsamples_annotations.xlsx')
+    file_path_dict = dict([(docname, 'data/corpus/' + docname + '.txt') for docname in all_annotations['doc'].unique()])
+    documents = pd.read_excel('data/mtsamples_data.xlsx')
 
-# merge intervals : combines overlapping annotations
-documents['annotations'] = [merge_intervals(entities) for entities in documents['annotations'].to_numpy()]
+    # data preprocessing
+    documents = annotate(all_annotations, documents)
+    # type conversion
+    spacy_type = False
+    if spacy_type:
+        documents['annotations'] = [[(start, end, 'TIME') if label == 'TIME' else (start, end, 'DATE') for (start, end, label) in annotations] for annotations in documents['annotations'].to_numpy()]
 
-train_docs = documents[documents.test == False]
-test_docs = documents[documents.test == True]
+    # merge intervals : combines overlapping annotations
+    documents['annotations'] = [merge_intervals(entities) for entities in documents['annotations'].to_numpy()]
+
+    train_docs = documents[documents.test == False]
+    test_docs = documents[documents.test == True]
+
+    return all_annotations, documents, train_docs, test_docs
+
+def load_data(annotations_path, file_path_dict_path = None):
+
+    # data creation
+    try:
+        all_annotations = pd.read_excel(annotations_path)
+    except Exception as e:
+        print(e)
+        all_annotations = pd.read_csv(annotations_path)
+
+
+    if file_path_dict_path:
+        f = open(file_path_dict_path, 'rb')
+        file_path_dict = pickle.load(f)
+    elif all_annotations['textpath'] :
+        file_path_dict = dict([(docname, docpath) for (docname, docpath) in all_annotations[['doc', 'textpath']][all_annotations.docname in all_annotations['docname'].unique()]])
+    elif file_path_dict_path is None:
+        print('You need to provide the file path for every document, either in the annotations (columns textpath) or as a dictionnary')
+        return None
+
+    documents = create_data(annotations=all_annotations, file_path_dict=file_path_dict)
+
+    # data preprocessing
+    documents = annotate(all_annotations, documents)
+    # type conversion
+    spacy_type = False
+    if spacy_type:
+        documents['annotations'] = [
+            [(start, end, 'TIME') if label == 'TIME' else (start, end, 'DATE') for (start, end, label) in annotations]
+            for annotations in documents['annotations'].to_numpy()]
+
+    # merge intervals : combines overlapping annotations
+    documents['annotations'] = [merge_intervals(entities) for entities in documents['annotations'].to_numpy()]
+
+    return all_annotations, documents
