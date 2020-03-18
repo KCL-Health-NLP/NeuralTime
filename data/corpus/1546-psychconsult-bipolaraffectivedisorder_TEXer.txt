@@ -1,0 +1,84 @@
+
+        
+        
+
+        
+        
+identifying data: 
+ the patient is a 41-year-old african-american male with a history of bipolar affective disorder, was admitted for noncompliance to the outpatient treatment and increased mood lability.
+
+
+chief compliant: 
+ &quot;i'm here because i'm different.&quot; the patient exhibits poor insight into illness and need for treatment.
+
+
+history of present illness: 
+ the patient has a history of bipolar affective disorder and poor outpatient compliance.  according to mental health professionals, he had not been compliant with medications or outpatient followup, and over the past several weeks, the patient had become increasingly labile.  the patient had expressed grandiose delusions that he is martin luther king, and was found <TI>recently</TI> at a local church agitated throwing a pew and a lectern and required tasering by police.  on admission interview, the patient remains euphoric with poor insight.
+
+
+past psychiatric history: 
+ history of bipolar affective disorder.  the patient has been treated with depakote and seroquel, but has had no recent treatment or followup.  dates of previous hospitalizations are not known.
+
+
+past medical history: 
+ none known.
+
+
+current medications: 
+ none.
+
+
+family social history: 
+ unemployed.  the patient resides independently.  the patient denies recent substance abuse, although tox screen was positive for benzodiazepines.
+
+
+legal history: 
+ need to increase database.
+
+
+family psychiatric history: 
+ need to increase database.
+
+
+mental status examination:  
+
+attitude:  suspicious, but cooperative.
+appearance:  shows appropriate hygiene and grooming.
+psychomotor behavior:  within normal limits.  no agitation or retardation.  no eps or tds noted.
+affect:  labile.
+mood:  euphoric.
+speech:  pressured.
+thoughts:  disorganized.
+thought content:  remarkable for grandiose delusions as noted.  the patient denies auditory hallucinations.
+psychosis:  grandiose delusions as noted above.
+suicidal/homicidal ideation:  the patient denies on admission.
+cognitive assessment:  grossly intact.  the patient is oriented x 3.
+judgment:  poor shown by noncompliance to the outpatient treatment.
+assets:  include stable physical status.
+limitations:  include recurrent psychosis.
+
+
+formulation: 
+ the patient with a history of bipolar affective disorder, was admitted for increasing mood lability and noncompliance to the outpatient treatment.
+
+
+initial impression:
+
+axis i:  bad, manic with psychosis.
+axis ii:  none.
+axis iii:  none known.
+axis iv:  severe.
+axis v:  10.
+
+
+estimated length of stay: 
+ <TI>12 days</TI>.
+
+
+plan: 
+ the patient will be restarted on depakote for mood lability and seroquel for psychosis and his response will be monitored closely.  the patient will be evaluated for more structural outpatient followup following stabilization.
+        
+
+
+        
+
