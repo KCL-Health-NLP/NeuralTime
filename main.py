@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from temporal_extractor import SpacyTemporalExtractor
 from utilities import merge_intervals
-from training_spacy import train_model, test_model, trim_entity_spans
+from training_spacy import train_model, test_model, trim_entity_spans, train_model_cross_validation
 from representations import plot_train_test_annotations, plot_annotations, plot_distribution, plot_training
 from data_preparation import load_mt_samples, load_data
 import datetime
@@ -24,7 +24,7 @@ local_path = 'C:/Users/LouiseDupuis/Documents/NeuralTime'   # to change to your 
 
 all_annotations, documents, train_docs, test_docs = load_mt_samples()  # MT samples data
 
-#cris_annotations, cris_documents, cris_train_docs, cris_test_docs = load_data() # CRIS data
+#cris_annotations, cris_documents, cris_train_docs, cris_test_docs = load_data(...) # CRIS data
 
 # ============================================= MODEL TRAINING =================================================
 
@@ -44,13 +44,14 @@ os.mkdir(output_dir)
 # Analysis of document distribution
 
 plot_distribution(documents)
-plot_annotations(all_annotations)
+
+#plot_annotations(all_annotations)
 #print(plot_train_test_annotations(documents[documents.test == False]))
 #print(plot_train_test_annotations(documents[documents.test == True]))
 
 # model training
-scores = train_model(spacy_model, train_docs, test_docs, nb_iter, output_dir, spacy_type, other_annotations)
-
+#scores = train_model_cross_validation(spacy_model, train_docs, test_docs, nb_iter, output_dir, spacy_type, nb_folds=5)
+scores = train_model(spacy_model, train_docs, test_docs, nb_iter, output_dir, spacy_type)
 
 # ==========================================  TESTING =======================================================================
 

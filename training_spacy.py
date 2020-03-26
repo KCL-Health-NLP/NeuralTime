@@ -161,7 +161,8 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
                         print(e)
                         #print(text)
 
-                scores += [test_model(test_docs, nlp)]
+                tp_g, fp_g, fn_g, p, r, f, pt, rt, ft, type_dict = test_model(test_docs, nlp)
+                scores += [(p, r, r, pt, rt, ft)]
                 print()
                 print()
 
@@ -169,7 +170,8 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
             test_model(val_data, nlp)
 
             df_scores = pd.DataFrame(scores, columns = ['span_precision', 'span_recall', 'span_f1', 'type_precision', 'type_recall', 'type_f1'])
-            df_scores.to_excel(path + '.xlsx')
+            df_scores.to_excel(output_dir + '/' + path + '.xlsx')
+
 
             models += [nlp]
             all_scores += [scores]
@@ -258,7 +260,7 @@ def train_model(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = 
             # test the trained model
 
             df_scores = pd.DataFrame(scores, columns = ['span_precision', 'span_recall', 'span_f1', 'type_precision', 'type_recall', 'type_f1'])
-            df_scores.to_excel(path + '.xlsx')
+            df_scores.to_excel(output_dir + '/' + path + '.xlsx')
 
             # save model to output directory
             if output_dir is not None:
