@@ -1,10 +1,6 @@
 import pandas as pd
-from expression import Expression
-from TEER import teer_rules
-from TEER.TEXer_English import temporal_processing, new_temporal_testing
 import re
 from spacy.gold import GoldParse
-
 
 
 class SpacyTemporalExtractor():
@@ -27,34 +23,5 @@ class SpacyTemporalExtractor():
 
 
 
-
-'''
-
-class TEERTemporalExtractor(TemporalExtractor):
-
-    def __init__(self, pattern_path):
-        self.pattern_path = pattern_path
-
-    # contain training and testing modules. set parameters to call different modules.
-    def extract_expressions(self, documents):
-
-        expressions = []
-        # read the input data
-
-        for document in documents:
-            texts = [document.text]
-            if texts is None or len(texts) <= 0:
-                print('no text available for processing --- interrupting')
-                return
-            result = new_temporal_testing(document, patterns =self.pattern_path)
-
-            expressions += [[document.name, exp.get_text(), exp.start_char, exp.end_char] for exp in result]
-            #expressions = [re.sub(r'(</TI>)', '', stg) for stg in expressions]
-
-        data_result = pd.DataFrame(data = expressions, columns=['doc', 'text', 'start', 'end'])
-
-        return data_result
-        
-'''
 
 

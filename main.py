@@ -1,14 +1,9 @@
 
 import spacy
-from annotated_document import AnnotatedDocument
 import pandas as pd
-from temporal_extractor import SpacyTemporalExtractor
-from corpus import Corpus
-import random
-from training_spacy import train_model, test_model, trim_entity_spans, merge_intervals
-import matplotlib.pyplot as plt
-import ast
 import numpy as np
+from temporal_extractor import SpacyTemporalExtractor
+from training_spacy import train_model, test_model, trim_entity_spans, merge_intervals
 from representations import plot_train_test_annotations, plot_annotations, plot_distribution
 from data_preparation import load_mt_samples, load_data
 # ====================================================== Instanciation =================================================
@@ -21,7 +16,6 @@ spacy_extractor = SpacyTemporalExtractor(spacy_model)
 
 all_annotations, documents, train_docs, test_docs = load_mt_samples()
 
-
 # ============================================= MODEL TRAINING =================================================
 
 # model parameters
@@ -29,9 +23,10 @@ spacy_type = False   #choosing which typing to use. True for DATE and TIME types
 other_annotations = False
 nb_iter = 55
 
-output_dir = 'C:/Users/LouiseDupuis/Documents/PythonSUTime/models/all_types_model'
-
-
+if not spacy_type:
+    output_dir = 'C:/Users/LouiseDupuis/Documents/PythonSUTime/models/all_types_model'
+else:
+    output_dir = 'C:/Users/LouiseDupuis/Documents/PythonSUTime/models/spacy_types_model'
 
 
 # Analysis of document distribution
