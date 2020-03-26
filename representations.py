@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 
 
+# These functions are used to output graphs representing the data
+
 def plot_train_test_annotations(documents):
     count_dict = {}
     for ann_list in documents['annotations'].to_numpy():

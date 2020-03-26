@@ -3,14 +3,13 @@ import spacy
 import random
 nlp = spacy.load('en_core_web_sm')
 from temporal_extractor import SpacyTemporalExtractor
-from ehost_agreement_general import batch_agreement
+from compute_metrics import batch_agreement
 import pandas as pd
 import plac
 import random
 from pathlib import Path
 import spacy
 from spacy.util import minibatch, compounding
-from utilities import merge_intervals
 import re
 from sklearn.model_selection import KFold, StratifiedKFold
 
@@ -128,9 +127,9 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
 
                 path = ''
                 if spacy_type:
-                    path = 'spacy_model_' + str(c) + 'fold'
+                    path = 'spacy_model_' + str(c) + '_fold'
                 else:
-                    path = 'all_types_model_' + str(c) + 'fold'
+                    path = 'all_types_model_' + str(c) + '_fold'
 
                 batches = minibatch(TRAIN_DATA, size=1)  #compounding(4.0, 20.0, 1.001)
 

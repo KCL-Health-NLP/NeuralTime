@@ -1,8 +1,5 @@
 
 
-
-# these functions are used to preprocess entities during the training : indeed, spacy does not accept entities overlapping
-
 def merge_intervals(intervals):
 
     #intervals = [(x[0], x[1]) for x in entities]
@@ -34,6 +31,9 @@ def merge_intervals(intervals):
                 merged.append(b)
                 merged.append(tup)
     return merged
+
+
+
 
 
 
@@ -77,6 +77,7 @@ def entities_overlap(ent1, ent2):
             j += 1
 
     return [e for e in ent2 if e not in overlapping_entities]
+
 
 
 

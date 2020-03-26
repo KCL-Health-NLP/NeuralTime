@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from training_spacy import test_model
 import random
-from training_spacy import merge_intervals
+from utilities import merge_intervals
 import pickle
 
 ## Annotation format : a dataframe with the following columns : doc, start, end, text, type, value, corpus (?)
