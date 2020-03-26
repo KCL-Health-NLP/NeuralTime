@@ -6,7 +6,7 @@ import random
 from utilities import merge_intervals
 import pickle
 
-## Annotation format : a dataframe with the following columns : doc, start, end, text, type, value, corpus (?)
+## Annotation format : a dataframe with the following columns : doc, start, end, text, type, value, corpus
 
 
 def mt_samples_to_standard_data():
@@ -44,7 +44,7 @@ def mt_samples_to_standard_data():
 # to initialise the data,you must give a list of standard annotations (a different dataframe for each annotator) must be provided
 # as well as a dictionnary mapping the path of the doc to the info of the standard_annotations
 
-# to do : create a utility converting cv file to that dictionnary of path
+# to do : create a utility converting csv file to a dictionnary of path
 
 
 def annotate(annotations, documents):

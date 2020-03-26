@@ -5,9 +5,7 @@ nlp = spacy.load('en_core_web_sm')
 from temporal_extractor import SpacyTemporalExtractor
 from compute_metrics import batch_agreement
 import pandas as pd
-import plac
 import random
-from pathlib import Path
 import spacy
 from spacy.util import minibatch, compounding
 import re
@@ -48,6 +46,14 @@ def trim_entity_spans(data: list) -> list:
 
 
 def test_model(test_docs, nlp, spacy_type = False):
+
+    """
+    Tests a model
+    :param test_docs: the documents to be tested, in a dataframe format with columns 'docname', 'annotations', and 'text'
+    :param nlp: the spacy model to test
+    :param spacy_type: wether spacy types or the standard types are used
+    :return: the result of batch_agreement (global metrics function) on the annotated test set
+    """
     print(" ============= TESTING MODEL ===========================")
 
     # the annotations to be tested by batch_agreement are dataframes in the form ['doc', 'start', 'end', 'text', 'attribute1', 'attribute2', ..]
@@ -71,7 +77,19 @@ def test_model(test_docs, nlp, spacy_type = False):
 
 
 
-def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = True, other_annotations = False):
+def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = True, nb_folds = 5):
+
+    """
+    Trains a model using a cross validation technique
+    :param model: the spacy model to retrain
+    :param train_docs: train documents in a datafame format - see data_preparation
+    :param test_docs: test documents in a datafame format - see data_preparation
+    :param nb_iter: nb of iterations for training
+    :param output_dir: directory for saving the models
+    :param spacy_type: wether spacy native temporal types (DATE and TIME) or the complete types are used
+    :param other_annotations: to do -> add the possibility to retrain spacy with all annotations, not just temporal ones (to avoid forgetting)
+    :return:the models, the dictionary of scores
+    """
 
     print(" ============= TRAINING MODEL ===========================")
 
@@ -79,12 +97,13 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
 
     #docs['annotations'] = [[tuple(ann) for ann in annotations] for annotations in docs['annotations'].to_numpy()]
 
+
     # cross validation :
 
     models = []
     all_scores = []
 
-    kf = KFold(n_splits=5)
+    kf = KFold(n_splits=nb_folds)
     c = 0
     for train_index, val_index in kf.split(train_docs):
 
@@ -174,8 +193,6 @@ def train_model(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = 
 
     #docs['annotations'] = [[tuple(ann) for ann in annotations] for annotations in docs['annotations'].to_numpy()]
 
-    # cross validation :
-
     models = []
     all_scores = []
 
@@ -218,11 +235,11 @@ def train_model(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = 
 
             path = ''
             if spacy_type:
-                path = 'spacy_model_scores_on_all_data'
+                path = 'spacy_model_final'
             else:
-                path = 'all_types_model_on_all_data'
+                path = 'all_types_model_final'
 
-            batches = minibatch(TRAIN_DATA, size=1)  #compounding(4.0, 20.0, 1.001)
+            batches = minibatch(TRAIN_DATA, size=4)  #compounding(4.0, 20.0, 1.001)
 
             for batch in batches:
                 texts, annotations = zip(*batch)

@@ -55,7 +55,6 @@ def test_all_folds(model_path = 'models/all_types_model/', model_name  = 'all_ty
 def apply_model(file_path_dict, model_path, annotations_path = None):
 
     all_annotations, documents = load_data(annotations_path, file_path_dict)
-
     nlp = spacy.load(model_path)
 
     # this is not necessary : just to see the results

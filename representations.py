@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import datetime
+
 
 
 # These functions are used to output graphs representing the data
@@ -69,7 +71,7 @@ def plot_annotations(annotations):
     count_dict = {}
     counts = annotations.groupby(['type', 'corpus']).count()['doc']
     print(counts)
-    counts.to_excel('annotations_distribution.xlsx')
+    counts.to_excel('representation_and_evaluation/annotations_distribution.xlsx')
 
 def plot_training(score_df):
 
@@ -114,6 +116,5 @@ def plot_5_models_average():
 
 
 
-plot_training(pd.read_excel('all_types_model_2fold.xlsx'))
-plot_training(pd.read_excel('all_types_model_on_all_data.xlsx'))
+
 
