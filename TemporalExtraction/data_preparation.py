@@ -7,6 +7,7 @@ import pickle
 import ntpath
 
 
+
 ## Annotation format : a dataframe with the following columns : doc, start, end, text, type, value, corpus
 
 
@@ -52,8 +53,10 @@ def annotate(annotations, documents):
     ann = []
     for docname in annotations['docname'].unique():
 
+        print(docname)
         # extract the annotations
         doc_annotations = annotations[annotations['docname'] == docname][['start', 'end', 'type']].to_numpy()
+        print(doc_annotations)
 
         ann += [doc_annotations]
 
@@ -74,16 +77,19 @@ def create_data(annotations, file_path_dict):
         except Exception as e:
             corpus = ['unknown' for i in range(len(annotations))]
 
-
-
         # extract the text
         f = open(file_path_dict[docname])
         text = f.read()
 
         # affect to test or train set
-        test = False
-        if random.random() >= 0.9:
-            test = True
+
+        try:
+           test = annotations[annotations['docname'] == docname]['test'].unique()[0]
+        except Exception as e:
+            print(e)
+            test = False
+            if random.random() >= 0.8:
+                test = True
 
         docs += [(docname,  text, corpus, test)]
 

@@ -224,7 +224,7 @@ def count_agreements_simple(annotations1, annotations2, matching, attrs_to_check
             else :
                 type_dict[t]['fn'] += 1
 
-            if random.random()> 0.8:
+            if random.random()> 0.95:
                 print('False negative')
                 print(tag1)
                 print()
@@ -240,7 +240,7 @@ def count_agreements_simple(annotations1, annotations2, matching, attrs_to_check
             else:
                 type_dict[t]['fp'] += 1
 
-            if random.random()> 1 :
+            if random.random()> 0.95 :
                 print('False positive')
                 print(tag2)
                 print()

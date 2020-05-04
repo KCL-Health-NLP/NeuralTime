@@ -1,7 +1,6 @@
 
 import spacy
 import random
-nlp = spacy.load('en_core_web_sm')
 from temporal_extractor import SpacyTemporalExtractor
 from compute_metrics import batch_agreement
 import pandas as pd
@@ -10,8 +9,10 @@ import spacy
 from spacy.util import minibatch, compounding
 import re
 from sklearn.model_selection import KFold, StratifiedKFold
+from apply_model import test_model
+import os
 
-
+nlp = spacy.load('en_core_web_sm')
 
 def trim_entity_spans(data: list) -> list:
     """Removes leading and trailing white spaces from entity spans.
@@ -61,7 +62,10 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
     :return:the models, the dictionary of scores
     """
 
+    print(output_dir)
+    os.mkdir(output_dir)  # creating the output directory
     print(" ============= TRAINING MODEL ===========================")
+
 
     # tuple conversion (the tuple type is lost when dataframe -> excel -> dataframe)
 
@@ -158,7 +162,8 @@ def train_model_cross_validation(model, train_docs, test_docs, nb_iter, output_d
 
 
 def train_model(model, train_docs, test_docs, nb_iter, output_dir, spacy_type = True, other_annotations = False):
-
+    print(output_dir)
+    os.mkdir(output_dir)  # creating the output directory
     print(" ============= TRAINING MODEL ===========================")
 
     # tuple conversion (the tuple type is lost when dataframe -> excel -> dataframe)

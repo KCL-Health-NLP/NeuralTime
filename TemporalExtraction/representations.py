@@ -18,14 +18,14 @@ def plot_train_test_annotations(documents):
     return count_dict
 
 
-def plot_distribution(documents):
+def plot_distribution(documents, excel_path):
 
     train_docs = documents[documents.test == False]
     test_docs = documents[documents.test == True]
 
     c = documents.groupby(['test', 'corpus']).count()
     print(c)
-    c.to_excel('train_and_test_corpus_distribution.xlsx')
+    c.to_excel(excel_path)
 
     def get_ditribution(docs):
         counts = docs.groupby(['corpus']).count()['test']
@@ -67,11 +67,15 @@ def plot_distribution(documents):
 
 
 
-def plot_annotations(annotations):
+def plot_annotations(annotations, excel_path):
     count_dict = {}
-    counts = annotations.groupby(['type', 'corpus']).count()['doc']
+    try:
+        corpus = annotations['corpus']
+    except:
+        annotations['corpus'] = ['unknown' for i in range(len(annotations))]
+    counts = annotations.groupby(['type', 'corpus']).count()['docname']
     print(counts)
-    counts.to_excel('representation_and_evaluation/annotations_distribution.xlsx')
+    counts.to_excel(excel_path)
 
 def plot_training(score_df):
 
