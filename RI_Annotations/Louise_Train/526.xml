@@ -1,0 +1,515 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+09/26/2001
+Discharge Date :
+10/06/2001
+HISTORY OF PRESENT ILLNESS :
+The patient is a 60-year-old male with a past medical history notable for coronary artery disease and CABG x2 in 2001 .
+The patient has felt unwell since 7/21 after his non-Q wave MI .
+The patient , at this time , was started on Statin and developed in arthritis approximately one month later with joint pain , myalgia and fatigue .
+No clear diagnosis was made .
+The patient was presumed to have a rheumatoid factor negative , rheumatoid arthritis and he was prescribed Naprosyn , prednisone and sulfasalazine .
+He had a CABG review in 2/21 .
+His first CABG was in 02/89 .
+Since 2/21 , he has had increasing weight loss of 30-49 pounds , night sweats which he attributed to the prednisone and increased fatigue and myalgias .
+The patient has gradually taken to bed with decreasing activity .
+In late 7/22 , sulfasalazine was started at one tab three times a day .
+The patient subsequently developed diffuse abdominal pain , nausea , vomiting , and decreased p.o. intake .
+A guaiac positive stool was also noted in the month of July .
+10 days prior to admission , the patient &apos;s primary care physician increased his sulfasalazine dose to two tabs three times a day .
+The patient &apos;s prednisone was increased to 60 mg q.d. as the patient was diagnosed with an arthritis flare .
+The prednisone dose was gradually tapered to 20 mg q.d.
+The day before admission , the patient developed a fever to 102 degrees and increasing abdominal pain .
+He presented to an outside hops where he was noted to be leukopenic with a white blood cell count of 0.6 , 0 neutrophils , a hematocrit of 32 , platelets of 326 , a MCV of 79 , and RDW of 22 .
+The patient was given IV fluids and treated with imipenem , transferred to Ca Valley Hospital ED , where it was noted that the patient had face and neck swelling , as well as erythema and cervical lymphadenopathy .
+The patient states that his swelling of his face began two days prior to admission and has doubled since then .
+In the emergency department , CT of head , neck and abdomen were performed .
+The CT of the abdomen was without lymphadenopathy , revealed a right renal cyst , otherwise unremarkable .
+The CT of head and neck was likewise unremarkable showing no evidence of fasciitis or deep tissue thread .
+No abscesses were noted .
+REVIEW OF SYSTEMS :
+The patient denies shortness of breath , chest pain , orthopnea , no dysuria , hematuria , no visual changes , no rashes , no blurry vision .
+HOSPITAL COURSE :
+The patient was started on ceftazidime , nafcillin and Flagyl for concern of a soft tissue infection .
+Neutropenic precautions were taken .
+The patient had a bone marrow biopsy which showed myeloid arrest and probable neutropenia from a drug-related cause presumed to be the sulfasalazine .
+Over the course of the hospitalization , the patient &apos;s white blood cell count rose from 0.4 to 6.3 after he was given G-CSF , a course lasting from 9/28/01 until 9/30/01 .
+After the G-CSF , the absolute neutrophil count was greater than 8000 .
+On 10/3/01 , the patient had a repeat head and neck CT , which showed a right parotitis and left submandibular lymphadenopathy with some necrosis .
+No frank abscesses .
+The patient &apos;s antibiotics were changed to clindamycin 300 mg q.i.d. and patient was also put on sialagogue .
+Over the course of the hospitalization , the swelling and tenderness and erythema have steadily decreased .
+Recommendations on antibiotics were made by infectious disease team , who was consulted .
+Rheumatology was also consulted for patient and after workup , it was believed that arthritis may be a rheumatoid factor negative , rheumatoid polyarthritis .
+Rheumatology recommended a taper of his prednisone to 20 mg q.d. and the patient will be followed by the rheumatology service .
+The oncology service was also consulted for patient and performed a bone marrow biopsy .
+Throughout his course during this hospitalization , the patient was also followed by the ENT service .
+The ENT physicians did not recommend any procedures , incision and drainage for his right parotitis or left submandibular cervical lymph node necrosis .
+The ENT team recommended watching patient in-house for two days after his repeat imaging on 10/3/01 , and to continue antibiotic coverage with clindamycin .
+The patient had no positive blood cultures during his hospitalization and remained afebrile after the second day of admission .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1016" id="E68" modality="FACTUAL" polarity="POS" start="1010" text="nausea" type="PROBLEM"/>
+<EVENT end="1027" id="E69" modality="FACTUAL" polarity="POS" start="1019" text="vomiting" type="PROBLEM"/>
+<EVENT end="1055" id="E70" modality="FACTUAL" polarity="POS" start="1034" text="decreased p.o. intake" type="PROBLEM"/>
+<EVENT end="1081" id="E26" modality="FACTUAL" polarity="POS" start="1058" text="A guaiac positive stool" type="PROBLEM"/>
+<EVENT end="1146" id="E27" modality="FACTUAL" polarity="POS" start="1137" text="admission" type="OCCURRENCE"/>
+<EVENT end="1201" id="E29" modality="FACTUAL" polarity="POS" start="1192" text="increased" type="OCCURRENCE"/>
+<EVENT end="1224" id="E28" modality="FACTUAL" polarity="POS" start="1202" text="his sulfasalazine dose" type="TREATMENT"/>
+<EVENT end="1287" id="E30" modality="FACTUAL" polarity="POS" start="1257" text="The patient 's prednisone" type="TREATMENT"/>
+<EVENT end="1301" id="E31" modality="FACTUAL" polarity="POS" start="1292" text="increased" type="OCCURRENCE"/>
+<EVENT end="1368" id="E32" modality="FACTUAL" polarity="POS" start="1350" text="an arthritis flare" type="PROBLEM"/>
+<EVENT end="1390" id="E33" modality="FACTUAL" polarity="POS" start="1371" text="The prednisone dose" type="TREATMENT"/>
+<EVENT end="1412" id="E34" modality="FACTUAL" polarity="POS" start="1395" text="gradually tapered" type="OCCURRENCE"/>
+<EVENT end="1451" id="E35" modality="FACTUAL" polarity="POS" start="1442" text="admission" type="OCCURRENCE"/>
+<EVENT end="1483" id="E36" modality="FACTUAL" polarity="POS" start="1476" text="a fever" type="PROBLEM"/>
+<EVENT end="1528" id="E37" modality="FACTUAL" polarity="POS" start="1503" text="increasing abdominal pain" type="PROBLEM"/>
+<EVENT end="1543" id="E38" modality="FACTUAL" polarity="POS" start="1534" text="presented" type="EVIDENTIAL"/>
+<EVENT end="1562" id="E39" modality="FACTUAL" polarity="POS" start="1547" text="an outside hops" type="CLINICAL_DEPT"/>
+<EVENT end="1598" id="E40" modality="FACTUAL" polarity="POS" start="1588" text="leukopenic" type="PROBLEM"/>
+<EVENT end="183" id="E2" modality="FACTUAL" polarity="POS" start="160" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1628" id="E41" modality="FACTUAL" polarity="POS" start="1604" text="a white blood cell count" type="TEST"/>
+<EVENT end="1651" id="E42" modality="FACTUAL" polarity="POS" start="1640" text="neutrophils" type="TEST"/>
+<EVENT end="1666" id="E43" modality="FACTUAL" polarity="POS" start="1654" text="a hematocrit" type="TEST"/>
+<EVENT end="1684" id="E44" modality="FACTUAL" polarity="POS" start="1675" text="platelets" type="TEST"/>
+<EVENT end="1699" id="E45" modality="FACTUAL" polarity="POS" start="1694" text="a MCV" type="TEST"/>
+<EVENT end="1715" id="E46" modality="FACTUAL" polarity="POS" start="1712" text="RDW" type="TEST"/>
+<EVENT end="1755" id="E47" modality="FACTUAL" polarity="POS" start="1746" text="IV fluids" type="TREATMENT"/>
+<EVENT end="1781" id="E48" modality="FACTUAL" polarity="POS" start="1773" text="imipenem" type="TREATMENT"/>
+<EVENT end="1795" id="E49" modality="FACTUAL" polarity="POS" start="1784" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1820" id="E50" modality="FACTUAL" polarity="POS" start="1799" text="Ca Valley Hospital ED" type="CLINICAL_DEPT"/>
+<EVENT end="1885" id="E51" modality="FACTUAL" polarity="POS" start="1863" text="face and neck swelling" type="PROBLEM"/>
+<EVENT end="192" id="E3" modality="FACTUAL" polarity="POS" start="188" text="CABG" type="TREATMENT"/>
+<EVENT end="1907" id="E52" modality="FACTUAL" polarity="POS" start="1899" text="erythema" type="PROBLEM"/>
+<EVENT end="1936" id="E53" modality="FACTUAL" polarity="POS" start="1912" text="cervical lymphadenopathy" type="PROBLEM"/>
+<EVENT end="1957" id="E54" modality="FACTUAL" polarity="POS" start="1951" text="states" type="EVIDENTIAL"/>
+<EVENT end="1987" id="E55" modality="FACTUAL" polarity="POS" start="1963" text="his swelling of his face" type="PROBLEM"/>
+<EVENT end="2021" id="E135" modality="FACTUAL" polarity="POS" start="2012" text="admission" type="OCCURRENCE"/>
+<EVENT end="2078" id="E56" modality="FACTUAL" polarity="POS" start="2054" text="the emergency department" type="CLINICAL_DEPT"/>
+<EVENT end="2110" id="E57" modality="FACTUAL" polarity="POS" start="2081" text="CT of head , neck and abdomen" type="TEST"/>
+<EVENT end="2149" id="E58" modality="FACTUAL" polarity="POS" start="2128" text="The CT of the abdomen" type="TEST"/>
+<EVENT end="2177" id="E59" modality="FACTUAL" polarity="NEG" start="2162" text="lymphadenopathy" type="PROBLEM"/>
+<EVENT end="2188" id="E60" modality="FACTUAL" polarity="POS" start="2180" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2207" id="E61" modality="FACTUAL" polarity="POS" start="2189" text="a right renal cyst" type="PROBLEM"/>
+<EVENT end="2258" id="E62" modality="FACTUAL" polarity="POS" start="2235" text="The CT of head and neck" type="TEST"/>
+<EVENT end="233" id="E4" modality="FACTUAL" polarity="POS" start="227" text="unwell" type="PROBLEM"/>
+<EVENT end="2292" id="E63" modality="FACTUAL" polarity="POS" start="2285" text="showing" type="EVIDENTIAL"/>
+<EVENT end="2317" id="E64" modality="FACTUAL" polarity="NEG" start="2308" text="fasciitis" type="PROBLEM"/>
+<EVENT end="2339" id="E65" modality="FACTUAL" polarity="NEG" start="2321" text="deep tissue thread" type="PROBLEM"/>
+<EVENT end="2354" id="E66" modality="FACTUAL" polarity="NEG" start="2345" text="abscesses" type="PROBLEM"/>
+<EVENT end="2406" id="E71" modality="FACTUAL" polarity="POS" start="2400" text="denies" type="EVIDENTIAL"/>
+<EVENT end="2426" id="E72" modality="FACTUAL" polarity="NEG" start="2407" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="2439" id="E73" modality="FACTUAL" polarity="NEG" start="2429" text="chest pain" type="PROBLEM"/>
+<EVENT end="2451" id="E74" modality="FACTUAL" polarity="NEG" start="2442" text="orthopnea" type="PROBLEM"/>
+<EVENT end="2464" id="E75" modality="FACTUAL" polarity="NEG" start="2457" text="dysuria" type="PROBLEM"/>
+<EVENT end="2476" id="E76" modality="FACTUAL" polarity="NEG" start="2467" text="hematuria" type="PROBLEM"/>
+<EVENT end="2496" id="E77" modality="FACTUAL" polarity="NEG" start="2482" text="visual changes" type="PROBLEM"/>
+<EVENT end="268" id="E5" modality="FACTUAL" polarity="POS" start="251" text="his non-Q wave MI" type="PROBLEM"/>
+<EVENT end="2508" id="E78" modality="FACTUAL" polarity="NEG" start="2502" text="rashes" type="PROBLEM"/>
+<EVENT end="2527" id="E79" modality="FACTUAL" polarity="NEG" start="2514" text="blurry vision" type="PROBLEM"/>
+<EVENT end="2586" id="E80" modality="FACTUAL" polarity="POS" start="2575" text="ceftazidime" type="TREATMENT"/>
+<EVENT end="2598" id="E81" modality="FACTUAL" polarity="POS" start="2589" text="nafcillin" type="TREATMENT"/>
+<EVENT end="2609" id="E82" modality="FACTUAL" polarity="POS" start="2603" text="Flagyl" type="TREATMENT"/>
+<EVENT end="2648" id="E83" modality="POSSIBLE" polarity="POS" start="2625" text="a soft tissue infection" type="PROBLEM"/>
+<EVENT end="2674" id="E84" modality="FACTUAL" polarity="POS" start="2651" text="Neutropenic precautions" type="TREATMENT"/>
+<EVENT end="2724" id="E85" modality="FACTUAL" polarity="POS" start="2704" text="a bone marrow biopsy" type="TEST"/>
+<EVENT end="2737" id="E86" modality="FACTUAL" polarity="POS" start="2731" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2752" id="E87" modality="FACTUAL" polarity="POS" start="2738" text="myeloid arrest" type="PROBLEM"/>
+<EVENT end="2777" id="E88" modality="FACTUAL" polarity="POS" start="2766" text="neutropenia" type="PROBLEM"/>
+<EVENT end="2803" id="E89" modality="POSSIBLE" polarity="POS" start="2783" text="a drug-related cause" type="OCCURRENCE"/>
+<EVENT end="2836" id="E90" modality="FACTUAL" polarity="POS" start="2819" text="the sulfasalazine" type="TREATMENT"/>
+<EVENT end="2877" id="E91" modality="FACTUAL" polarity="POS" start="2858" text="the hospitalization" type="OCCURRENCE"/>
+<EVENT end="2922" id="E92" modality="FACTUAL" polarity="POS" start="2880" text="the patient 's white blood cell count" type="TEST"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2927" id="E93" modality="FACTUAL" polarity="POS" start="2923" text="rose" type="OCCURRENCE"/>
+<EVENT end="2968" id="E94" modality="FACTUAL" polarity="POS" start="2963" text="G-CSF" type="TREATMENT"/>
+<EVENT end="3032" id="E95" modality="FACTUAL" polarity="POS" start="3023" text="the G-CSF" type="TREATMENT"/>
+<EVENT end="3064" id="E96" modality="FACTUAL" polarity="POS" start="3035" text="the absolute neutrophil count" type="TEST"/>
+<EVENT end="3143" id="E97" modality="FACTUAL" polarity="POS" start="3118" text="a repeat head and neck CT" type="TEST"/>
+<EVENT end="321" id="E6" modality="FACTUAL" polarity="POS" start="315" text="Statin" type="TREATMENT"/>
+<EVENT end="3158" id="E98" modality="FACTUAL" polarity="POS" start="3152" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3176" id="E99" modality="FACTUAL" polarity="POS" start="3159" text="a right parotitis" type="PROBLEM"/>
+<EVENT end="3215" id="E100" modality="FACTUAL" polarity="POS" start="3181" text="left submandibular lymphadenopathy" type="PROBLEM"/>
+<EVENT end="3234" id="E101" modality="FACTUAL" polarity="POS" start="3221" text="some necrosis" type="PROBLEM"/>
+<EVENT end="3255" id="E102" modality="FACTUAL" polarity="NEG" start="3240" text="frank abscesses" type="PROBLEM"/>
+<EVENT end="3289" id="E103" modality="FACTUAL" polarity="POS" start="3258" text="The patient 's antibiotics" type="TREATMENT"/>
+<EVENT end="3317" id="E104" modality="FACTUAL" polarity="POS" start="3306" text="clindamycin" type="TREATMENT"/>
+<EVENT end="3370" id="E105" modality="FACTUAL" polarity="POS" start="3360" text="sialagogue" type="TREATMENT"/>
+<EVENT end="348" id="E7" modality="FACTUAL" polarity="POS" start="339" text="arthritis" type="PROBLEM"/>
+<EVENT end="3411" id="E106" modality="FACTUAL" polarity="POS" start="3392" text="the hospitalization" type="OCCURRENCE"/>
+<EVENT end="3426" id="E107" modality="FACTUAL" polarity="POS" start="3414" text="the swelling" type="PROBLEM"/>
+<EVENT end="3441" id="E108" modality="FACTUAL" polarity="POS" start="3431" text="tenderness" type="PROBLEM"/>
+<EVENT end="3454" id="E109" modality="FACTUAL" polarity="POS" start="3446" text="erythema" type="PROBLEM"/>
+<EVENT end="3478" id="E110" modality="FACTUAL" polarity="POS" start="3460" text="steadily decreased" type="OCCURRENCE"/>
+<EVENT end="3511" id="E111" modality="FACTUAL" polarity="POS" start="3500" text="antibiotics" type="TREATMENT"/>
+<EVENT end="3568" id="E112" modality="FACTUAL" polarity="POS" start="3559" text="consulted" type="OCCURRENCE"/>
+<EVENT end="3602" id="E113" modality="FACTUAL" polarity="POS" start="3593" text="consulted" type="OCCURRENCE"/>
+<EVENT end="3631" id="E114" modality="FACTUAL" polarity="POS" start="3625" text="workup" type="TEST"/>
+<EVENT end="3664" id="E115" modality="FACTUAL" polarity="POS" start="3655" text="arthritis" type="PROBLEM"/>
+<EVENT end="3727" id="E116" modality="FACTUAL" polarity="NEG" start="3672" text="a rheumatoid factor negative , rheumatoid polyarthritis" type="PROBLEM"/>
+<EVENT end="3780" id="E117" modality="FACTUAL" polarity="POS" start="3755" text="a taper of his prednisone" type="TREATMENT"/>
+<EVENT end="3827" id="E118" modality="PROPOSED" polarity="POS" start="3819" text="followed" type="OCCURRENCE"/>
+<EVENT end="394" id="E8" modality="FACTUAL" polarity="POS" start="384" text="joint pain" type="PROBLEM"/>
+<EVENT end="3897" id="E119" modality="FACTUAL" polarity="POS" start="3888" text="consulted" type="OCCURRENCE"/>
+<EVENT end="3944" id="E120" modality="FACTUAL" polarity="POS" start="3924" text="a bone marrow biopsy" type="TEST"/>
+<EVENT end="404" id="E9" modality="FACTUAL" polarity="POS" start="397" text="myalgia" type="PROBLEM"/>
+<EVENT end="3996" id="E121" modality="FACTUAL" polarity="POS" start="3976" text="this hospitalization" type="OCCURRENCE"/>
+<EVENT end="4047" id="E122" modality="FACTUAL" polarity="POS" start="4020" text="followed by the ENT service" type="OCCURRENCE"/>
+<EVENT end="416" id="E10" modality="FACTUAL" polarity="POS" start="409" text="fatigue" type="PROBLEM"/>
+<EVENT end="4101" id="E123" modality="FACTUAL" polarity="NEG" start="4087" text="any procedures" type="TREATMENT"/>
+<EVENT end="4112" id="E124" modality="FACTUAL" polarity="NEG" start="4104" text="incision" type="TREATMENT"/>
+<EVENT end="4125" id="E125" modality="FACTUAL" polarity="NEG" start="4117" text="drainage" type="TREATMENT"/>
+<EVENT end="4149" id="E126" modality="FACTUAL" polarity="POS" start="4130" text="his right parotitis" type="PROBLEM"/>
+<EVENT end="4200" id="E127" modality="FACTUAL" polarity="NEG" start="4153" text="left submandibular cervical lymph node necrosis" type="PROBLEM"/>
+<EVENT end="437" id="E11" modality="FACTUAL" polarity="NEG" start="422" text="clear diagnosis" type="OCCURRENCE"/>
+<EVENT end="4253" id="E128" modality="FACTUAL" polarity="POS" start="4228" text="watching patient in-house" type="TEST"/>
+<EVENT end="4291" id="E129" modality="FACTUAL" polarity="POS" start="4273" text="his repeat imaging" type="TEST"/>
+<EVENT end="4340" id="E130" modality="FACTUAL" polarity="POS" start="4321" text="antibiotic coverage" type="TREATMENT"/>
+<EVENT end="4357" id="E131" modality="FACTUAL" polarity="POS" start="4346" text="clindamycin" type="TREATMENT"/>
+<EVENT end="4402" id="E132" modality="FACTUAL" polarity="NEG" start="4379" text="positive blood cultures" type="PROBLEM"/>
+<EVENT end="4429" id="E133" modality="FACTUAL" polarity="POS" start="4410" text="his hospitalization" type="OCCURRENCE"/>
+<EVENT end="4451" id="E134" modality="FACTUAL" polarity="POS" start="4443" text="afebrile" type="PROBLEM"/>
+<EVENT end="4485" id="E138" modality="FACTUAL" polarity="POS" start="4476" text="admission" type="OCCURRENCE"/>
+<EVENT end="533" id="E12" modality="POSSIBLE" polarity="POS" start="482" text="a rheumatoid factor negative , rheumatoid arthritis" type="PROBLEM"/>
+<EVENT end="564" id="E13" modality="FACTUAL" polarity="POS" start="556" text="Naprosyn" type="TREATMENT"/>
+<EVENT end="577" id="E14" modality="FACTUAL" polarity="POS" start="567" text="prednisone" type="TREATMENT"/>
+<EVENT end="595" id="E15" modality="FACTUAL" polarity="POS" start="582" text="sulfasalazine" type="TREATMENT"/>
+<EVENT end="618" id="E16" modality="FACTUAL" polarity="POS" start="605" text="a CABG review" type="TEST"/>
+<EVENT end="643" id="E17" modality="FACTUAL" polarity="POS" start="629" text="His first CABG" type="TREATMENT"/>
+<EVENT end="705" id="E18" modality="FACTUAL" polarity="POS" start="683" text="increasing weight loss" type="PROBLEM"/>
+<EVENT end="736" id="E19" modality="FACTUAL" polarity="POS" start="724" text="night sweats" type="PROBLEM"/>
+<EVENT end="774" id="E20" modality="FACTUAL" polarity="POS" start="760" text="the prednisone" type="TREATMENT"/>
+<EVENT end="796" id="E21" modality="FACTUAL" polarity="POS" start="779" text="increased fatigue" type="PROBLEM"/>
+<EVENT end="809" id="E22" modality="FACTUAL" polarity="POS" start="801" text="myalgias" type="PROBLEM"/>
+<EVENT end="850" id="E23" modality="FACTUAL" polarity="POS" start="838" text="taken to bed" type="PROBLEM"/>
+<EVENT end="875" id="E24" modality="FACTUAL" polarity="POS" start="856" text="decreasing activity" type="PROBLEM"/>
+<EVENT end="906" id="E25" modality="FACTUAL" polarity="POS" start="893" text="sulfasalazine" type="TREATMENT"/>
+<EVENT end="1007" id="E67" modality="FACTUAL" polarity="POS" start="985" text="diffuse abdominal pain" type="PROBLEM"/>
+<RTIMEX3 end="1117" id="T11" mod="NA" start="1113" text="July" type="DATE" val="2001-07"/>
+
+
+
+
+<RTIMEX3 end="1434" id="T16" mod="NA" start="1427" text="The day" type="DATE" val="2001-09-25"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="09/26/2001" type="DATE" val="2001-09-26"/>
+
+<ATIMEX3 end="203" id="T3" mod="NA" start="199" text="2001" type="DATE" val="2001"/>
+<RTIMEX3 end="2002" id="T17" mod="NA" start="1994" text="two days" type="DATE" val="2001-09-24"/>
+<ATIMEX3 end="244" id="T4" mod="NA" start="240" text="7/21" type="DATE" val="2001-07-21"/>
+<ATIMEX3 end="3000" id="T18" mod="NA" start="2993" text="9/28/01" type="DATE" val="2001-09-28"/>
+<ATIMEX3 end="3014" id="T19" mod="NA" start="3007" text="9/30/01" type="DATE" val="2001-09-30"/>
+<ATIMEX3 end="3099" id="T20" mod="NA" start="3092" text="10/3/01" type="DATE" val="2001-10-03"/>
+
+
+
+
+<ATIMEX3 end="4302" id="T24" mod="NA" start="4295" text="10/3/01" type="DATE" val="2001-10-03"/>
+<RTIMEX3 end="4472" id="T25" mod="NA" start="4458" text="the second day" type="DATE" val=""/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="10/06/2001" type="DATE" val="2001-10-06"/>
+<ATIMEX3 end="626" id="T6" mod="NA" start="622" text="2/21" type="DATE" val="2001-02-21"/>
+<ATIMEX3 end="656" id="T7" mod="NA" start="651" text="02/89" type="DATE" val="1989-02"/>
+<ATIMEX3 end="669" id="T8" mod="NA" start="665" text="2/21" type="DATE" val="2001-02-21"/>
+<ATIMEX3 end="890" id="T9" mod="END" start="886" text="7/22" type="DATE" val="2001-07-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2001-09-26" end="28" id="S0" start="18" text="09/26/2001" type="ADMISSION"/>
+<SECTIME dvalue="2001-10-06" end="56" id="S1" start="46" text="10/06/2001" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

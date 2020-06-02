@@ -1,0 +1,180 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+05/09/2004
+DISCHARGE DATE :
+05/16/2004
+HISTORY OF PRESENT ILLNESS :
+The patient is an 84-year-old woman with a history of diverticulitis who was found to have colon cancer on colonoscopy , which was performed in March of 2004 .
+An invasive moderately differentiated adenocarcinoma was noted in the transverse colon at 80 cm .
+The patient reports a history of bloating and flatulence as well as increased fatigue .
+She has also had some discomfort in her left lower abdomen and notes diarrhea every 4-5 days .
+She says that her appetite is good and has noted no weight loss .
+HOSPITAL COURSE :
+The patient was consented for surgery and on the day of admission was taken to the operating room for transverse colectomy for tumor .
+The patient tolerated the procedure well and there are no complications .
+Her postoperative course was unremarkable .
+She was maintained on an epidural and PCA for pain control .
+She was kept NPO initially and her diet was slowly advanced as tolerated .
+When she was taking clear liquids , her pain medication was switched to p.o. pain regimen with good affect .
+For blood pressure control she was maintained on metoprolol at the request of her primary care physician and enalapril was discontinued .
+With the help of physical therapy the patient was ambulated and on postoperative seven , with the patient tolerating a post surgical soft diet and with pain well controlled on oral pain medications , she was discharged to rehabilitation facility .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1033" id="E32" modality="FACTUAL" polarity="POS" start="1020" text="clear liquids" type="TREATMENT"/>
+<EVENT end="1055" id="E33" modality="FACTUAL" polarity="POS" start="1036" text="her pain medication" type="TREATMENT"/>
+<EVENT end="1089" id="E34" modality="FACTUAL" polarity="POS" start="1072" text="p.o. pain regimen" type="TREATMENT"/>
+<EVENT end="1135" id="E35" modality="FACTUAL" polarity="POS" start="1113" text="blood pressure control" type="TREATMENT"/>
+<EVENT end="1168" id="E36" modality="FACTUAL" polarity="POS" start="1158" text="metoprolol" type="TREATMENT"/>
+<EVENT end="1227" id="E37" modality="FACTUAL" polarity="POS" start="1218" text="enalapril" type="TREATMENT"/>
+<EVENT end="1280" id="E38" modality="FACTUAL" polarity="POS" start="1264" text="physical therapy" type="CLINICAL_DEPT"/>
+<EVENT end="1306" id="E39" modality="FACTUAL" polarity="POS" start="1297" text="ambulated" type="OCCURRENCE"/>
+<EVENT end="1389" id="E40" modality="FACTUAL" polarity="POS" start="1364" text="a post surgical soft diet" type="TREATMENT"/>
+<EVENT end="154" id="E2" modality="FACTUAL" polarity="POS" start="140" text="diverticulitis" type="PROBLEM"/>
+<EVENT end="1403" id="E41" modality="FACTUAL" polarity="POS" start="1399" text="pain" type="PROBLEM"/>
+<EVENT end="1419" id="E42" modality="FACTUAL" polarity="POS" start="1404" text="well controlled" type="OCCURRENCE"/>
+<EVENT end="1444" id="E43" modality="FACTUAL" polarity="POS" start="1423" text="oral pain medications" type="TREATMENT"/>
+<EVENT end="1465" id="E44" modality="FACTUAL" polarity="POS" start="1455" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1492" id="E45" modality="FACTUAL" polarity="POS" start="1469" text="rehabilitation facility" type="CLINICAL_DEPT"/>
+<EVENT end="189" id="E3" modality="FACTUAL" polarity="POS" start="177" text="colon cancer" type="PROBLEM"/>
+<EVENT end="204" id="E4" modality="FACTUAL" polarity="POS" start="193" text="colonoscopy" type="TEST"/>
+<EVENT end="298" id="E5" modality="FACTUAL" polarity="POS" start="246" text="An invasive moderately differentiated adenocarcinoma" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="308" id="E6" modality="FACTUAL" polarity="POS" start="303" text="noted" type="EVIDENTIAL"/>
+<EVENT end="363" id="E7" modality="FACTUAL" polarity="POS" start="356" text="reports" type="EVIDENTIAL"/>
+<EVENT end="385" id="E8" modality="FACTUAL" polarity="POS" start="377" text="bloating" type="PROBLEM"/>
+<EVENT end="400" id="E9" modality="FACTUAL" polarity="POS" start="390" text="flatulence" type="PROBLEM"/>
+<EVENT end="429" id="E10" modality="FACTUAL" polarity="POS" start="412" text="increased fatigue" type="PROBLEM"/>
+<EVENT end="490" id="E11" modality="FACTUAL" polarity="POS" start="449" text="some discomfort in her left lower abdomen" type="PROBLEM"/>
+<EVENT end="500" id="E12" modality="FACTUAL" polarity="POS" start="495" text="notes" type="EVIDENTIAL"/>
+<EVENT end="509" id="E13" modality="FACTUAL" polarity="POS" start="501" text="diarrhea" type="PROBLEM"/>
+<EVENT end="575" id="E14" modality="FACTUAL" polarity="POS" start="570" text="noted" type="EVIDENTIAL"/>
+<EVENT end="590" id="E15" modality="FACTUAL" polarity="NEG" start="579" text="weight loss" type="PROBLEM"/>
+<EVENT end="648" id="E16" modality="FACTUAL" polarity="POS" start="641" text="surgery" type="TREATMENT"/>
+<EVENT end="676" id="E17" modality="FACTUAL" polarity="POS" start="667" text="admission" type="OCCURRENCE"/>
+<EVENT end="686" id="E18" modality="FACTUAL" polarity="POS" start="681" text="taken" type="OCCURRENCE"/>
+<EVENT end="708" id="E19" modality="FACTUAL" polarity="POS" start="690" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="733" id="E20" modality="FACTUAL" polarity="POS" start="713" text="transverse colectomy" type="TREATMENT"/>
+<EVENT end="743" id="E21" modality="FACTUAL" polarity="POS" start="738" text="tumor" type="PROBLEM"/>
+<EVENT end="781" id="E22" modality="FACTUAL" polarity="POS" start="768" text="the procedure" type="TREATMENT"/>
+<EVENT end="786" id="E23" modality="FACTUAL" polarity="POS" start="782" text="well" type="OCCURRENCE"/>
+<EVENT end="817" id="E24" modality="FACTUAL" polarity="NEG" start="804" text="complications" type="PROBLEM"/>
+<EVENT end="844" id="E26" modality="FACTUAL" polarity="POS" start="820" text="Her postoperative course" type="OCCURRENCE"/>
+<EVENT end="861" id="E25" modality="FACTUAL" polarity="NEG" start="849" text="unremarkable" type="PROBLEM"/>
+<EVENT end="897" id="E27" modality="FACTUAL" polarity="POS" start="886" text="an epidural" type="TREATMENT"/>
+<EVENT end="905" id="E28" modality="FACTUAL" polarity="POS" start="902" text="PCA" type="TREATMENT"/>
+<EVENT end="922" id="E29" modality="FACTUAL" polarity="POS" start="910" text="pain control" type="PROBLEM"/>
+<EVENT end="941" id="E30" modality="FACTUAL" polarity="POS" start="938" text="NPO" type="TREATMENT"/>
+<EVENT end="964" id="E46" modality="FACTUAL" polarity="POS" start="956" text="her diet" type="TREATMENT"/>
+<EVENT end="997" id="E31" modality="FACTUAL" polarity="POS" start="976" text="advanced as tolerated" type="TREATMENT"/>
+<RTIMEX3 end="1333" id="T5" mod="NA" start="1314" text="postoperative seven" type="DATE" val="2004-05-16"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="05/09/2004" type="DATE" val="2004-05-09"/>
+<RTIMEX3 end="243" id="T2" mod="NA" start="230" text="March of 2004" type="DATE" val="2004-03"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="05/16/2004" type="DATE" val="2004-05-16"/>
+
+<RTIMEX3 end="663" id="T4" mod="NA" start="656" text="the day" type="DATE" val="2004-05-09"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2004-05-09" end="28" id="S0" start="18" text="05/09/2004" type="ADMISSION"/>
+<SECTIME dvalue="2004-05-16" end="56" id="S1" start="46" text="05/16/2004" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,294 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-02-12
+Discharge Date :
+2013-02-16
+Service :
+CARDIOTHORACIC
+HISTORY OF PRESENT ILLNESS :
+The patient was referred from an outside hospital with a chief complaint of increasing shortness of breath and tires easily with exertion .
+Admitted to Bay State Medical Center Hospital in 2012-10-22 in congestive heart failure at that time .
+Via echocardiogram , found to have aortic stenosis .
+Referred to Memorial Hospital ( Worcester ) for cardiac catheterization to further evaluate her aortic stenosis .
+Cardiac catheterization done on 01-07 showed an aortic valve area of .38 cm.sq. , with a mean gradient of 62 , and a peak gradient of 85 .
+Moderate pulmonary hypertension , PA pressure 48/24 , 1+ mitral regurgitation , severe aortic stenosis with an LVEDP of 19 and an ejection fraction of 43% .
+She was then referred to Cardiothoracic Surgery for aortic valve replacement .
+HOSPITAL COURSE :
+The patient was a direct admission to the operating room on 02-12 , at which time she underwent an
+aortic valve replacement .
+Please see the operative report for full details .
+In summary , she had an aortic valve replacement with a #21 mosaic porcine valve .
+She tolerated the operation well , and was transferred from the operating room to the Cardiothoracic Intensive Care Unit .
+The patient did well in the immediate postoperative period , however , her blood pressure remained somewhat labile .
+Therefore , she was continued on a Neo-Synephrine drip to maintain a systolic blood pressure greater than 110 .
+In addition , she was slow to awaken after her anesthesia was reversed , and in several attempts to wean from the ventilator , she developed a respiratory acidosis .
+She therefore remained on the ventilator throughout the day of postoperative day one .
+On postoperative day two , the patient remained hemodynamically stable .
+Her Neo-Synephrine drip was weaned to off .
+She was again weaned from the ventilator , and successfully extubated .
+Her chest tubes were discontinued and , at the end of the day , she was transferred from the Cardiothoracic Intensive Care Unit to the floor for continuing postoperative care and cardiac rehabilitation .
+After being transferred to the floor , the patient did well .
+Over the next several days , her activity level was increased with the assistance of Physical Therapy and the nursing staff .
+She remained hemodynamically stable .
+Her respiratory condition remained stable and , on postoperative day four , she was deemed stable and ready to be transferred to rehabilitation for continuing postoperative care and physical therapy .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1037" id="E11" modality="FACTUAL" polarity="POS" start="1013" text="aortic valve replacement" type="TREATMENT"/>
+<EVENT end="1139" id="E12" modality="FACTUAL" polarity="POS" start="1112" text="an aortic valve replacement" type="TREATMENT"/>
+<EVENT end="1171" id="E13" modality="FACTUAL" polarity="POS" start="1145" text="a #21 mosaic porcine valve" type="TREATMENT"/>
+<EVENT end="1187" id="E36" modality="FACTUAL" polarity="POS" start="1178" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1201" id="E14" modality="FACTUAL" polarity="POS" start="1188" text="the operation" type="TREATMENT"/>
+<EVENT end="1206" id="E80" modality="FACTUAL" polarity="POS" start="1202" text="well" type="OCCURRENCE"/>
+<EVENT end="1228" id="E37" modality="FACTUAL" polarity="POS" start="1217" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1252" id="E38" modality="FACTUAL" polarity="POS" start="1234" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1294" id="E64" modality="FACTUAL" polarity="POS" start="1256" text="the Cardiothoracic Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="135" id="E30" modality="FACTUAL" polarity="POS" start="127" text="referred" type="OCCURRENCE"/>
+<EVENT end="1386" id="E15" modality="FACTUAL" polarity="POS" start="1368" text="her blood pressure" type="TEST"/>
+<EVENT end="1411" id="E16" modality="FACTUAL" polarity="POS" start="1396" text="somewhat labile" type="PROBLEM"/>
+<EVENT end="160" id="E47" modality="FACTUAL" polarity="POS" start="141" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1468" id="E17" modality="FACTUAL" polarity="POS" start="1447" text="a Neo-Synephrine drip" type="TREATMENT"/>
+<EVENT end="1506" id="E18" modality="FACTUAL" polarity="POS" start="1481" text="a systolic blood pressure" type="TEST"/>
+<EVENT end="1562" id="E65" modality="FACTUAL" polarity="POS" start="1548" text="slow to awaken" type="PROBLEM"/>
+<EVENT end="1583" id="E19" modality="FACTUAL" polarity="POS" start="1569" text="her anesthesia" type="TREATMENT"/>
+<EVENT end="1596" id="E39" modality="FACTUAL" polarity="POS" start="1588" text="reversed" type="OCCURRENCE"/>
+<EVENT end="1630" id="E67" modality="FACTUAL" polarity="POS" start="1626" text="wean" type="OCCURRENCE"/>
+<EVENT end="1650" id="E20" modality="FACTUAL" polarity="POS" start="1636" text="the ventilator" type="TREATMENT"/>
+<EVENT end="1689" id="E21" modality="FACTUAL" polarity="POS" start="1667" text="a respiratory acidosis" type="PROBLEM"/>
+<EVENT end="1732" id="E22" modality="FACTUAL" polarity="POS" start="1718" text="the ventilator" type="TREATMENT"/>
+<EVENT end="183" id="E48" modality="FACTUAL" polarity="POS" start="174" text="complaint" type="EVIDENTIAL"/>
+<EVENT end="1849" id="E66" modality="FACTUAL" polarity="POS" start="1827" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1875" id="E23" modality="FACTUAL" polarity="POS" start="1852" text="Her Neo-Synephrine drip" type="TREATMENT"/>
+<EVENT end="217" id="E49" modality="FACTUAL" polarity="POS" start="187" text="increasing shortness of breath" type="PROBLEM"/>
+<EVENT end="1893" id="E68" modality="FACTUAL" polarity="POS" start="1880" text="weaned to off" type="TREATMENT"/>
+<EVENT end="1916" id="E69" modality="FACTUAL" polarity="POS" start="1910" text="weaned" type="TREATMENT"/>
+<EVENT end="1936" id="E24" modality="FACTUAL" polarity="POS" start="1922" text="the ventilator" type="TREATMENT"/>
+<EVENT end="1965" id="E70" modality="FACTUAL" polarity="POS" start="1943" text="successfully extubated" type="TREATMENT"/>
+<EVENT end="1983" id="E25" modality="FACTUAL" polarity="POS" start="1968" text="Her chest tubes" type="TREATMENT"/>
+<EVENT end="2001" id="E40" modality="FACTUAL" polarity="POS" start="1989" text="discontinued" type="OCCURRENCE"/>
+<EVENT end="2051" id="E41" modality="FACTUAL" polarity="POS" start="2040" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2095" id="E71" modality="FACTUAL" polarity="POS" start="2057" text="the Cardiothoracic Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2108" id="E42" modality="FACTUAL" polarity="POS" start="2099" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2142" id="E26" modality="FACTUAL" polarity="POS" start="2113" text="continuing postoperative care" type="TREATMENT"/>
+<EVENT end="2169" id="E27" modality="FACTUAL" polarity="POS" start="2147" text="cardiac rehabilitation" type="TREATMENT"/>
+<EVENT end="2195" id="E43" modality="FACTUAL" polarity="POS" start="2184" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2208" id="E44" modality="FACTUAL" polarity="POS" start="2199" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="234" id="E50" modality="FACTUAL" polarity="POS" start="222" text="tires easily" type="PROBLEM"/>
+<EVENT end="2231" id="E73" modality="FACTUAL" polarity="POS" start="2227" text="well" type="OCCURRENCE"/>
+<EVENT end="2295" id="E74" modality="FACTUAL" polarity="POS" start="2263" text="her activity level was increased" type="OCCURRENCE"/>
+<EVENT end="2335" id="E75" modality="FACTUAL" polarity="POS" start="2301" text="the assistance of Physical Therapy" type="OCCURRENCE"/>
+<EVENT end="2395" id="E76" modality="FACTUAL" polarity="POS" start="2373" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="248" id="E51" modality="FACTUAL" polarity="POS" start="240" text="exertion" type="OCCURRENCE"/>
+<EVENT end="2439" id="E77" modality="FACTUAL" polarity="POS" start="2433" text="stable" type="OCCURRENCE"/>
+<EVENT end="2495" id="E78" modality="FACTUAL" polarity="POS" start="2489" text="stable" type="OCCURRENCE"/>
+<EVENT end="259" id="E31" modality="FACTUAL" polarity="POS" start="251" text="Admitted" type="OCCURRENCE"/>
+<EVENT end="2523" id="E45" modality="FACTUAL" polarity="POS" start="2512" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2541" id="E79" modality="FACTUAL" polarity="POS" start="2527" text="rehabilitation" type="CLINICAL_DEPT"/>
+<EVENT end="2575" id="E28" modality="FACTUAL" polarity="POS" start="2546" text="continuing postoperative care" type="TREATMENT"/>
+<EVENT end="2596" id="E29" modality="FACTUAL" polarity="POS" start="2580" text="physical therapy" type="TREATMENT"/>
+<EVENT end="296" id="E52" modality="FACTUAL" polarity="POS" start="263" text="Bay State Medical Center Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="38" id="E46" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="338" id="E1" modality="FACTUAL" polarity="POS" start="314" text="congestive heart failure" type="PROBLEM"/>
+<EVENT end="372" id="E2" modality="FACTUAL" polarity="POS" start="358" text="echocardiogram" type="TEST"/>
+<EVENT end="380" id="E53" modality="FACTUAL" polarity="POS" start="375" text="found" type="EVIDENTIAL"/>
+<EVENT end="404" id="E54" modality="FACTUAL" polarity="POS" start="389" text="aortic stenosis" type="PROBLEM"/>
+<EVENT end="415" id="E32" modality="FACTUAL" polarity="POS" start="407" text="Referred" type="OCCURRENCE"/>
+<EVENT end="450" id="E55" modality="FACTUAL" polarity="POS" start="419" text="Memorial Hospital ( Worcester )" type="CLINICAL_DEPT"/>
+<EVENT end="478" id="E3" modality="FACTUAL" polarity="POS" start="455" text="cardiac catheterization" type="TEST"/>
+<EVENT end="498" id="E57" modality="FACTUAL" polarity="POS" start="490" text="evaluate" type="TEST"/>
+<EVENT end="518" id="E56" modality="FACTUAL" polarity="POS" start="499" text="her aortic stenosis" type="PROBLEM"/>
+<EVENT end="544" id="E4" modality="FACTUAL" polarity="POS" start="521" text="Cardiac catheterization" type="TEST"/>
+<EVENT end="565" id="E33" modality="FACTUAL" polarity="POS" start="559" text="showed" type="EVIDENTIAL"/>
+<EVENT end="586" id="E5" modality="FACTUAL" polarity="POS" start="566" text="an aortic valve area" type="TEST"/>
+<EVENT end="623" id="E6" modality="FACTUAL" polarity="POS" start="608" text="a mean gradient" type="TEST"/>
+<EVENT end="651" id="E7" modality="FACTUAL" polarity="POS" start="636" text="a peak gradient" type="TEST"/>
+<EVENT end="691" id="E58" modality="FACTUAL" polarity="POS" start="660" text="Moderate pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="705" id="E8" modality="FACTUAL" polarity="POS" start="694" text="PA pressure" type="TEST"/>
+<EVENT end="737" id="E59" modality="FACTUAL" polarity="POS" start="714" text="1+ mitral regurgitation" type="PROBLEM"/>
+<EVENT end="762" id="E60" modality="FACTUAL" polarity="POS" start="740" text="severe aortic stenosis" type="PROBLEM"/>
+<EVENT end="776" id="E9" modality="FACTUAL" polarity="POS" start="768" text="an LVEDP" type="TEST"/>
+<EVENT end="807" id="E10" modality="FACTUAL" polarity="POS" start="787" text="an ejection fraction" type="TEST"/>
+<EVENT end="838" id="E34" modality="FACTUAL" polarity="POS" start="830" text="referred" type="OCCURRENCE"/>
+<EVENT end="864" id="E61" modality="FACTUAL" polarity="POS" start="842" text="Cardiothoracic Surgery" type="CLINICAL_DEPT"/>
+<EVENT end="893" id="E62" modality="FACTUAL" polarity="POS" start="869" text="aortic valve replacement" type="TREATMENT"/>
+<EVENT end="948" id="E63" modality="FACTUAL" polarity="POS" start="930" text="a direct admission" type="OCCURRENCE"/>
+<EVENT end="970" id="E35" modality="FACTUAL" polarity="POS" start="952" text="the operating room" type="CLINICAL_DEPT"/>
+
+<RTIMEX3 end="1803" id="T6" mod="NA" start="1782" text="postoperative day two" type="DATE" val="2012-02-14"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-02-12" type="DATE" val="2013-02-12"/>
+<RTIMEX3 end="2029" id="T7" mod="END" start="2011" text="the end of the day" type="TIME" val="2012-02-14"/>
+
+<RTIMEX3 end="2471" id="T9" mod="NA" start="2449" text="postoperative day four" type="DATE" val="2012-02-16"/>
+<ATIMEX3 end="310" id="T2" mod="NA" start="300" text="2012-10-22" type="DATE" val="2012-10-22"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2013-02-16" type="DATE" val="2013-02-16"/>
+<ATIMEX3 end="558" id="T3" mod="NA" start="553" text="01-07" type="DATE" val="2013-01-07"/>
+<ATIMEX3 end="979" id="T4" mod="NA" start="974" text="02-12" type="DATE" val="2013-02-12"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-02-12" end="28" id="S0" start="18" text="2013-02-12" type="ADMISSION"/>
+<SECTIME dvalue="2013-02-16" end="56" id="S1" start="46" text="2013-02-16" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

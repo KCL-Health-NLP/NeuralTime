@@ -1,0 +1,185 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2011-09-24
+Discharge Date :
+2011-09-27
+Service :
+ADMISSION DIAGNOSIS :
+HISTORY OF PRESENT ILLNESS :
+The patient was a 79 - year-old gentleman found down at home unresponsive by his wife after lunch .
+He had an unwitnessed fall .
+He had no history of headaches or recent illness .
+He remained unresponsive when the ambulance arrived .
+Systolic blood pressure was reported 250 on arrival to the Mass. Eye & Ear Infirmary Emergency Department .
+He was intubated and given Versed and Fentanyl .
+His GCS was reported as 3 on arrival to the Emergency Department .
+HOSPITAL COURSE :
+He was admitted to the Neuro Surgical Intensive Care Unit for close monitoring and Neuro-checks .
+A Vent drain was placed to monitor and CP and relieved fluid .
+He received 12 U of platelets .
+His Intensive Care Unit stay was unremarkable .
+His neurologic exam did not change significantly .
+His ICPs were in the range of 11-22 , and he was weaned off the Nipride drip .
+He developed extensive posturing .
+A CTA showed diffuse subarachnoid hemorrhage and intraventricular blood but no evidence of an aneurysm .
+A repeat CT on 09-26 showed worsening of the diffuse subarachnoid hemorrhage and a new cerebellar hemorrhage .
+The family was informed of the patient 's condition and repeat scan .
+A family discussion resulted in the decision to make the patient comfort measures only .
+The patient was placed on a Morphine drip and extubated and passed away at 10:55 a.m. on 2011-09-27 .
+The family was notified of the patient 's passing .
+The medical examiner has also been notified of the passing of the patient .
+Shawn B Crawford , M.D.
+46-411
+Dictated By : Linda P.F. Clark , M.D.
+MEDQUIST36
+D : 2011-09-27 11:53
+T : 2011-09-27 12:41
+JOB # : 63722
+Signed electronically by : DR. Carlos Warner on : TUE 2011-09-27 3:42 PM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1012" id="E37" modality="FACTUAL" polarity="POS" start="1006" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1044" id="E9" modality="FACTUAL" polarity="POS" start="1013" text="diffuse subarachnoid hemorrhage" type="PROBLEM"/>
+<EVENT end="1071" id="E10" modality="FACTUAL" polarity="POS" start="1049" text="intraventricular blood" type="PROBLEM"/>
+<EVENT end="1102" id="E38" modality="FACTUAL" polarity="NEG" start="1091" text="an aneurysm" type="PROBLEM"/>
+<EVENT end="1116" id="E11" modality="FACTUAL" polarity="POS" start="1105" text="A repeat CT" type="TEST"/>
+<EVENT end="1132" id="E39" modality="FACTUAL" polarity="POS" start="1126" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1181" id="E12" modality="FACTUAL" polarity="POS" start="1146" text="the diffuse subarachnoid hemorrhage" type="PROBLEM"/>
+<EVENT end="1213" id="E13" modality="FACTUAL" polarity="POS" start="1186" text="a new cerebellar hemorrhage" type="PROBLEM"/>
+<EVENT end="1239" id="E41" modality="FACTUAL" polarity="POS" start="1231" text="informed" type="EVIDENTIAL"/>
+<EVENT end="1283" id="E14" modality="FACTUAL" polarity="POS" start="1272" text="repeat scan" type="TEST"/>
+<EVENT end="1330" id="E40" modality="FACTUAL" polarity="POS" start="1318" text="the decision" type="OCCURRENCE"/>
+<EVENT end="1372" id="E15" modality="FACTUAL" polarity="POS" start="1351" text="comfort measures only" type="TREATMENT"/>
+<EVENT end="1416" id="E16" modality="FACTUAL" polarity="POS" start="1401" text="a Morphine drip" type="TREATMENT"/>
+<EVENT end="1430" id="E42" modality="FACTUAL" polarity="POS" start="1421" text="extubated" type="TREATMENT"/>
+<EVENT end="1446" id="E43" modality="FACTUAL" polarity="POS" start="1435" text="passed away" type="OCCURRENCE"/>
+<EVENT end="191" id="E44" modality="FACTUAL" polarity="POS" start="179" text="unresponsive" type="PROBLEM"/>
+<EVENT end="244" id="E21" modality="FACTUAL" polarity="POS" start="225" text="an unwitnessed fall" type="OCCURRENCE"/>
+<EVENT end="277" id="E22" modality="FACTUAL" polarity="NEG" start="268" text="headaches" type="PROBLEM"/>
+<EVENT end="295" id="E23" modality="FACTUAL" polarity="NEG" start="281" text="recent illness" type="PROBLEM"/>
+<EVENT end="38" id="E17" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="322" id="E24" modality="FACTUAL" polarity="POS" start="310" text="unresponsive" type="PROBLEM"/>
+<EVENT end="375" id="E25" modality="FACTUAL" polarity="POS" start="352" text="Systolic blood pressure" type="TEST"/>
+<EVENT end="403" id="E26" modality="FACTUAL" polarity="POS" start="396" text="arrival" type="OCCURRENCE"/>
+<EVENT end="457" id="E27" modality="FACTUAL" polarity="POS" start="407" text="the Mass. Eye &amp; Ear Infirmary Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="476" id="E28" modality="FACTUAL" polarity="POS" start="467" text="intubated" type="TREATMENT"/>
+<EVENT end="493" id="E29" modality="FACTUAL" polarity="POS" start="487" text="Versed" type="TREATMENT"/>
+<EVENT end="506" id="E30" modality="FACTUAL" polarity="POS" start="498" text="Fentanyl" type="TREATMENT"/>
+<EVENT end="516" id="E31" modality="FACTUAL" polarity="POS" start="509" text="His GCS" type="TEST"/>
+<EVENT end="545" id="E32" modality="FACTUAL" polarity="POS" start="538" text="arrival" type="OCCURRENCE"/>
+<EVENT end="573" id="E33" modality="FACTUAL" polarity="POS" start="549" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="609" id="E18" modality="FACTUAL" polarity="POS" start="601" text="admitted" type="OCCURRENCE"/>
+<EVENT end="651" id="E19" modality="FACTUAL" polarity="POS" start="613" text="the Neuro Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="672" id="E34" modality="FACTUAL" polarity="POS" start="656" text="close monitoring" type="TEST"/>
+<EVENT end="689" id="E1" modality="FACTUAL" polarity="POS" start="677" text="Neuro-checks" type="TEST"/>
+<EVENT end="704" id="E2" modality="FACTUAL" polarity="POS" start="692" text="A Vent drain" type="TREATMENT"/>
+<EVENT end="784" id="E3" modality="FACTUAL" polarity="POS" start="775" text="platelets" type="TREATMENT"/>
+<EVENT end="810" id="E20" modality="FACTUAL" polarity="POS" start="787" text="His Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="832" id="E35" modality="FACTUAL" polarity="POS" start="820" text="unremarkable" type="EVIDENTIAL"/>
+<EVENT end="854" id="E4" modality="FACTUAL" polarity="POS" start="835" text="His neurologic exam" type="TEST"/>
+<EVENT end="869" id="E36" modality="FACTUAL" polarity="NEG" start="863" text="change" type="OCCURRENCE"/>
+<EVENT end="894" id="E5" modality="FACTUAL" polarity="POS" start="886" text="His ICPs" type="TEST"/>
+<EVENT end="962" id="E6" modality="FACTUAL" polarity="POS" start="946" text="the Nipride drip" type="TREATMENT"/>
+<EVENT end="997" id="E7" modality="FACTUAL" polarity="POS" start="978" text="extensive posturing" type="PROBLEM"/>
+<EVENT end="1005" id="E8" modality="FACTUAL" polarity="POS" start="1000" text="A CTA" type="TEST"/>
+<ATIMEX3 end="1125" id="T3" mod="NA" start="1120" text="09-26" type="DATE" val="2011-09-26"/>
+<ATIMEX3 end="1460" id="T0" mod="NA" start="1450" text="10:55 a.m." type="TIME" val="2011-09-27T10:55"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2011-09-24" type="DATE" val="2011-09-24"/>
+<RTIMEX3 end="215" id="T4" mod="APPROX" start="210" text="lunch" type="TIME" val="2011-09-24T14:00"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2011-09-27" type="DATE" val="2011-09-27"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-09-24" end="28" id="S0" start="18" text="2011-09-24" type="ADMISSION"/>
+<SECTIME dvalue="2011-09-27" end="56" id="S1" start="46" text="2011-09-27" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

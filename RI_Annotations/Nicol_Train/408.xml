@@ -1,0 +1,501 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+2-5-94
+DISCHARGE DATE :
+4-2-94
+HISTORY OF PRESENT ILLNESS :
+The patient was a 71 year old white female with a history of carcinoid lung cancer who presented for evaluation of a tracheoesophageal fistula .
+The patient was initially diagnosed in 1978 with atypical small cell carcinoma of the lung and treated with chemotherapy and radiation therapy until 1980 .
+She did well for approximately twelve years until she was diagnosed with carcinoid cancer of the same right upper lobe .
+This may have been the initial primary cancer although it is unclear at present .
+Bronchoscopy at that time showed an endobronchial tumor of the right upper lobe bronchus and it was felt to be unresectable .
+She underwent four treatments of brachytherapy in March through May of 1993 .
+She had been doing reasonably well until December of 1993 when she presented with persistent and worsening cough and near strangulation on attempts at eating solids or drinking liquids .
+A bronchoscopy showed a tracheoesophageal fistula with an opening into the trachea above the carina and no tumor in the right upper lobe .
+She has been on total parenteral nutrition and has been nothing by mouth since then .
+A barium swallow prior to admission showed the presence of a tracheoesophageal fistula with entrance into the right mainstem bronchus below the carina .
+HOSPITAL COURSE :
+The patient was admitted on February 5 , 1994 and had a central venous line placed in her right subclavian .
+The patient was brought to the Operating Room on February 6 , 1994 where she underwent rigid and flexible bronchoscopy and upper gastrointestinal endoscopy .
+Findings included necrotic debris in the distal trachea at the carina and right mainstem bronchus .
+Esophageal mucosa was visible through the trachea .
+Her steroids were weaned and the patient was brought to the Operating Room on February 10 , 1994 where she underwent once again flexible bronchoscopy and flexible esophagoscopy , as well as rigid bronchoscopy .
+She then had a transhiatal esophagectomy which was partial , and a substernal gastric interposition as well as a jejunostomy .
+The pathology report suggested that the area was involved with radiation esophagitis and focal ulceration .
+She remained ventilator dependent postoperatively and was taken to the Respiratory Intensive Care Unit .
+The patient was maintained on triple antibiotics which included Vancomycin , ceftazidime and Gentamicin .
+On postoperative day two , she had an electroencephalogram which showed no evidence of seizure activity but some generalized slowing .
+The patient was seen in consultation by the Neurology Service for her apparent postoperative encephalopathy and episodes of shaking .
+An endoscopy was also performed on postoperative day two which showed clean anastomosis .
+She received multiple bronchoscopies for pulmonary toilet .
+The patient was maintained on tube feedings and the ventilator .
+A repeat echocardiogram on February 18 showed no significant change of her previous echocardiogram on February 11 , which showed only a small pericardial effusion .
+A pelvic and abdominal computerized tomography scan on February 18 also showed no evidence of a focal collection or abscess .
+She remained intermittently febrile despite numerous antibiotics .
+Her chest X-ray showed bilateral air space disease , consistent with pneumonia or adult respiratory distress syndrome .
+She suffered an episode of renal failure which was felt attributable to aminoglycoside toxicity .
+Her steroids were weaned .
+Because of her prolonged intubation and inability to wean , on February 24 , 1994 , she had a tracheostomy placed .
+She remained in a coma .
+The blood cultures on February 26 , 1994 grew out Staphylococcus and she was treated for septicemia .
+Her sputum grew out Pseudomonas aeruginosa as well .
+The urine contained yeast and she was treated with amphotericin .
+On March 3 , 1994 , a repeat chest and abdominal and pelvis computerized tomography scan showed no evidence of fluid collections .
+There was a large left pleural effusion however .
+This was drained with a left chest tube .
+Her sputum then grew out Klebsiella and she was treated with amikacin and imipenem .
+She developed a right pleural effusion and had a right chest tube placed .
+On March 13 , 1994 , she regained some level of consciousness .
+She was able to fix and follow with her eyes , respond to commands .
+On March 14 , 1994 , her right lung was pleurodesed .
+Attempts were made to facilitate her wean by resting her overnight with a combination of propafol and Fentanyl .
+This was tried for approximately seven days with no real progress made toward facilitating her vent wean .
+She continued to require pressor support in the high 30 &apos;s .
+She also fell into a coma once again .
+On March 31 , 1994 , her pressor support requirement increased and she continued to have tachypneic episodes .
+On April 2 , 1994 , she had several episodes of bradycardia and asystole , which responded only to manual ventilation .
+Discussions were held with the patient &apos;s family with regard to her previously expressed wishes not to be maintained on artificial life support for extended period of time with little or no hope for recovery .
+She had expressed these wishes in writing on several legal forms from the state of Jose Pineston , as well as in discussions with her loved ones .
+Decision was made in conjunction with the family and Dr. Caslighlourdes to terminate artificial respiratory support .
+The patient was removed from the ventilator and placed on a T-piece in her trachea only and was made comfortable with narcotics .
+Her respirations ceased and she died at 10:15 a.m. on April 2 , 1994 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1109" id="E97" modality="FACTUAL" polarity="NEG" start="1080" text="tumor in the right upper lobe" type="PROBLEM"/>
+<EVENT end="1154" id="E98" modality="FACTUAL" polarity="POS" start="1128" text="total parenteral nutrition" type="TREATMENT"/>
+<EVENT end="1184" id="E99" modality="FACTUAL" polarity="POS" start="1168" text="nothing by mouth" type="TREATMENT"/>
+<EVENT end="1214" id="E11" modality="FACTUAL" polarity="POS" start="1198" text="A barium swallow" type="TEST"/>
+<EVENT end="1233" id="E100" modality="FACTUAL" polarity="POS" start="1224" text="admission" type="OCCURRENCE"/>
+<EVENT end="1240" id="E101" modality="FACTUAL" polarity="POS" start="1234" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1284" id="E102" modality="FACTUAL" polarity="POS" start="1257" text="a tracheoesophageal fistula" type="PROBLEM"/>
+<EVENT end="160" id="E87" modality="FACTUAL" polarity="POS" start="139" text="carcinoid lung cancer" type="PROBLEM"/>
+<EVENT end="1393" id="E82" modality="FACTUAL" polarity="POS" start="1385" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1444" id="E12" modality="FACTUAL" polarity="POS" start="1423" text="a central venous line" type="TREATMENT"/>
+<EVENT end="1523" id="E83" modality="FACTUAL" polarity="POS" start="1505" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="1596" id="E13" modality="FACTUAL" polarity="POS" start="1565" text="rigid and flexible bronchoscopy" type="TEST"/>
+<EVENT end="1633" id="E14" modality="FACTUAL" polarity="POS" start="1601" text="upper gastrointestinal endoscopy" type="TEST"/>
+<EVENT end="174" id="E88" modality="FACTUAL" polarity="POS" start="165" text="presented" type="OCCURRENCE"/>
+<EVENT end="1691" id="E15" modality="FACTUAL" polarity="POS" start="1654" text="necrotic debris in the distal trachea" type="PROBLEM"/>
+<EVENT end="189" id="E89" modality="FACTUAL" polarity="POS" start="179" text="evaluation" type="TEST"/>
+<EVENT end="1800" id="E16" modality="FACTUAL" polarity="POS" start="1788" text="Her steroids" type="TREATMENT"/>
+<EVENT end="1862" id="E84" modality="FACTUAL" polarity="POS" start="1844" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="1937" id="E17" modality="FACTUAL" polarity="POS" start="1916" text="flexible bronchoscopy" type="TEST"/>
+<EVENT end="220" id="E90" modality="FACTUAL" polarity="POS" start="193" text="a tracheoesophageal fistula" type="PROBLEM"/>
+<EVENT end="1964" id="E18" modality="FACTUAL" polarity="POS" start="1942" text="flexible esophagoscopy" type="TEST"/>
+<EVENT end="1996" id="E19" modality="FACTUAL" polarity="POS" start="1978" text="rigid bronchoscopy" type="TEST"/>
+<EVENT end="2039" id="E20" modality="FACTUAL" polarity="POS" start="2012" text="a transhiatal esophagectomy" type="TREATMENT"/>
+<EVENT end="2098" id="E21" modality="FACTUAL" polarity="POS" start="2064" text="a substernal gastric interposition" type="TREATMENT"/>
+<EVENT end="2123" id="E22" modality="FACTUAL" polarity="POS" start="2110" text="a jejunostomy" type="TREATMENT"/>
+<EVENT end="2146" id="E23" modality="FACTUAL" polarity="POS" start="2126" text="The pathology report" type="TEST"/>
+<EVENT end="2156" id="E103" modality="FACTUAL" polarity="POS" start="2147" text="suggested" type="EVIDENTIAL"/>
+<EVENT end="2210" id="E104" modality="POSSIBLE" polarity="POS" start="2189" text="radiation esophagitis" type="PROBLEM"/>
+<EVENT end="2231" id="E24" modality="FACTUAL" polarity="POS" start="2215" text="focal ulceration" type="PROBLEM"/>
+<EVENT end="2267" id="E25" modality="FACTUAL" polarity="POS" start="2247" text="ventilator dependent" type="PROBLEM"/>
+<EVENT end="2336" id="E85" modality="FACTUAL" polarity="POS" start="2301" text="the Respiratory Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2387" id="E26" modality="FACTUAL" polarity="POS" start="2369" text="triple antibiotics" type="TREATMENT"/>
+<EVENT end="2413" id="E27" modality="FACTUAL" polarity="POS" start="2403" text="Vancomycin" type="TREATMENT"/>
+<EVENT end="2427" id="E28" modality="FACTUAL" polarity="POS" start="2416" text="ceftazidime" type="TREATMENT"/>
+<EVENT end="2442" id="E29" modality="FACTUAL" polarity="POS" start="2432" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="2503" id="E30" modality="FACTUAL" polarity="POS" start="2480" text="an electroencephalogram" type="TEST"/>
+<EVENT end="34" id="E86" modality="FACTUAL" polarity="POS" start="25" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2516" id="E105" modality="FACTUAL" polarity="POS" start="2510" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2548" id="E107" modality="FACTUAL" polarity="NEG" start="2532" text="seizure activity" type="PROBLEM"/>
+<EVENT end="2577" id="E31" modality="FACTUAL" polarity="POS" start="2553" text="some generalized slowing" type="PROBLEM"/>
+<EVENT end="2641" id="E108" modality="FACTUAL" polarity="POS" start="2620" text="the Neurology Service" type="CLINICAL_DEPT"/>
+<EVENT end="2687" id="E32" modality="FACTUAL" polarity="POS" start="2646" text="her apparent postoperative encephalopathy" type="PROBLEM"/>
+<EVENT end="2711" id="E109" modality="FACTUAL" polarity="POS" start="2704" text="shaking" type="PROBLEM"/>
+<EVENT end="313" id="E1" modality="FACTUAL" polarity="POS" start="272" text="atypical small cell carcinoma of the lung" type="PROBLEM"/>
+<EVENT end="2726" id="E33" modality="FACTUAL" polarity="POS" start="2714" text="An endoscopy" type="TEST"/>
+<EVENT end="2783" id="E110" modality="FACTUAL" polarity="POS" start="2777" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2801" id="E34" modality="FACTUAL" polarity="POS" start="2790" text="anastomosis" type="TREATMENT"/>
+<EVENT end="2840" id="E35" modality="FACTUAL" polarity="POS" start="2817" text="multiple bronchoscopies" type="TEST"/>
+<EVENT end="2861" id="E36" modality="FACTUAL" polarity="POS" start="2845" text="pulmonary toilet" type="TREATMENT"/>
+<EVENT end="2907" id="E37" modality="FACTUAL" polarity="POS" start="2894" text="tube feedings" type="TREATMENT"/>
+<EVENT end="2926" id="E38" modality="FACTUAL" polarity="POS" start="2912" text="the ventilator" type="TREATMENT"/>
+<EVENT end="2952" id="E39" modality="FACTUAL" polarity="POS" start="2929" text="A repeat echocardiogram" type="TEST"/>
+<EVENT end="2974" id="E111" modality="FACTUAL" polarity="POS" start="2968" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2996" id="E40" modality="FACTUAL" polarity="NEG" start="2978" text="significant change" type="PROBLEM"/>
+<EVENT end="3027" id="E41" modality="FACTUAL" polarity="POS" start="3000" text="her previous echocardiogram" type="TEST"/>
+<EVENT end="3057" id="E112" modality="FACTUAL" polarity="POS" start="3051" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3091" id="E42" modality="FACTUAL" polarity="POS" start="3063" text="a small pericardial effusion" type="PROBLEM"/>
+<EVENT end="3145" id="E43" modality="FACTUAL" polarity="POS" start="3094" text="A pelvic and abdominal computerized tomography scan" type="TEST"/>
+<EVENT end="3172" id="E113" modality="FACTUAL" polarity="POS" start="3166" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3206" id="E115" modality="FACTUAL" polarity="NEG" start="3188" text="a focal collection" type="PROBLEM"/>
+<EVENT end="3217" id="E116" modality="FACTUAL" polarity="NEG" start="3210" text="abscess" type="PROBLEM"/>
+<EVENT end="3255" id="E44" modality="FACTUAL" polarity="POS" start="3233" text="intermittently febrile" type="PROBLEM"/>
+<EVENT end="3284" id="E45" modality="FACTUAL" polarity="POS" start="3264" text="numerous antibiotics" type="TREATMENT"/>
+<EVENT end="3302" id="E46" modality="FACTUAL" polarity="POS" start="3287" text="Her chest X-ray" type="TEST"/>
+<EVENT end="343" id="E2" modality="FACTUAL" polarity="POS" start="331" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="3309" id="E117" modality="FACTUAL" polarity="POS" start="3303" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3337" id="E47" modality="FACTUAL" polarity="POS" start="3310" text="bilateral air space disease" type="PROBLEM"/>
+<EVENT end="3365" id="E48" modality="POSSIBLE" polarity="POS" start="3356" text="pneumonia" type="PROBLEM"/>
+<EVENT end="3404" id="E49" modality="POSSIBLE" polarity="POS" start="3369" text="adult respiratory distress syndrome" type="PROBLEM"/>
+<EVENT end="3447" id="E50" modality="FACTUAL" polarity="POS" start="3434" text="renal failure" type="PROBLEM"/>
+<EVENT end="365" id="E3" modality="FACTUAL" polarity="POS" start="348" text="radiation therapy" type="TREATMENT"/>
+<EVENT end="3502" id="E51" modality="POSSIBLE" polarity="POS" start="3479" text="aminoglycoside toxicity" type="PROBLEM"/>
+<EVENT end="3517" id="E52" modality="FACTUAL" polarity="POS" start="3505" text="Her steroids" type="TREATMENT"/>
+<EVENT end="3529" id="E136" modality="FACTUAL" polarity="POS" start="3523" text="weaned" type="OCCURRENCE"/>
+<EVENT end="3567" id="E53" modality="FACTUAL" polarity="POS" start="3543" text="her prolonged intubation" type="TREATMENT"/>
+<EVENT end="3589" id="E54" modality="FACTUAL" polarity="POS" start="3572" text="inability to wean" type="PROBLEM"/>
+<EVENT end="3638" id="E55" modality="FACTUAL" polarity="POS" start="3624" text="a tracheostomy" type="TREATMENT"/>
+<EVENT end="3670" id="E56" modality="FACTUAL" polarity="POS" start="3664" text="a coma" type="PROBLEM"/>
+<EVENT end="3691" id="E57" modality="FACTUAL" polarity="POS" start="3673" text="The blood cultures" type="TEST"/>
+<EVENT end="3737" id="E58" modality="FACTUAL" polarity="POS" start="3723" text="Staphylococcus" type="PROBLEM"/>
+<EVENT end="3772" id="E59" modality="FACTUAL" polarity="POS" start="3762" text="septicemia" type="PROBLEM"/>
+<EVENT end="3785" id="E60" modality="FACTUAL" polarity="POS" start="3775" text="Her sputum" type="TEST"/>
+<EVENT end="3817" id="E61" modality="FACTUAL" polarity="POS" start="3795" text="Pseudomonas aeruginosa" type="PROBLEM"/>
+<EVENT end="3837" id="E62" modality="FACTUAL" polarity="POS" start="3828" text="The urine" type="TEST"/>
+<EVENT end="391" id="E133" modality="FACTUAL" polarity="POS" start="383" text="did well" type="OCCURRENCE"/>
+<EVENT end="3853" id="E63" modality="FACTUAL" polarity="POS" start="3848" text="yeast" type="PROBLEM"/>
+<EVENT end="3891" id="E64" modality="FACTUAL" polarity="POS" start="3879" text="amphotericin" type="TREATMENT"/>
+<EVENT end="3982" id="E65" modality="FACTUAL" polarity="POS" start="3914" text="a repeat chest and abdominal and pelvis computerized tomography scan" type="TEST"/>
+<EVENT end="3989" id="E118" modality="FACTUAL" polarity="POS" start="3983" text="showed" type="EVIDENTIAL"/>
+<EVENT end="4022" id="E119" modality="FACTUAL" polarity="NEG" start="4005" text="fluid collections" type="PROBLEM"/>
+<EVENT end="4064" id="E66" modality="FACTUAL" polarity="POS" start="4035" text="a large left pleural effusion" type="PROBLEM"/>
+<EVENT end="4114" id="E67" modality="FACTUAL" polarity="POS" start="4097" text="a left chest tube" type="TREATMENT"/>
+<EVENT end="4127" id="E68" modality="FACTUAL" polarity="POS" start="4117" text="Her sputum" type="TEST"/>
+<EVENT end="4152" id="E69" modality="FACTUAL" polarity="POS" start="4142" text="Klebsiella" type="PROBLEM"/>
+<EVENT end="4186" id="E70" modality="FACTUAL" polarity="POS" start="4178" text="amikacin" type="TREATMENT"/>
+<EVENT end="4199" id="E71" modality="FACTUAL" polarity="POS" start="4191" text="imipenem" type="TREATMENT"/>
+<EVENT end="4240" id="E72" modality="FACTUAL" polarity="POS" start="4216" text="a right pleural effusion" type="PROBLEM"/>
+<EVENT end="4267" id="E73" modality="FACTUAL" polarity="POS" start="4249" text="a right chest tube" type="TREATMENT"/>
+<EVENT end="4338" id="E120" modality="FACTUAL" polarity="POS" start="4311" text="some level of consciousness" type="OCCURRENCE"/>
+<EVENT end="446" id="E134" modality="FACTUAL" polarity="POS" start="437" text="diagnosed" type="OCCURRENCE"/>
+<EVENT end="4461" id="E121" modality="FACTUAL" polarity="POS" start="4450" text="pleurodesed" type="TREATMENT"/>
+<EVENT end="4505" id="E74" modality="FACTUAL" polarity="POS" start="4497" text="her wean" type="TREATMENT"/>
+<EVENT end="497" id="E4" modality="FACTUAL" polarity="POS" start="452" text="carcinoid cancer of the same right upper lobe" type="PROBLEM"/>
+<EVENT end="4561" id="E75" modality="FACTUAL" polarity="POS" start="4553" text="propafol" type="TREATMENT"/>
+<EVENT end="4574" id="E76" modality="FACTUAL" polarity="POS" start="4566" text="Fentanyl" type="TREATMENT"/>
+<EVENT end="4642" id="E122" modality="FACTUAL" polarity="NEG" start="4629" text="real progress" type="OCCURRENCE"/>
+<EVENT end="4681" id="E77" modality="FACTUAL" polarity="POS" start="4668" text="her vent wean" type="TREATMENT"/>
+<EVENT end="4724" id="E78" modality="FACTUAL" polarity="POS" start="4709" text="pressor support" type="TREATMENT"/>
+<EVENT end="4775" id="E79" modality="FACTUAL" polarity="POS" start="4769" text="a coma" type="PROBLEM"/>
+<EVENT end="4841" id="E80" modality="FACTUAL" polarity="POS" start="4810" text="her pressor support requirement" type="PROBLEM"/>
+<EVENT end="4897" id="E81" modality="FACTUAL" polarity="POS" start="4878" text="tachypneic episodes" type="PROBLEM"/>
+<EVENT end="4959" id="E123" modality="FACTUAL" polarity="POS" start="4948" text="bradycardia" type="PROBLEM"/>
+<EVENT end="4972" id="E124" modality="FACTUAL" polarity="POS" start="4964" text="asystole" type="PROBLEM"/>
+<EVENT end="5017" id="E125" modality="FACTUAL" polarity="POS" start="4999" text="manual ventilation" type="TREATMENT"/>
+<EVENT end="5168" id="E126" modality="FACTUAL" polarity="NEG" start="5145" text="artificial life support" type="TREATMENT"/>
+<EVENT end="545" id="E5" modality="POSSIBLE" polarity="POS" start="519" text="the initial primary cancer" type="PROBLEM"/>
+<EVENT end="5497" id="E127" modality="FACTUAL" polarity="POS" start="5467" text="artificial respiratory support" type="TREATMENT"/>
+<EVENT end="5543" id="E128" modality="FACTUAL" polarity="POS" start="5529" text="the ventilator" type="TREATMENT"/>
+<EVENT end="5582" id="E129" modality="FACTUAL" polarity="POS" start="5558" text="a T-piece in her trachea" type="TREATMENT"/>
+<EVENT end="5627" id="E130" modality="FACTUAL" polarity="POS" start="5618" text="narcotics" type="TREATMENT"/>
+<EVENT end="5646" id="E131" modality="FACTUAL" polarity="POS" start="5630" text="Her respirations" type="TEST"/>
+<EVENT end="5666" id="E132" modality="FACTUAL" polarity="POS" start="5662" text="died" type="OCCURRENCE"/>
+<EVENT end="594" id="E6" modality="FACTUAL" polarity="POS" start="582" text="Bronchoscopy" type="TEST"/>
+<EVENT end="614" id="E91" modality="FACTUAL" polarity="POS" start="608" text="showed" type="EVIDENTIAL"/>
+<EVENT end="670" id="E7" modality="FACTUAL" polarity="POS" start="615" text="an endobronchial tumor of the right upper lobe bronchus" type="PROBLEM"/>
+<EVENT end="737" id="E8" modality="FACTUAL" polarity="POS" start="722" text="four treatments" type="TREATMENT"/>
+<EVENT end="754" id="E9" modality="FACTUAL" polarity="POS" start="741" text="brachytherapy" type="TREATMENT"/>
+<EVENT end="820" id="E135" modality="FACTUAL" polarity="POS" start="799" text="doing reasonably well" type="OCCURRENCE"/>
+<EVENT end="862" id="E92" modality="FACTUAL" polarity="POS" start="853" text="presented" type="OCCURRENCE"/>
+<EVENT end="898" id="E93" modality="FACTUAL" polarity="POS" start="868" text="persistent and worsening cough" type="PROBLEM"/>
+<EVENT end="921" id="E94" modality="FACTUAL" polarity="POS" start="903" text="near strangulation" type="PROBLEM"/>
+<EVENT end="987" id="E10" modality="FACTUAL" polarity="POS" start="973" text="A bronchoscopy" type="TEST"/>
+<EVENT end="994" id="E95" modality="FACTUAL" polarity="POS" start="988" text="showed" type="OCCURRENCE"/>
+<EVENT end="1022" id="E96" modality="FACTUAL" polarity="POS" start="995" text="a tracheoesophageal fistula" type="PROBLEM"/>
+
+<RTIMEX3 end="1414" id="T6" mod="NA" start="1397" text="February 5 , 1994" type="DATE" val="1994-02-05"/>
+<RTIMEX3 end="1544" id="T7" mod="NA" start="1527" text="February 6 , 1994" type="DATE" val="1994-02-06"/>
+<ATIMEX3 end="24" id="T1" mod="NA" start="18" text="2-5-94" type="DATE" val="1994-02-05"/>
+<RTIMEX3 end="1884" id="T8" mod="NA" start="1866" text="February 10 , 1994" type="DATE" val="1994-02-10"/>
+<RTIMEX3 end="2469" id="T9" mod="NA" start="2448" text="postoperative day two" type="DATE" val="1994-02-12"/>
+<ATIMEX3 end="266" id="T3" mod="NA" start="262" text="1978" type="DATE" val="1978"/>
+<RTIMEX3 end="2770" id="T10" mod="NA" start="2749" text="postoperative day two" type="DATE" val="1994-02-12"/>
+<RTIMEX3 end="2967" id="T11" mod="NA" start="2956" text="February 18" type="DATE" val="1994-02-18"/>
+<RTIMEX3 end="3042" id="T12" mod="NA" start="3031" text="February 11" type="DATE" val="1994-02-11"/>
+<RTIMEX3 end="3160" id="T24" mod="NA" start="3149" text="February 18" type="DATE" val="1994-02-18"/>
+<RTIMEX3 end="3613" id="T13" mod="NA" start="3595" text="February 24 , 1994" type="DATE" val="1994-02-24"/>
+<RTIMEX3 end="3713" id="T14" mod="NA" start="3695" text="February 26 , 1994" type="DATE" val="1994-02-26"/>
+<ATIMEX3 end="376" id="T4" mod="NA" start="372" text="1980" type="DATE" val="1980"/>
+<RTIMEX3 end="3911" id="T15" mod="NA" start="3897" text="March 3 , 1994" type="DATE" val="1994-03-03"/>
+
+<ATIMEX3 end="48" id="T2" mod="NA" start="42" text="4-2-94" type="DATE" val="1994-04-02"/>
+<RTIMEX3 end="4295" id="T16" mod="NA" start="4280" text="March 13 , 1994" type="DATE" val="1994-03-13"/>
+<RTIMEX3 end="4428" id="T17" mod="NA" start="4413" text="March 14 , 1994" type="DATE" val="1994-03-14"/>
+
+
+<RTIMEX3 end="4807" id="T18" mod="NA" start="4792" text="March 31 , 1994" type="DATE" val="1994-03-31"/>
+<RTIMEX3 end="4917" id="T19" mod="NA" start="4903" text="April 2 , 1994" type="DATE" val="1994-04-02"/>
+<ATIMEX3 end="5698" id="T27" mod="NA" start="5670" text="10:15 a.m. on April 2 , 1994" type="TIME" val="1994-04-02T10:15"/>
+<RTIMEX3 end="579" id="T20" mod="NA" start="572" text="present" type="DATE" val="1994-02-05"/>
+<RTIMEX3 end="607" id="T21" mod="NA" start="598" text="that time" type="DATE" val="1992"/>
+
+<RTIMEX3 end="843" id="T5" mod="NA" start="827" text="December of 1993" type="DATE" val="1993-12"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

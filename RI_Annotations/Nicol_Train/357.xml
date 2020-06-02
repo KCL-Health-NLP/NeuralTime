@@ -1,0 +1,337 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-05-13
+Discharge Date :
+2012-05-22
+Service :
+Neonatology
+HISTORY OF PRESENT ILLNESS :
+Fred Grauman is the former 2.252 kg product of a 35-1/7 week gestation pregnancy born to a 37-year-old G4 P3-5 woman .
+Prenatal screens :
+Blood type O+ , antibody negative , rubella immune , RPR nonreactive , hepatitis B surface antigen negative , group beta Strep positive .
+The pregnancy was complicated by anemia .
+Mother has a prior history of mitral valve prolapse .
+She had a prior cesarean section done , two vaginal births after cesarean section .
+She presented in labor on the day of delivery .
+These infants were delivered by repeat cesarean section , this twin emerged with good tone , color , and cry .
+Apgars were eight at one minute and nine at five minutes .
+He was admitted to the Neonatal Intensive Care Unit for treatment of prematurity .
+HOSPITAL COURSE BY SYSTEMS INCLUDING PERTINENT LABORATORY DATA:
+1. Respiratory :
+Raymond required some intermittent blow-by oxygen for the first two hours of birth .
+He has remained in room air since that time .
+The grunting noted on admission resolved within the first few hours after birth .
+He did not have any episodes of spontaneous apnea or bradycardia .
+2. Cardiovascular :
+No murmurs were noted , although normal heart rates and blood pressures .
+3. Fluids , electrolytes , and nutrition :
+Enteral feeds were started on the date of birth and gradually advanced to full volume .
+He required some gavage feeds through day of life #4 , and has been all po since day of life #5 .
+At the time of discharge , he is taking Enfamil 20 calories / ounce with iron .
+Discharge weight is 2.37 kg , head circumference 32 cm , length 47 cm .
+4. Infectious Disease :
+Due to the unknown group B Strep status and prematurity , Raymond was evaluated for sepsis .
+A complete blood count had a white blood cell count of 13,800 with 17% polys , 0% bands .
+A repeat on day of life two , had a white count of 13,000 with 50% polys , 0% bands .
+A blood culture obtained prior to starting antibiotics was no growth at 48 hours .
+5. Gastrointestinal :
+Peak serum bilirubin occurred on day of life #4 , a total of 10.0/0.3 direct .
+A repeat bilirubin on 2012-05-19 was 8.0/0.3 direct .
+6. Hematological :
+Hematocrit at birth was 43.8%.
+Raymond did not receive any transfusions of blood products during admission .
+7. Neurology :
+Raymond has maintained normal neurological examination throughout admission and there were no concerns at the time of discharge .
+8. Sensory :
+Audiology hearing screening was performed with automated auditory brain stem responses .
+Raymond passed in both ears .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1028" id="E42" modality="FACTUAL" polarity="POS" start="1023" text="birth" type="OCCURRENCE"/>
+<EVENT end="1089" id="E10" modality="FACTUAL" polarity="POS" start="1077" text="The grunting" type="PROBLEM"/>
+<EVENT end="1108" id="E80" modality="FACTUAL" polarity="POS" start="1099" text="admission" type="OCCURRENCE"/>
+<EVENT end="1156" id="E43" modality="FACTUAL" polarity="POS" start="1151" text="birth" type="OCCURRENCE"/>
+<EVENT end="1208" id="E11" modality="FACTUAL" polarity="NEG" start="1191" text="spontaneous apnea" type="PROBLEM"/>
+<EVENT end="1223" id="E12" modality="FACTUAL" polarity="NEG" start="1212" text="bradycardia" type="PROBLEM"/>
+<EVENT end="1256" id="E13" modality="FACTUAL" polarity="NEG" start="1249" text="murmurs" type="PROBLEM"/>
+<EVENT end="1267" id="E65" modality="FACTUAL" polarity="POS" start="1262" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1297" id="E66" modality="FACTUAL" polarity="POS" start="1286" text="heart rates" type="TEST"/>
+<EVENT end="1317" id="E67" modality="FACTUAL" polarity="POS" start="1302" text="blood pressures" type="TEST"/>
+<EVENT end="1376" id="E14" modality="FACTUAL" polarity="POS" start="1363" text="Enteral feeds" type="TREATMENT"/>
+<EVENT end="1410" id="E68" modality="FACTUAL" polarity="POS" start="1405" text="birth" type="OCCURRENCE"/>
+<EVENT end="1433" id="E69" modality="FACTUAL" polarity="POS" start="1425" text="advanced" type="TREATMENT"/>
+<EVENT end="1448" id="E70" modality="FACTUAL" polarity="POS" start="1437" text="full volume" type="OCCURRENCE"/>
+<EVENT end="1480" id="E15" modality="FACTUAL" polarity="POS" start="1463" text="some gavage feeds" type="TREATMENT"/>
+<EVENT end="1525" id="E71" modality="FACTUAL" polarity="POS" start="1519" text="all po" type="OCCURRENCE"/>
+<EVENT end="1573" id="E72" modality="FACTUAL" polarity="POS" start="1564" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1626" id="E16" modality="FACTUAL" polarity="POS" start="1589" text="Enfamil 20 calories / ounce with iron" type="TREATMENT"/>
+<EVENT end="1645" id="E17" modality="FACTUAL" polarity="POS" start="1629" text="Discharge weight" type="TEST"/>
+<EVENT end="1677" id="E18" modality="FACTUAL" polarity="POS" start="1659" text="head circumference" type="TEST"/>
+<EVENT end="1692" id="E19" modality="FACTUAL" polarity="POS" start="1686" text="length" type="TEST"/>
+<EVENT end="188" id="E45" modality="FACTUAL" polarity="POS" start="169" text="gestation pregnancy" type="OCCURRENCE"/>
+<EVENT end="1764" id="E20" modality="FACTUAL" polarity="POS" start="1732" text="the unknown group B Strep status" type="PROBLEM"/>
+<EVENT end="1780" id="E21" modality="FACTUAL" polarity="POS" start="1769" text="prematurity" type="PROBLEM"/>
+<EVENT end="1804" id="E81" modality="FACTUAL" polarity="POS" start="1795" text="evaluated" type="TEST"/>
+<EVENT end="1815" id="E22" modality="FACTUAL" polarity="POS" start="1809" text="sepsis" type="PROBLEM"/>
+<EVENT end="1840" id="E23" modality="FACTUAL" polarity="POS" start="1818" text="A complete blood count" type="TEST"/>
+<EVENT end="1869" id="E24" modality="FACTUAL" polarity="POS" start="1845" text="a white blood cell count" type="TEST"/>
+<EVENT end="1894" id="E25" modality="FACTUAL" polarity="POS" start="1885" text="17% polys" type="TEST"/>
+<EVENT end="193" id="E46" modality="FACTUAL" polarity="POS" start="189" text="born" type="OCCURRENCE"/>
+<EVENT end="1905" id="E26" modality="FACTUAL" polarity="POS" start="1897" text="0% bands" type="TEST"/>
+<EVENT end="1955" id="E27" modality="FACTUAL" polarity="POS" start="1942" text="a white count" type="TEST"/>
+<EVENT end="1980" id="E28" modality="FACTUAL" polarity="POS" start="1971" text="50% polys" type="TEST"/>
+<EVENT end="1991" id="E29" modality="FACTUAL" polarity="POS" start="1983" text="0% bands" type="TEST"/>
+<EVENT end="2009" id="E30" modality="FACTUAL" polarity="POS" start="1994" text="A blood culture" type="TEST"/>
+<EVENT end="2048" id="E31" modality="FACTUAL" polarity="POS" start="2037" text="antibiotics" type="TREATMENT"/>
+<EVENT end="2062" id="E32" modality="FACTUAL" polarity="NEG" start="2056" text="growth" type="PROBLEM"/>
+<EVENT end="2119" id="E33" modality="FACTUAL" polarity="POS" start="2099" text="Peak serum bilirubin" type="TEST"/>
+<EVENT end="2156" id="E34" modality="FACTUAL" polarity="POS" start="2149" text="a total" type="TEST"/>
+<EVENT end="2175" id="E74" modality="FACTUAL" polarity="POS" start="2169" text="direct" type="TEST"/>
+<EVENT end="2196" id="E35" modality="FACTUAL" polarity="POS" start="2178" text="A repeat bilirubin" type="TEST"/>
+<EVENT end="2261" id="E36" modality="FACTUAL" polarity="POS" start="2251" text="Hematocrit" type="TEST"/>
+<EVENT end="2270" id="E39" modality="FACTUAL" polarity="POS" start="2265" text="birth" type="OCCURRENCE"/>
+<EVENT end="2340" id="E37" modality="FACTUAL" polarity="NEG" start="2306" text="any transfusions of blood products" type="TREATMENT"/>
+<EVENT end="2357" id="E40" modality="FACTUAL" polarity="POS" start="2348" text="admission" type="OCCURRENCE"/>
+<EVENT end="2429" id="E75" modality="FACTUAL" polarity="POS" start="2405" text="neurological examination" type="TEST"/>
+<EVENT end="2450" id="E41" modality="FACTUAL" polarity="POS" start="2441" text="admission" type="OCCURRENCE"/>
+<EVENT end="256" id="E1" modality="FACTUAL" polarity="POS" start="246" text="Blood type" type="TEST"/>
+<EVENT end="2477" id="E76" modality="FACTUAL" polarity="NEG" start="2469" text="concerns" type="PROBLEM"/>
+<EVENT end="2502" id="E77" modality="FACTUAL" polarity="POS" start="2493" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2545" id="E38" modality="FACTUAL" polarity="POS" start="2518" text="Audiology hearing screening" type="TEST"/>
+<EVENT end="2604" id="E78" modality="FACTUAL" polarity="POS" start="2565" text="automated auditory brain stem responses" type="TEST"/>
+<EVENT end="270" id="E2" modality="FACTUAL" polarity="POS" start="262" text="antibody" type="TEST"/>
+<EVENT end="2621" id="E79" modality="FACTUAL" polarity="POS" start="2615" text="passed" type="OCCURRENCE"/>
+<EVENT end="289" id="E3" modality="FACTUAL" polarity="POS" start="282" text="rubella" type="TEST"/>
+<EVENT end="38" id="E44" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="302" id="E4" modality="FACTUAL" polarity="POS" start="299" text="RPR" type="TEST"/>
+<EVENT end="344" id="E5" modality="FACTUAL" polarity="POS" start="317" text="hepatitis B surface antigen" type="TEST"/>
+<EVENT end="381" id="E6" modality="FACTUAL" polarity="POS" start="356" text="group beta Strep positive" type="PROBLEM"/>
+<EVENT end="397" id="E47" modality="FACTUAL" polarity="POS" start="384" text="The pregnancy" type="OCCURRENCE"/>
+<EVENT end="413" id="E48" modality="FACTUAL" polarity="POS" start="402" text="complicated" type="PROBLEM"/>
+<EVENT end="423" id="E49" modality="FACTUAL" polarity="POS" start="417" text="anemia" type="PROBLEM"/>
+<EVENT end="477" id="E50" modality="FACTUAL" polarity="POS" start="456" text="mitral valve prolapse" type="PROBLEM"/>
+<EVENT end="512" id="E51" modality="FACTUAL" polarity="POS" start="488" text="a prior cesarean section" type="TREATMENT"/>
+<EVENT end="538" id="E52" modality="FACTUAL" polarity="POS" start="524" text="vaginal births" type="OCCURRENCE"/>
+<EVENT end="561" id="E53" modality="FACTUAL" polarity="POS" start="545" text="cesarean section" type="TREATMENT"/>
+<EVENT end="577" id="E54" modality="FACTUAL" polarity="POS" start="568" text="presented" type="OCCURRENCE"/>
+<EVENT end="586" id="E55" modality="FACTUAL" polarity="POS" start="581" text="labor" type="OCCURRENCE"/>
+<EVENT end="609" id="E56" modality="FACTUAL" polarity="POS" start="601" text="delivery" type="OCCURRENCE"/>
+<EVENT end="640" id="E57" modality="FACTUAL" polarity="POS" start="631" text="delivered" type="OCCURRENCE"/>
+<EVENT end="667" id="E7" modality="FACTUAL" polarity="POS" start="644" text="repeat cesarean section" type="TREATMENT"/>
+<EVENT end="687" id="E58" modality="FACTUAL" polarity="POS" start="680" text="emerged" type="OCCURRENCE"/>
+<EVENT end="720" id="E59" modality="FACTUAL" polarity="POS" start="693" text="good tone , color , and cry" type="OCCURRENCE"/>
+<EVENT end="729" id="E8" modality="FACTUAL" polarity="POS" start="723" text="Apgars" type="TEST"/>
+<EVENT end="797" id="E60" modality="FACTUAL" polarity="POS" start="789" text="admitted" type="OCCURRENCE"/>
+<EVENT end="833" id="E61" modality="FACTUAL" polarity="POS" start="801" text="the Neonatal Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="847" id="E62" modality="FACTUAL" polarity="POS" start="838" text="treatment" type="TREATMENT"/>
+<EVENT end="862" id="E63" modality="FACTUAL" polarity="POS" start="851" text="prematurity" type="PROBLEM"/>
+<EVENT end="995" id="E64" modality="FACTUAL" polarity="POS" start="981" text="blow-by oxygen" type="TREATMENT"/>
+
+<RTIMEX3 end="1074" id="T8" mod="NA" start="1065" text="that time" type="DATE" val="2012-05-13"/>
+
+<RTIMEX3 end="1401" id="T10" mod="NA" start="1393" text="the date" type="DATE" val="2012-05-13"/>
+<RTIMEX3 end="1503" id="T11" mod="NA" start="1489" text="day of life #4" type="DATE" val="2012-05-16"/>
+<RTIMEX3 end="1546" id="T12" mod="NA" start="1532" text="day of life #5" type="DATE" val="2012-05-17"/>
+<RTIMEX3 end="1560" id="T13" mod="NA" start="1552" text="the time" type="DATE" val="2012-05-22"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-05-13" type="DATE" val="2012-05-13"/>
+<RTIMEX3 end="1935" id="T14" mod="NA" start="1920" text="day of life two" type="DATE" val="2012-05-14"/>
+
+<RTIMEX3 end="2146" id="T16" mod="NA" start="2132" text="day of life #4" type="DATE" val="2012-05-06"/>
+<ATIMEX3 end="2210" id="T3" mod="NA" start="2200" text="2012-05-19" type="DATE" val="2012-05-19"/>
+<RTIMEX3 end="2489" id="T17" mod="NA" start="2481" text="the time" type="DATE" val="2012-05-22"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-05-22" type="DATE" val="2012-05-22"/>
+<RTIMEX3 end="597" id="T4" mod="NA" start="590" text="the day" type="DATE" val="2012-05-13"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-05-13" end="28" id="S0" start="18" text="2012-05-13" type="ADMISSION"/>
+<SECTIME dvalue="2012-05-22" end="56" id="S1" start="46" text="2012-05-22" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

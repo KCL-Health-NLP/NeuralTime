@@ -1,0 +1,360 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-04-30
+Discharge Date :
+2012-05-14
+Service :
+O-CMED CCU
+HISTORY OF PRESENT ILLNESS :
+The patient is a 55 - year-old male with recently diagnosed abdominal carcinomatosis .
+The patient presented with abdominal pain and bloating and was found to have a large omental mass .
+Biopsy revealed adenocarcinoma .
+Histochemical stains are consistent with hepatobiliary origin .
+Endoscopies were negative except for an extrinsic mass present on the stomach .
+The patient presents with increased abdominal pain and poor oral intake as well as generalized weakness .
+On presentation , the patient denied chest pain , shortness of breath , and cough .
+HOSPITAL COURSE :
+The patient was admitted to the O-CMED
+Service .
+He was placed on a patient-controlled analgesia for pain control .
+He was administered intravenous fluids and oral diet as tolerated .
+On the night of 05-01 , the patient complained of increased vomiting .
+He also complained of increased shortness of breath and " difficulty catching his breath ."
+On room air , the patient 's oxygen saturation was 80% .
+His saturation increased to 87% on a nonrebreather .
+A chest x-ray disclosed a left pleural effusion .
+The patient was bolused with intravenous heparin due to concern for pulmonary embolism .
+The patient expressed a desire to be full code , so he was transferred to the Intensive Care Unit .
+The patient became more comfortable being seated upright with nebulizer treatments .
+An angiogram was done which disclosed possible subsegmental pulmonary emboli of the upper lobes as well as infiltrates consistent with aspiration pneumonia .
+The patient was placed on Flagyl and Levaquin for treatment of pneumonia .
+He was continued on heparin for treatment of the pulmonary emboli .
+While in the Intensive Care Unit , the patient was noted to have increasing abdominal distention .
+On 05-03 the patient underwent an abdominal ultrasound with paracentesis , and 5 liters of fluid were removed .
+On 05-04 , the patient was transferred back to the O-CMED CSRU
+Service .
+Due to persistent gastric secretions , an nasogastric tube was placed for decompression .
+The patient was noted to have a functional ileus .
+Octreotide was initiated in an attempt to decrease the gastric secretions .
+On 05-13 , the patient 's respiratory status declined further .
+He was noted not have an increasing left-sided pleural effusion .
+A thoracentesis was done with removal of 1.5 liters of fluid .
+A paracentesis was repeated with removal of 2.5 liters of fluid .
+On the night of 05-13 , the patient continued to decline .
+The family decided to pursue comfort measures .
+Morphine was administered to insure patient 's comfort .
+The patient expired at 6 p.m. on 05-14 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E93" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1072" id="E34" modality="FACTUAL" polarity="POS" start="1040" text="the patient 's oxygen saturation" type="TEST"/>
+<EVENT end="1097" id="E35" modality="FACTUAL" polarity="POS" start="1083" text="His saturation" type="TEST"/>
+<EVENT end="1133" id="E36" modality="FACTUAL" polarity="POS" start="1118" text="a nonrebreather" type="TREATMENT"/>
+<EVENT end="1149" id="E37" modality="FACTUAL" polarity="POS" start="1136" text="A chest x-ray" type="TEST"/>
+<EVENT end="1159" id="E39" modality="FACTUAL" polarity="POS" start="1150" text="disclosed" type="EVIDENTIAL"/>
+<EVENT end="1183" id="E38" modality="FACTUAL" polarity="POS" start="1160" text="a left pleural effusion" type="PROBLEM"/>
+<EVENT end="1234" id="E40" modality="FACTUAL" polarity="POS" start="1215" text="intravenous heparin" type="TREATMENT"/>
+<EVENT end="1272" id="E41" modality="FACTUAL" polarity="POS" start="1254" text="pulmonary embolism" type="PROBLEM"/>
+<EVENT end="1296" id="E43" modality="FACTUAL" polarity="POS" start="1287" text="expressed" type="EVIDENTIAL"/>
+<EVENT end="1305" id="E42" modality="FACTUAL" polarity="POS" start="1297" text="a desire" type="OCCURRENCE"/>
+<EVENT end="1321" id="E44" modality="FACTUAL" polarity="POS" start="1312" text="full code" type="TREATMENT"/>
+<EVENT end="1345" id="E45" modality="FACTUAL" polarity="POS" start="1334" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1372" id="E46" modality="FACTUAL" polarity="POS" start="1349" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1410" id="E47" modality="FACTUAL" polarity="POS" start="1399" text="comfortable" type="OCCURRENCE"/>
+<EVENT end="1431" id="E48" modality="FACTUAL" polarity="POS" start="1424" text="upright" type="OCCURRENCE"/>
+<EVENT end="1457" id="E49" modality="FACTUAL" polarity="POS" start="1437" text="nebulizer treatments" type="TREATMENT"/>
+<EVENT end="1472" id="E50" modality="FACTUAL" polarity="POS" start="1460" text="An angiogram" type="TEST"/>
+<EVENT end="191" id="E0" modality="FACTUAL" polarity="POS" start="148" text="recently diagnosed abdominal carcinomatosis" type="PROBLEM"/>
+<EVENT end="1497" id="E51" modality="FACTUAL" polarity="POS" start="1488" text="disclosed" type="EVIDENTIAL"/>
+<EVENT end="1555" id="E52" modality="POSSIBLE" polarity="POS" start="1507" text="subsegmental pulmonary emboli of the upper lobes" type="PROBLEM"/>
+<EVENT end="1578" id="E53" modality="FACTUAL" polarity="POS" start="1567" text="infiltrates" type="PROBLEM"/>
+<EVENT end="1615" id="E54" modality="POSSIBLE" polarity="POS" start="1595" text="aspiration pneumonia" type="PROBLEM"/>
+<EVENT end="1650" id="E55" modality="FACTUAL" polarity="POS" start="1644" text="Flagyl" type="TREATMENT"/>
+<EVENT end="1663" id="E56" modality="FACTUAL" polarity="POS" start="1655" text="Levaquin" type="TREATMENT"/>
+<EVENT end="1677" id="E61" modality="FACTUAL" polarity="POS" start="1668" text="treatment" type="TREATMENT"/>
+<EVENT end="1690" id="E57" modality="FACTUAL" polarity="POS" start="1681" text="pneumonia" type="PROBLEM"/>
+<EVENT end="1720" id="E58" modality="FACTUAL" polarity="POS" start="1713" text="heparin" type="TREATMENT"/>
+<EVENT end="1734" id="E60" modality="FACTUAL" polarity="POS" start="1725" text="treatment" type="TREATMENT"/>
+<EVENT end="1758" id="E59" modality="FACTUAL" polarity="POS" start="1738" text="the pulmonary emboli" type="PROBLEM"/>
+<EVENT end="1793" id="E62" modality="FACTUAL" polarity="POS" start="1770" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1817" id="E63" modality="FACTUAL" polarity="POS" start="1812" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1857" id="E64" modality="FACTUAL" polarity="POS" start="1826" text="increasing abdominal distention" type="PROBLEM"/>
+<EVENT end="1914" id="E65" modality="FACTUAL" polarity="POS" start="1891" text="an abdominal ultrasound" type="TEST"/>
+<EVENT end="1932" id="E66" modality="FACTUAL" polarity="POS" start="1920" text="paracentesis" type="TREATMENT"/>
+<EVENT end="1956" id="E67" modality="FACTUAL" polarity="POS" start="1951" text="fluid" type="PROBLEM"/>
+<EVENT end="1969" id="E68" modality="FACTUAL" polarity="POS" start="1962" text="removed" type="TREATMENT"/>
+<EVENT end="2010" id="E69" modality="FACTUAL" polarity="POS" start="1999" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2034" id="E70" modality="FACTUAL" polarity="POS" start="2019" text="the O-CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="2081" id="E71" modality="FACTUAL" polarity="POS" start="2052" text="persistent gastric secretions" type="PROBLEM"/>
+<EVENT end="215" id="E1" modality="FACTUAL" polarity="POS" start="206" text="presented" type="EVIDENTIAL"/>
+<EVENT end="2103" id="E72" modality="FACTUAL" polarity="POS" start="2084" text="an nasogastric tube" type="TREATMENT"/>
+<EVENT end="2132" id="E73" modality="FACTUAL" polarity="POS" start="2119" text="decompression" type="TREATMENT"/>
+<EVENT end="2156" id="E74" modality="FACTUAL" polarity="POS" start="2151" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2183" id="E75" modality="FACTUAL" polarity="POS" start="2165" text="a functional ileus" type="OCCURRENCE"/>
+<EVENT end="2196" id="E76" modality="FACTUAL" polarity="POS" start="2186" text="Octreotide" type="TREATMENT"/>
+<EVENT end="235" id="E2" modality="FACTUAL" polarity="POS" start="221" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="2259" id="E77" modality="FACTUAL" polarity="POS" start="2237" text="the gastric secretions" type="PROBLEM"/>
+<EVENT end="2323" id="E78" modality="FACTUAL" polarity="POS" start="2288" text="respiratory status declined further" type="PROBLEM"/>
+<EVENT end="2338" id="E79" modality="FACTUAL" polarity="POS" start="2333" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2389" id="E80" modality="FACTUAL" polarity="POS" start="2348" text="an increasing left-sided pleural effusion" type="PROBLEM"/>
+<EVENT end="248" id="E3" modality="FACTUAL" polarity="POS" start="240" text="bloating" type="PROBLEM"/>
+<EVENT end="2407" id="E81" modality="FACTUAL" polarity="POS" start="2392" text="A thoracentesis" type="TREATMENT"/>
+<EVENT end="2429" id="E82" modality="FACTUAL" polarity="POS" start="2422" text="removal" type="TREATMENT"/>
+<EVENT end="2452" id="E83" modality="FACTUAL" polarity="POS" start="2447" text="fluid" type="PROBLEM"/>
+<EVENT end="2469" id="E84" modality="FACTUAL" polarity="POS" start="2455" text="A paracentesis" type="TREATMENT"/>
+<EVENT end="2495" id="E85" modality="FACTUAL" polarity="POS" start="2488" text="removal" type="TREATMENT"/>
+<EVENT end="2518" id="E86" modality="FACTUAL" polarity="POS" start="2513" text="fluid" type="PROBLEM"/>
+<EVENT end="262" id="E4" modality="FACTUAL" polarity="POS" start="257" text="found" type="EVIDENTIAL"/>
+<EVENT end="2577" id="E87" modality="FACTUAL" polarity="POS" start="2570" text="decline" type="PROBLEM"/>
+<EVENT end="2598" id="E88" modality="FACTUAL" polarity="POS" start="2580" text="The family decided" type="OCCURRENCE"/>
+<EVENT end="2625" id="E89" modality="FACTUAL" polarity="POS" start="2609" text="comfort measures" type="TREATMENT"/>
+<EVENT end="2636" id="E90" modality="FACTUAL" polarity="POS" start="2628" text="Morphine" type="TREATMENT"/>
+<EVENT end="2682" id="E91" modality="FACTUAL" polarity="POS" start="2664" text="patient 's comfort" type="OCCURRENCE"/>
+<EVENT end="2704" id="E92" modality="FACTUAL" polarity="POS" start="2697" text="expired" type="OCCURRENCE"/>
+<EVENT end="291" id="E5" modality="FACTUAL" polarity="POS" start="271" text="a large omental mass" type="PROBLEM"/>
+<EVENT end="38" id="E94" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="300" id="E6" modality="FACTUAL" polarity="POS" start="294" text="Biopsy" type="TEST"/>
+<EVENT end="309" id="E8" modality="FACTUAL" polarity="POS" start="301" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="324" id="E9" modality="FACTUAL" polarity="POS" start="310" text="adenocarcinoma" type="PROBLEM"/>
+<EVENT end="347" id="E10" modality="FACTUAL" polarity="POS" start="327" text="Histochemical stains" type="TEST"/>
+<EVENT end="388" id="E11" modality="POSSIBLE" polarity="POS" start="368" text="hepatobiliary origin" type="PROBLEM"/>
+<EVENT end="402" id="E12" modality="FACTUAL" polarity="POS" start="391" text="Endoscopies" type="TEST"/>
+<EVENT end="468" id="E13" modality="FACTUAL" polarity="POS" start="428" text="an extrinsic mass present on the stomach" type="PROBLEM"/>
+<EVENT end="491" id="E14" modality="FACTUAL" polarity="POS" start="483" text="presents" type="EVIDENTIAL"/>
+<EVENT end="521" id="E15" modality="FACTUAL" polarity="POS" start="497" text="increased abdominal pain" type="PROBLEM"/>
+<EVENT end="542" id="E16" modality="FACTUAL" polarity="POS" start="526" text="poor oral intake" type="PROBLEM"/>
+<EVENT end="574" id="E17" modality="FACTUAL" polarity="POS" start="554" text="generalized weakness" type="PROBLEM"/>
+<EVENT end="592" id="E18" modality="FACTUAL" polarity="POS" start="580" text="presentation" type="EVIDENTIAL"/>
+<EVENT end="613" id="E95" modality="FACTUAL" polarity="POS" start="607" text="denied" type="EVIDENTIAL"/>
+<EVENT end="624" id="E19" modality="FACTUAL" polarity="NEG" start="614" text="chest pain" type="PROBLEM"/>
+<EVENT end="646" id="E20" modality="FACTUAL" polarity="NEG" start="627" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="658" id="E21" modality="FACTUAL" polarity="NEG" start="653" text="cough" type="PROBLEM"/>
+<EVENT end="703" id="E23" modality="FACTUAL" polarity="POS" start="695" text="admitted" type="OCCURRENCE"/>
+<EVENT end="717" id="E24" modality="FACTUAL" polarity="POS" start="707" text="the O-CMED" type="CLINICAL_DEPT"/>
+<EVENT end="775" id="E25" modality="FACTUAL" polarity="POS" start="745" text="a patient-controlled analgesia" type="TREATMENT"/>
+<EVENT end="792" id="E26" modality="FACTUAL" polarity="POS" start="780" text="pain control" type="TREATMENT"/>
+<EVENT end="833" id="E27" modality="FACTUAL" polarity="POS" start="815" text="intravenous fluids" type="TREATMENT"/>
+<EVENT end="847" id="E28" modality="FACTUAL" polarity="POS" start="838" text="oral diet" type="TREATMENT"/>
+<EVENT end="909" id="E29" modality="FACTUAL" polarity="POS" start="899" text="complained" type="EVIDENTIAL"/>
+<EVENT end="931" id="E30" modality="FACTUAL" polarity="POS" start="913" text="increased vomiting" type="PROBLEM"/>
+<EVENT end="952" id="E31" modality="FACTUAL" polarity="POS" start="942" text="complained" type="EVIDENTIAL"/>
+<EVENT end="985" id="E32" modality="FACTUAL" polarity="POS" start="956" text="increased shortness of breath" type="PROBLEM"/>
+<EVENT end="1022" id="E33" modality="FACTUAL" polarity="POS" start="992" text="difficulty catching his breath" type="PROBLEM"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2012-04-30" type="DATE" val="2012-04-30"/>
+<ATIMEX3 end="1868" id="T3" mod="NA" start="1863" text="05-03" type="DATE" val="2012-05-03"/>
+<ATIMEX3 end="1980" id="T4" mod="NA" start="1975" text="05-04" type="DATE" val="2012-05-04"/>
+<ATIMEX3 end="2270" id="T5" mod="NA" start="2265" text="05-13" type="DATE" val="2012-05-13"/>
+<RTIMEX3 end="2542" id="T6" mod="END" start="2524" text="the night of 05-13" type="DATE" val="2012-05-13"/>
+<ATIMEX3 end="2723" id="T7" mod="NA" start="2708" text="6 p.m. on 05-14" type="TIME" val="2012-05-14T1800"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2012-05-14" type="DATE" val="2012-05-14"/>
+<RTIMEX3 end="884" id="T2" mod="END" start="866" text="the night of 05-01" type="DATE" val="2012-05-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-04-30" end="28" id="S0" start="18" text="2012-04-30" type="ADMISSION"/>
+<SECTIME dvalue="2012-05-14" end="56" id="S1" start="46" text="2012-05-14" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

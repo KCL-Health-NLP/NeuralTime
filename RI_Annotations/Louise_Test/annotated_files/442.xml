@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2017-05-14
+Discharge Date :
+2017-06-26
+Service :
+CMED CCU
+HISTORY OF PRESENT ILLNESS :
+Jadiara Harrison is twin #1 born to a 17 year-old primiparous mother at 31 weeks gestation .
+Mother was admitted to the Nantucket Cottage Hospital from Lawrence General Hospital Hospital on 05-01 with cervical effacement and preterm labor .
+She was treated with magnesium sulfate .
+She had previously been admitted here at the 24th week after a motor vehicle accident .She was treated with tocolysis and betamethasone at that time .
+Due to progressing labor and presentation of twins , delivery was by Cesarean section .
+Prenatal screens were notable for blood type 0 positive , antibody negative , hepatitis B surface antigen negative , RPR nonreactive .
+Rubella status was not documented .
+Group B strep status was unknown .
+Infant emerged from the breech position .
+She was vigorous .
+She was given blow-by oxygen and stimulation .
+Her Apgars were 7 at 1 minute and 9 at 5 minutes .
+She was brought to the CMED CSRU for further evaluation .
+HOSPITAL COURSE :
+Respiratory :
+On admission , infant did not require supplemental oxygen or respiratory support .
+Since that time , Jadiara has always been in room air without requiring supplemental oxygen .
+She was noted to have apnea of prematurity , treated with caffeine until 2017-06-04 .
+Since that time , she has had very rare spells , with none for over one week by the time of discharge .
+Cardiovascular :
+She was hemodynamically stable upon admission with normal blood pressures and heart rate .
+On day of life 15 , she was noted to have a murmur , eventually prompting evaluation by ECHO .
+The ECHO revealed an anomalous left coronary , with one end entering the right ventricular outflow tract and the other end not clearly defined .
+It was unable to be delineated whether this represented an anomalous left coronary artery arising from the pulmonary artery ( LCAPA ) or a left coronary artery fistula to the pulmonar artery .
+The right coronary was prominent , and there appeared to be coronary artery collateral vessels in the posterior apical myocardium .
+A small apical muscular VSD was also noted .
+Several additional ECHOs were performed , including an ECHO in the cardiology department at HealthSouth Rehab Hospital of Western Mass ., but the anatomy of the left coronary artery could not be further defined .
+Due to the risks of coronary ischemia if this represented an LCAPA , the infant was followed with regular ECHOs and EKGs during the remainder of hospitalization , with no evidence of ischemia , valvular regurgitation , or compromised ventricular function .
+She will be continued to be followed closely by cardiology as an outpatient , with likely plans for cardiac catheterization and surgical repair when she grows to 3.5 to 4 kg .
+Fluids , electrolytes and nutrition :
+The infant was initially maintained on IVF , with introduction of enteral feeds on day of life 2 .
+She was advanced to full volume enteral feeds by day of life 7 , and then to a maximum caloric density of 28 cals / oz .
+Oral feedings were introduced as tolerated .
+By the time of discharge , infant is feedign BM or enfamil 24 cals / oz PO ad lib , with adequate intake and adequate weight gain .
+Last nutrition labs were on 06-20 with AP of 208 , Ca 10.8 , and Phos 7.4.
+Gastrointestinal :
+The infant required phototherapy for hyperbilirubinemia through day of life 7 , with peak bilirubin of 7 / 0.3 on day of life 3 , and last bilirubin of 4.9 / 0.3 on day of life 9 .
+Hematologic / Infectious disease :
+CBC and blood culture were obtained upon admission revealing a white blood cell count of 9.0 with 25 polys and 0 bands ; hematocrit was 46.9% and platelets of 222,000 .
+Baby received 48 hours of Ampicillin and Gentamycin with negative cultures and a stable clinical course .
+Infant was treated with supplemental iron , and did not receive any blood transfusions .
+Last Hct was 30.6 on 06-20 with a reticulocyte count of 6.5%.
+Neurologic :
+Baby has been appropriate for gestational age .
+Social :
+Mother is 17 years old , and has been accompanied on the majority of her visits by her parents , both of whom are students .
+The infant 's maternal grandparents have been very involved in her care .
+Sensory :
+Initial opthalmologic exam on 06-05 revealed immature retinas in zone 3 , and repeat exam on 06-26 revealed mature retinas bilaterally .
+Infant passed hearing screen prior to discharge .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T11" start="1559" end="1573" text="day of life 15" type="AGE_RELATED" relative="TRUE" val="2017-05-29" mod="NA" />
+<RTIMEX3 id="T12" start="2933" end="2946" text="day of life 2" type="AGE_RELATED" relative="TRUE" val="2017-05-16" mod="NA" />
+<RTIMEX3 id="T13" start="2998" end="3011" text="day of life 7" type="AGE_RELATED" relative="TRUE" val="2017-05-21" mod="NA" />
+<RTIMEX3 id="T14" start="3405" end="3418" text="day of life 7" type="AGE_RELATED" relative="TRUE" val="2017-05-21" mod="NA" />
+<RTIMEX3 id="T15" start="3455" end="3468" text="day of life 3" type="AGE_RELATED" relative="TRUE" val="2017-05-17" mod="NA" />
+<RTIMEX3 id="T16" start="3506" end="3519" text="day of life 9" type="AGE_RELATED" relative="TRUE" val="2017-05-23" mod="NA" />
+<RTIMEX3 id="T19" start="428" end="441" text="the 24th week" type="DATE" relative="TRUE" val="2017-03-15" mod="EXT" />
+<ATIMEX3 id="T3" start="1331" end="1341" text="2017-06-04" type="DATE" val="2017-06-04" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="2017-05-14" type="DATE" val="2017-05-14" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T7" start="295" end="300" text="05-01" type="DATE" val="2017-05-01" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="3275" end="3280" text="06-20" type="DATE" val="2017-06-20" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="3942" end="3947" text="06-20" type="DATE" val="2017-06-20" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T6" start="4292" end="4297" text="06-05" type="DATE" val="2017-06-05" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T18" start="4355" end="4360" text="06-26" type="DATE" val="2017-06-26" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2017-06-26" type="DATE" val="2017-06-26" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2017-05-14" type="ADMISSION" dvalue="2017-05-14" />
+<SECTIME id="S1" start="46" end="56" text="2017-06-26" type="DISCHARGE" dvalue="2017-06-26" />
+<ANCHORLINK id="AN0" fromID="T11" fromText="day of life 15" toID="S0" toText="2017-05-14" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T12" fromText="day of life 2" toID="S0" toText="2017-05-14" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T13" fromText="day of life 7" toID="S0" toText="2017-05-14" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T14" fromText="day of life 7" toID="S0" toText="2017-05-14" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T15" fromText="day of life 3" toID="S0" toText="2017-05-14" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T16" fromText="day of life 9" toID="S0" toText="2017-05-14" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -1,0 +1,367 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-05-21
+Discharge Date :
+2012-05-25
+Service :
+CMED CCU
+HISTORY OF PRESENT ILLNESS :
+This is a 55-year-old female with multiple prior admissions for pneumonia , COPD , asthma exacerbation , over 3 weeks of upper respiratory like infection unremitting with increased nebulizer treatments at home .
+The patient saw her PCP and was known to have an oxygen saturation of 82 to 85 percent on room air .
+She was referred to the Emergency Department .
+In the Emergency Department , the patient received Zithromax , ceftriaxone , and Flagyl .
+Chest x-ray was remarkable for a questionable left lower lobe infiltrate .
+The patient received nebulizer treatment with oxygen saturations increasing up to 98 percent on room air .
+HOSPITAL COURSE :
+Shortness of breath .
+The patient was maintained on albuterol nebulizer treatments and Ipratropium nebulizer treatments , as this was apparently thought to be related to her chronic obstructive pulmonary disease .
+Given the presence of consolidation on chest x-ray , however , and previous history of pneumonia , the patient was maintained on antibiotics of Zithromax 500 mg daily and ceftriaxone .
+The patient was also started on Solu-Medrol IV for active airway disease component of her shortness of breath .
+The patient was maintained on supplemental oxygen and sputum production was maximized with the help of an Acapella device and respiratory therapy .
+Mucomyst was also considered as a mucolytic component towards secretions .
+Adrenal insufficiency .
+The patient was maintained on IV Solu - Medrol 60 mg q. 8 h.
+Chest soreness .
+The patient describes chest discomfort without any significant EKG changes .
+The patient was maintained on Percocet p.r.n. for pain relief .
+This was thought to be related to musculoskeletal .
+There was no evidence of acute rib factors on her chest x-ray .
+GI .
+The patient was maintained on PPI for reflux disease and known gastritis .
+CMED .
+The patient has a history of neurogenic bladder and , therefore , she required a Foley catheterization .
+Endocrine .
+The patient was on Levoxyl at home as her home dose for hyperthyroidism .
+CMED CSRU transfer .
+The patient was transferred on the evening of 2012-05-22 to the ICU given persistent carbon dioxide retention and respiratory acidosis and the intermittent mental status changes .
+The patient had had ABG on the floor , which prompted her to transfer to the ICU .
+Her pH was 7.23 , PCO2 73 , PO2 146 on a nonrebreather .
+The patient had BiPAP initiated once she reached the unit , but did not tolerate it , becoming apneic and obstructing .
+The patient was switched to 2 liters nasal cannula and oxygen saturating at 98 to 100 percent .
+After BiPAP was initiated , the patient became hypotensive down to 75/28 and bradycardiac , responding to 3 fluid boluses over the course of the night .
+The patient was started on Florinef for concern of adrenal insufficiency ; however , she was hemodynamically stable that morning and was transferred back out to the floor .
+It was thought that the patient may have been mucous plugging during her stay in the ICU .
+Hematologic .
+The patient has a history of high MCV and megaloblastic cells on smear in the setting of anemia ; question B12 deficiency , the patient also has a history of borderline low B12 levels .
+The patient was diagnosed for B12 deficiency due to her long history of poor p.o. intake .
+Methylmalonic acid levels were sent , the results are pending at the time of discharge .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1019" id="E15" modality="FACTUAL" polarity="POS" start="1008" text="chest x-ray" type="TEST"/>
+<EVENT end="1065" id="E16" modality="FACTUAL" polarity="POS" start="1056" text="pneumonia" type="PROBLEM"/>
+<EVENT end="1109" id="E17" modality="FACTUAL" polarity="POS" start="1098" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1122" id="E18" modality="FACTUAL" polarity="POS" start="1113" text="Zithromax" type="TREATMENT"/>
+<EVENT end="1151" id="E19" modality="FACTUAL" polarity="POS" start="1140" text="ceftriaxone" type="TREATMENT"/>
+<EVENT end="1200" id="E20" modality="FACTUAL" polarity="POS" start="1186" text="Solu-Medrol IV" type="TREATMENT"/>
+<EVENT end="1236" id="E21" modality="FACTUAL" polarity="POS" start="1205" text="active airway disease component" type="PROBLEM"/>
+<EVENT end="1263" id="E22" modality="FACTUAL" polarity="POS" start="1240" text="her shortness of breath" type="PROBLEM"/>
+<EVENT end="1315" id="E23" modality="FACTUAL" polarity="POS" start="1296" text="supplemental oxygen" type="TREATMENT"/>
+<EVENT end="1337" id="E79" modality="FACTUAL" polarity="POS" start="1320" text="sputum production" type="OCCURRENCE"/>
+<EVENT end="1387" id="E24" modality="FACTUAL" polarity="POS" start="1369" text="an Acapella device" type="TREATMENT"/>
+<EVENT end="1411" id="E25" modality="FACTUAL" polarity="POS" start="1392" text="respiratory therapy" type="TREATMENT"/>
+<EVENT end="1422" id="E26" modality="FACTUAL" polarity="POS" start="1414" text="Mucomyst" type="TREATMENT"/>
+<EVENT end="1467" id="E27" modality="FACTUAL" polarity="POS" start="1446" text="a mucolytic component" type="TREATMENT"/>
+<EVENT end="1486" id="E28" modality="FACTUAL" polarity="POS" start="1476" text="secretions" type="PROBLEM"/>
+<EVENT end="1510" id="E29" modality="FACTUAL" polarity="POS" start="1489" text="Adrenal insufficiency" type="PROBLEM"/>
+<EVENT end="164" id="E72" modality="FACTUAL" polarity="POS" start="154" text="admissions" type="OCCURRENCE"/>
+<EVENT end="1559" id="E30" modality="FACTUAL" polarity="POS" start="1543" text="IV Solu - Medrol" type="TREATMENT"/>
+<EVENT end="1588" id="E31" modality="FACTUAL" polarity="POS" start="1574" text="Chest soreness" type="PROBLEM"/>
+<EVENT end="1612" id="E80" modality="FACTUAL" polarity="POS" start="1603" text="describes" type="EVIDENTIAL"/>
+<EVENT end="1629" id="E32" modality="FACTUAL" polarity="POS" start="1613" text="chest discomfort" type="PROBLEM"/>
+<EVENT end="1665" id="E33" modality="FACTUAL" polarity="NEG" start="1638" text="any significant EKG changes" type="PROBLEM"/>
+<EVENT end="178" id="E1" modality="FACTUAL" polarity="POS" start="169" text="pneumonia" type="PROBLEM"/>
+<EVENT end="1706" id="E34" modality="FACTUAL" polarity="POS" start="1698" text="Percocet" type="TREATMENT"/>
+<EVENT end="1729" id="E35" modality="FACTUAL" polarity="POS" start="1718" text="pain relief" type="TREATMENT"/>
+<EVENT end="1781" id="E81" modality="POSSIBLE" polarity="POS" start="1766" text="musculoskeletal" type="OCCURRENCE"/>
+<EVENT end="185" id="E73" modality="FACTUAL" polarity="POS" start="181" text="COPD" type="PROBLEM"/>
+<EVENT end="1826" id="E82" modality="FACTUAL" polarity="NEG" start="1809" text="acute rib factors" type="PROBLEM"/>
+<EVENT end="1845" id="E36" modality="FACTUAL" polarity="POS" start="1830" text="her chest x-ray" type="TEST"/>
+<EVENT end="207" id="E2" modality="FACTUAL" polarity="POS" start="188" text="asthma exacerbation" type="PROBLEM"/>
+<EVENT end="1886" id="E37" modality="FACTUAL" polarity="POS" start="1883" text="PPI" type="TREATMENT"/>
+<EVENT end="1905" id="E83" modality="FACTUAL" polarity="POS" start="1891" text="reflux disease" type="PROBLEM"/>
+<EVENT end="1925" id="E84" modality="FACTUAL" polarity="POS" start="1910" text="known gastritis" type="PROBLEM"/>
+<EVENT end="1982" id="E38" modality="FACTUAL" polarity="POS" start="1964" text="neurogenic bladder" type="PROBLEM"/>
+<EVENT end="2037" id="E39" modality="FACTUAL" polarity="POS" start="2014" text="a Foley catheterization" type="TREATMENT"/>
+<EVENT end="2078" id="E40" modality="FACTUAL" polarity="POS" start="2071" text="Levoxyl" type="TREATMENT"/>
+<EVENT end="2123" id="E41" modality="FACTUAL" polarity="POS" start="2108" text="hyperthyroidism" type="PROBLEM"/>
+<EVENT end="2135" id="E85" modality="FACTUAL" polarity="POS" start="2126" text="CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="2144" id="E69" modality="FACTUAL" polarity="POS" start="2136" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2174" id="E70" modality="FACTUAL" polarity="POS" start="2163" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2214" id="E67" modality="FACTUAL" polarity="POS" start="2207" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2256" id="E42" modality="FACTUAL" polarity="POS" start="2221" text="persistent carbon dioxide retention" type="PROBLEM"/>
+<EVENT end="258" id="E3" modality="FACTUAL" polarity="POS" start="226" text="upper respiratory like infection" type="PROBLEM"/>
+<EVENT end="2281" id="E43" modality="FACTUAL" polarity="POS" start="2261" text="respiratory acidosis" type="PROBLEM"/>
+<EVENT end="2324" id="E86" modality="FACTUAL" polarity="POS" start="2286" text="the intermittent mental status changes" type="PROBLEM"/>
+<EVENT end="2350" id="E44" modality="FACTUAL" polarity="POS" start="2347" text="ABG" type="TEST"/>
+<EVENT end="2363" id="E98" modality="FACTUAL" polarity="POS" start="2354" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2396" id="E87" modality="FACTUAL" polarity="POS" start="2388" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2407" id="E68" modality="FACTUAL" polarity="POS" start="2400" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2416" id="E45" modality="FACTUAL" polarity="POS" start="2410" text="Her pH" type="TEST"/>
+<EVENT end="2432" id="E46" modality="FACTUAL" polarity="POS" start="2428" text="PCO2" type="TEST"/>
+<EVENT end="2441" id="E47" modality="FACTUAL" polarity="POS" start="2438" text="PO2" type="TEST"/>
+<EVENT end="2464" id="E48" modality="FACTUAL" polarity="POS" start="2449" text="a nonrebreather" type="TREATMENT"/>
+<EVENT end="2488" id="E49" modality="FACTUAL" polarity="POS" start="2483" text="BiPAP" type="TREATMENT"/>
+<EVENT end="2524" id="E88" modality="FACTUAL" polarity="POS" start="2516" text="the unit" type="CLINICAL_DEPT"/>
+<EVENT end="2568" id="E50" modality="FACTUAL" polarity="POS" start="2562" text="apneic" type="PROBLEM"/>
+<EVENT end="2584" id="E51" modality="FACTUAL" polarity="POS" start="2573" text="obstructing" type="PROBLEM"/>
+<EVENT end="2637" id="E52" modality="FACTUAL" polarity="POS" start="2615" text="2 liters nasal cannula" type="TREATMENT"/>
+<EVENT end="2659" id="E89" modality="FACTUAL" polarity="POS" start="2649" text="saturating" type="OCCURRENCE"/>
+<EVENT end="2694" id="E53" modality="FACTUAL" polarity="POS" start="2689" text="BiPAP" type="TREATMENT"/>
+<EVENT end="2741" id="E54" modality="FACTUAL" polarity="POS" start="2730" text="hypotensive" type="PROBLEM"/>
+<EVENT end="306" id="E4" modality="FACTUAL" polarity="POS" start="276" text="increased nebulizer treatments" type="TREATMENT"/>
+<EVENT end="2772" id="E55" modality="FACTUAL" polarity="POS" start="2760" text="bradycardiac" type="PROBLEM"/>
+<EVENT end="2804" id="E56" modality="FACTUAL" polarity="POS" start="2789" text="3 fluid boluses" type="TREATMENT"/>
+<EVENT end="2871" id="E57" modality="FACTUAL" polarity="POS" start="2863" text="Florinef" type="TREATMENT"/>
+<EVENT end="2908" id="E90" modality="POSSIBLE" polarity="POS" start="2887" text="adrenal insufficiency" type="PROBLEM"/>
+<EVENT end="38" id="E65" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2951" id="E91" modality="FACTUAL" polarity="POS" start="2929" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="2984" id="E71" modality="FACTUAL" polarity="POS" start="2973" text="transferred" type="OCCURRENCE"/>
+<EVENT end="3006" id="E92" modality="FACTUAL" polarity="POS" start="2997" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="3070" id="E93" modality="POSSIBLE" polarity="POS" start="3055" text="mucous plugging" type="PROBLEM"/>
+<EVENT end="3097" id="E94" modality="FACTUAL" polarity="POS" start="3090" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="3151" id="E58" modality="FACTUAL" polarity="POS" start="3143" text="high MCV" type="PROBLEM"/>
+<EVENT end="3175" id="E59" modality="FACTUAL" polarity="POS" start="3156" text="megaloblastic cells" type="PROBLEM"/>
+<EVENT end="3184" id="E60" modality="FACTUAL" polarity="POS" start="3179" text="smear" type="TEST"/>
+<EVENT end="3209" id="E61" modality="FACTUAL" polarity="POS" start="3203" text="anemia" type="PROBLEM"/>
+<EVENT end="3235" id="E95" modality="POSSIBLE" polarity="POS" start="3221" text="B12 deficiency" type="PROBLEM"/>
+<EVENT end="3297" id="E62" modality="FACTUAL" polarity="POS" start="3272" text="borderline low B12 levels" type="PROBLEM"/>
+<EVENT end="3344" id="E63" modality="FACTUAL" polarity="POS" start="3330" text="B12 deficiency" type="PROBLEM"/>
+<EVENT end="340" id="E74" modality="FACTUAL" polarity="POS" start="333" text="her PCP" type="OCCURRENCE"/>
+<EVENT end="3388" id="E96" modality="FACTUAL" polarity="POS" start="3372" text="poor p.o. intake" type="PROBLEM"/>
+<EVENT end="3416" id="E64" modality="FACTUAL" polarity="POS" start="3391" text="Methylmalonic acid levels" type="TEST"/>
+<EVENT end="3477" id="E97" modality="FACTUAL" polarity="POS" start="3468" text="discharge" type="OCCURRENCE"/>
+<EVENT end="383" id="E5" modality="FACTUAL" polarity="POS" start="363" text="an oxygen saturation" type="TEST"/>
+<EVENT end="462" id="E66" modality="FACTUAL" polarity="POS" start="438" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="492" id="E75" modality="FACTUAL" polarity="POS" start="468" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="525" id="E6" modality="FACTUAL" polarity="POS" start="516" text="Zithromax" type="TREATMENT"/>
+<EVENT end="539" id="E7" modality="FACTUAL" polarity="POS" start="528" text="ceftriaxone" type="TREATMENT"/>
+<EVENT end="552" id="E8" modality="FACTUAL" polarity="POS" start="546" text="Flagyl" type="TREATMENT"/>
+<EVENT end="566" id="E9" modality="FACTUAL" polarity="POS" start="555" text="Chest x-ray" type="TEST"/>
+<EVENT end="627" id="E76" modality="POSSIBLE" polarity="POS" start="601" text="left lower lobe infiltrate" type="PROBLEM"/>
+<EVENT end="670" id="E10" modality="FACTUAL" polarity="POS" start="651" text="nebulizer treatment" type="TREATMENT"/>
+<EVENT end="694" id="E11" modality="FACTUAL" polarity="POS" start="676" text="oxygen saturations" type="TEST"/>
+<EVENT end="774" id="E12" modality="FACTUAL" polarity="POS" start="755" text="Shortness of breath" type="PROBLEM"/>
+<EVENT end="837" id="E13" modality="FACTUAL" polarity="POS" start="807" text="albuterol nebulizer treatments" type="TREATMENT"/>
+<EVENT end="874" id="E77" modality="FACTUAL" polarity="POS" start="842" text="Ipratropium nebulizer treatments" type="TREATMENT"/>
+<EVENT end="966" id="E78" modality="FACTUAL" polarity="POS" start="925" text="her chronic obstructive pulmonary disease" type="PROBLEM"/>
+<EVENT end="1004" id="E14" modality="FACTUAL" polarity="POS" start="991" text="consolidation" type="PROBLEM"/>
+
+
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-05-21" type="DATE" val="2012-05-21"/>
+
+<ATIMEX3 end="2203" id="T6" mod="END" start="2193" text="2012-05-22" type="DATE" val="2012-05-22"/>
+
+<RTIMEX3 end="2964" id="T8" mod="START" start="2952" text="that morning" type="DATE" val="2012-05-23"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-05-25" type="DATE" val="2012-05-25"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-05-21" end="28" id="S0" start="18" text="2012-05-21" type="ADMISSION"/>
+<SECTIME dvalue="2012-05-25" end="56" id="S1" start="46" text="2012-05-25" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

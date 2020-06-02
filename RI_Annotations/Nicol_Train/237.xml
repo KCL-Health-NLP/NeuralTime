@@ -1,0 +1,412 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-03-31
+Discharge Date :
+2016-04-01
+Service :
+MEDICINE
+History of Present Illness :
+50 yo male , h/o CAD s/p stent to LAD in 2011 , Hypercholesterolemia , DM , cocaine abuse , presenting with chest pain .
+He states he had onset of this pain today ; described as anterior chest pain with radiation to right shoulder , 09-26 , was increasing over the course of 45 minutes to 1 hour ( occurred after arrested ).
+He states that he also felt SOB and diaphoretic but denies n/v/palpitations .
+He reports that the pain was increasing in intensity .
+He was brought to Providence Behavioral Health Hospital where he was found to have positive urine cocaine , EKG with new 2-7392 W. Second Cr. elevations in the anterior leads ( v2-5 ) and some ST depressions in II , III , AvF .
+He was given lopressor 5 mg x 2 ( 3rd dose given by medflight , 5 mg morphine , ativan , nitro gtt , heparin , and integrillin .
+Pain was 12-28 at time of transfer .
+In the cath lab , he was found to have hazy plaque in LAD ( prior stent ) , 80% hazy plaque in circumflex , and a totally occluded PLB ( with collaterals ) .
+1 cypher stent was place in the LAD while 2 were placed in Lcx .
+Right system was not intervened upon , for the PLB was unable to be crossed by wire .
+He was transferred to the CCU for observation .
+Brief Hospital Course :
+1. CAD : presented with anginal symptoms and EKG changes ( STEMI ) , with cardiac catheterization revealing lesions in LAD , LcX , and PLB .
+Unclear if hazy lesions significant or if this was cocaine induced vasospasm .
+LAD and LCX were stented , but PLB could not be crossed by guidewire ( were collaterals ) .
+- continue ASA , statin , Plavix ; will hold BB given recent cocaine use ( ? can consider labetalol if necessary ) , Integrillin for 18 hours
+- CK negative .
+TN WNL .
+- post cath check normal
+2. CHF : EF 25% on Echo , states he takes lasix at home
+- Started lisinopril .
+- Consider repeat Echo in 1 month and Quincy Medical Center - V/ICD per discretion of primary cardiologist .
+- kept euvolemic and monitored for signs of overload
+- Low Na diet with 1 liter fluid restriction
+- may need to diurese based on clinical status , swan numbers
+3. Rhythm : No ectopy post cath MI
+4. DM : on metformin at home , will hold given cath / dye adn cover with SSI
+5. Cocaine use : last use this morning , no BB given this ; considered using CCB / phentolamine if chest pain recurs .
+-- Will discuss beta-blocker risks and benefits with primary cardiologist
+-- Pt advised of medical risks of using cocaine
+6. EtOH use : unclear how much , monitor on CIWA for signs of withdrawal , ativan prn
+-- CIWAs were 0 throughout admission
+7. Hyperlipidemia : on lipitor 80 .
+LDL 79 , HDL 51
+8. Social : in police custody , with 24 hr guard , handcuffed to bed
+9. FEN : cardiac diet , watch for aspiration given somnolent status at this time , ck and replete Mg/K/Ca aggressively
+10. Code : FULL
+11. Dispo : back to prison; ? extradition to Hawaii
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1028" id="E4" modality="FACTUAL" polarity="POS" start="1017" text="prior stent" type="TREATMENT"/>
+<EVENT end="1062" id="E61" modality="FACTUAL" polarity="POS" start="1033" text="80% hazy plaque in circumflex" type="PROBLEM"/>
+<EVENT end="1112" id="E62" modality="FACTUAL" polarity="POS" start="1069" text="a totally occluded PLB ( with collaterals )" type="PROBLEM"/>
+<EVENT end="1129" id="E63" modality="FACTUAL" polarity="POS" start="1115" text="1 cypher stent" type="TREATMENT"/>
+<EVENT end="1211" id="E64" modality="FACTUAL" polarity="NEG" start="1201" text="intervened" type="TREATMENT"/>
+<EVENT end="125" id="E28" modality="FACTUAL" polarity="POS" start="122" text="CAD" type="PROBLEM"/>
+<EVENT end="1263" id="E65" modality="FACTUAL" polarity="NEG" start="1259" text="wire" type="TREATMENT"/>
+<EVENT end="1284" id="E66" modality="FACTUAL" polarity="POS" start="1273" text="transferred" type="OCCURRENCE"/>
+<EVENT end="142" id="E1" modality="FACTUAL" polarity="POS" start="130" text="stent to LAD" type="TREATMENT"/>
+<EVENT end="1295" id="E67" modality="FACTUAL" polarity="POS" start="1288" text="the CCU" type="CLINICAL_DEPT"/>
+<EVENT end="1311" id="E68" modality="FACTUAL" polarity="POS" start="1300" text="observation" type="TEST"/>
+<EVENT end="1344" id="E5" modality="FACTUAL" polarity="POS" start="1341" text="CAD" type="PROBLEM"/>
+<EVENT end="1356" id="E69" modality="FACTUAL" polarity="POS" start="1347" text="presented" type="OCCURRENCE"/>
+<EVENT end="1378" id="E6" modality="FACTUAL" polarity="POS" start="1362" text="anginal symptoms" type="PROBLEM"/>
+<EVENT end="1394" id="E7" modality="FACTUAL" polarity="POS" start="1383" text="EKG changes" type="PROBLEM"/>
+<EVENT end="1402" id="E8" modality="FACTUAL" polarity="POS" start="1397" text="STEMI" type="PROBLEM"/>
+<EVENT end="1435" id="E9" modality="FACTUAL" polarity="POS" start="1412" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1476" id="E70" modality="FACTUAL" polarity="POS" start="1446" text="lesions in LAD , LcX , and PLB" type="PROBLEM"/>
+<EVENT end="1502" id="E71" modality="FACTUAL" polarity="POS" start="1490" text="hazy lesions" type="PROBLEM"/>
+<EVENT end="173" id="E2" modality="FACTUAL" polarity="POS" start="153" text="Hypercholesterolemia" type="PROBLEM"/>
+<EVENT end="1555" id="E72" modality="POSSIBLE" polarity="NEG" start="1530" text="cocaine induced vasospasm" type="PROBLEM"/>
+<EVENT end="1582" id="E10" modality="FACTUAL" polarity="POS" start="1575" text="stented" type="TREATMENT"/>
+<EVENT end="1626" id="E11" modality="FACTUAL" polarity="POS" start="1617" text="guidewire" type="TREATMENT"/>
+<EVENT end="1664" id="E73" modality="FACTUAL" polarity="POS" start="1661" text="ASA" type="TREATMENT"/>
+<EVENT end="1673" id="E74" modality="FACTUAL" polarity="POS" start="1667" text="statin" type="TREATMENT"/>
+<EVENT end="1682" id="E75" modality="FACTUAL" polarity="POS" start="1676" text="Plavix" type="TREATMENT"/>
+<EVENT end="1697" id="E76" modality="FACTUAL" polarity="POS" start="1695" text="BB" type="TREATMENT"/>
+<EVENT end="1722" id="E77" modality="FACTUAL" polarity="POS" start="1711" text="cocaine use" type="PROBLEM"/>
+<EVENT end="1749" id="E78" modality="CONDITIONAL" polarity="POS" start="1740" text="labetalol" type="TREATMENT"/>
+<EVENT end="178" id="E3" modality="FACTUAL" polarity="POS" start="176" text="DM" type="PROBLEM"/>
+<EVENT end="1778" id="E79" modality="FACTUAL" polarity="POS" start="1767" text="Integrillin" type="TREATMENT"/>
+<EVENT end="1796" id="E12" modality="FACTUAL" polarity="POS" start="1794" text="CK" type="TEST"/>
+<EVENT end="1810" id="E13" modality="FACTUAL" polarity="POS" start="1808" text="TN" type="TEST"/>
+<EVENT end="194" id="E29" modality="FACTUAL" polarity="POS" start="181" text="cocaine abuse" type="PROBLEM"/>
+<EVENT end="1834" id="E14" modality="FACTUAL" polarity="POS" start="1819" text="post cath check" type="TEST"/>
+<EVENT end="1848" id="E15" modality="FACTUAL" polarity="POS" start="1845" text="CHF" type="PROBLEM"/>
+<EVENT end="1853" id="E16" modality="FACTUAL" polarity="POS" start="1851" text="EF" type="TEST"/>
+<EVENT end="1865" id="E17" modality="FACTUAL" polarity="POS" start="1861" text="Echo" type="TEST"/>
+<EVENT end="1889" id="E18" modality="FACTUAL" polarity="POS" start="1884" text="lasix" type="TREATMENT"/>
+<EVENT end="1918" id="E19" modality="FACTUAL" polarity="POS" start="1908" text="lisinopril" type="TREATMENT"/>
+<EVENT end="1943" id="E80" modality="PROPOSED" polarity="POS" start="1932" text="repeat Echo" type="TEST"/>
+<EVENT end="1980" id="E81" modality="FACTUAL" polarity="POS" start="1959" text="Quincy Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="207" id="E30" modality="FACTUAL" polarity="POS" start="197" text="presenting" type="EVIDENTIAL"/>
+<EVENT end="1988" id="E82" modality="PROPOSED" polarity="POS" start="1983" text="V/ICD" type="TREATMENT"/>
+<EVENT end="2046" id="E83" modality="FACTUAL" polarity="POS" start="2037" text="euvolemic" type="OCCURRENCE"/>
+<EVENT end="2060" id="E84" modality="FACTUAL" polarity="POS" start="2051" text="monitored" type="TEST"/>
+<EVENT end="2082" id="E85" modality="FACTUAL" polarity="NEG" start="2074" text="overload" type="PROBLEM"/>
+<EVENT end="2096" id="E86" modality="FACTUAL" polarity="POS" start="2085" text="Low Na diet" type="TREATMENT"/>
+<EVENT end="2127" id="E87" modality="FACTUAL" polarity="POS" start="2102" text="1 liter fluid restriction" type="TREATMENT"/>
+<EVENT end="223" id="E31" modality="FACTUAL" polarity="POS" start="213" text="chest pain" type="PROBLEM"/>
+<EVENT end="2149" id="E88" modality="CONDITIONAL" polarity="POS" start="2142" text="diurese" type="TREATMENT"/>
+<EVENT end="2189" id="E89" modality="FACTUAL" polarity="POS" start="2177" text="swan numbers" type="TEST"/>
+<EVENT end="2199" id="E90" modality="FACTUAL" polarity="POS" start="2193" text="Rhythm" type="TEST"/>
+<EVENT end="2211" id="E91" modality="FACTUAL" polarity="NEG" start="2205" text="ectopy" type="PROBLEM"/>
+<EVENT end="2221" id="E92" modality="FACTUAL" polarity="POS" start="2217" text="cath" type="TREATMENT"/>
+<EVENT end="2224" id="E93" modality="FACTUAL" polarity="POS" start="2222" text="MI" type="PROBLEM"/>
+<EVENT end="2230" id="E94" modality="FACTUAL" polarity="POS" start="2228" text="DM" type="PROBLEM"/>
+<EVENT end="2245" id="E20" modality="FACTUAL" polarity="POS" start="2236" text="metformin" type="TREATMENT"/>
+<EVENT end="2282" id="E95" modality="FACTUAL" polarity="POS" start="2272" text="cath / dye" type="TREATMENT"/>
+<EVENT end="235" id="E32" modality="FACTUAL" polarity="POS" start="229" text="states" type="EVIDENTIAL"/>
+<EVENT end="2301" id="E96" modality="FACTUAL" polarity="POS" start="2298" text="SSI" type="TREATMENT"/>
+<EVENT end="2316" id="E97" modality="FACTUAL" polarity="POS" start="2305" text="Cocaine use" type="PROBLEM"/>
+<EVENT end="2348" id="E21" modality="FACTUAL" polarity="NEG" start="2346" text="BB" type="TREATMENT"/>
+<EVENT end="2382" id="E98" modality="CONDITIONAL" polarity="POS" start="2379" text="CCB" type="TREATMENT"/>
+<EVENT end="2397" id="E99" modality="CONDITIONAL" polarity="POS" start="2385" text="phentolamine" type="TREATMENT"/>
+<EVENT end="2411" id="E100" modality="CONDITIONAL" polarity="POS" start="2401" text="chest pain" type="PROBLEM"/>
+<EVENT end="2449" id="E101" modality="CONDITIONAL" polarity="POS" start="2437" text="beta-blocker" type="TREATMENT"/>
+<EVENT end="2508" id="E102" modality="FACTUAL" polarity="POS" start="2501" text="advised" type="OCCURRENCE"/>
+<EVENT end="261" id="E33" modality="FACTUAL" polarity="POS" start="252" text="this pain" type="PROBLEM"/>
+<EVENT end="2542" id="E103" modality="FACTUAL" polarity="POS" start="2529" text="using cocaine" type="PROBLEM"/>
+<EVENT end="2554" id="E104" modality="FACTUAL" polarity="POS" start="2546" text="EtOH use" type="PROBLEM"/>
+<EVENT end="2591" id="E105" modality="FACTUAL" polarity="POS" start="2587" text="CIWA" type="TEST"/>
+<EVENT end="2615" id="E106" modality="CONDITIONAL" polarity="NEG" start="2605" text="withdrawal" type="PROBLEM"/>
+<EVENT end="2624" id="E107" modality="CONDITIONAL" polarity="POS" start="2618" text="ativan" type="TREATMENT"/>
+<EVENT end="2637" id="E22" modality="FACTUAL" polarity="POS" start="2632" text="CIWAs" type="TEST"/>
+<EVENT end="2665" id="E27" modality="FACTUAL" polarity="POS" start="2656" text="admission" type="OCCURRENCE"/>
+<EVENT end="2683" id="E108" modality="FACTUAL" polarity="POS" start="2669" text="Hyperlipidemia" type="PROBLEM"/>
+<EVENT end="2696" id="E109" modality="FACTUAL" polarity="POS" start="2689" text="lipitor" type="TREATMENT"/>
+<EVENT end="279" id="E34" modality="FACTUAL" polarity="POS" start="270" text="described" type="EVIDENTIAL"/>
+<EVENT end="2705" id="E23" modality="FACTUAL" polarity="POS" start="2702" text="LDL" type="TEST"/>
+<EVENT end="2714" id="E24" modality="FACTUAL" polarity="POS" start="2711" text="HDL" type="TEST"/>
+<EVENT end="2747" id="E110" modality="FACTUAL" polarity="POS" start="2733" text="police custody" type="OCCURRENCE"/>
+<EVENT end="2786" id="E111" modality="FACTUAL" polarity="POS" start="2769" text="handcuffed to bed" type="OCCURRENCE"/>
+<EVENT end="2808" id="E112" modality="FACTUAL" polarity="POS" start="2796" text="cardiac diet" type="TREATMENT"/>
+<EVENT end="302" id="E35" modality="FACTUAL" polarity="POS" start="283" text="anterior chest pain" type="PROBLEM"/>
+<EVENT end="2831" id="E113" modality="CONDITIONAL" polarity="POS" start="2821" text="aspiration" type="PROBLEM"/>
+<EVENT end="2854" id="E114" modality="FACTUAL" polarity="POS" start="2838" text="somnolent status" type="PROBLEM"/>
+<EVENT end="2872" id="E25" modality="FACTUAL" polarity="POS" start="2870" text="ck" type="TEST"/>
+<EVENT end="2892" id="E115" modality="FACTUAL" polarity="POS" start="2885" text="Mg/K/Ca" type="TREATMENT"/>
+<EVENT end="38" id="E26" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="335" id="E36" modality="FACTUAL" polarity="POS" start="308" text="radiation to right shoulder" type="PROBLEM"/>
+<EVENT end="360" id="E37" modality="FACTUAL" polarity="POS" start="350" text="increasing" type="OCCURRENCE"/>
+<EVENT end="426" id="E38" modality="FACTUAL" polarity="POS" start="418" text="arrested" type="OCCURRENCE"/>
+<EVENT end="439" id="E39" modality="FACTUAL" polarity="POS" start="433" text="states" type="EVIDENTIAL"/>
+<EVENT end="461" id="E40" modality="FACTUAL" polarity="POS" start="458" text="SOB" type="PROBLEM"/>
+<EVENT end="477" id="E41" modality="FACTUAL" polarity="POS" start="466" text="diaphoretic" type="PROBLEM"/>
+<EVENT end="505" id="E42" modality="FACTUAL" polarity="NEG" start="489" text="n/v/palpitations" type="PROBLEM"/>
+<EVENT end="518" id="E43" modality="FACTUAL" polarity="POS" start="511" text="reports" type="EVIDENTIAL"/>
+<EVENT end="532" id="E44" modality="FACTUAL" polarity="POS" start="524" text="the pain" type="PROBLEM"/>
+<EVENT end="547" id="E45" modality="FACTUAL" polarity="POS" start="537" text="increasing" type="OCCURRENCE"/>
+<EVENT end="618" id="E46" modality="FACTUAL" polarity="POS" start="581" text="Providence Behavioral Health Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="668" id="E47" modality="FACTUAL" polarity="POS" start="655" text="urine cocaine" type="PROBLEM"/>
+<EVENT end="674" id="E48" modality="FACTUAL" polarity="POS" start="671" text="EKG" type="TEST"/>
+<EVENT end="746" id="E49" modality="FACTUAL" polarity="POS" start="705" text="elevations in the anterior leads ( v2-5 )" type="PROBLEM"/>
+<EVENT end="788" id="E50" modality="FACTUAL" polarity="POS" start="751" text="some ST depressions in II , III , AvF" type="PROBLEM"/>
+<EVENT end="813" id="E51" modality="FACTUAL" polarity="POS" start="804" text="lopressor" type="TREATMENT"/>
+<EVENT end="868" id="E52" modality="FACTUAL" polarity="POS" start="860" text="morphine" type="TREATMENT"/>
+<EVENT end="877" id="E53" modality="FACTUAL" polarity="POS" start="871" text="ativan" type="TREATMENT"/>
+<EVENT end="889" id="E54" modality="FACTUAL" polarity="POS" start="880" text="nitro gtt" type="TREATMENT"/>
+<EVENT end="899" id="E55" modality="FACTUAL" polarity="POS" start="892" text="heparin" type="TREATMENT"/>
+<EVENT end="917" id="E56" modality="FACTUAL" polarity="POS" start="906" text="integrillin" type="TREATMENT"/>
+<EVENT end="924" id="E57" modality="FACTUAL" polarity="POS" start="920" text="Pain" type="PROBLEM"/>
+<EVENT end="954" id="E58" modality="FACTUAL" polarity="POS" start="946" text="transfer" type="OCCURRENCE"/>
+<EVENT end="972" id="E59" modality="FACTUAL" polarity="POS" start="960" text="the cath lab" type="CLINICAL_DEPT"/>
+<EVENT end="1014" id="E60" modality="FACTUAL" polarity="POS" start="996" text="hazy plaque in LAD" type="PROBLEM"/>
+<ATIMEX3 end="150" id="T3" mod="NA" start="146" text="2011" type="DATE" val="2011"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2016-03-31" type="DATE" val="2016-03-31"/>
+<ATIMEX3 end="1954" id="T6" mod="APPROX" start="1947" text="1 month" type="DATE" val="2016-05-01"/>
+<RTIMEX3 end="2340" id="T7" mod="START" start="2328" text="this morning" type="DATE" val="2016-03-31"/>
+<RTIMEX3 end="267" id="T4" mod="NA" start="262" text="today" type="DATE" val="2016-03-31"/>
+
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2016-04-01" type="DATE" val="2016-04-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2016-03-31" end="28" id="S0" start="18" text="2016-03-31" type="ADMISSION"/>
+<SECTIME dvalue="2016-04-01" end="56" id="S1" start="46" text="2016-04-01" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,215 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2014-11-13
+Discharge Date :
+2014-12-05
+Service :
+Neonatology
+HISTORY :
+Baby Boy Timberlake was born to a 25 - year-old G-8 , P-4 to 5 mom with Julie type B positive , antibody negative , hepatitis B surface antigen negative , rubella immune , RPR nonreactive , GBS positive with a history of infrequent prenatal care since 28 weeks time and preterm labor .
+Mother had a history of anxiety and asthma as well as moderate cigarette smoking .
+The baby was delivered through normal spontaneous vaginal delivery with brief blow by with Apgars of 8 and 9 .
+Father of baby not involved at this time .
+The patient 's pediatrician is Wellesley House and is Dr . Shaw .
+The patient has many siblings , all of which are girls .
+HOSPITAL COURSE :
+By systems :
+Respiratory .
+After receiving brief blow by oxygen in the delivery room , the patient had no further episodes of ventilatory assistance required with good respiratory rate consistently .
+The patient was never placed on caffeine .
+He is stable in room air at this time .
+Cardiovascular .
+No active issues .
+No history of hypotension .
+On no medications at this time .
+Notably with respect to apnea and bradycardia of prematurity , the patient has reached 5 days without significant apneic or bradycardic spells as of the time of discharge .
+Fluids , electrolytes and nutrition .
+The patient reached full volume feeds by day of life 6 and had calories increased to maximum of 26 kilocalories per ounce of Similac special care until 2014-12-03 , at which point this was weaned to 24 kilocalories per ounce of straight Similac .
+This is the baby 's discharge feedings and he is p.o. ad lib with a minimum of 130 ml/kg/day , the patient has taken on an average greater than 150 ml/kg/day ad lib over each of the past 5 days .
+GI .
+The patient with peak bilirubin of 6.5 on day of life 3 .
+No phototherapy was required .
+Hematology / Infectious Disease .
+The patient 's hematocrit at delivery was 48 , with a white count of 11.2 and platelets of 301,000 .
+Initial differential was 35 polys and zero bands , not suspicious for infectious condition .
+The patient was initially treated with 48 hours of ampicillin and gentamicin until blood cultures were negative .
+The infant has had no antibiotics since that time .
+Neurology .
+No issues .
+Sensory .
+Hearing screen was performed with automated auditory brainstem responses and was normal on 2014-11-24 .
+Ophthalmology .
+The patient did not qualify for routine ophthalmology exams due to his gestational age at birth .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1008" id="E41" modality="FACTUAL" polarity="POS" start="1002" text="stable" type="OCCURRENCE"/>
+<EVENT end="1069" id="E42" modality="FACTUAL" polarity="NEG" start="1056" text="active issues" type="OCCURRENCE"/>
+<EVENT end="1097" id="E8" modality="FACTUAL" polarity="NEG" start="1086" text="hypotension" type="PROBLEM"/>
+<EVENT end="1117" id="E43" modality="FACTUAL" polarity="NEG" start="1106" text="medications" type="TREATMENT"/>
+<EVENT end="1162" id="E9" modality="FACTUAL" polarity="POS" start="1157" text="apnea" type="PROBLEM"/>
+<EVENT end="1193" id="E10" modality="FACTUAL" polarity="POS" start="1167" text="bradycardia of prematurity" type="PROBLEM"/>
+<EVENT end="1275" id="E44" modality="FACTUAL" polarity="NEG" start="1235" text="significant apneic or bradycardic spells" type="PROBLEM"/>
+<EVENT end="1381" id="E45" modality="FACTUAL" polarity="POS" start="1364" text="full volume feeds" type="TREATMENT"/>
+<EVENT end="1489" id="E11" modality="FACTUAL" polarity="POS" start="1469" text="Similac special care" type="TREATMENT"/>
+<EVENT end="1528" id="E46" modality="FACTUAL" polarity="POS" start="1524" text="this" type="TREATMENT"/>
+<EVENT end="1588" id="E12" modality="FACTUAL" polarity="POS" start="1572" text="straight Similac" type="TREATMENT"/>
+<EVENT end="1595" id="E47" modality="FACTUAL" polarity="POS" start="1591" text="This" type="TREATMENT"/>
+<EVENT end="1629" id="E48" modality="FACTUAL" polarity="POS" start="1611" text="discharge feedings" type="OCCURRENCE"/>
+<EVENT end="1707" id="E53" modality="FACTUAL" polarity="POS" start="1702" text="taken" type="OCCURRENCE"/>
+<EVENT end="1823" id="E13" modality="FACTUAL" polarity="POS" start="1809" text="peak bilirubin" type="TEST"/>
+<EVENT end="193" id="E31" modality="FACTUAL" polarity="POS" start="185" text="antibody" type="TEST"/>
+<EVENT end="1865" id="E49" modality="FACTUAL" polarity="NEG" start="1853" text="phototherapy" type="TREATMENT"/>
+<EVENT end="1940" id="E14" modality="FACTUAL" polarity="POS" start="1915" text="The patient 's hematocrit" type="TEST"/>
+<EVENT end="1952" id="E29" modality="FACTUAL" polarity="POS" start="1944" text="delivery" type="OCCURRENCE"/>
+<EVENT end="1980" id="E15" modality="FACTUAL" polarity="POS" start="1967" text="a white count" type="TEST"/>
+<EVENT end="2002" id="E16" modality="FACTUAL" polarity="POS" start="1993" text="platelets" type="TEST"/>
+<EVENT end="2036" id="E17" modality="FACTUAL" polarity="POS" start="2016" text="Initial differential" type="TEST"/>
+<EVENT end="232" id="E32" modality="FACTUAL" polarity="POS" start="205" text="hepatitis B surface antigen" type="TEST"/>
+<EVENT end="2049" id="E18" modality="FACTUAL" polarity="POS" start="2041" text="35 polys" type="TEST"/>
+<EVENT end="2064" id="E19" modality="FACTUAL" polarity="POS" start="2054" text="zero bands" type="TEST"/>
+<EVENT end="2106" id="E20" modality="FACTUAL" polarity="NEG" start="2086" text="infectious condition" type="PROBLEM"/>
+<EVENT end="2170" id="E21" modality="FACTUAL" polarity="POS" start="2160" text="ampicillin" type="TREATMENT"/>
+<EVENT end="2185" id="E22" modality="FACTUAL" polarity="POS" start="2175" text="gentamicin" type="TREATMENT"/>
+<EVENT end="2206" id="E23" modality="FACTUAL" polarity="POS" start="2192" text="blood cultures" type="TEST"/>
+<EVENT end="2220" id="E50" modality="FACTUAL" polarity="POS" start="2212" text="negative" type="OCCURRENCE"/>
+<EVENT end="2256" id="E24" modality="FACTUAL" polarity="NEG" start="2245" text="antibiotics" type="TREATMENT"/>
+<EVENT end="2323" id="E25" modality="FACTUAL" polarity="POS" start="2309" text="Hearing screen" type="TEST"/>
+<EVENT end="2381" id="E26" modality="FACTUAL" polarity="POS" start="2343" text="automated auditory brainstem responses" type="TEST"/>
+<EVENT end="2396" id="E51" modality="FACTUAL" polarity="POS" start="2390" text="normal" type="OCCURRENCE"/>
+<EVENT end="258" id="E33" modality="FACTUAL" polarity="POS" start="244" text="rubella immune" type="TEST"/>
+<EVENT end="2488" id="E27" modality="FACTUAL" polarity="NEG" start="2461" text="routine ophthalmology exams" type="TEST"/>
+<EVENT end="2524" id="E52" modality="FACTUAL" polarity="POS" start="2519" text="birth" type="OCCURRENCE"/>
+<EVENT end="264" id="E34" modality="FACTUAL" polarity="POS" start="261" text="RPR" type="TEST"/>
+<EVENT end="291" id="E35" modality="FACTUAL" polarity="POS" start="279" text="GBS positive" type="PROBLEM"/>
+<EVENT end="38" id="E30" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="480" id="E36" modality="FACTUAL" polarity="POS" start="471" text="delivered" type="OCCURRENCE"/>
+<EVENT end="524" id="E3" modality="FACTUAL" polarity="POS" start="489" text="normal spontaneous vaginal delivery" type="TREATMENT"/>
+<EVENT end="543" id="E4" modality="FACTUAL" polarity="POS" start="530" text="brief blow by" type="TREATMENT"/>
+<EVENT end="555" id="E5" modality="FACTUAL" polarity="POS" start="549" text="Apgars" type="TEST"/>
+<EVENT end="816" id="E6" modality="FACTUAL" polarity="POS" start="796" text="brief blow by oxygen" type="TREATMENT"/>
+<EVENT end="837" id="E37" modality="FACTUAL" polarity="POS" start="820" text="the delivery room" type="CLINICAL_DEPT"/>
+<EVENT end="875" id="E38" modality="FACTUAL" polarity="NEG" start="859" text="further episodes" type="PROBLEM"/>
+<EVENT end="901" id="E39" modality="FACTUAL" polarity="POS" start="879" text="ventilatory assistance" type="TREATMENT"/>
+<EVENT end="937" id="E40" modality="FACTUAL" polarity="POS" start="916" text="good respiratory rate" type="OCCURRENCE"/>
+<EVENT end="993" id="E7" modality="FACTUAL" polarity="NEG" start="985" text="caffeine" type="TREATMENT"/>
+<RTIMEX3 end="1033" id="T0" mod="NA" start="1024" text="this time" type="DATE" val="2014-12-05"/>
+<RTIMEX3 end="1130" id="T8" mod="NA" start="1121" text="this time" type="DATE" val="2014-12-05"/>
+
+<RTIMEX3 end="1303" id="T14" mod="NA" start="1282" text="the time of discharge" type="DATE" val="2014-12-05"/>
+<RTIMEX3 end="1398" id="T9" mod="NA" start="1385" text="day of life 6" type="DATE" val="2014-11-18"/>
+<ATIMEX3 end="1506" id="T5" mod="NA" start="1496" text="2014-12-03" type="DATE" val="2014-12-03"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2014-11-13" type="DATE" val="2014-11-13"/>
+<RTIMEX3 end="1847" id="T11" mod="NA" start="1834" text="day of life 3" type="DATE" val="2014-11-15"/>
+
+<RTIMEX3 end="2272" id="T12" mod="NA" start="2263" text="that time" type="DATE" val="2014-11-15"/>
+<ATIMEX3 end="2410" id="T7" mod="NA" start="2400" text="2014-11-24" type="DATE" val="2014-11-24"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2014-12-05" type="DATE" val="2014-12-05"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2014-11-13" end="28" id="S0" start="18" text="2014-11-13" type="ADMISSION"/>
+<SECTIME dvalue="2014-12-05" end="56" id="S1" start="46" text="2014-12-05" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

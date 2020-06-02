@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+11/30/1993
+Discharge Date :
+12/07/1993
+HISTORY OF PRESENT ILLNESS :
+The patient is a 40 year old woman with end stage renal disease , on hemodialysis since 12/91 .
+This was secondary to polycystic kidneydisease , which was noted since age 12 .
+She is status post cadaveric renal allograft in 03/93 , and she subsequently underwent an early postoperative transplant nephrectomy secondary to rupture .
+He has been having difficult access problems and now has a left upper arm PTFE .
+She had been placed on emergency transplant for this difficult access problem .
+Otherwise , she has been healthy and her last hemodialysis was the day prior to transplant .
+HOSPITAL COURSE :
+She was taken to the Operating Room on 11/30/93 where Dr. Tiveloydherdes performed a cadaveric renal allograft to the left iliac fossa which she tolerated well .
+Postoperative course was unremarkable .
+She was started on her immunosuppressive agents as per protocol .
+Her creatinine fell to the normal range early .
+Over several days she continued to make good amounts or urine .
+She was gradually advanced to a regular diet .
+Her prednisone was tapered to a stable dose .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T4" start="253" end="259" text="age 12" type="DATE" relative="TRUE" val="1965" mod="APPROX" />
+<RTIMEX3 id="T9" start="642" end="649" text="the day" type="DATE" relative="TRUE" val="1993-11-29" mod="NA" />
+<ATIMEX3 id="T0" start="174" end="179" text="12/91" type="DATE" val="1991-12" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="11/30/1993" type="DATE" val="1993-11-30" mod="NA" />
+<ATIMEX3 id="T5" start="310" end="315" text="03/93" type="DATE" val="1993-03" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="12/07/1993" type="DATE" val="1993-12-07" mod="NA" />
+<ATIMEX3 id="T3" start="729" end="737" text="11/30/93" type="DATE" val="1993-11-30" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="11/30/1993" type="ADMISSION" dvalue="1993-11-30" />
+<SECTIME id="S1" start="46" end="56" text="12/07/1993" type="DISCHARGE" dvalue="1993-12-07" />
+<ANCHORLINK id="AN0" fromID="T9" fromText="the day" toID="T5" toText="03/93" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T4" fromText="age 12" toID="S0" toText="11/30/1993" relation="BEFORE" />
+</TAGS>
+</RelativeTemporalAnnotation>

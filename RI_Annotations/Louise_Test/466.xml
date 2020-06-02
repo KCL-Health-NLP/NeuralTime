@@ -1,0 +1,328 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+03/13/2006
+Discharge Date :
+03/19/2006
+Service :
+MED
+HPI :
+75 y / o F with DM , COPD on 2L NC and Bipap at night p / w generalized weakness and fatigue , urinary incontinence and shaking as well as increased sputum production .
+Per daughter these symptoms are typical of COPD flare .
+ROS otherwise negative .
+Admission Status :
+ED :
+REc&apos;d duonebs , solumedrol 125
+Vitals :
+t97.5 , hr 117 , bp156/81 , rr28 , o2 sats 87% RA ; 95% 4L
+Exam :
+NAD , pleasant , speaking in complete sentences , poor air movement bilaterally , L &gt; R , no wheezes or rales , rrr , distant , abd benign , no edema , alert and oriented times three , no focal deficits , conversant Studies :
+- EKG sinus 92 , no ST changes
+- CXR no focal consolidation or edema , old biapical scarring ABG 7.34/79/74 U / A negative
+Daily Status :
+improving , but still poor air movement , diffusely wheezy on exam , at baseline 2L o2 requirement
+A / P :
+75 y / o F with h / o COPD c / b frequent exacerbations p / w typical flare symptoms .
+Problem List :
+CV - Ischemia ASA , lisinopril Pump no evidence of failure
+Rhythm Resp - COPD
+flare - steroids , cont prednisone 60 , taper slowly as tolerated , duonebs , advair , singulair , spiriva , claritin azithromycin for atypical bronchitis to complete a 5 day course , keep o2 sat 90-94 , home nocturnal CPAP not tolerated in house , does well on nc , appears ato be at baseline
+Renal -
+Cr 0.8 , stress incontinence by symptoms with increased cough , no evidence of uti , cont to closely monitor
+GI - Bowel regimen
+Heme - Chronic Fe deficiency anemia , cont iron
+Endo - DM on insulin with steroids
+ID - afebrile , no wbc , started on Azithromycin for COPD flare
+FEN - ADA diet
+PPx - Lovenox , PPI
+Dispo - to rehab when resp status improved , PT consulted
+Code - FC
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+f / u with PCP and Dr. Pump as scheduled , return to ED with worsening sob or increased cough or sputum production
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1051" id="E47" modality="FACTUAL" polarity="POS" start="1043" text="Ischemia" type="PROBLEM"/>
+<EVENT end="111" id="E4" modality="FACTUAL" polarity="POS" start="106" text="2L NC" type="TREATMENT"/>
+<EVENT end="1073" id="E48" modality="FACTUAL" polarity="POS" start="1058" text="lisinopril Pump" type="TREATMENT"/>
+<EVENT end="1096" id="E49" modality="FACTUAL" polarity="NEG" start="1089" text="failure" type="PROBLEM"/>
+<EVENT end="1115" id="E50" modality="FACTUAL" polarity="POS" start="1111" text="COPD" type="PROBLEM"/>
+<EVENT end="1121" id="E51" modality="FACTUAL" polarity="POS" start="1116" text="flare" type="PROBLEM"/>
+<EVENT end="1132" id="E52" modality="FACTUAL" polarity="POS" start="1124" text="steroids" type="TREATMENT"/>
+<EVENT end="1150" id="E53" modality="FACTUAL" polarity="POS" start="1140" text="prednisone" type="TREATMENT"/>
+<EVENT end="121" id="E5" modality="FACTUAL" polarity="POS" start="116" text="Bipap" type="TREATMENT"/>
+<EVENT end="1168" id="E54" modality="FACTUAL" polarity="POS" start="1156" text="taper slowly" type="OCCURRENCE"/>
+<EVENT end="1181" id="E55" modality="FACTUAL" polarity="POS" start="1172" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1191" id="E56" modality="FACTUAL" polarity="POS" start="1184" text="duonebs" type="TREATMENT"/>
+<EVENT end="1200" id="E57" modality="FACTUAL" polarity="POS" start="1194" text="advair" type="TREATMENT"/>
+<EVENT end="1212" id="E58" modality="FACTUAL" polarity="POS" start="1203" text="singulair" type="TREATMENT"/>
+<EVENT end="1222" id="E59" modality="FACTUAL" polarity="POS" start="1215" text="spiriva" type="TREATMENT"/>
+<EVENT end="1233" id="E62" modality="FACTUAL" polarity="POS" start="1225" text="claritin" type="TREATMENT"/>
+<EVENT end="1246" id="E60" modality="FACTUAL" polarity="POS" start="1234" text="azithromycin" type="TREATMENT"/>
+<EVENT end="1270" id="E61" modality="FACTUAL" polarity="POS" start="1251" text="atypical bronchitis" type="PROBLEM"/>
+<EVENT end="1311" id="E63" modality="FACTUAL" polarity="POS" start="1305" text="o2 sat" type="TEST"/>
+<EVENT end="1339" id="E64" modality="FACTUAL" polarity="POS" start="1320" text="home nocturnal CPAP" type="TREATMENT"/>
+<EVENT end="1353" id="E65" modality="FACTUAL" polarity="NEG" start="1344" text="tolerated" type="PROBLEM"/>
+<EVENT end="157" id="E6" modality="FACTUAL" polarity="POS" start="137" text="generalized weakness" type="PROBLEM"/>
+<EVENT end="1374" id="E66" modality="FACTUAL" polarity="POS" start="1370" text="well" type="EVIDENTIAL"/>
+<EVENT end="1380" id="E67" modality="FACTUAL" polarity="POS" start="1378" text="nc" type="TREATMENT"/>
+<EVENT end="1420" id="E68" modality="FACTUAL" polarity="POS" start="1418" text="Cr" type="TEST"/>
+<EVENT end="1446" id="E69" modality="FACTUAL" polarity="POS" start="1427" text="stress incontinence" type="PROBLEM"/>
+<EVENT end="1479" id="E70" modality="FACTUAL" polarity="POS" start="1464" text="increased cough" type="PROBLEM"/>
+<EVENT end="1500" id="E71" modality="FACTUAL" polarity="NEG" start="1497" text="uti" type="PROBLEM"/>
+<EVENT end="1526" id="E72" modality="FACTUAL" polarity="POS" start="1511" text="closely monitor" type="TEST"/>
+<EVENT end="1545" id="E73" modality="FACTUAL" polarity="POS" start="1532" text="Bowel regimen" type="TREATMENT"/>
+<EVENT end="1581" id="E74" modality="FACTUAL" polarity="POS" start="1553" text="Chronic Fe deficiency anemia" type="PROBLEM"/>
+<EVENT end="1593" id="E75" modality="FACTUAL" polarity="POS" start="1589" text="iron" type="TREATMENT"/>
+<EVENT end="1603" id="E76" modality="FACTUAL" polarity="POS" start="1601" text="DM" type="PROBLEM"/>
+<EVENT end="1614" id="E77" modality="FACTUAL" polarity="POS" start="1607" text="insulin" type="TREATMENT"/>
+<EVENT end="169" id="E7" modality="FACTUAL" polarity="POS" start="162" text="fatigue" type="PROBLEM"/>
+<EVENT end="1628" id="E78" modality="FACTUAL" polarity="POS" start="1620" text="steroids" type="TREATMENT"/>
+<EVENT end="1642" id="E79" modality="FACTUAL" polarity="POS" start="1634" text="afebrile" type="PROBLEM"/>
+<EVENT end="1651" id="E80" modality="FACTUAL" polarity="NEG" start="1648" text="wbc" type="TEST"/>
+<EVENT end="1677" id="E81" modality="FACTUAL" polarity="POS" start="1665" text="Azithromycin" type="TREATMENT"/>
+<EVENT end="1692" id="E82" modality="FACTUAL" polarity="POS" start="1682" text="COPD flare" type="PROBLEM"/>
+<EVENT end="1707" id="E83" modality="FACTUAL" polarity="POS" start="1699" text="ADA diet" type="TREATMENT"/>
+<EVENT end="192" id="E8" modality="FACTUAL" polarity="POS" start="172" text="urinary incontinence" type="PROBLEM"/>
+<EVENT end="1721" id="E84" modality="FACTUAL" polarity="POS" start="1714" text="Lovenox" type="TREATMENT"/>
+<EVENT end="1727" id="E85" modality="FACTUAL" polarity="POS" start="1724" text="PPI" type="TREATMENT"/>
+<EVENT end="1744" id="E86" modality="FACTUAL" polarity="POS" start="1739" text="rehab" type="CLINICAL_DEPT"/>
+<EVENT end="1770" id="E87" modality="FACTUAL" polarity="POS" start="1750" text="resp status improved" type="OCCURRENCE"/>
+<EVENT end="1775" id="E89" modality="FACTUAL" polarity="POS" start="1773" text="PT" type="OCCURRENCE"/>
+<EVENT end="1785" id="E88" modality="FACTUAL" polarity="POS" start="1776" text="consulted" type="OCCURRENCE"/>
+<EVENT end="204" id="E9" modality="FACTUAL" polarity="POS" start="197" text="shaking" type="PROBLEM"/>
+<EVENT end="243" id="E10" modality="FACTUAL" polarity="POS" start="216" text="increased sputum production" type="PROBLEM"/>
+<EVENT end="273" id="E11" modality="FACTUAL" polarity="POS" start="259" text="these symptoms" type="PROBLEM"/>
+<EVENT end="299" id="E12" modality="FACTUAL" polarity="POS" start="289" text="COPD flare" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="369" id="E13" modality="FACTUAL" polarity="POS" start="362" text="duonebs" type="TREATMENT"/>
+<EVENT end="382" id="E14" modality="FACTUAL" polarity="POS" start="372" text="solumedrol" type="TREATMENT"/>
+<EVENT end="401" id="E15" modality="FACTUAL" polarity="POS" start="396" text="t97.5" type="OCCURRENCE"/>
+<EVENT end="406" id="E16" modality="FACTUAL" polarity="POS" start="404" text="hr" type="TEST"/>
+<EVENT end="421" id="E17" modality="FACTUAL" polarity="POS" start="413" text="bp156/81" type="OCCURRENCE"/>
+<EVENT end="428" id="E18" modality="FACTUAL" polarity="POS" start="424" text="rr28" type="OCCURRENCE"/>
+<EVENT end="438" id="E19" modality="FACTUAL" polarity="POS" start="431" text="o2 sats" type="TEST"/>
+<EVENT end="465" id="E20" modality="FACTUAL" polarity="POS" start="462" text="NAD" type="PROBLEM"/>
+<EVENT end="476" id="E21" modality="FACTUAL" polarity="POS" start="468" text="pleasant" type="EVIDENTIAL"/>
+<EVENT end="509" id="E22" modality="FACTUAL" polarity="POS" start="479" text="speaking in complete sentences" type="OCCURRENCE"/>
+<EVENT end="541" id="E23" modality="FACTUAL" polarity="POS" start="512" text="poor air movement bilaterally" type="PROBLEM"/>
+<EVENT end="565" id="E24" modality="FACTUAL" polarity="NEG" start="558" text="wheezes" type="PROBLEM"/>
+<EVENT end="574" id="E25" modality="FACTUAL" polarity="NEG" start="569" text="rales" type="PROBLEM"/>
+<EVENT end="580" id="E26" modality="FACTUAL" polarity="POS" start="577" text="rrr" type="OCCURRENCE"/>
+<EVENT end="590" id="E27" modality="FACTUAL" polarity="POS" start="583" text="distant" type="PROBLEM"/>
+<EVENT end="603" id="E28" modality="FACTUAL" polarity="POS" start="593" text="abd benign" type="EVIDENTIAL"/>
+<EVENT end="614" id="E29" modality="FACTUAL" polarity="NEG" start="609" text="edema" type="PROBLEM"/>
+<EVENT end="647" id="E30" modality="FACTUAL" polarity="POS" start="617" text="alert and oriented times three" type="OCCURRENCE"/>
+<EVENT end="667" id="E31" modality="FACTUAL" polarity="NEG" start="653" text="focal deficits" type="PROBLEM"/>
+<EVENT end="680" id="E32" modality="FACTUAL" polarity="POS" start="670" text="conversant" type="OCCURRENCE"/>
+<EVENT end="696" id="E33" modality="FACTUAL" polarity="POS" start="693" text="EKG" type="TEST"/>
+<EVENT end="721" id="E34" modality="FACTUAL" polarity="NEG" start="711" text="ST changes" type="PROBLEM"/>
+<EVENT end="727" id="E35" modality="FACTUAL" polarity="POS" start="724" text="CXR" type="TEST"/>
+<EVENT end="750" id="E36" modality="FACTUAL" polarity="NEG" start="731" text="focal consolidation" type="PROBLEM"/>
+<EVENT end="759" id="E37" modality="FACTUAL" polarity="NEG" start="754" text="edema" type="PROBLEM"/>
+<EVENT end="783" id="E38" modality="FACTUAL" polarity="POS" start="762" text="old biapical scarring" type="PROBLEM"/>
+<EVENT end="804" id="E39" modality="FACTUAL" polarity="POS" start="799" text="U / A" type="TEST"/>
+<EVENT end="838" id="E40" modality="FACTUAL" polarity="POS" start="829" text="improving" type="EVIDENTIAL"/>
+<EVENT end="868" id="E41" modality="FACTUAL" polarity="POS" start="845" text="still poor air movement" type="PROBLEM"/>
+<EVENT end="887" id="E42" modality="FACTUAL" polarity="POS" start="871" text="diffusely wheezy" type="PROBLEM"/>
+<EVENT end="927" id="E43" modality="FACTUAL" polarity="POS" start="910" text="2L o2 requirement" type="TREATMENT"/>
+<EVENT end="95" id="E2" modality="FACTUAL" polarity="POS" start="93" text="DM" type="PROBLEM"/>
+<EVENT end="962" id="E44" modality="FACTUAL" polarity="POS" start="958" text="COPD" type="PROBLEM"/>
+<EVENT end="991" id="E45" modality="FACTUAL" polarity="POS" start="969" text="frequent exacerbations" type="PROBLEM"/>
+<EVENT end="102" id="E3" modality="FACTUAL" polarity="POS" start="98" text="COPD" type="PROBLEM"/>
+<EVENT end="1020" id="E46" modality="FACTUAL" polarity="POS" start="998" text="typical flare symptoms" type="PROBLEM"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="03/13/2006" type="DATE" val="2006-03-13"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="03/19/2006" type="DATE" val="2006-03-19"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2006-03-13" end="28" id="S0" start="18" text="03/13/2006" type="ADMISSION"/>
+<SECTIME dvalue="2006-03-19" end="56" id="S1" start="46" text="03/19/2006" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

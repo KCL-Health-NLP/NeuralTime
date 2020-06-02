@@ -1,0 +1,253 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+07/03/1999
+Discharge Date :
+EHC9
+HISTORY OF PRESENT ILLNESS :
+The patient is a 71-year-old police chief who presents with painless jaundice x1 day .
+The patient was generally in excellent health with a past medical history significant only for noninsulin dependent diabetes mellitus who was presented with painless jaundice x2 days .
+He also noted a 23 pound weight loss in the past 11 months despite having an increased appetite .
+The patient also complained of fatigue and &quot; feeling down &quot; .
+His wife noted personality changes with increased irritability .
+Patient denies night sweats in the past month .
+The patient denies melena , hematochezia , nausea , and abdominal pain .
+The patient states that he is occasionally constipated .
+Also denies tenesmus .
+On the day prior to admission , the patient &apos;s family noted that &quot; he looked yellow &quot; and presented to the Lorough Medical Center &apos;s Emergency Department this after noon .
+HOSPITAL COURSE :
+The patient presented to the Emergency Department with a complaint of painless jaundice , weight loss , and fatigue .
+Abdominal CT while in the Emergency Department revealed likely primary colorectal adenocarcinoma with multiple liver metastases .
+Hematocrit was 24 in the Emergency Department .
+The patient received two units of packed red blood cells and the hematocrit rose to 30 the following day .
+The patient was seen by both Gastroenterology and Oncology .
+Biopsy was taken at colonoscopy on 7/5/99 .
+Head CT was done with final results pending on discharge .
+The patient was to follow-up with the Petersly Hospital And Medical Center as an outpatient for further treatment .
+The patient is discharged to home .
+His condition is stable and he was discharged with the following medications :
+Iron 300 mg p.o. t.i.d. , Glucotrol , Acel 10 mg p.o. q.d. , and Bactrim SS 1 tablet p.o. b.i.d.
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1019" id="E45" modality="FACTUAL" polarity="POS" start="1010" text="presented" type="OCCURRENCE"/>
+<EVENT end="1047" id="E46" modality="FACTUAL" polarity="POS" start="1023" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1085" id="E47" modality="FACTUAL" polarity="POS" start="1068" text="painless jaundice" type="PROBLEM"/>
+<EVENT end="1099" id="E12" modality="FACTUAL" polarity="POS" start="1088" text="weight loss" type="PROBLEM"/>
+<EVENT end="1113" id="E13" modality="FACTUAL" polarity="POS" start="1106" text="fatigue" type="PROBLEM"/>
+<EVENT end="1128" id="E14" modality="FACTUAL" polarity="POS" start="1116" text="Abdominal CT" type="TEST"/>
+<EVENT end="1162" id="E48" modality="FACTUAL" polarity="POS" start="1138" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1171" id="E49" modality="FACTUAL" polarity="POS" start="1163" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1212" id="E15" modality="POSSIBLE" polarity="POS" start="1179" text="primary colorectal adenocarcinoma" type="PROBLEM"/>
+<EVENT end="1243" id="E16" modality="FACTUAL" polarity="POS" start="1218" text="multiple liver metastases" type="PROBLEM"/>
+<EVENT end="1256" id="E17" modality="FACTUAL" polarity="POS" start="1246" text="Hematocrit" type="TEST"/>
+<EVENT end="134" id="E27" modality="FACTUAL" polarity="POS" start="126" text="presents" type="OCCURRENCE"/>
+<EVENT end="1291" id="E50" modality="FACTUAL" polarity="POS" start="1267" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1350" id="E18" modality="FACTUAL" polarity="POS" start="1328" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="1369" id="E19" modality="FACTUAL" polarity="POS" start="1355" text="the hematocrit" type="TEST"/>
+<EVENT end="1374" id="E62" modality="FACTUAL" polarity="POS" start="1370" text="rose" type="OCCURRENCE"/>
+<EVENT end="157" id="E1" modality="FACTUAL" polarity="POS" start="140" text="painless jaundice" type="PROBLEM"/>
+<EVENT end="1468" id="E20" modality="FACTUAL" polarity="POS" start="1462" text="Biopsy" type="TEST"/>
+<EVENT end="1493" id="E21" modality="FACTUAL" polarity="POS" start="1482" text="colonoscopy" type="TEST"/>
+<EVENT end="1513" id="E22" modality="FACTUAL" polarity="POS" start="1506" text="Head CT" type="TEST"/>
+<EVENT end="1562" id="E25" modality="FACTUAL" polarity="POS" start="1553" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1593" id="E51" modality="FACTUAL" polarity="POS" start="1584" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="1639" id="E52" modality="FACTUAL" polarity="POS" start="1599" text="the Petersly Hospital And Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1678" id="E53" modality="FACTUAL" polarity="POS" start="1661" text="further treatment" type="TREATMENT"/>
+<EVENT end="1706" id="E26" modality="FACTUAL" polarity="POS" start="1696" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1740" id="E54" modality="FACTUAL" polarity="POS" start="1734" text="stable" type="OCCURRENCE"/>
+<EVENT end="1762" id="E55" modality="FACTUAL" polarity="POS" start="1752" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1793" id="E56" modality="FACTUAL" polarity="POS" start="1768" text="the following medications" type="TREATMENT"/>
+<EVENT end="1800" id="E57" modality="FACTUAL" polarity="POS" start="1796" text="Iron" type="TREATMENT"/>
+<EVENT end="1831" id="E58" modality="FACTUAL" polarity="POS" start="1822" text="Glucotrol" type="TREATMENT"/>
+<EVENT end="1838" id="E59" modality="FACTUAL" polarity="POS" start="1834" text="Acel" type="TREATMENT"/>
+<EVENT end="1871" id="E60" modality="FACTUAL" polarity="POS" start="1861" text="Bactrim SS" type="TREATMENT"/>
+<EVENT end="212" id="E24" modality="FACTUAL" polarity="POS" start="196" text="excellent health" type="OCCURRENCE"/>
+<EVENT end="300" id="E28" modality="FACTUAL" polarity="POS" start="262" text="noninsulin dependent diabetes mellitus" type="PROBLEM"/>
+<EVENT end="38" id="E23" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="318" id="E29" modality="FACTUAL" polarity="POS" start="309" text="presented" type="OCCURRENCE"/>
+<EVENT end="341" id="E30" modality="FACTUAL" polarity="POS" start="324" text="painless jaundice" type="PROBLEM"/>
+<EVENT end="365" id="E31" modality="FACTUAL" polarity="POS" start="360" text="noted" type="EVIDENTIAL"/>
+<EVENT end="388" id="E2" modality="FACTUAL" polarity="POS" start="366" text="a 23 pound weight loss" type="PROBLEM"/>
+<EVENT end="447" id="E3" modality="FACTUAL" polarity="POS" start="426" text="an increased appetite" type="PROBLEM"/>
+<EVENT end="477" id="E32" modality="FACTUAL" polarity="POS" start="467" text="complained" type="EVIDENTIAL"/>
+<EVENT end="488" id="E33" modality="FACTUAL" polarity="POS" start="481" text="fatigue" type="PROBLEM"/>
+<EVENT end="519" id="E34" modality="FACTUAL" polarity="POS" start="493" text="&quot; feeling down &quot;" type="PROBLEM"/>
+<EVENT end="536" id="E35" modality="FACTUAL" polarity="POS" start="531" text="noted" type="EVIDENTIAL"/>
+<EVENT end="556" id="E4" modality="FACTUAL" polarity="POS" start="537" text="personality changes" type="PROBLEM"/>
+<EVENT end="584" id="E36" modality="FACTUAL" polarity="POS" start="562" text="increased irritability" type="PROBLEM"/>
+<EVENT end="601" id="E37" modality="FACTUAL" polarity="POS" start="595" text="denies" type="EVIDENTIAL"/>
+<EVENT end="614" id="E5" modality="FACTUAL" polarity="NEG" start="602" text="night sweats" type="PROBLEM"/>
+<EVENT end="653" id="E38" modality="FACTUAL" polarity="POS" start="647" text="denies" type="EVIDENTIAL"/>
+<EVENT end="660" id="E6" modality="FACTUAL" polarity="NEG" start="654" text="melena" type="PROBLEM"/>
+<EVENT end="675" id="E7" modality="FACTUAL" polarity="NEG" start="663" text="hematochezia" type="PROBLEM"/>
+<EVENT end="684" id="E8" modality="FACTUAL" polarity="NEG" start="678" text="nausea" type="PROBLEM"/>
+<EVENT end="705" id="E9" modality="FACTUAL" polarity="NEG" start="691" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="726" id="E39" modality="FACTUAL" polarity="POS" start="720" text="states" type="EVIDENTIAL"/>
+<EVENT end="762" id="E10" modality="FACTUAL" polarity="POS" start="738" text="occasionally constipated" type="PROBLEM"/>
+<EVENT end="776" id="E40" modality="FACTUAL" polarity="POS" start="770" text="denies" type="EVIDENTIAL"/>
+<EVENT end="785" id="E11" modality="FACTUAL" polarity="NEG" start="777" text="tenesmus" type="PROBLEM"/>
+<EVENT end="817" id="E61" modality="FACTUAL" polarity="POS" start="808" text="admission" type="OCCURRENCE"/>
+<EVENT end="852" id="E41" modality="FACTUAL" polarity="POS" start="847" text="noted" type="EVIDENTIAL"/>
+<EVENT end="881" id="E42" modality="FACTUAL" polarity="POS" start="875" text="yellow" type="PROBLEM"/>
+<EVENT end="902" id="E43" modality="FACTUAL" polarity="POS" start="893" text="presented" type="OCCURRENCE"/>
+<EVENT end="961" id="E44" modality="FACTUAL" polarity="POS" start="906" text="the Lorough Medical Center 's Emergency Department" type="CLINICAL_DEPT"/>
+<RTIMEX3 end="1398" id="T8" mod="NA" start="1381" text="the following day" type="DATE" val="1999-07-04"/>
+<ATIMEX3 end="1503" id="T3" mod="NA" start="1497" text="7/5/99" type="DATE" val="1999-07-05"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="07/03/1999" type="DATE" val="1999-07-03"/>
+
+
+
+
+
+
+<RTIMEX3 end="798" id="T7" mod="NA" start="791" text="the day" type="DATE" val="1999-07-02"/>
+<RTIMEX3 end="977" id="T2" mod="MIDDLE" start="962" text="this after noon" type="DATE" val="1999-07-03"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1999-07-03" end="28" id="S0" start="18" text="07/03/1999" type="ADMISSION"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

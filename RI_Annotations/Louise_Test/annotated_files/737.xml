@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2015-06-10
+Discharge Date :
+2015-06-11
+Service :
+HISTORY OF PRESENT ILLNESS :
+HISTORY OF PRESENT ILLNESS :
+This is a 44 - year-old male with a history of coronary artery disease , status post myocardial infarction in 9/02 , status post stent proximal and mid-RCA lesion and OM lesion .
+He had a Myoview on 05-04 which showed fixed inferior wall defect but no evidence of ischemia .
+He has been getting short of breath with exertion times one month and also has occasional chest tightness .
+He denies orthopnea , edema , paroxysmal nocturnal dyspnea , diaphoresis , claudication .
+He also has history of hypertension , high cholesterol and noninsulin dependent diabetes mellitus .
+He underwent cardiac catheterization today which revealed OM , no obstructive disease , left anterior descending minimal disease , left circumflex 40% mid-stenosis .
+Right coronary artery 100% mid-stenosis .
+Echo in 9/02 showed LVF of 75% with moderate dilatation of the descending aorta .
+He is now preop for a coronary artery bypass graft .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="735" end="740" text="today" type="DATE" relative="TRUE" val="2015-06-10" mod="NA" />
+<RTIMEX3 id="T7" start="994" end="997" text="now" type="DATE" relative="TRUE" val="2015-06-10" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="2015-06-10" type="DATE" val="2015-06-10" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="235" end="239" text="9/02" type="DATE" val="2002-09" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="324" end="329" text="05-04" type="DATE" val="2015-05-04" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2015-06-11" type="DATE" val="2015-06-11" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="914" end="918" text="9/02" type="DATE" val="2002-09" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2015-06-10" type="ADMISSION" dvalue="2015-06-10" />
+<SECTIME id="S1" start="46" end="56" text="2015-06-11" type="DISCHARGE" dvalue="2015-06-11" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="today" toID="S0" toText="2015-06-10" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T7" fromText="now" toID="S0" toText="2015-06-10" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -1,0 +1,468 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2019-06-14
+Discharge Date :
+2019-06-19
+Service :
+MEDICINE
+History of Present Illness :
+Mr. Mcelveen is a 51 year-old male with metastatic RCC status post left radical nephrectomy in 2018-03-21 , status post Avastin and sorafenib , most recently on Sutent monotherapy since 2018-12-21 , with mild renal insufficiency , who presented from home on 2019-06-14 with shortness of breath and fever .
+Of note , he was hospitalized at Dana-Farber Cancer Institute from 9/25-10/6 with chest pain , at which time he reportedly had cardiac enzymes , an echocardiogram and a pharmacological stress test performed .
+It is unclear from history what these studies revealed .
+He reports that he felt fatigued during the week prior to the current admission .
+On the day of admission , he felt " congested " in his chest , and had a new fever .
+He was taken to the Deanna by his wife .
+Patrick reports a mild cough for 2 days PTA , non-productive .
+He denies a history of aspiration events or choking with food intake .
+He describes mild reflux symptoms at night .
+Further ROS reveals mild SOB in the days preceding admission , but he tells me that he was surprised to find out about his low oxygen saturation because he did not feel that bad .
+He denies chills , no chest pain , no LE swelling .
+In the Deanna , Tmax 102.8 , BP 100 - 140/60 s, HR 80 s, RR 20 s, Sat 75% on RA in triage , up to 100% on NRB .
+CXR with bibasilar consolidations .
+He was given Levo 750 mg PO X1 , and Flagyl 500 mg PO X1 .
+His BP decreased to 100 systolic despite hydration with 2L of NS .
+He was subsquently admitted to the ICU for further care .
+He was placed on Levo and Ceftriaxone .
+A cosyntropin stimulation test revealed cortisol 32.1 --> 36.4 .
+His oxygen requirement decreased , and his overall status improved quickly .
+He is being transferred to the floor for ongoing care .
+Brief Hospital Course :
+Mr. Mcelveen 51 year-old male with metastatic RCC on Sutent since 2018-12-21 , admitted with fever , hypoxemia , and bibasilar pneumonia .
+1) Bibasilar pneumonia : Patient was treated for community-acquired pneumonia .
+He was initially placed on Ceftriaxone , Levaquin , and Flagyl in the ICU but then changed to 
+Azithromycin & CTX at time of transfer to the oncology service .
+He continued to have an oxygen requirement and CT scan suggested ground glass opacities , suggestive of an underlying infectious process .
+ECHO was done and confirmed normal ejection fraction .
+His respiratory status improved slowly , oxygen was weaned off , and he was discharged on course of Levaquin .
+2) Metastatic RCC : Sutent was held on admission in light of acute infection .
+He underwent a staging CT scan torso which suggested no significant increase in tumor burden .
+Patient was also found to have abnormal TFTs on Sutent and was started on replacement therapy .
+He will need follow-up bloodwork as an outpatient .
+Recent CT scan showed destruction of L femoral neck .
+He underwent an xray of the L femur which did not suggest an acute fracture .
+No limitations were placed in regards to weightbearing status .
+Patient was instructed to restart Sutent next Monday .
+3) Renal insufficiency : Creatinine improved from 2.1 to 1.3 at time of discharge .
+Likely related to underlying malignancy as well as prerenal component given improvement with gentle hydration .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1016" id="E30" modality="FACTUAL" polarity="POS" start="1005" text="food intake" type="OCCURRENCE"/>
+<EVENT end="1031" id="E31" modality="FACTUAL" polarity="POS" start="1022" text="describes" type="EVIDENTIAL"/>
+<EVENT end="1052" id="E32" modality="FACTUAL" polarity="POS" start="1032" text="mild reflux symptoms" type="PROBLEM"/>
+<EVENT end="1075" id="E33" modality="FACTUAL" polarity="POS" start="1064" text="Further ROS" type="TEST"/>
+<EVENT end="1092" id="E34" modality="FACTUAL" polarity="POS" start="1084" text="mild SOB" type="PROBLEM"/>
+<EVENT end="1124" id="E35" modality="FACTUAL" polarity="POS" start="1115" text="admission" type="OCCURRENCE"/>
+<EVENT end="1139" id="E36" modality="FACTUAL" polarity="POS" start="1134" text="tells" type="EVIDENTIAL"/>
+<EVENT end="1208" id="E37" modality="FACTUAL" polarity="POS" start="1183" text="his low oxygen saturation" type="PROBLEM"/>
+<EVENT end="1253" id="E38" modality="FACTUAL" polarity="POS" start="1247" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1260" id="E39" modality="FACTUAL" polarity="NEG" start="1254" text="chills" type="PROBLEM"/>
+<EVENT end="1276" id="E40" modality="FACTUAL" polarity="NEG" start="1266" text="chest pain" type="PROBLEM"/>
+<EVENT end="1293" id="E41" modality="FACTUAL" polarity="NEG" start="1282" text="LE swelling" type="PROBLEM"/>
+<EVENT end="1309" id="E42" modality="FACTUAL" polarity="POS" start="1299" text="the Deanna" type="CLINICAL_DEPT"/>
+<EVENT end="1316" id="E43" modality="FACTUAL" polarity="POS" start="1312" text="Tmax" type="TEST"/>
+<EVENT end="1327" id="E44" modality="FACTUAL" polarity="POS" start="1325" text="BP" type="TEST"/>
+<EVENT end="1346" id="E45" modality="FACTUAL" polarity="POS" start="1344" text="HR" type="TEST"/>
+<EVENT end="1355" id="E46" modality="FACTUAL" polarity="POS" start="1353" text="RR" type="TEST"/>
+<EVENT end="1365" id="E47" modality="FACTUAL" polarity="POS" start="1362" text="Sat" type="TEST"/>
+<EVENT end="1375" id="E48" modality="FACTUAL" polarity="POS" start="1373" text="RA" type="TREATMENT"/>
+<EVENT end="1405" id="E49" modality="FACTUAL" polarity="POS" start="1402" text="NRB" type="TREATMENT"/>
+<EVENT end="1411" id="E50" modality="FACTUAL" polarity="POS" start="1408" text="CXR" type="TEST"/>
+<EVENT end="1441" id="E51" modality="FACTUAL" polarity="POS" start="1417" text="bibasilar consolidations" type="PROBLEM"/>
+<EVENT end="159" id="E2" modality="FACTUAL" polarity="POS" start="145" text="metastatic RCC" type="PROBLEM"/>
+<EVENT end="1461" id="E52" modality="FACTUAL" polarity="POS" start="1457" text="Levo" type="TREATMENT"/>
+<EVENT end="1487" id="E53" modality="FACTUAL" polarity="POS" start="1481" text="Flagyl" type="TREATMENT"/>
+<EVENT end="1509" id="E54" modality="FACTUAL" polarity="POS" start="1503" text="His BP" type="TEST"/>
+<EVENT end="1553" id="E55" modality="FACTUAL" polarity="POS" start="1544" text="hydration" type="TREATMENT"/>
+<EVENT end="1567" id="E56" modality="FACTUAL" polarity="POS" start="1565" text="NS" type="TREATMENT"/>
+<EVENT end="1597" id="E57" modality="FACTUAL" polarity="POS" start="1589" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1608" id="E58" modality="FACTUAL" polarity="POS" start="1601" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="1625" id="E59" modality="FACTUAL" polarity="POS" start="1613" text="further care" type="TREATMENT"/>
+<EVENT end="1649" id="E60" modality="FACTUAL" polarity="POS" start="1645" text="Levo" type="TREATMENT"/>
+<EVENT end="1665" id="E61" modality="FACTUAL" polarity="POS" start="1654" text="Ceftriaxone" type="TREATMENT"/>
+<EVENT end="1698" id="E62" modality="FACTUAL" polarity="POS" start="1668" text="A cosyntropin stimulation test" type="TEST"/>
+<EVENT end="1716" id="E64" modality="FACTUAL" polarity="POS" start="1708" text="cortisol" type="TEST"/>
+<EVENT end="196" id="E3" modality="FACTUAL" polarity="POS" start="172" text="left radical nephrectomy" type="TREATMENT"/>
+<EVENT end="1755" id="E65" modality="FACTUAL" polarity="POS" start="1733" text="His oxygen requirement" type="PROBLEM"/>
+<EVENT end="1790" id="E66" modality="FACTUAL" polarity="POS" start="1772" text="his overall status" type="OCCURRENCE"/>
+<EVENT end="1833" id="E68" modality="FACTUAL" polarity="POS" start="1822" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1846" id="E69" modality="FACTUAL" polarity="POS" start="1837" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="1863" id="E70" modality="FACTUAL" polarity="POS" start="1851" text="ongoing care" type="TREATMENT"/>
+<EVENT end="1939" id="E71" modality="FACTUAL" polarity="POS" start="1925" text="metastatic RCC" type="PROBLEM"/>
+<EVENT end="1949" id="E72" modality="FACTUAL" polarity="POS" start="1943" text="Sutent" type="TREATMENT"/>
+<EVENT end="1977" id="E73" modality="FACTUAL" polarity="POS" start="1969" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1988" id="E74" modality="FACTUAL" polarity="POS" start="1983" text="fever" type="PROBLEM"/>
+<EVENT end="2000" id="E75" modality="FACTUAL" polarity="POS" start="1991" text="hypoxemia" type="PROBLEM"/>
+<EVENT end="2026" id="E76" modality="FACTUAL" polarity="POS" start="2007" text="bibasilar pneumonia" type="PROBLEM"/>
+<EVENT end="2051" id="E77" modality="FACTUAL" polarity="POS" start="2032" text="Bibasilar pneumonia" type="PROBLEM"/>
+<EVENT end="2106" id="E78" modality="FACTUAL" polarity="POS" start="2078" text="community-acquired pneumonia" type="PROBLEM"/>
+<EVENT end="2147" id="E79" modality="FACTUAL" polarity="POS" start="2136" text="Ceftriaxone" type="TREATMENT"/>
+<EVENT end="2158" id="E80" modality="FACTUAL" polarity="POS" start="2150" text="Levaquin" type="TREATMENT"/>
+<EVENT end="2171" id="E81" modality="FACTUAL" polarity="POS" start="2165" text="Flagyl" type="TREATMENT"/>
+<EVENT end="2182" id="E82" modality="FACTUAL" polarity="POS" start="2175" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2216" id="E83" modality="FACTUAL" polarity="POS" start="2204" text="Azithromycin" type="TREATMENT"/>
+<EVENT end="2222" id="E84" modality="FACTUAL" polarity="POS" start="2219" text="CTX" type="TREATMENT"/>
+<EVENT end="2242" id="E85" modality="FACTUAL" polarity="POS" start="2234" text="transfer" type="OCCURRENCE"/>
+<EVENT end="232" id="E4" modality="FACTUAL" polarity="POS" start="225" text="Avastin" type="TREATMENT"/>
+<EVENT end="2266" id="E86" modality="FACTUAL" polarity="POS" start="2246" text="the oncology service" type="CLINICAL_DEPT"/>
+<EVENT end="2311" id="E87" modality="FACTUAL" polarity="POS" start="2290" text="an oxygen requirement" type="PROBLEM"/>
+<EVENT end="2323" id="E88" modality="FACTUAL" polarity="POS" start="2316" text="CT scan" type="TEST"/>
+<EVENT end="2333" id="E89" modality="FACTUAL" polarity="POS" start="2324" text="suggested" type="EVIDENTIAL"/>
+<EVENT end="2356" id="E90" modality="POSSIBLE" polarity="POS" start="2334" text="ground glass opacities" type="PROBLEM"/>
+<EVENT end="246" id="E5" modality="FACTUAL" polarity="POS" start="237" text="sorafenib" type="TREATMENT"/>
+<EVENT end="2405" id="E91" modality="POSSIBLE" polarity="POS" start="2373" text="an underlying infectious process" type="PROBLEM"/>
+<EVENT end="2412" id="E92" modality="FACTUAL" polarity="POS" start="2408" text="ECHO" type="TEST"/>
+<EVENT end="2435" id="E93" modality="FACTUAL" polarity="POS" start="2426" text="confirmed" type="EVIDENTIAL"/>
+<EVENT end="2460" id="E94" modality="FACTUAL" polarity="POS" start="2436" text="normal ejection fraction" type="TEST"/>
+<EVENT end="2485" id="E95" modality="FACTUAL" polarity="POS" start="2463" text="His respiratory status" type="TEST"/>
+<EVENT end="2510" id="E96" modality="FACTUAL" polarity="POS" start="2504" text="oxygen" type="TREATMENT"/>
+<EVENT end="2525" id="E97" modality="FACTUAL" polarity="POS" start="2515" text="weaned off" type="OCCURRENCE"/>
+<EVENT end="2521" id="E127" modality="FACTUAL" polarity="POS" start="2515" text="weaned" type="OCCURRENCE"/>
+<EVENT end="2549" id="E98" modality="FACTUAL" polarity="POS" start="2539" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2571" id="E99" modality="FACTUAL" polarity="POS" start="2563" text="Levaquin" type="TREATMENT"/>
+<EVENT end="2591" id="E100" modality="FACTUAL" polarity="POS" start="2577" text="Metastatic RCC" type="PROBLEM"/>
+<EVENT end="2600" id="E101" modality="FACTUAL" polarity="POS" start="2594" text="Sutent" type="TREATMENT"/>
+<EVENT end="2622" id="E102" modality="FACTUAL" polarity="POS" start="2613" text="admission" type="OCCURRENCE"/>
+<EVENT end="2650" id="E103" modality="FACTUAL" polarity="POS" start="2635" text="acute infection" type="PROBLEM"/>
+<EVENT end="284" id="E6" modality="FACTUAL" polarity="POS" start="266" text="Sutent monotherapy" type="TREATMENT"/>
+<EVENT end="2689" id="E104" modality="FACTUAL" polarity="POS" start="2666" text="a staging CT scan torso" type="TEST"/>
+<EVENT end="2705" id="E105" modality="FACTUAL" polarity="POS" start="2696" text="suggested" type="EVIDENTIAL"/>
+<EVENT end="2745" id="E106" modality="FACTUAL" polarity="NEG" start="2709" text="significant increase in tumor burden" type="PROBLEM"/>
+<EVENT end="2770" id="E128" modality="FACTUAL" polarity="POS" start="2765" text="found" type="EVIDENTIAL"/>
+<EVENT end="2792" id="E107" modality="FACTUAL" polarity="POS" start="2779" text="abnormal TFTs" type="PROBLEM"/>
+<EVENT end="2802" id="E108" modality="FACTUAL" polarity="POS" start="2796" text="Sutent" type="TREATMENT"/>
+<EVENT end="2841" id="E110" modality="FACTUAL" polarity="POS" start="2822" text="replacement therapy" type="TREATMENT"/>
+<EVENT end="2876" id="E111" modality="FACTUAL" polarity="NEG" start="2857" text="follow-up bloodwork" type="TEST"/>
+<EVENT end="2910" id="E112" modality="FACTUAL" polarity="POS" start="2896" text="Recent CT scan" type="TEST"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2917" id="E113" modality="FACTUAL" polarity="POS" start="2911" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2947" id="E114" modality="FACTUAL" polarity="POS" start="2918" text="destruction of L femoral neck" type="PROBLEM"/>
+<EVENT end="2985" id="E115" modality="FACTUAL" polarity="POS" start="2963" text="an xray of the L femur" type="TEST"/>
+<EVENT end="3007" id="E116" modality="FACTUAL" polarity="NEG" start="3000" text="suggest" type="EVIDENTIAL"/>
+<EVENT end="3025" id="E117" modality="POSSIBLE" polarity="POS" start="3008" text="an acute fracture" type="PROBLEM"/>
+<EVENT end="3042" id="E118" modality="FACTUAL" polarity="NEG" start="3031" text="limitations" type="TREATMENT"/>
+<EVENT end="3089" id="E119" modality="FACTUAL" polarity="POS" start="3069" text="weightbearing status" type="OCCURRENCE"/>
+<EVENT end="333" id="E7" modality="FACTUAL" polarity="POS" start="309" text="mild renal insufficiency" type="PROBLEM"/>
+<EVENT end="3132" id="E120" modality="FACTUAL" polarity="POS" start="3126" text="Sutent" type="TREATMENT"/>
+<EVENT end="3169" id="E121" modality="FACTUAL" polarity="POS" start="3150" text="Renal insufficiency" type="PROBLEM"/>
+<EVENT end="3182" id="E122" modality="FACTUAL" polarity="POS" start="3172" text="Creatinine" type="TEST"/>
+<EVENT end="3228" id="E123" modality="FACTUAL" polarity="POS" start="3219" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3270" id="E124" modality="FACTUAL" polarity="POS" start="3249" text="underlying malignancy" type="PROBLEM"/>
+<EVENT end="3300" id="E125" modality="FACTUAL" polarity="POS" start="3282" text="prerenal component" type="PROBLEM"/>
+<EVENT end="3318" id="E131" modality="FACTUAL" polarity="POS" start="3307" text="improvement" type="OCCURRENCE"/>
+<EVENT end="3340" id="E126" modality="FACTUAL" polarity="POS" start="3324" text="gentle hydration" type="TREATMENT"/>
+<EVENT end="349" id="E8" modality="FACTUAL" polarity="POS" start="340" text="presented" type="OCCURRENCE"/>
+<EVENT end="398" id="E9" modality="FACTUAL" polarity="POS" start="379" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="408" id="E10" modality="FACTUAL" polarity="POS" start="403" text="fever" type="PROBLEM"/>
+<EVENT end="440" id="E11" modality="FACTUAL" polarity="POS" start="428" text="hospitalized" type="OCCURRENCE"/>
+<EVENT end="472" id="E12" modality="FACTUAL" polarity="POS" start="444" text="Dana-Farber Cancer Institute" type="CLINICAL_DEPT"/>
+<EVENT end="503" id="E13" modality="FACTUAL" polarity="POS" start="493" text="chest pain" type="PROBLEM"/>
+<EVENT end="553" id="E14" modality="FACTUAL" polarity="POS" start="538" text="cardiac enzymes" type="TEST"/>
+<EVENT end="573" id="E15" modality="FACTUAL" polarity="POS" start="556" text="an echocardiogram" type="TEST"/>
+<EVENT end="607" id="E16" modality="FACTUAL" polarity="POS" start="578" text="a pharmacological stress test" type="TEST"/>
+<EVENT end="665" id="E17" modality="FACTUAL" polarity="POS" start="652" text="these studies" type="TEST"/>
+<EVENT end="687" id="E18" modality="FACTUAL" polarity="POS" start="680" text="reports" type="EVIDENTIAL"/>
+<EVENT end="709" id="E19" modality="FACTUAL" polarity="POS" start="701" text="fatigued" type="PROBLEM"/>
+<EVENT end="756" id="E20" modality="FACTUAL" polarity="POS" start="735" text="the current admission" type="OCCURRENCE"/>
+<EVENT end="782" id="E21" modality="FACTUAL" polarity="POS" start="773" text="admission" type="OCCURRENCE"/>
+<EVENT end="804" id="E22" modality="FACTUAL" polarity="POS" start="795" text="congested" type="PROBLEM"/>
+<EVENT end="841" id="E23" modality="FACTUAL" polarity="POS" start="830" text="a new fever" type="PROBLEM"/>
+<EVENT end="870" id="E24" modality="FACTUAL" polarity="POS" start="860" text="the Deanna" type="CLINICAL_DEPT"/>
+<EVENT end="913" id="E25" modality="FACTUAL" polarity="POS" start="901" text="a mild cough" type="PROBLEM"/>
+<EVENT end="945" id="E26" modality="FACTUAL" polarity="POS" start="931" text="non-productive" type="PROBLEM"/>
+<EVENT end="957" id="E27" modality="FACTUAL" polarity="POS" start="951" text="denies" type="EVIDENTIAL"/>
+<EVENT end="988" id="E28" modality="FACTUAL" polarity="NEG" start="971" text="aspiration events" type="PROBLEM"/>
+<EVENT end="999" id="E29" modality="FACTUAL" polarity="NEG" start="992" text="choking" type="PROBLEM"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2019-06-14" type="DATE" val="2019-06-14"/>
+<ATIMEX3 end="1966" id="T10" mod="NA" start="1956" text="2018-12-21" type="DATE" val="2018-12-21"/>
+<ATIMEX3 end="210" id="T2" mod="NA" start="200" text="2018-03-21" type="DATE" val="2018-03-21"/>
+<ATIMEX3 end="301" id="T3" mod="NA" start="291" text="2018-12-21" type="DATE" val="2018-12-21"/>
+<RTIMEX3 end="3144" id="T11" mod="APPROX" start="3133" text="next Monday" type="DATE" val="2019-06-22"/>
+<ATIMEX3 end="373" id="T4" mod="NA" start="363" text="2019-06-14" type="DATE" val="2019-06-14"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2019-06-19" type="DATE" val="2019-06-19"/>
+
+
+<RTIMEX3 end="769" id="T7" mod="NA" start="762" text="the day" type="DATE" val="2019-06-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2019-06-14" end="28" id="S0" start="18" text="2019-06-14" type="ADMISSION"/>
+<SECTIME dvalue="2019-06-19" end="56" id="S1" start="46" text="2019-06-19" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

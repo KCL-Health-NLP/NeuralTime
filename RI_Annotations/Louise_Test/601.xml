@@ -1,0 +1,100 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+20041031
+DISCHARGE DATE :
+20041103
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+POSTPARTUM THERAPEUTIC PROCEDURES :
+None
+OTHER POSTPARTUM THERAPIES :
+Routine Post Partum Care
+HISTORY AND REASON FOR HOSPITALIZATION :
+Premature Rupture Of Membranes
+HOSPITAL COURSE ( include complications if any ) :
+This 27 year old Gravida 1 Para 0000 was admitted to the Life Valley Medical Center Obstetrical service on 10/31/2004 at 08:45 pm for the indication ( s ) :
+premature rupture of membranes .
+She delivered a 3235 gram male infant on 11/01/2004 at 09:31 am with apgar scores of 9 and 9 at one and five minutes respectively at 39.0 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+none .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 11/03/2004 at 11:18 am in good condition .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1019" id="E18" modality="FACTUAL" polarity="POS" start="1005" text="good condition" type="OCCURRENCE"/>
+<EVENT end="225" id="E2" modality="FACTUAL" polarity="POS" start="201" text="Routine Post Partum Care" type="TREATMENT"/>
+<EVENT end="297" id="E3" modality="FACTUAL" polarity="POS" start="267" text="Premature Rupture Of Membranes" type="PROBLEM"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="398" id="E4" modality="FACTUAL" polarity="POS" start="390" text="admitted" type="OCCURRENCE"/>
+<EVENT end="452" id="E5" modality="FACTUAL" polarity="POS" start="402" text="the Life Valley Medical Center Obstetrical service" type="CLINICAL_DEPT"/>
+<EVENT end="536" id="E6" modality="FACTUAL" polarity="POS" start="506" text="premature rupture of membranes" type="PROBLEM"/>
+<EVENT end="552" id="E7" modality="FACTUAL" polarity="POS" start="543" text="delivered" type="OCCURRENCE"/>
+<EVENT end="620" id="E8" modality="FACTUAL" polarity="POS" start="608" text="apgar scores" type="TEST"/>
+<EVENT end="692" id="E9" modality="FACTUAL" polarity="POS" start="683" text="gestation" type="OCCURRENCE"/>
+<EVENT end="732" id="E10" modality="FACTUAL" polarity="POS" start="697" text="spontaneous vertex vaginal delivery" type="TREATMENT"/>
+<EVENT end="751" id="E11" modality="FACTUAL" polarity="POS" start="742" text="her labor" type="OCCURRENCE"/>
+<EVENT end="800" id="E12" modality="FACTUAL" polarity="NEG" start="768" text="the following complication ( s )" type="PROBLEM"/>
+<EVENT end="829" id="E13" modality="FACTUAL" polarity="POS" start="817" text="her delivery" type="OCCURRENCE"/>
+<EVENT end="878" id="E14" modality="FACTUAL" polarity="NEG" start="846" text="the following complication ( s )" type="PROBLEM"/>
+<EVENT end="898" id="E15" modality="FACTUAL" polarity="POS" start="888" text="Postpartum" type="OCCURRENCE"/>
+<EVENT end="947" id="E16" modality="FACTUAL" polarity="NEG" start="915" text="the following complication ( s )" type="PROBLEM"/>
+<EVENT end="975" id="E17" modality="FACTUAL" polarity="POS" start="965" text="discharged" type="OCCURRENCE"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="20041031" type="DATE" val="2004-10-31"/>
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="20041103" type="DATE" val="2004-11-03"/>
+<ATIMEX3 end="478" id="T2" mod="NA" start="456" text="10/31/2004 at 08:45 pm" type="TIME" val="2004-10-31T20:45"/>
+<ATIMEX3 end="602" id="T3" mod="NA" start="580" text="11/01/2004 at 09:31 am" type="TIME" val="2004-11-01T09:31"/>
+<RTIMEX3 end="638" id="T4" mod="NA" start="635" text="one" type="TIME" val="2004-11-01T09:32"/>
+<RTIMEX3 end="655" id="T5" mod="NA" start="643" text="five minutes" type="TIME" val="2004-11-01T09:37"/>
+
+<ATIMEX3 end="1001" id="T7" mod="NA" start="979" text="11/03/2004 at 11:18 am" type="TIME" val="2004-11-03T11:18"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2004-10-31" end="28" id="S0" start="18" text="20041031" type="ADMISSION"/>
+<SECTIME dvalue="2004-11-03" end="56" id="S1" start="46" text="20041103" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

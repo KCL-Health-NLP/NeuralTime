@@ -1,0 +1,458 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2011-06-14
+Discharge Date :
+2011-06-18
+Service :
+FICU
+HISTORY OF PRESENT ILLNESS :
+This is a 71-year-old-female with asthma and a history of recent exacerbation of lower extremity edema who , at her baseline , gets short of breath walking across the room and sleeps on four pillows times several years .
+She has reported that she has had upper respiratory symptoms times several days with increasing dyspnea on exertion and shortness of breath , eventually at rest with marked wheezing .
+She also has a cough with a small amount of white sputum .
+At 3 a.m. on the day of admission , she became much worse and after several days of increasing her meter-dosed inhaler use , she call Emergency Medical Services which assessed her as having heart failure with elevated jugular venous distention and rales .
+She received aspirin , Lasix 40 mg intravenously times two , 0.8 mg of nitroglycerin times four , plus morphine sulfate .
+Her blood pressure was noted to be up to 220/110 .
+She was taken to the The Hospital for Orthopedics Emergency Room where she was assessed as having asthma .
+She then received continuous nebulizer treatments for approximately eight hours with minimal improvement .
+She did receive intravenous nitroglycerin in the Emergency Room for blood pressure controlled to the 170s .
+She initially received a treatment of BiPAP on arrival as she was barely able to speak .
+She also received 80 mg of Solu-Medrol in the Emergency Department .
+She was never hypoxic but initially her arterial blood gas showed a respiratory acidosis with a PCO2 of 71 .
+The patient does have a vague history of chronic obstructive pulmonary disease , but this is felt to be inaccurate .
+She also received captopril 12.5 mg times one .
+Recently , the patient has been treated with several steroid tapers .
+Depending on the family , patient , and the OMR records , the exact duration of the most recent one was unclear .
+It either ended in 2011-04-11 or continued through 2011-05-11 with use of Augmentin ; and , by report , lasted until 06-07 .
+However , the family said the patient has been on steroids for several weeks .
+The patient denies any exposure to smoke , animals , unusual dust or vapors , or other asthma triggers .
+HOSPITAL COURSE BY SYSTEM:
+1. PULMONARY :
+She was treated with albuterol and Atrovent continuous nebulizers and was weaned then to intermittent nebulizer treatments and then to her meter-dosed inhalers taking them q.4h. at the time of discharge .
+She was continued on salmeterol and Flovent .
+She was continued on Solu-Medrol 80 mg q.8h. then converted to prednisone at 60 mg p.o. q.d.
+She was started on Singulair 10 mg p.o. q.d.
+Serial arterial blood gases were followed after an arterial line was placed .
+Her PCO2 gradually declined to the 48 range .
+Despite episodes of somnolence the first night which were presumably due to having spent the entire night in the Emergency Department , she never became more hypercarbic , and her PCO2 trended to 48 by the time the arterial line was discontinued .
+On the night of admission and thereafter , she was noted to have a very stridorous sounding breathing when the patient was asleep .
+This would disappear whenever she was awake .
+Her case was discussed with Ear/Nose/Throat and the Medical Intensive Care Unit attending .
+She was given a trial of 80/20 mixed helium/oxygen to decrease the stridor but had minimal effect .
+Ear/Nose/Throat recommended not considering this an airway problem unless she was stridorous while awake .
+The patient was to arrange for Pulmonary and Medicine followup through her primary care physician upon discharge as she has not been seen in the Pulmonary Clinic in two years .
+2. CARDIOVASCULAR :
+The patient ruled out for myocardial infarction with serial creatine kinases , although these did rise to 816 .
+MB was negative .
+She was treated with captopril for hypertension , and this was switched to Norvasc 7.5 mg p.o. q.d. on discharge .
+She had an echocardiogram which showed a hyperdynamic left ventricular of normal thickness and size , and no significant valvular disease .
+She apparently did not have a cardiovascular component to her wheezing or shortness of breath ; however , she was to go home on Lasix 20 mg p.o. q.d. to help with lower extremity edema , as she experiences discomfort with this , and the team felt this may be a limiting factor with her prednisone compliance .
+3. ENDOCRINE :
+She was treated with a sliding-scale of regular insulin while she was in house .
+She was given 500 mg p.o. q.d. of metformin to treat her steroid-induced diabetes on discharge .
+This should be followed up by her primary care physician .
+4. INFECTIOUS DISEASE :
+She was treated briefly with levofloxacin because of the gram-positive cocci in her sputum culture ; however , her symptoms were felt to be consistent with a viral upper respiratory infection , and levofloxacin was continued at the time of discharge .
+MEDICATIONS ON DISCHARGE:
+1. Lasix 20 mg p.o. q.d.
+2. Combivent meter-dosed inhaler 2 puffs q.4h. weaning to albuterol meter-dosed inhaler 2 puffs q.4h.
+3. Salmeterol 2 puffs q.12h.
+4. Flovent 220 mcg 2 puffs q.12h.
+5. Prednisone 40 mg p.o. q.d. with taper .
+6. Fentress 60 mg p.o. b.i.d.
+7. Singulair 10 mg p.o. q.d.
+8. Univasc 7.5 mg p.o. q.d.
+9. Metformin 500 mg p.o. q.d.
+Dyazide was discontinued .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1007" id="E70" modality="FACTUAL" polarity="POS" start="1002" text="taken" type="OCCURRENCE"/>
+<EVENT end="1058" id="E71" modality="FACTUAL" polarity="POS" start="1011" text="the The Hospital for Orthopedics Emergency Room" type="CLINICAL_DEPT"/>
+<EVENT end="1098" id="E12" modality="FACTUAL" polarity="POS" start="1092" text="asthma" type="PROBLEM"/>
+<EVENT end="1150" id="E13" modality="FACTUAL" polarity="POS" start="1119" text="continuous nebulizer treatments" type="TREATMENT"/>
+<EVENT end="1205" id="E101" modality="FACTUAL" polarity="POS" start="1186" text="minimal improvement" type="OCCURRENCE"/>
+<EVENT end="1249" id="E14" modality="FACTUAL" polarity="POS" start="1224" text="intravenous nitroglycerin" type="TREATMENT"/>
+<EVENT end="1271" id="E102" modality="FACTUAL" polarity="POS" start="1253" text="the Emergency Room" type="CLINICAL_DEPT"/>
+<EVENT end="1301" id="E103" modality="FACTUAL" polarity="POS" start="1276" text="blood pressure controlled" type="OCCURRENCE"/>
+<EVENT end="141" id="E1" modality="FACTUAL" polarity="POS" start="135" text="asthma" type="PROBLEM"/>
+<EVENT end="1359" id="E15" modality="FACTUAL" polarity="POS" start="1354" text="BiPAP" type="TREATMENT"/>
+<EVENT end="1370" id="E104" modality="FACTUAL" polarity="POS" start="1363" text="arrival" type="OCCURRENCE"/>
+<EVENT end="1402" id="E105" modality="FACTUAL" polarity="POS" start="1382" text="barely able to speak" type="PROBLEM"/>
+<EVENT end="1443" id="E16" modality="FACTUAL" polarity="POS" start="1423" text="80 mg of Solu-Medrol" type="TREATMENT"/>
+<EVENT end="1471" id="E106" modality="FACTUAL" polarity="POS" start="1447" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1495" id="E107" modality="FACTUAL" polarity="NEG" start="1488" text="hypoxic" type="PROBLEM"/>
+<EVENT end="1532" id="E17" modality="FACTUAL" polarity="POS" start="1510" text="her arterial blood gas" type="TEST"/>
+<EVENT end="1539" id="E72" modality="FACTUAL" polarity="POS" start="1533" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1562" id="E18" modality="FACTUAL" polarity="POS" start="1540" text="a respiratory acidosis" type="PROBLEM"/>
+<EVENT end="1574" id="E19" modality="FACTUAL" polarity="POS" start="1568" text="a PCO2" type="TEST"/>
+<EVENT end="178" id="E84" modality="FACTUAL" polarity="POS" start="159" text="recent exacerbation" type="PROBLEM"/>
+<EVENT end="1661" id="E108" modality="POSSIBLE" polarity="POS" start="1624" text="chronic obstructive pulmonary disease" type="PROBLEM"/>
+<EVENT end="1727" id="E20" modality="FACTUAL" polarity="POS" start="1718" text="captopril" type="TREATMENT"/>
+<EVENT end="1815" id="E21" modality="FACTUAL" polarity="POS" start="1793" text="several steroid tapers" type="TREATMENT"/>
+<EVENT end="203" id="E85" modality="FACTUAL" polarity="POS" start="182" text="lower extremity edema" type="PROBLEM"/>
+<EVENT end="1917" id="E109" modality="FACTUAL" polarity="POS" start="1914" text="one" type="TREATMENT"/>
+<EVENT end="1934" id="E110" modality="FACTUAL" polarity="POS" start="1932" text="It" type="TREATMENT"/>
+<EVENT end="2015" id="E22" modality="FACTUAL" polarity="POS" start="2006" text="Augmentin" type="TREATMENT"/>
+<EVENT end="2033" id="E111" modality="FACTUAL" polarity="POS" start="2027" text="report" type="EVIDENTIAL"/>
+<EVENT end="2115" id="E23" modality="FACTUAL" polarity="POS" start="2107" text="steroids" type="TREATMENT"/>
+<EVENT end="2154" id="E112" modality="FACTUAL" polarity="POS" start="2148" text="denies" type="EVIDENTIAL"/>
+<EVENT end="2176" id="E113" modality="FACTUAL" polarity="NEG" start="2159" text="exposure to smoke" type="OCCURRENCE"/>
+<EVENT end="2186" id="E114" modality="FACTUAL" polarity="NEG" start="2179" text="animals" type="OCCURRENCE"/>
+<EVENT end="2211" id="E115" modality="FACTUAL" polarity="NEG" start="2189" text="unusual dust or vapors" type="OCCURRENCE"/>
+<EVENT end="2238" id="E116" modality="FACTUAL" polarity="NEG" start="2217" text="other asthma triggers" type="OCCURRENCE"/>
+<EVENT end="2313" id="E24" modality="FACTUAL" polarity="POS" start="2304" text="albuterol" type="TREATMENT"/>
+<EVENT end="2348" id="E25" modality="FACTUAL" polarity="POS" start="2318" text="Atrovent continuous nebulizers" type="TREATMENT"/>
+<EVENT end="248" id="E2" modality="FACTUAL" polarity="POS" start="233" text="short of breath" type="PROBLEM"/>
+<EVENT end="2405" id="E26" modality="FACTUAL" polarity="POS" start="2372" text="intermittent nebulizer treatments" type="TREATMENT"/>
+<EVENT end="2442" id="E27" modality="FACTUAL" polarity="POS" start="2418" text="her meter-dosed inhalers" type="TREATMENT"/>
+<EVENT end="2485" id="E117" modality="FACTUAL" polarity="POS" start="2476" text="discharge" type="OCCURRENCE"/>
+<EVENT end="272" id="E86" modality="CONDITIONAL" polarity="POS" start="249" text="walking across the room" type="OCCURRENCE"/>
+<EVENT end="2519" id="E28" modality="FACTUAL" polarity="POS" start="2509" text="salmeterol" type="TREATMENT"/>
+<EVENT end="2531" id="E29" modality="FACTUAL" polarity="POS" start="2524" text="Flovent" type="TREATMENT"/>
+<EVENT end="2566" id="E30" modality="FACTUAL" polarity="POS" start="2555" text="Solu-Medrol" type="TREATMENT"/>
+<EVENT end="2593" id="E73" modality="FACTUAL" polarity="POS" start="2584" text="converted" type="OCCURRENCE"/>
+<EVENT end="2607" id="E31" modality="FACTUAL" polarity="POS" start="2597" text="prednisone" type="TREATMENT"/>
+<EVENT end="2655" id="E32" modality="FACTUAL" polarity="POS" start="2646" text="Singulair" type="TREATMENT"/>
+<EVENT end="2699" id="E33" modality="FACTUAL" polarity="POS" start="2672" text="Serial arterial blood gases" type="TEST"/>
+<EVENT end="2736" id="E34" modality="FACTUAL" polarity="POS" start="2720" text="an arterial line" type="TREATMENT"/>
+<EVENT end="2758" id="E35" modality="FACTUAL" polarity="POS" start="2750" text="Her PCO2" type="TEST"/>
+<EVENT end="2777" id="E118" modality="FACTUAL" polarity="POS" start="2769" text="declined" type="OCCURRENCE"/>
+<EVENT end="299" id="E87" modality="FACTUAL" polarity="POS" start="277" text="sleeps on four pillows" type="OCCURRENCE"/>
+<EVENT end="2826" id="E119" modality="FACTUAL" polarity="POS" start="2816" text="somnolence" type="PROBLEM"/>
+<EVENT end="38" id="E83" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2929" id="E74" modality="FACTUAL" polarity="POS" start="2905" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="2965" id="E36" modality="FACTUAL" polarity="POS" start="2949" text="more hypercarbic" type="PROBLEM"/>
+<EVENT end="2980" id="E37" modality="FACTUAL" polarity="POS" start="2972" text="her PCO2" type="TEST"/>
+<EVENT end="3024" id="E38" modality="FACTUAL" polarity="POS" start="3007" text="the arterial line" type="TREATMENT"/>
+<EVENT end="3041" id="E75" modality="FACTUAL" polarity="POS" start="3029" text="discontinued" type="OCCURRENCE"/>
+<EVENT end="3069" id="E120" modality="FACTUAL" polarity="POS" start="3060" text="admission" type="OCCURRENCE"/>
+<EVENT end="3145" id="E39" modality="FACTUAL" polarity="POS" start="3109" text="a very stridorous sounding breathing" type="PROBLEM"/>
+<EVENT end="3173" id="E76" modality="FACTUAL" polarity="POS" start="3167" text="asleep" type="OCCURRENCE"/>
+<EVENT end="3196" id="E77" modality="FACTUAL" polarity="POS" start="3187" text="disappear" type="OCCURRENCE"/>
+<EVENT end="3219" id="E78" modality="FACTUAL" polarity="POS" start="3214" text="awake" type="OCCURRENCE"/>
+<EVENT end="3244" id="E79" modality="FACTUAL" polarity="POS" start="3235" text="discussed" type="OCCURRENCE"/>
+<EVENT end="338" id="E69" modality="FACTUAL" polarity="POS" start="330" text="reported" type="EVIDENTIAL"/>
+<EVENT end="3364" id="E40" modality="FACTUAL" polarity="POS" start="3328" text="a trial of 80/20 mixed helium/oxygen" type="TREATMENT"/>
+<EVENT end="3388" id="E41" modality="FACTUAL" polarity="POS" start="3377" text="the stridor" type="PROBLEM"/>
+<EVENT end="3411" id="E121" modality="FACTUAL" polarity="POS" start="3397" text="minimal effect" type="OCCURRENCE"/>
+<EVENT end="3480" id="E122" modality="POSSIBLE" polarity="NEG" start="3458" text="this an airway problem" type="PROBLEM"/>
+<EVENT end="3518" id="E42" modality="CONDITIONAL" polarity="POS" start="3496" text="stridorous while awake" type="PROBLEM"/>
+<EVENT end="382" id="E88" modality="FACTUAL" polarity="POS" start="356" text="upper respiratory symptoms" type="PROBLEM"/>
+<EVENT end="3583" id="E123" modality="FACTUAL" polarity="POS" start="3552" text="Pulmonary and Medicine followup" type="OCCURRENCE"/>
+<EVENT end="3633" id="E124" modality="FACTUAL" polarity="POS" start="3624" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3658" id="E126" modality="FACTUAL" polarity="NEG" start="3654" text="seen" type="OCCURRENCE"/>
+<EVENT end="3682" id="E125" modality="FACTUAL" polarity="POS" start="3662" text="the Pulmonary Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="3765" id="E43" modality="FACTUAL" polarity="NEG" start="3744" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="3794" id="E44" modality="FACTUAL" polarity="POS" start="3771" text="serial creatine kinases" type="TEST"/>
+<EVENT end="3832" id="E45" modality="FACTUAL" polarity="POS" start="3830" text="MB" type="TEST"/>
+<EVENT end="3878" id="E46" modality="FACTUAL" polarity="POS" start="3869" text="captopril" type="TREATMENT"/>
+<EVENT end="3895" id="E47" modality="FACTUAL" polarity="POS" start="3883" text="hypertension" type="PROBLEM"/>
+<EVENT end="3919" id="E80" modality="FACTUAL" polarity="POS" start="3911" text="switched" type="OCCURRENCE"/>
+<EVENT end="3930" id="E48" modality="FACTUAL" polarity="POS" start="3923" text="Norvasc" type="TREATMENT"/>
+<EVENT end="3960" id="E127" modality="FACTUAL" polarity="POS" start="3951" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3988" id="E49" modality="FACTUAL" polarity="POS" start="3971" text="an echocardiogram" type="TEST"/>
+<EVENT end="4001" id="E81" modality="FACTUAL" polarity="POS" start="3995" text="showed" type="EVIDENTIAL"/>
+<EVENT end="4033" id="E50" modality="FACTUAL" polarity="POS" start="4002" text="a hyperdynamic left ventricular" type="PROBLEM"/>
+<EVENT end="4062" id="E128" modality="FACTUAL" polarity="POS" start="4037" text="normal thickness and size" type="OCCURRENCE"/>
+<EVENT end="425" id="E89" modality="FACTUAL" polarity="POS" start="407" text="increasing dyspnea" type="PROBLEM"/>
+<EVENT end="4100" id="E51" modality="FACTUAL" polarity="NEG" start="4072" text="significant valvular disease" type="PROBLEM"/>
+<EVENT end="4157" id="E129" modality="FACTUAL" polarity="NEG" start="4131" text="a cardiovascular component" type="OCCURRENCE"/>
+<EVENT end="4173" id="E52" modality="FACTUAL" polarity="POS" start="4161" text="her wheezing" type="PROBLEM"/>
+<EVENT end="4196" id="E53" modality="FACTUAL" polarity="POS" start="4177" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="4227" id="E130" modality="FACTUAL" polarity="POS" start="4220" text="go home" type="OCCURRENCE"/>
+<EVENT end="4236" id="E54" modality="FACTUAL" polarity="POS" start="4231" text="Lasix" type="TREATMENT"/>
+<EVENT end="4287" id="E55" modality="FACTUAL" polarity="POS" start="4266" text="lower extremity edema" type="PROBLEM"/>
+<EVENT end="437" id="E90" modality="CONDITIONAL" polarity="POS" start="429" text="exertion" type="OCCURRENCE"/>
+<EVENT end="4319" id="E56" modality="FACTUAL" polarity="POS" start="4309" text="discomfort" type="PROBLEM"/>
+<EVENT end="4410" id="E57" modality="FACTUAL" polarity="POS" start="4385" text="her prednisone compliance" type="TREATMENT"/>
+<EVENT end="461" id="E91" modality="FACTUAL" polarity="POS" start="442" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="4483" id="E58" modality="FACTUAL" polarity="POS" start="4449" text="a sliding-scale of regular insulin" type="TREATMENT"/>
+<EVENT end="4506" id="E131" modality="FACTUAL" polarity="POS" start="4498" text="in house" type="CLINICAL_DEPT"/>
+<EVENT end="4552" id="E59" modality="FACTUAL" polarity="POS" start="4543" text="metformin" type="TREATMENT"/>
+<EVENT end="4590" id="E60" modality="FACTUAL" polarity="POS" start="4562" text="her steroid-induced diabetes" type="PROBLEM"/>
+<EVENT end="4603" id="E132" modality="FACTUAL" polarity="POS" start="4594" text="discharge" type="OCCURRENCE"/>
+<EVENT end="4632" id="E82" modality="FACTUAL" polarity="POS" start="4621" text="followed up" type="OCCURRENCE"/>
+<EVENT end="4730" id="E65" modality="FACTUAL" polarity="POS" start="4718" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="4765" id="E62" modality="FACTUAL" polarity="POS" start="4742" text="the gram-positive cocci" type="PROBLEM"/>
+<EVENT end="4787" id="E63" modality="FACTUAL" polarity="POS" start="4769" text="her sputum culture" type="TEST"/>
+<EVENT end="482" id="E92" modality="CONDITIONAL" polarity="POS" start="478" text="rest" type="OCCURRENCE"/>
+<EVENT end="4812" id="E64" modality="FACTUAL" polarity="POS" start="4800" text="her symptoms" type="PROBLEM"/>
+<EVENT end="4880" id="E133" modality="POSSIBLE" polarity="POS" start="4845" text="a viral upper respiratory infection" type="PROBLEM"/>
+<EVENT end="503" id="E93" modality="FACTUAL" polarity="POS" start="488" text="marked wheezing" type="PROBLEM"/>
+<EVENT end="4899" id="E134" modality="FACTUAL" polarity="POS" start="4887" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="4938" id="E135" modality="FACTUAL" polarity="POS" start="4929" text="discharge" type="OCCURRENCE"/>
+<EVENT end="4975" id="E66" modality="FACTUAL" polarity="POS" start="4970" text="Lasix" type="TREATMENT"/>
+<EVENT end="5024" id="E136" modality="FACTUAL" polarity="POS" start="4995" text="Combivent meter-dosed inhaler" type="TREATMENT"/>
+<EVENT end="5079" id="E137" modality="FACTUAL" polarity="POS" start="5050" text="albuterol meter-dosed inhaler" type="TREATMENT"/>
+<EVENT end="5107" id="E138" modality="FACTUAL" polarity="POS" start="5097" text="Salmeterol" type="TREATMENT"/>
+<EVENT end="5133" id="E139" modality="FACTUAL" polarity="POS" start="5126" text="Flovent" type="TREATMENT"/>
+<EVENT end="5170" id="E140" modality="FACTUAL" polarity="POS" start="5160" text="Prednisone" type="TREATMENT"/>
+<EVENT end="526" id="E94" modality="FACTUAL" polarity="POS" start="519" text="a cough" type="PROBLEM"/>
+<EVENT end="5211" id="E67" modality="FACTUAL" polarity="POS" start="5203" text="Fentress" type="TREATMENT"/>
+<EVENT end="5242" id="E141" modality="FACTUAL" polarity="POS" start="5233" text="Singulair" type="TREATMENT"/>
+<EVENT end="5269" id="E142" modality="FACTUAL" polarity="POS" start="5262" text="Univasc" type="TREATMENT"/>
+<EVENT end="5299" id="E143" modality="FACTUAL" polarity="POS" start="5290" text="Metformin" type="TREATMENT"/>
+<EVENT end="5324" id="E68" modality="FACTUAL" polarity="POS" start="5317" text="Dyazide" type="TREATMENT"/>
+<EVENT end="562" id="E95" modality="FACTUAL" polarity="POS" start="550" text="white sputum" type="PROBLEM"/>
+<EVENT end="598" id="E96" modality="FACTUAL" polarity="POS" start="589" text="admission" type="OCCURRENCE"/>
+<EVENT end="622" id="E97" modality="FACTUAL" polarity="POS" start="612" text="much worse" type="OCCURRENCE"/>
+<EVENT end="659" id="E98" modality="FACTUAL" polarity="POS" start="649" text="increasing" type="OCCURRENCE"/>
+<EVENT end="683" id="E3" modality="FACTUAL" polarity="POS" start="660" text="her meter-dosed inhaler" type="TREATMENT"/>
+<EVENT end="725" id="E99" modality="FACTUAL" polarity="POS" start="694" text="call Emergency Medical Services" type="OCCURRENCE"/>
+<EVENT end="768" id="E4" modality="FACTUAL" polarity="POS" start="755" text="heart failure" type="PROBLEM"/>
+<EVENT end="808" id="E5" modality="FACTUAL" polarity="POS" start="774" text="elevated jugular venous distention" type="PROBLEM"/>
+<EVENT end="818" id="E6" modality="FACTUAL" polarity="POS" start="813" text="rales" type="PROBLEM"/>
+<EVENT end="841" id="E7" modality="FACTUAL" polarity="POS" start="834" text="aspirin" type="TREATMENT"/>
+<EVENT end="849" id="E8" modality="FACTUAL" polarity="POS" start="844" text="Lasix" type="TREATMENT"/>
+<EVENT end="905" id="E9" modality="FACTUAL" polarity="POS" start="892" text="nitroglycerin" type="TREATMENT"/>
+<EVENT end="940" id="E10" modality="FACTUAL" polarity="POS" start="924" text="morphine sulfate" type="TREATMENT"/>
+<EVENT end="961" id="E11" modality="FACTUAL" polarity="POS" start="943" text="Her blood pressure" type="TEST"/>
+
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2011-06-14" type="DATE" val="2011-06-14"/>
+<ATIMEX3 end="1961" id="T10" mod="NA" start="1951" text="2011-04-11" type="DATE" val="2011-04-11"/>
+<ATIMEX3 end="1993" id="T11" mod="NA" start="1983" text="2011-05-11" type="DATE" val="2011-05-11"/>
+<ATIMEX3 end="2054" id="T12" mod="NA" start="2049" text="06-07" type="DATE" val="2011-06-07"/>
+
+
+<RTIMEX3 end="2472" id="T36" mod="NA" start="2464" text="the time" type="DATE" val="2011-06-18"/>
+
+
+
+<RTIMEX3 end="2842" id="T17" mod="END" start="2827" text="the first night" type="DATE" val="2011-06-14"/>
+
+<RTIMEX3 end="3056" id="T20" mod="END" start="3047" text="the night" type="DATE" val="2011-06-14"/>
+
+
+
+
+
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2011-06-18" type="DATE" val="2011-06-18"/>
+<RTIMEX3 end="4925" id="T18" mod="NA" start="4917" text="the time" type="DATE" val="2011-06-18"/>
+
+
+
+
+
+
+
+
+
+<ATIMEX3 end="585" id="T4" mod="NA" start="568" text="3 a.m. on the day" type="TIME" val="2011-06-14T03:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-06-14" end="28" id="S0" start="18" text="2011-06-14" type="ADMISSION"/>
+<SECTIME dvalue="2011-06-18" end="56" id="S1" start="46" text="2011-06-18" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

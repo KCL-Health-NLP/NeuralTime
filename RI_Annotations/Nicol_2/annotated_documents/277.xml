@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-11-11
+Discharge Date :
+2013-11-13
+Service :
+CMED
+History of Present Illness :
+Patient is a 75 year old right handed male with past medical history of coronary artery disease s/p NQWMI 02-25 , s/p LAD angioplasty and stent 05-26 , dementia , hyperlipidemia , aortic stenosis , atrial fibrillation on coumadin who presented from his CMED CSRU doctor 's office wtih acute onset left sided weakness and dysarthria .
+Patient was in his usual state of health until around 12:15 on day of admission .
+Was at this doctor 's office and complained of severe headache .
+Thereafter , wife noted development of left sided weakness , facial droop , slurring of speech .
+Sent to Hahnemann General Hospital for evaluation emergently .
+Tom course :
+Arrived at Hahnemann General Hospital at 12:30 .
+Finger stick blood glucose 120 .
+Rest of vitals BP 112/70 , HR 60 .
+Blood pressure up to 230 s systolic .
+Seen emergently by stroke team .
+Initial NIH stroke scale of 33 .
+Head CT showed large right intracerebral hemorrhage .
+Intubated for airway protection at 13:35 after Fentanyl , Etomidate , Vecuronium and Succhinylcholine given .
+Started on Labetalol and then Nipride drip for BP control ; discontinued as goal BP in 130-160 s.
+Received 10 mg SC Vitamin K and 2 units FFP while in Gary .
+Pupils noted to be fixed and dilated at 14:10 .
+Loaded with Dilantin and 50 grams Mannitol .
+Transferred to intensive care unit .
+Brief Hospital Course :
+Patient was a 75 year old right handed male with past medical history of atrial fibrillation on coumadin , coronary artery disease , hyperlipidemia , dementia with sudden onset left sided weakness , dysarthria .
+Head CT demonstrated a large right intracerebral hemorrhage , centered around basal ganglia and putamen .
+We felt this was likely secondary to hypertension .
+While still in the emergency department , he had rapid decompensation necessitating intubation for airway protection .
+Examination post intubation but off intubations showed clinical evidence of elevated intracranial pressure and brainstem compression .
+The overall prognosis was guarded .
+He was admitted to the Neurology / Neurosurgery ICU .
+He was loaded with Mannitol and Dilantin in the emergency room .
+He was evaluated by the Neurosurgery service and they did not feel a surgical intervention or ventriculary drain was warranted .
+After arrival in the ICU , patient was followed with neuro checks every 1 hour .
+Sedation was held to allow for frequent exams .
+Head of bed was kept at 30 degrees .
+Labetalol continuous infusion was titrated for systolic blood pressure of 130-160 .
+Mannitol and Dilantin were continued .
+After lengthy discussion , the patient 's wife opted to make him DNR on afternoon of 2013-11-11 .
+Overnight , fresh frozen plasma was given for goal INR of < 1.4 .
+On serial exams by neurology and ICU attendings in the morning on 2013-11-12 , patient had no clinical signs of brainstem activity .
+Namely , he was unresponsive .
+Pupils were fixed and dilated .
+No corneal , gag , oculocephalic , and oculovestibular reflexes were elicited .
+He was not overbreathing his ventilator .
+At this point , patient was felt to have clinical signs consistent with brain death .
+Plans were made to proceed with apnea testing .
+However , after discussion with patient 's wife , this was postponed with test planned on 2013-11-13 .
+Full medical care and managment continued overnight 11/9-11/20/2002 .
+At approximately 06:00 on 2013-11-13 , the patient became bradycardic .
+He lapsed first into a junctional rhythm and then had very infrequent ventricular escape beats on telemetry .
+Finally , he went asystolic .
+He was not resuscitated as per previous conversations with his wife .
+Ronald was pronounced dead at 06:59 am .
+The patient 's wife was notified .
+The attending was notified as well .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T12" start="2721" end="2744" text="afternoon of 2013-11-11" type="DATE" relative="FALSE" val="2013-11-11" mod="MIDDLE" />
+<RTIMEX3 id="T13" start="2864" end="2889" text="the morning on 2013-11-12" type="DATE" relative="FALSE" val="2013-11-12" mod="START" />
+<ATIMEX3 id="T6" start="1065" end="1070" text="13:35" type="TIME" val="2013-11-11T13:35" absolute="FALSE" mod="NA" />
+<ATIMEX3 id="T7" start="1338" end="1343" text="14:10" type="TIME" val="2013-11-11T14:10" absolute="FALSE" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="2013-11-11" type="DATE" val="2013-11-11" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="207" end="212" text="02-25" type="DATE" val="2013-02-25" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="245" end="250" text="05-26" type="DATE" val="2013-05-26" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T9" start="3355" end="3365" text="2013-11-13" type="DATE" val="2013-11-13" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T14" start="3455" end="3474" text="06:00 on 2013-11-13" type="TIME" val="2013-11-13T06:00" absolute="TRUE" mod="APPROX" />
+<ATIMEX3 id="T15" start="3750" end="3758" text="06:59 am" type="TIME" val="2013-11-13T06:59" absolute="FALSE" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2013-11-13" type="DATE" val="2013-11-13" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T0" start="489" end="501" text="12:15 on day" type="TIME" val="2013-11-11T12:15" absolute="FALSE" mod="APPROX" />
+<ATIMEX3 id="T5" start="796" end="801" text="12:30" type="TIME" val="2013-11-11T12:30" absolute="FALSE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2013-11-11" type="ADMISSION" dvalue="2013-11-11" />
+<SECTIME id="S1" start="46" end="56" text="2013-11-13" type="DISCHARGE" dvalue="2013-11-13" />
+<ANCHORLINK id="AN0" fromID="T0" fromText="12:15 on day" toID="S0" toText="2013-11-11" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T5" fromText="12:30" toID="S0" toText="2013-11-11" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T6" fromText="13:35" toID="S0" toText="2013-11-11" relation="EQUAL" />
+<ANCHORLINK id="AN3" fromID="T7" fromText="14:10" toID="S0" toText="2013-11-11" relation="EQUAL" />
+<ANCHORLINK id="AN4" fromID="T15" fromText="06:59 am" toID="S1" toText="2013-11-13" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>

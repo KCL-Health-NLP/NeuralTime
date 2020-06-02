@@ -1,0 +1,320 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2011-01-19
+Discharge Date :
+2011-01-25
+Service :
+MEDICINE
+HISTORY OF PRESENT ILLNESS :
+Mr. Eugene is a 67 year old male with a remote history of chronic pancreatitis due to alcohol abuse 30 years ago , who is transferred now from Rehab Hospital of the Cape & Islands Hospital for an ERCP and work-up for a cystic lesion at the head of his pancreas on CT scan shown at the outside hospital .
+The patient presented initially to Rehab Hospital of the Cape & Islands Hospital at the end of December for abdominal pain , and was found to have pancreatitis .
+During this admission , two CT scans had shown a question of an enlargement of the head of his pancreas
+versus early pseudocyst .
+The patient was discharged home early from this admission due to family needs .
+While at home , the patient did not do well and could tolerate minimal food intake and lost about 20 pounds in one month .
+On an office visit on 01-14 , the patient was found to have significantly elevated alkaline phosphatase .
+That evening , the patient again developed abdominal pain " like his pancreatitis " with nausea and vomiting , for which he was admitted to the Rehab Hospital of the Cape & Islands Hospital .
+In the Emergency Department at the Rehab Hospital of the Cape & Islands Hospital , the patient was noted to have vomited some heme positive material .
+His complete blood count showed 11% bandemia with a total white count of 10 .
+A HIDA scan showed no flow , question of pancreatitis versus common bile duct obstruction .
+His electrocardiogram showed a normal sinus rhythm .
+A chest x-ray was unremarkable .
+During his admission to Rehab Hospital of the Cape & Islands Hospital , the patient had dropped his hematocrit to the 30 s with recorded melena .
+He received an MRCP which was negative for evidence of stones .
+An ultrasound showed normal gallbladder with no wall thickening but a dilated common bile duct of 8 mm measured on CT scan .
+The patient had an attempted ERCP on 01-18 , which was unsuccessful due to a long nipple like papilla .
+He was therefore transferred to Saints Medical Center for endoscopic retrogram cholangiopancreatography .
+The patient 's blood cultures at outside hospital grew out Streptococcus sanguis-gordonii on 01-18 .
+This was sensitive to Clindamycin , Erythromycin , penicillin S and Vancomycin .
+Prior to this result , the patient had already been on Ampicillin , Sulbactam and Gentamycin .
+It appears from the Discharge summary that the patient was placed on Unasyn 3 grams intravenously every six hours after his ERCP .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E44" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1067" id="E12" modality="FACTUAL" polarity="POS" start="1053" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1091" id="E68" modality="FACTUAL" polarity="POS" start="1075" text="his pancreatitis" type="PROBLEM"/>
+<EVENT end="1105" id="E13" modality="FACTUAL" polarity="POS" start="1099" text="nausea" type="PROBLEM"/>
+<EVENT end="1118" id="E14" modality="FACTUAL" polarity="POS" start="1110" text="vomiting" type="PROBLEM"/>
+<EVENT end="1146" id="E50" modality="FACTUAL" polarity="POS" start="1138" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1199" id="E69" modality="FACTUAL" polarity="POS" start="1150" text="the Rehab Hospital of the Cape &amp; Islands Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1229" id="E70" modality="FACTUAL" polarity="POS" start="1205" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1282" id="E71" modality="FACTUAL" polarity="POS" start="1233" text="the Rehab Hospital of the Cape &amp; Islands Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1306" id="E72" modality="FACTUAL" polarity="POS" start="1301" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1322" id="E51" modality="FACTUAL" polarity="POS" start="1315" text="vomited" type="PROBLEM"/>
+<EVENT end="1350" id="E73" modality="FACTUAL" polarity="POS" start="1328" text="heme positive material" type="PROBLEM"/>
+<EVENT end="1377" id="E15" modality="FACTUAL" polarity="POS" start="1353" text="His complete blood count" type="TEST"/>
+<EVENT end="1384" id="E74" modality="FACTUAL" polarity="POS" start="1378" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1397" id="E16" modality="FACTUAL" polarity="POS" start="1385" text="11% bandemia" type="PROBLEM"/>
+<EVENT end="1422" id="E17" modality="FACTUAL" polarity="POS" start="1403" text="a total white count" type="TEST"/>
+<EVENT end="1442" id="E18" modality="FACTUAL" polarity="POS" start="1431" text="A HIDA scan" type="TEST"/>
+<EVENT end="1449" id="E62" modality="FACTUAL" polarity="POS" start="1443" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1457" id="E66" modality="FACTUAL" polarity="NEG" start="1453" text="flow" type="PROBLEM"/>
+<EVENT end="1484" id="E20" modality="POSSIBLE" polarity="POS" start="1472" text="pancreatitis" type="PROBLEM"/>
+<EVENT end="1520" id="E21" modality="POSSIBLE" polarity="POS" start="1492" text="common bile duct obstruction" type="PROBLEM"/>
+<EVENT end="1544" id="E22" modality="FACTUAL" polarity="POS" start="1523" text="His electrocardiogram" type="TEST"/>
+<EVENT end="1551" id="E75" modality="FACTUAL" polarity="POS" start="1545" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1573" id="E76" modality="FACTUAL" polarity="POS" start="1552" text="a normal sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="1589" id="E23" modality="FACTUAL" polarity="POS" start="1576" text="A chest x-ray" type="TEST"/>
+<EVENT end="183" id="E1" modality="FACTUAL" polarity="POS" start="163" text="chronic pancreatitis" type="PROBLEM"/>
+<EVENT end="1629" id="E77" modality="FACTUAL" polarity="POS" start="1616" text="his admission" type="OCCURRENCE"/>
+<EVENT end="1678" id="E78" modality="FACTUAL" polarity="POS" start="1633" text="Rehab Hospital of the Cape &amp; Islands Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1704" id="E79" modality="FACTUAL" polarity="POS" start="1697" text="dropped" type="PROBLEM"/>
+<EVENT end="1704" id="E84" modality="FACTUAL" polarity="POS" start="1697" text="dropped" type="PROBLEM"/>
+<EVENT end="1719" id="E24" modality="FACTUAL" polarity="POS" start="1705" text="his hematocrit" type="TEST"/>
+<EVENT end="1752" id="E25" modality="FACTUAL" polarity="POS" start="1737" text="recorded melena" type="PROBLEM"/>
+<EVENT end="1774" id="E80" modality="FACTUAL" polarity="POS" start="1767" text="an MRCP" type="TEST"/>
+<EVENT end="1816" id="E26" modality="FACTUAL" polarity="NEG" start="1810" text="stones" type="PROBLEM"/>
+<EVENT end="1832" id="E27" modality="FACTUAL" polarity="POS" start="1819" text="An ultrasound" type="TEST"/>
+<EVENT end="1839" id="E81" modality="FACTUAL" polarity="POS" start="1833" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1858" id="E82" modality="FACTUAL" polarity="POS" start="1840" text="normal gallbladder" type="OCCURRENCE"/>
+<EVENT end="1882" id="E28" modality="FACTUAL" polarity="NEG" start="1867" text="wall thickening" type="PROBLEM"/>
+<EVENT end="1913" id="E29" modality="FACTUAL" polarity="POS" start="1887" text="a dilated common bile duct" type="PROBLEM"/>
+<EVENT end="204" id="E0" modality="FACTUAL" polarity="POS" start="191" text="alcohol abuse" type="PROBLEM"/>
+<EVENT end="1941" id="E30" modality="FACTUAL" polarity="POS" start="1934" text="CT scan" type="TEST"/>
+<EVENT end="1977" id="E83" modality="FACTUAL" polarity="NEG" start="1973" text="ERCP" type="TEST"/>
+<EVENT end="2045" id="E31" modality="FACTUAL" polarity="POS" start="2019" text="a long nipple like papilla" type="PROBLEM"/>
+<EVENT end="2076" id="E53" modality="FACTUAL" polarity="POS" start="2065" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2101" id="E52" modality="FACTUAL" polarity="POS" start="2080" text="Saints Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="2151" id="E32" modality="FACTUAL" polarity="POS" start="2106" text="endoscopic retrogram cholangiopancreatography" type="TEST"/>
+<EVENT end="2183" id="E33" modality="FACTUAL" polarity="POS" start="2154" text="The patient 's blood cultures" type="TEST"/>
+<EVENT end="2203" id="E85" modality="FACTUAL" polarity="POS" start="2187" text="outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2243" id="E34" modality="FACTUAL" polarity="POS" start="2213" text="Streptococcus sanguis-gordonii" type="PROBLEM"/>
+<EVENT end="238" id="E46" modality="FACTUAL" polarity="POS" start="227" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2288" id="E35" modality="FACTUAL" polarity="POS" start="2277" text="Clindamycin" type="TREATMENT"/>
+<EVENT end="2303" id="E36" modality="FACTUAL" polarity="POS" start="2291" text="Erythromycin" type="TREATMENT"/>
+<EVENT end="2318" id="E37" modality="FACTUAL" polarity="POS" start="2306" text="penicillin S" type="TREATMENT"/>
+<EVENT end="2333" id="E38" modality="FACTUAL" polarity="POS" start="2323" text="Vancomycin" type="TREATMENT"/>
+<EVENT end="2401" id="E39" modality="FACTUAL" polarity="POS" start="2391" text="Ampicillin" type="TREATMENT"/>
+<EVENT end="2413" id="E40" modality="FACTUAL" polarity="POS" start="2404" text="Sulbactam" type="TREATMENT"/>
+<EVENT end="2428" id="E41" modality="FACTUAL" polarity="POS" start="2418" text="Gentamycin" type="TREATMENT"/>
+<EVENT end="2460" id="E86" modality="FACTUAL" polarity="POS" start="2447" text="the Discharge" type="OCCURRENCE"/>
+<EVENT end="293" id="E54" modality="FACTUAL" polarity="POS" start="248" text="Rehab Hospital of the Cape &amp; Islands Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2506" id="E42" modality="FACTUAL" polarity="POS" start="2500" text="Unasyn" type="TREATMENT"/>
+<EVENT end="2559" id="E43" modality="FACTUAL" polarity="POS" start="2551" text="his ERCP" type="TEST"/>
+<EVENT end="38" id="E45" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="305" id="E2" modality="FACTUAL" polarity="POS" start="298" text="an ERCP" type="TEST"/>
+<EVENT end="317" id="E3" modality="FACTUAL" polarity="POS" start="310" text="work-up" type="TEST"/>
+<EVENT end="337" id="E4" modality="FACTUAL" polarity="POS" start="322" text="a cystic lesion" type="PROBLEM"/>
+<EVENT end="376" id="E5" modality="FACTUAL" polarity="POS" start="369" text="CT scan" type="TEST"/>
+<EVENT end="382" id="E55" modality="FACTUAL" polarity="POS" start="377" text="shown" type="EVIDENTIAL"/>
+<EVENT end="406" id="E56" modality="FACTUAL" polarity="POS" start="386" text="the outside hospital" type="OCCURRENCE"/>
+<EVENT end="430" id="E57" modality="FACTUAL" polarity="POS" start="421" text="presented" type="OCCURRENCE"/>
+<EVENT end="489" id="E58" modality="FACTUAL" polarity="POS" start="444" text="Rehab Hospital of the Cape &amp; Islands Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="531" id="E6" modality="FACTUAL" polarity="POS" start="517" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="547" id="E59" modality="FACTUAL" polarity="POS" start="542" text="found" type="EVIDENTIAL"/>
+<EVENT end="568" id="E7" modality="FACTUAL" polarity="POS" start="556" text="pancreatitis" type="PROBLEM"/>
+<EVENT end="592" id="E60" modality="FACTUAL" polarity="POS" start="578" text="this admission" type="OCCURRENCE"/>
+<EVENT end="607" id="E8" modality="FACTUAL" polarity="POS" start="595" text="two CT scans" type="TEST"/>
+<EVENT end="617" id="E61" modality="FACTUAL" polarity="POS" start="608" text="had shown" type="EVIDENTIAL"/>
+<EVENT end="674" id="E9" modality="POSSIBLE" polarity="POS" start="632" text="an enlargement of the head of his pancreas" type="PROBLEM"/>
+<EVENT end="698" id="E10" modality="POSSIBLE" polarity="POS" start="682" text="early pseudocyst" type="PROBLEM"/>
+<EVENT end="727" id="E47" modality="FACTUAL" polarity="POS" start="717" text="discharged" type="OCCURRENCE"/>
+<EVENT end="758" id="E63" modality="FACTUAL" polarity="POS" start="744" text="this admission" type="OCCURRENCE"/>
+<EVENT end="794" id="E64" modality="FACTUAL" polarity="POS" start="790" text="home" type="CLINICAL_DEPT"/>
+<EVENT end="824" id="E65" modality="FACTUAL" polarity="POS" start="813" text="not do well" type="PROBLEM"/>
+<EVENT end="863" id="E48" modality="FACTUAL" polarity="POS" start="844" text="minimal food intake" type="PROBLEM"/>
+<EVENT end="888" id="E49" modality="FACTUAL" polarity="POS" start="868" text="lost about 20 pounds" type="PROBLEM"/>
+<EVENT end="955" id="E67" modality="FACTUAL" polarity="POS" start="950" text="found" type="EVIDENTIAL"/>
+<EVENT end="1007" id="E11" modality="FACTUAL" polarity="POS" start="964" text="significantly elevated alkaline phosphatase" type="PROBLEM"/>
+<RTIMEX3 end="1022" id="T6" mod="END" start="1010" text="That evening" type="DATE" val="2011-01-14"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2011-01-19" type="DATE" val="2011-01-19"/>
+<ATIMEX3 end="1986" id="T7" mod="NA" start="1981" text="01-18" type="DATE" val="2011-01-18"/>
+<ATIMEX3 end="217" id="T3" mod="APPROX" start="205" text="30 years ago" type="DATE" val="1981"/>
+<ATIMEX3 end="2252" id="T8" mod="NA" start="2247" text="01-18" type="DATE" val="2011-01-18"/>
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2011-01-25" type="DATE" val="2011-01-25"/>
+<RTIMEX3 end="512" id="T4" mod="END" start="493" text="the end of December" type="DATE" val="2010-12"/>
+
+<ATIMEX3 end="931" id="T5" mod="NA" start="926" text="01-14" type="DATE" val="2011-01-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-01-19" end="28" id="S0" start="18" text="2011-01-19" type="ADMISSION"/>
+<SECTIME dvalue="2011-01-25" end="56" id="S1" start="46" text="2011-01-25" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,457 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2017-09-22
+Discharge Date :
+2017-09-27
+Service :
+CMED CSRU
+HISTORY :
+Peggy Hammock is a full term baby boy born at 38 1/7 weeks by repeat cesarean section to a 34 year old gravida III , now para II mother .
+Serologies include blood type O negative , antibody negative , RPR nonreactive .
+Hepatitis B surface antigen negative , rubella immune .
+Group B strep screening was negative .
+Pregnancy was uncomplicated until an occurrence of HSV outbreak occurred on 2017-09-13 approximately one week prior to delivery .
+Pregnancy was also complicated by maternal history of depression for which mother received Zoloft .
+On day of delivery mother presented in spontaneous labor .
+There were no sepsis risk factors .
+GBS negative .
+No maternal fever .
+Rupture of membranes at time of delivery .
+Delivery was by repeat cesarean section and Apgars of 8 and 9 were given at one and five minutes respectively .
+Baby appeared well and went to the newborn nursery and was breast feeding and undergoing routine newborn care .
+On the newborn nursery the mother called the nurse for concern of baby turning dusky while feeding .
+She called the nurses and patted the infant on the back .
+This episode was also accompanied by gagging motions noted of the infant .
+A second episode occurred where the baby turned pale .
+Mother thought the baby just did not look right .
+The baby did not turn blue at that time .
+The Neonatal Intensive Care Unit was notified and the baby was transferred to the Newborn Intensive Care Unit for further evaluation .
+HOSPITAL COURSE BY SYSTEMS :
+Respiratory :
+The infant was placed on a cardiopulmonary monitor upon admission to the Newborn Intensive Care Unit with pulse oximetry .
+He was noted to have an episode of desaturation related to feeding with desaturations in the 70 percent .
+This resolved spontaneously when the bottle was pulled from the baby 's mouth .
+Jule remained in room air without any evidence of respiratory distress and was without any further dusky spells or pale episodes in the 48 hours prior to discharge .
+Cardiovascular :
+Renee remained cardiovascularly stable with AP s noted to be 120 to 130 s.
+Blood pressure 84/43 with a mean of 59 .
+Fluid , electrolytes and nutritions :
+The baby had been breast feeding ad lib in the Newborn Nursery .
+He continued to feed ad lib while a patient in the Newborn Intensive Care Unit .
+He was fed with a bottle occasionally by his dad and had a vigorous suck and was noted to have some discoordination of his suck while breathing at the initial onset of feeding time .
+This resolved with removal of the bottle from the baby 's mouth .
+Breast feeding was limited to four to five minutes on each side per recommendation of neurology after their evaluation to try and minimize incidence of gastroesophageal reflux .
+Weight at time of discharge is 3.13 kilograms .
+Birth weight was 3.29 kilograms in the 75th percentile .
+Head circumference was 34.5 cm , 75th percentile , and length was 50.7 cm , also the 75th percentile .
+Gastrointestinal :
+Baby was noted to have frequent spitting episodes .
+This was minimized with limitation of volume at each feed with frequent feeding .
+He had normal voiding and stooling patterns .
+The baby demonstrated mild physiologic jaundice with a serum bilirubin obtained on day of life three which was 6.7 with a direct of 0.2 .
+Mother 's blood type is O negative .
+Infant 's blood type was O positive and Coombs was noted to be negative .
+Hematologic :
+In addition a complete blood count was obtained on admission with a white count of 10.1 with 43 polys and 0 bands .
+Hematocrit was noted to 47.5 with platelets of 257,000 .
+There were no blood products received during hospitalization .
+Infectious disease :
+A blood culture was obtained upon admission and Ampicillin and Gentamicin were given for 48 hours with blood cultures remaining sterile .
+Antibiotics were discontinued on day of life three and infant has remained clinically well off antibiotics .
+Neurology :
+Neurology was consulted due to the concern for seizures in the setting of dusky episodes .
+Neurology evaluated the baby and found the baby to have a normal neurological examination .
+An EEG was performed .
+The EEG showed transient sharp waves in the left front , left occipital and right parietal regions .
+There was no electrographic evidence of seizure activity noted .
+Sensory :
+Hearing screening was performed with automated auditory brain stem responses .
+Baby passed in both ears on 09-23 .
+Ophthalmology :
+Ophthalmology was consulted due to the presence of a coloboma into the left CMED .
+Ophthalmology noted that this left Martha coloboma was likely an isolated anomaly in the absence of other pathology .
+Follow up as below .
+Psychosocial :
+Cambridge Health Alliance social worker was involved with this family .
+She may be reached at ( 756 ) 599-4849 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1025" id="E3" modality="FACTUAL" polarity="POS" start="1005" text="routine newborn care" type="TREATMENT"/>
+<EVENT end="1050" id="E114" modality="FACTUAL" polarity="POS" start="1031" text="the newborn nursery" type="CLINICAL_DEPT"/>
+<EVENT end="1112" id="E4" modality="FACTUAL" polarity="POS" start="1107" text="dusky" type="PROBLEM"/>
+<EVENT end="1126" id="E115" modality="FACTUAL" polarity="POS" start="1119" text="feeding" type="OCCURRENCE"/>
+<EVENT end="1199" id="E5" modality="FACTUAL" polarity="POS" start="1187" text="This episode" type="PROBLEM"/>
+<EVENT end="1239" id="E6" modality="FACTUAL" polarity="POS" start="1224" text="gagging motions" type="PROBLEM"/>
+<EVENT end="129" id="E111" modality="FACTUAL" polarity="POS" start="125" text="born" type="OCCURRENCE"/>
+<EVENT end="1278" id="E7" modality="FACTUAL" polarity="POS" start="1262" text="A second episode" type="PROBLEM"/>
+<EVENT end="1314" id="E8" modality="FACTUAL" polarity="POS" start="1310" text="pale" type="PROBLEM"/>
+<EVENT end="1393" id="E80" modality="FACTUAL" polarity="NEG" start="1389" text="blue" type="PROBLEM"/>
+<EVENT end="1441" id="E81" modality="FACTUAL" polarity="POS" start="1409" text="The Neonatal Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1483" id="E82" modality="FACTUAL" polarity="POS" start="1472" text="transferred" type="OCCURRENCE"/>
+<EVENT end="172" id="E55" modality="FACTUAL" polarity="POS" start="149" text="repeat cesarean section" type="TREATMENT"/>
+<EVENT end="1518" id="E83" modality="FACTUAL" polarity="POS" start="1487" text="the Newborn Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1541" id="E84" modality="FACTUAL" polarity="POS" start="1523" text="further evaluation" type="TEST"/>
+<EVENT end="1637" id="E9" modality="FACTUAL" polarity="POS" start="1612" text="a cardiopulmonary monitor" type="TEST"/>
+<EVENT end="1652" id="E49" modality="FACTUAL" polarity="POS" start="1643" text="admission" type="OCCURRENCE"/>
+<EVENT end="1687" id="E85" modality="FACTUAL" polarity="POS" start="1656" text="the Newborn Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1707" id="E10" modality="FACTUAL" polarity="POS" start="1693" text="pulse oximetry" type="TEST"/>
+<EVENT end="1757" id="E11" modality="FACTUAL" polarity="POS" start="1745" text="desaturation" type="PROBLEM"/>
+<EVENT end="1776" id="E116" modality="FACTUAL" polarity="POS" start="1769" text="feeding" type="OCCURRENCE"/>
+<EVENT end="1795" id="E12" modality="FACTUAL" polarity="POS" start="1782" text="desaturations" type="PROBLEM"/>
+<EVENT end="1870" id="E86" modality="FACTUAL" polarity="POS" start="1849" text="the bottle was pulled" type="OCCURRENCE"/>
+<EVENT end="1966" id="E13" modality="FACTUAL" polarity="NEG" start="1946" text="respiratory distress" type="PROBLEM"/>
+<EVENT end="2007" id="E14" modality="FACTUAL" polarity="NEG" start="1983" text="any further dusky spells" type="PROBLEM"/>
+<EVENT end="2024" id="E15" modality="FACTUAL" polarity="NEG" start="2011" text="pale episodes" type="PROBLEM"/>
+<EVENT end="2059" id="E87" modality="FACTUAL" polarity="POS" start="2050" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2127" id="E16" modality="FACTUAL" polarity="POS" start="2123" text="AP s" type="TEST"/>
+<EVENT end="2168" id="E17" modality="FACTUAL" polarity="POS" start="2154" text="Blood pressure" type="TEST"/>
+<EVENT end="2186" id="E18" modality="FACTUAL" polarity="POS" start="2180" text="a mean" type="TEST"/>
+<EVENT end="235" id="E56" modality="FACTUAL" polarity="POS" start="225" text="Serologies" type="TEST"/>
+<EVENT end="2272" id="E88" modality="FACTUAL" polarity="POS" start="2251" text="breast feeding ad lib" type="OCCURRENCE"/>
+<EVENT end="2295" id="E89" modality="FACTUAL" polarity="POS" start="2276" text="the Newborn Nursery" type="CLINICAL_DEPT"/>
+<EVENT end="2325" id="E90" modality="FACTUAL" polarity="POS" start="2314" text="feed ad lib" type="OCCURRENCE"/>
+<EVENT end="2376" id="E91" modality="FACTUAL" polarity="POS" start="2345" text="the Newborn Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2403" id="E92" modality="FACTUAL" polarity="POS" start="2386" text="fed with a bottle" type="OCCURRENCE"/>
+<EVENT end="254" id="E58" modality="FACTUAL" polarity="POS" start="244" text="blood type" type="TEST"/>
+<EVENT end="2506" id="E19" modality="FACTUAL" polarity="POS" start="2474" text="some discoordination of his suck" type="PROBLEM"/>
+<EVENT end="2602" id="E93" modality="FACTUAL" polarity="POS" start="2581" text="removal of the bottle" type="OCCURRENCE"/>
+<EVENT end="2642" id="E52" modality="FACTUAL" polarity="POS" start="2628" text="Breast feeding" type="OCCURRENCE"/>
+<EVENT end="276" id="E59" modality="FACTUAL" polarity="POS" start="268" text="antibody" type="TEST"/>
+<EVENT end="2746" id="E20" modality="FACTUAL" polarity="POS" start="2730" text="their evaluation" type="TEST"/>
+<EVENT end="2803" id="E21" modality="FACTUAL" polarity="POS" start="2780" text="gastroesophageal reflux" type="PROBLEM"/>
+<EVENT end="2812" id="E94" modality="FACTUAL" polarity="POS" start="2806" text="Weight" type="TEST"/>
+<EVENT end="2833" id="E95" modality="FACTUAL" polarity="POS" start="2824" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2866" id="E22" modality="FACTUAL" polarity="POS" start="2854" text="Birth weight" type="TEST"/>
+<EVENT end="291" id="E60" modality="FACTUAL" polarity="POS" start="288" text="RPR" type="TEST"/>
+<EVENT end="38" id="E54" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2929" id="E23" modality="FACTUAL" polarity="POS" start="2911" text="Head circumference" type="TEST"/>
+<EVENT end="2972" id="E24" modality="FACTUAL" polarity="POS" start="2966" text="length" type="TEST"/>
+<EVENT end="333" id="E61" modality="FACTUAL" polarity="POS" start="306" text="Hepatitis B surface antigen" type="TEST"/>
+<EVENT end="3082" id="E96" modality="FACTUAL" polarity="POS" start="3056" text="frequent spitting episodes" type="PROBLEM"/>
+<EVENT end="3142" id="E25" modality="FACTUAL" polarity="POS" start="3109" text="limitation of volume at each feed" type="TREATMENT"/>
+<EVENT end="3164" id="E26" modality="FACTUAL" polarity="POS" start="3148" text="frequent feeding" type="TREATMENT"/>
+<EVENT end="3260" id="E27" modality="FACTUAL" polarity="POS" start="3235" text="mild physiologic jaundice" type="PROBLEM"/>
+<EVENT end="3283" id="E28" modality="FACTUAL" polarity="POS" start="3266" text="a serum bilirubin" type="TEST"/>
+<EVENT end="3341" id="E97" modality="FACTUAL" polarity="POS" start="3333" text="a direct" type="TEST"/>
+<EVENT end="3371" id="E98" modality="FACTUAL" polarity="POS" start="3351" text="Mother 's blood type" type="TEST"/>
+<EVENT end="3408" id="E99" modality="FACTUAL" polarity="POS" start="3388" text="Infant 's blood type" type="TEST"/>
+<EVENT end="3434" id="E100" modality="FACTUAL" polarity="NEG" start="3428" text="Coombs" type="TEST"/>
+<EVENT end="352" id="E62" modality="FACTUAL" polarity="POS" start="345" text="rubella" type="TEST"/>
+<EVENT end="3510" id="E29" modality="FACTUAL" polarity="POS" start="3488" text="a complete blood count" type="TEST"/>
+<EVENT end="3536" id="E53" modality="FACTUAL" polarity="POS" start="3527" text="admission" type="OCCURRENCE"/>
+<EVENT end="3555" id="E30" modality="FACTUAL" polarity="POS" start="3542" text="a white count" type="TEST"/>
+<EVENT end="3577" id="E31" modality="FACTUAL" polarity="POS" start="3572" text="polys" type="TEST"/>
+<EVENT end="3591" id="E32" modality="FACTUAL" polarity="POS" start="3584" text="bands ." type="TEST"/>
+<EVENT end="3602" id="E33" modality="FACTUAL" polarity="POS" start="3592" text="Hematocrit" type="TEST"/>
+<EVENT end="385" id="E63" modality="FACTUAL" polarity="POS" start="362" text="Group B strep screening" type="TEST"/>
+<EVENT end="3635" id="E34" modality="FACTUAL" polarity="POS" start="3626" text="platelets" type="TEST"/>
+<EVENT end="3677" id="E101" modality="FACTUAL" polarity="NEG" start="3663" text="blood products" type="TREATMENT"/>
+<EVENT end="3709" id="E102" modality="FACTUAL" polarity="POS" start="3694" text="hospitalization" type="OCCURRENCE"/>
+<EVENT end="3748" id="E35" modality="FACTUAL" polarity="POS" start="3733" text="A blood culture" type="TEST"/>
+<EVENT end="3776" id="E51" modality="FACTUAL" polarity="POS" start="3767" text="admission" type="OCCURRENCE"/>
+<EVENT end="3791" id="E36" modality="FACTUAL" polarity="POS" start="3781" text="Ampicillin" type="TREATMENT"/>
+<EVENT end="3806" id="E37" modality="FACTUAL" polarity="POS" start="3796" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="3850" id="E38" modality="FACTUAL" polarity="POS" start="3836" text="blood cultures" type="TEST"/>
+<EVENT end="3882" id="E39" modality="FACTUAL" polarity="POS" start="3871" text="Antibiotics" type="TREATMENT"/>
+<EVENT end="3977" id="E103" modality="FACTUAL" polarity="POS" start="3966" text="antibiotics" type="TREATMENT"/>
+<EVENT end="410" id="E64" modality="FACTUAL" polarity="POS" start="401" text="Pregnancy" type="OCCURRENCE"/>
+<EVENT end="4047" id="E40" modality="POSSIBLE" polarity="POS" start="4039" text="seizures" type="PROBLEM"/>
+<EVENT end="4080" id="E41" modality="FACTUAL" polarity="POS" start="4066" text="dusky episodes" type="PROBLEM"/>
+<EVENT end="428" id="E1" modality="FACTUAL" polarity="POS" start="415" text="uncomplicated" type="OCCURRENCE"/>
+<EVENT end="4172" id="E104" modality="FACTUAL" polarity="POS" start="4148" text="neurological examination" type="TEST"/>
+<EVENT end="4181" id="E42" modality="FACTUAL" polarity="POS" start="4175" text="An EEG" type="TEST"/>
+<EVENT end="4205" id="E43" modality="FACTUAL" polarity="POS" start="4198" text="The EEG" type="TEST"/>
+<EVENT end="4212" id="E105" modality="FACTUAL" polarity="POS" start="4206" text="showed" type="EVIDENTIAL"/>
+<EVENT end="4252" id="E44" modality="FACTUAL" polarity="POS" start="4213" text="transient sharp waves in the left front" type="PROBLEM"/>
+<EVENT end="4335" id="E106" modality="FACTUAL" polarity="NEG" start="4312" text="electrographic evidence" type="TEST"/>
+<EVENT end="4355" id="E45" modality="FACTUAL" polarity="POS" start="4339" text="seizure activity" type="PROBLEM"/>
+<EVENT end="4391" id="E46" modality="FACTUAL" polarity="POS" start="4374" text="Hearing screening" type="TEST"/>
+<EVENT end="464" id="E2" modality="FACTUAL" polarity="POS" start="452" text="HSV outbreak" type="PROBLEM"/>
+<EVENT end="4566" id="E107" modality="FACTUAL" polarity="POS" start="4556" text="a coloboma" type="PROBLEM"/>
+<EVENT end="4638" id="E108" modality="FACTUAL" polarity="POS" start="4613" text="this left Martha coloboma" type="PROBLEM"/>
+<EVENT end="4669" id="E109" modality="POSSIBLE" polarity="POS" start="4650" text="an isolated anomaly" type="PROBLEM"/>
+<EVENT end="4703" id="E110" modality="FACTUAL" polarity="NEG" start="4688" text="other pathology" type="PROBLEM"/>
+<EVENT end="528" id="E65" modality="FACTUAL" polarity="POS" start="520" text="delivery" type="TREATMENT"/>
+<EVENT end="540" id="E66" modality="FACTUAL" polarity="POS" start="531" text="Pregnancy" type="OCCURRENCE"/>
+<EVENT end="595" id="E67" modality="FACTUAL" polarity="POS" start="585" text="depression" type="PROBLEM"/>
+<EVENT end="628" id="E68" modality="FACTUAL" polarity="POS" start="622" text="Zoloft" type="TREATMENT"/>
+<EVENT end="649" id="E69" modality="FACTUAL" polarity="POS" start="641" text="delivery" type="TREATMENT"/>
+<EVENT end="666" id="E70" modality="FACTUAL" polarity="POS" start="657" text="presented" type="OCCURRENCE"/>
+<EVENT end="687" id="E71" modality="FACTUAL" polarity="POS" start="670" text="spontaneous labor" type="PROBLEM"/>
+<EVENT end="723" id="E72" modality="FACTUAL" polarity="NEG" start="704" text="sepsis risk factors" type="PROBLEM"/>
+<EVENT end="729" id="E73" modality="FACTUAL" polarity="POS" start="726" text="GBS" type="TEST"/>
+<EVENT end="758" id="E74" modality="FACTUAL" polarity="NEG" start="744" text="maternal fever" type="PROBLEM"/>
+<EVENT end="781" id="E75" modality="FACTUAL" polarity="POS" start="761" text="Rupture of membranes" type="PROBLEM"/>
+<EVENT end="801" id="E76" modality="FACTUAL" polarity="POS" start="793" text="delivery" type="TREATMENT"/>
+<EVENT end="812" id="E77" modality="FACTUAL" polarity="POS" start="804" text="Delivery" type="TREATMENT"/>
+<EVENT end="843" id="E78" modality="FACTUAL" polarity="POS" start="820" text="repeat cesarean section" type="TREATMENT"/>
+<EVENT end="854" id="E79" modality="FACTUAL" polarity="POS" start="848" text="Apgars" type="TEST"/>
+<EVENT end="934" id="E113" modality="FACTUAL" polarity="POS" start="921" text="appeared well" type="OCCURRENCE"/>
+<EVENT end="966" id="E112" modality="FACTUAL" polarity="POS" start="947" text="the newborn nursery" type="CLINICAL_DEPT"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2017-09-22" type="DATE" val="2017-09-22"/>
+
+
+<RTIMEX3 end="2820" id="T12" mod="NA" start="2816" text="time" type="DATE" val="2017-09-27"/>
+<RTIMEX3 end="3313" id="T4" mod="NA" start="3296" text="day of life three" type="DATE" val="2017-09-24"/>
+
+<RTIMEX3 end="3921" id="T15" mod="NA" start="3904" text="day of life three" type="DATE" val="2017-09-24"/>
+<ATIMEX3 end="4486" id="T5" mod="NA" start="4481" text="09-23" type="DATE" val="2017-09-23"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2017-09-27" type="DATE" val="2017-09-27"/>
+<ATIMEX3 end="487" id="T3" mod="NA" start="477" text="2017-09-13" type="DATE" val="2017-09-13"/>
+<RTIMEX3 end="510" id="T6" mod="APPROX" start="502" text="one week" type="DATE" val="2017-09-15"/>
+<RTIMEX3 end="637" id="T7" mod="NA" start="634" text="day" type="DATE" val="2017-09-22"/>
+<RTIMEX3 end="789" id="T8" mod="NA" start="785" text="time" type="DATE" val="2017-09-22"/>
+<RTIMEX3 end="883" id="T9" mod="APPROX" start="880" text="one" type="TIME" val="2017-09-22T00:01"/>
+<RTIMEX3 end="900" id="T10" mod="APPROX" start="888" text="five minutes" type="TIME" val="2017-09-22T00:05"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2017-09-22" end="28" id="S0" start="18" text="2017-09-22" type="ADMISSION"/>
+<SECTIME dvalue="2017-09-27" end="56" id="S1" start="46" text="2017-09-27" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

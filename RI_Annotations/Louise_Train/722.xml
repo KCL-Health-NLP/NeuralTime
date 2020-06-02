@@ -1,0 +1,452 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-10-27
+Discharge Date :
+2013-11-03
+Service :
+MEDICINE
+History of Present Illness :
+42 year old female with h/o cholangiocarcinoma dx in 2009 s/p resection , with recent CT showing met cholangiocarcinoma in 9/2004 .
+Pt was recently admitted for fever due to cholangitis on 10-18 and had chemo ( CDDP and Gemcitabine ) on Monday , 10-21 .
+Since chemo pt has intermittent nausea adequately controlled by zofran and compazine .
+Pt was doing well till night of admission when she developed nausea / vomitting and sizable amount of hemoptysis and clots .
+Has low grade fever since chemo but otherwise ROS was neg for shaking chills , chest pain , SOB , coughing , constipation , diarrhea , tarry stools , abd pain .
+Pt has reported gaining 30 lbs since 08-31 due to ascites .
+In Monica : vitals : T 98.8 P 98 BP 136/68 R 29 Sat 98% RAPt had NG lavage which evantually cleared up , also was transfused 1U PRBC , GI consult called , also got zofran and iv protonix .
+Brief Hospital Course :
+1) GI - In the Monica pt had Hct of 20 and bloody NG lavage which did not clear .
+She was transfused 1U PRBC , GI consult called , also got zofran and iv protonix and admitted to the FICU .
+On arrival to unit pt had EGD which revealed grade III esophageal varices with signs of old bleeding .
+She was started on octreotide and nadolol to control portal htn .
+Pt was stable and had appropriate Hct bump to 25 after 2U PRBC 's.
+She also had climbing bilirubin and low grade temp and was started on Zosyn for suspected biliary obstruction and ascending cholangitis coverage .
+She was rescoped on 10-28 and varices were sclerosed ( no banding due to latex allergy ) and diuretics of lasix and aldactone were readded for ascites since BP stable .
+10-29 she was transfused another 3U PRBC 's with hct bump to 31.9 and antibiotic coverage broadend to Unasyn , Ceftriaxone , Flagyl because she continued to spike , and for SBP prophylaxis .
+Preprocedure of PTC on 10-30 she was transfused 1 unit PRBC 's, 2 platelets and 2U FFP and procedure went without complication .
+ON transfer to the floor she remained hemodynamically stable with stable Hct and declining bilirubin .
+She remained afebrile so on 11-02 antibiotic regimen was weaned to only levofloxacin .
+Liver teams recommended to repeat EGD with non latex banding in 7-10 days .
+She also went home on naldolol 20 mg qd for portal htn , and her home doses of diuretics to control her ascites .
+2. US finding - Pt was incidentally found to have R hydronephrosis and a R adenexal mass on her US .
+The hydronephrosis was likely caused by blockage by her tumor .
+Given her disease prognosis and the fact that her other kidney is functioning well , no intervention was done .
+Also the adenexal mass may represent a second primary maligancy .
+This was seen on a prior CT scan and her oncologist is aware .
+Again given the patient 's poor disease prognosis , there was no intervention made at this time .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E82" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1037" id="E27" modality="FACTUAL" polarity="POS" start="1034" text="Hct" type="TEST"/>
+<EVENT end="1064" id="E28" modality="FACTUAL" polarity="POS" start="1048" text="bloody NG lavage" type="PROBLEM"/>
+<EVENT end="1113" id="E29" modality="FACTUAL" polarity="POS" start="1106" text="1U PRBC" type="TREATMENT"/>
+<EVENT end="1126" id="E106" modality="FACTUAL" polarity="POS" start="1116" text="GI consult" type="OCCURRENCE"/>
+<EVENT end="1151" id="E30" modality="FACTUAL" polarity="POS" start="1145" text="zofran" type="TREATMENT"/>
+<EVENT end="1167" id="E31" modality="FACTUAL" polarity="POS" start="1156" text="iv protonix" type="TREATMENT"/>
+<EVENT end="1180" id="E107" modality="FACTUAL" polarity="POS" start="1172" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1192" id="E108" modality="FACTUAL" polarity="POS" start="1184" text="the FICU" type="CLINICAL_DEPT"/>
+<EVENT end="1213" id="E84" modality="FACTUAL" polarity="POS" start="1209" text="unit" type="CLINICAL_DEPT"/>
+<EVENT end="1224" id="E32" modality="FACTUAL" polarity="POS" start="1221" text="EGD" type="TEST"/>
+<EVENT end="1239" id="E109" modality="FACTUAL" polarity="POS" start="1231" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1268" id="E33" modality="FACTUAL" polarity="POS" start="1240" text="grade III esophageal varices" type="PROBLEM"/>
+<EVENT end="1295" id="E34" modality="FACTUAL" polarity="POS" start="1283" text="old bleeding" type="PROBLEM"/>
+<EVENT end="1327" id="E35" modality="FACTUAL" polarity="POS" start="1317" text="octreotide" type="TREATMENT"/>
+<EVENT end="151" id="E1" modality="FACTUAL" polarity="POS" start="133" text="cholangiocarcinoma" type="PROBLEM"/>
+<EVENT end="1339" id="E36" modality="FACTUAL" polarity="POS" start="1332" text="nadolol" type="TREATMENT"/>
+<EVENT end="1361" id="E37" modality="FACTUAL" polarity="POS" start="1351" text="portal htn" type="PROBLEM"/>
+<EVENT end="1377" id="E110" modality="FACTUAL" polarity="POS" start="1371" text="stable" type="OCCURRENCE"/>
+<EVENT end="1406" id="E38" modality="FACTUAL" polarity="POS" start="1398" text="Hct bump" type="PROBLEM"/>
+<EVENT end="1430" id="E39" modality="FACTUAL" polarity="POS" start="1419" text="2U PRBC 's." type="TREATMENT"/>
+<EVENT end="1462" id="E40" modality="FACTUAL" polarity="POS" start="1444" text="climbing bilirubin" type="PROBLEM"/>
+<EVENT end="1481" id="E41" modality="FACTUAL" polarity="POS" start="1467" text="low grade temp" type="PROBLEM"/>
+<EVENT end="1506" id="E42" modality="FACTUAL" polarity="POS" start="1501" text="Zosyn" type="TREATMENT"/>
+<EVENT end="1540" id="E43" modality="POSSIBLE" polarity="POS" start="1521" text="biliary obstruction" type="PROBLEM"/>
+<EVENT end="1566" id="E111" modality="FACTUAL" polarity="POS" start="1545" text="ascending cholangitis" type="PROBLEM"/>
+<EVENT end="1594" id="E112" modality="FACTUAL" polarity="POS" start="1586" text="rescoped" type="TEST"/>
+<EVENT end="1615" id="E44" modality="FACTUAL" polarity="POS" start="1608" text="varices" type="PROBLEM"/>
+<EVENT end="1630" id="E113" modality="FACTUAL" polarity="POS" start="1621" text="sclerosed" type="TREATMENT"/>
+<EVENT end="1643" id="E114" modality="FACTUAL" polarity="NEG" start="1636" text="banding" type="TREATMENT"/>
+<EVENT end="1664" id="E45" modality="FACTUAL" polarity="POS" start="1651" text="latex allergy" type="PROBLEM"/>
+<EVENT end="176" id="E2" modality="FACTUAL" polarity="POS" start="167" text="resection" type="TREATMENT"/>
+<EVENT end="1680" id="E46" modality="FACTUAL" polarity="POS" start="1671" text="diuretics" type="TREATMENT"/>
+<EVENT end="1689" id="E47" modality="FACTUAL" polarity="POS" start="1684" text="lasix" type="TREATMENT"/>
+<EVENT end="1703" id="E48" modality="FACTUAL" polarity="POS" start="1694" text="aldactone" type="TREATMENT"/>
+<EVENT end="1728" id="E49" modality="FACTUAL" polarity="POS" start="1721" text="ascites" type="PROBLEM"/>
+<EVENT end="1737" id="E50" modality="FACTUAL" polarity="POS" start="1735" text="BP" type="TEST"/>
+<EVENT end="1744" id="E115" modality="FACTUAL" polarity="POS" start="1738" text="stable" type="OCCURRENCE"/>
+<EVENT end="1787" id="E51" modality="FACTUAL" polarity="POS" start="1780" text="3U PRBC" type="TREATMENT"/>
+<EVENT end="1804" id="E52" modality="FACTUAL" polarity="POS" start="1796" text="hct bump" type="PROBLEM"/>
+<EVENT end="1836" id="E53" modality="FACTUAL" polarity="POS" start="1817" text="antibiotic coverage" type="TREATMENT"/>
+<EVENT end="193" id="E3" modality="FACTUAL" polarity="POS" start="184" text="recent CT" type="TEST"/>
+<EVENT end="1855" id="E54" modality="FACTUAL" polarity="POS" start="1849" text="Unasyn" type="TREATMENT"/>
+<EVENT end="1869" id="E55" modality="FACTUAL" polarity="POS" start="1858" text="Ceftriaxone" type="TREATMENT"/>
+<EVENT end="1878" id="E56" modality="FACTUAL" polarity="POS" start="1872" text="Flagyl" type="TREATMENT"/>
+<EVENT end="1935" id="E57" modality="FACTUAL" polarity="POS" start="1920" text="SBP prophylaxis" type="TREATMENT"/>
+<EVENT end="201" id="E0" modality="FACTUAL" polarity="POS" start="194" text="showing" type="EVIDENTIAL"/>
+<EVENT end="1950" id="E62" modality="FACTUAL" polarity="POS" start="1938" text="Preprocedure" type="TEST"/>
+<EVENT end="1957" id="E58" modality="FACTUAL" polarity="POS" start="1954" text="PTC" type="TEST"/>
+<EVENT end="2001" id="E59" modality="FACTUAL" polarity="POS" start="1986" text="1 unit PRBC 's," type="TREATMENT"/>
+<EVENT end="2013" id="E60" modality="FACTUAL" polarity="POS" start="2002" text="2 platelets" type="TREATMENT"/>
+<EVENT end="224" id="E4" modality="FACTUAL" polarity="POS" start="202" text="met cholangiocarcinoma" type="PROBLEM"/>
+<EVENT end="2024" id="E61" modality="FACTUAL" polarity="POS" start="2018" text="2U FFP" type="TREATMENT"/>
+<EVENT end="2038" id="E85" modality="FACTUAL" polarity="POS" start="2029" text="procedure" type="TREATMENT"/>
+<EVENT end="2064" id="E63" modality="FACTUAL" polarity="NEG" start="2052" text="complication" type="PROBLEM"/>
+<EVENT end="2078" id="E116" modality="FACTUAL" polarity="POS" start="2070" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2091" id="E117" modality="FACTUAL" polarity="POS" start="2082" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2127" id="E118" modality="FACTUAL" polarity="POS" start="2105" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="2143" id="E119" modality="FACTUAL" polarity="POS" start="2133" text="stable Hct" type="OCCURRENCE"/>
+<EVENT end="2167" id="E64" modality="FACTUAL" polarity="POS" start="2148" text="declining bilirubin" type="OCCURRENCE"/>
+<EVENT end="2191" id="E65" modality="FACTUAL" polarity="POS" start="2183" text="afebrile" type="PROBLEM"/>
+<EVENT end="2222" id="E66" modality="FACTUAL" polarity="POS" start="2204" text="antibiotic regimen" type="TREATMENT"/>
+<EVENT end="2233" id="E120" modality="FACTUAL" polarity="POS" start="2227" text="weaned" type="OCCURRENCE"/>
+<EVENT end="2254" id="E67" modality="FACTUAL" polarity="POS" start="2242" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="2280" id="E121" modality="FACTUAL" polarity="POS" start="2257" text="Liver teams recommended" type="OCCURRENCE"/>
+<EVENT end="2294" id="E122" modality="PROPOSED" polarity="POS" start="2284" text="repeat EGD" type="TEST"/>
+<EVENT end="2317" id="E123" modality="PROPOSED" polarity="POS" start="2300" text="non latex banding" type="TREATMENT"/>
+<EVENT end="2363" id="E68" modality="FACTUAL" polarity="POS" start="2355" text="naldolol" type="TREATMENT"/>
+<EVENT end="2387" id="E69" modality="FACTUAL" polarity="POS" start="2377" text="portal htn" type="PROBLEM"/>
+<EVENT end="2408" id="E70" modality="FACTUAL" polarity="POS" start="2394" text="her home doses" type="TREATMENT"/>
+<EVENT end="2421" id="E71" modality="FACTUAL" polarity="POS" start="2412" text="diuretics" type="TREATMENT"/>
+<EVENT end="2444" id="E72" modality="FACTUAL" polarity="POS" start="2433" text="her ascites" type="PROBLEM"/>
+<EVENT end="2452" id="E73" modality="FACTUAL" polarity="POS" start="2450" text="US" type="TEST"/>
+<EVENT end="2513" id="E74" modality="FACTUAL" polarity="POS" start="2497" text="R hydronephrosis" type="PROBLEM"/>
+<EVENT end="2535" id="E75" modality="FACTUAL" polarity="POS" start="2518" text="a R adenexal mass" type="PROBLEM"/>
+<EVENT end="261" id="E86" modality="FACTUAL" polarity="POS" start="253" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2545" id="E76" modality="FACTUAL" polarity="POS" start="2539" text="her US" type="TEST"/>
+<EVENT end="2566" id="E77" modality="FACTUAL" polarity="POS" start="2548" text="The hydronephrosis" type="PROBLEM"/>
+<EVENT end="2596" id="E124" modality="POSSIBLE" polarity="POS" start="2588" text="blockage" type="PROBLEM"/>
+<EVENT end="2609" id="E78" modality="FACTUAL" polarity="POS" start="2600" text="her tumor" type="PROBLEM"/>
+<EVENT end="2639" id="E129" modality="FACTUAL" polarity="POS" start="2618" text="her disease prognosis" type="PROBLEM"/>
+<EVENT end="271" id="E5" modality="FACTUAL" polarity="POS" start="266" text="fever" type="PROBLEM"/>
+<EVENT end="2694" id="E125" modality="FACTUAL" polarity="POS" start="2658" text="her other kidney is functioning well" type="OCCURRENCE"/>
+<EVENT end="2712" id="E126" modality="FACTUAL" polarity="NEG" start="2700" text="intervention" type="TREATMENT"/>
+<EVENT end="2746" id="E79" modality="FACTUAL" polarity="POS" start="2729" text="the adenexal mass" type="PROBLEM"/>
+<EVENT end="2787" id="E127" modality="POSSIBLE" polarity="POS" start="2761" text="a second primary maligancy" type="PROBLEM"/>
+<EVENT end="290" id="E6" modality="FACTUAL" polarity="POS" start="279" text="cholangitis" type="PROBLEM"/>
+<EVENT end="2822" id="E80" modality="FACTUAL" polarity="POS" start="2807" text="a prior CT scan" type="TEST"/>
+<EVENT end="2902" id="E128" modality="FACTUAL" polarity="POS" start="2865" text="the patient 's poor disease prognosis" type="PROBLEM"/>
+<EVENT end="38" id="E83" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2930" id="E81" modality="FACTUAL" polarity="NEG" start="2918" text="intervention" type="TREATMENT"/>
+<EVENT end="313" id="E7" modality="FACTUAL" polarity="POS" start="308" text="chemo" type="TREATMENT"/>
+<EVENT end="320" id="E8" modality="FACTUAL" polarity="POS" start="316" text="CDDP" type="TREATMENT"/>
+<EVENT end="336" id="E9" modality="FACTUAL" polarity="POS" start="325" text="Gemcitabine" type="TREATMENT"/>
+<EVENT end="370" id="E10" modality="FACTUAL" polarity="POS" start="365" text="chemo" type="TREATMENT"/>
+<EVENT end="397" id="E11" modality="FACTUAL" polarity="POS" start="378" text="intermittent nausea" type="PROBLEM"/>
+<EVENT end="419" id="E87" modality="FACTUAL" polarity="POS" start="409" text="controlled" type="TREATMENT"/>
+<EVENT end="429" id="E12" modality="FACTUAL" polarity="POS" start="423" text="zofran" type="TREATMENT"/>
+<EVENT end="443" id="E13" modality="FACTUAL" polarity="POS" start="434" text="compazine" type="TREATMENT"/>
+<EVENT end="463" id="E88" modality="FACTUAL" polarity="POS" start="453" text="doing well" type="OCCURRENCE"/>
+<EVENT end="487" id="E89" modality="FACTUAL" polarity="POS" start="478" text="admission" type="OCCURRENCE"/>
+<EVENT end="513" id="E90" modality="FACTUAL" polarity="POS" start="507" text="nausea" type="PROBLEM"/>
+<EVENT end="525" id="E91" modality="FACTUAL" polarity="POS" start="516" text="vomitting" type="PROBLEM"/>
+<EVENT end="558" id="E92" modality="FACTUAL" polarity="POS" start="548" text="hemoptysis" type="PROBLEM"/>
+<EVENT end="568" id="E93" modality="FACTUAL" polarity="POS" start="563" text="clots" type="PROBLEM"/>
+<EVENT end="590" id="E94" modality="FACTUAL" polarity="POS" start="575" text="low grade fever" type="PROBLEM"/>
+<EVENT end="602" id="E14" modality="FACTUAL" polarity="POS" start="597" text="chemo" type="TREATMENT"/>
+<EVENT end="620" id="E15" modality="FACTUAL" polarity="POS" start="617" text="ROS" type="TEST"/>
+<EVENT end="647" id="E95" modality="FACTUAL" polarity="NEG" start="633" text="shaking chills" type="PROBLEM"/>
+<EVENT end="660" id="E96" modality="FACTUAL" polarity="NEG" start="650" text="chest pain" type="PROBLEM"/>
+<EVENT end="666" id="E97" modality="FACTUAL" polarity="NEG" start="663" text="SOB" type="PROBLEM"/>
+<EVENT end="677" id="E98" modality="FACTUAL" polarity="NEG" start="669" text="coughing" type="PROBLEM"/>
+<EVENT end="692" id="E99" modality="FACTUAL" polarity="NEG" start="680" text="constipation" type="PROBLEM"/>
+<EVENT end="703" id="E100" modality="FACTUAL" polarity="NEG" start="695" text="diarrhea" type="PROBLEM"/>
+<EVENT end="718" id="E101" modality="FACTUAL" polarity="NEG" start="706" text="tarry stools" type="PROBLEM"/>
+<EVENT end="729" id="E102" modality="FACTUAL" polarity="NEG" start="721" text="abd pain" type="PROBLEM"/>
+<EVENT end="747" id="E103" modality="FACTUAL" polarity="POS" start="739" text="reported" type="EVIDENTIAL"/>
+<EVENT end="762" id="E104" modality="FACTUAL" polarity="POS" start="748" text="gaining 30 lbs" type="PROBLEM"/>
+<EVENT end="789" id="E16" modality="FACTUAL" polarity="POS" start="782" text="ascites" type="PROBLEM"/>
+<EVENT end="810" id="E17" modality="FACTUAL" polarity="POS" start="804" text="vitals" type="TEST"/>
+<EVENT end="814" id="E18" modality="FACTUAL" polarity="POS" start="813" text="T" type="TEST"/>
+<EVENT end="821" id="E19" modality="FACTUAL" polarity="POS" start="820" text="P" type="TEST"/>
+<EVENT end="827" id="E20" modality="FACTUAL" polarity="POS" start="825" text="BP" type="TEST"/>
+<EVENT end="836" id="E21" modality="FACTUAL" polarity="POS" start="835" text="R" type="TEST"/>
+<EVENT end="843" id="E22" modality="FACTUAL" polarity="POS" start="840" text="Sat" type="TEST"/>
+<EVENT end="866" id="E23" modality="FACTUAL" polarity="POS" start="857" text="NG lavage" type="TREATMENT"/>
+<EVENT end="924" id="E24" modality="FACTUAL" polarity="POS" start="917" text="1U PRBC" type="TREATMENT"/>
+<EVENT end="937" id="E105" modality="FACTUAL" polarity="POS" start="927" text="GI consult" type="OCCURRENCE"/>
+<EVENT end="962" id="E25" modality="FACTUAL" polarity="POS" start="956" text="zofran" type="TREATMENT"/>
+<EVENT end="978" id="E26" modality="FACTUAL" polarity="POS" start="967" text="iv protonix" type="TREATMENT"/>
+<ATIMEX3 end="162" id="T0" mod="NA" start="158" text="2009" type="DATE" val="2009"/>
+<ATIMEX3 end="1603" id="T6" mod="NA" start="1598" text="10-28" type="DATE" val="2013-10-28"/>
+<ATIMEX3 end="1752" id="T11" mod="NA" start="1747" text="10-29" type="DATE" val="2013-10-29"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2013-10-27" type="DATE" val="2013-10-27"/>
+<ATIMEX3 end="1966" id="T7" mod="NA" start="1961" text="10-30" type="DATE" val="2013-10-30"/>
+<ATIMEX3 end="2203" id="T8" mod="NA" start="2198" text="11-02" type="DATE" val="2013-11-02"/>
+<ATIMEX3 end="234" id="T9" mod="NA" start="228" text="9/2004" type="DATE" val="2004-09"/>
+
+
+<ATIMEX3 end="299" id="T3" mod="NA" start="294" text="10-18" type="DATE" val="2013-10-18"/>
+<RTIMEX3 end="356" id="T4" mod="NA" start="342" text="Monday , 10-21" type="DATE" val="2013-10-21"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2013-11-03" type="DATE" val="2013-11-03"/>
+<RTIMEX3 end="474" id="T15" mod="END" start="469" text="night" type="DATE" val="2013-10-27"/>
+<ATIMEX3 end="774" id="T5" mod="NA" start="769" text="08-31" type="DATE" val="2013-08-31"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-10-27" end="28" id="S0" start="18" text="2013-10-27" type="ADMISSION"/>
+<SECTIME dvalue="2013-11-03" end="56" id="S1" start="46" text="2013-11-03" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

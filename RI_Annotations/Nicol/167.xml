@@ -1,0 +1,157 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2019-06-25
+Discharge Date :
+2019-07-01
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+69yoM with OA having workup for knee replacements found to be in Afib , had stress test that was positive followed by cardiac catheterization which revealed severe 3VD .
+Then referred for CABG
+Brief Hospital Course :
+69 yo M with known Atrial fibrillation and coronary artery disease admitted preop for transition fro Coumadin to Heparin .
+Brought to the OR on 06-26 for CABG , please see OR report for details .
+In summary pt had off pump CABGx4 with LIMA-LAD , SVG OM-Y graft - Diag , SVG-PDA .
+Pt tolerated surgery well and was transferred to CT CMED ICU .
+He did well in immediate post-op period was extubated and on POD1 he was transferred to the step down floor .
+On POD2 his chest tubes and epicardial pacing wires were removed and his Coumadin was restarted .
+Over the next several days his activity was advanced on POD5 it was decided he was stable and ready to be discharged home with visiting nurses .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1021" id="E36" modality="FACTUAL" polarity="POS" start="1006" text="visiting nurses" type="TREATMENT"/>
+<EVENT end="124" id="E19" modality="FACTUAL" polarity="POS" start="122" text="OA" type="PROBLEM"/>
+<EVENT end="138" id="E1" modality="FACTUAL" polarity="POS" start="132" text="workup" type="TEST"/>
+<EVENT end="160" id="E20" modality="FACTUAL" polarity="POS" start="143" text="knee replacements" type="TREATMENT"/>
+<EVENT end="166" id="E37" modality="FACTUAL" polarity="POS" start="161" text="found" type="EVIDENTIAL"/>
+<EVENT end="180" id="E21" modality="FACTUAL" polarity="POS" start="176" text="Afib" type="PROBLEM"/>
+<EVENT end="198" id="E2" modality="FACTUAL" polarity="POS" start="187" text="stress test" type="TEST"/>
+<EVENT end="252" id="E3" modality="FACTUAL" polarity="POS" start="229" text="cardiac catheterization" type="TEST"/>
+<EVENT end="267" id="E22" modality="FACTUAL" polarity="POS" start="259" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="278" id="E23" modality="FACTUAL" polarity="POS" start="268" text="severe 3VD" type="PROBLEM"/>
+<EVENT end="294" id="E16" modality="FACTUAL" polarity="POS" start="286" text="referred" type="OCCURRENCE"/>
+<EVENT end="38" id="E18" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="303" id="E24" modality="FACTUAL" polarity="POS" start="299" text="CABG" type="TREATMENT"/>
+<EVENT end="366" id="E4" modality="FACTUAL" polarity="POS" start="341" text="known Atrial fibrillation" type="PROBLEM"/>
+<EVENT end="394" id="E25" modality="FACTUAL" polarity="POS" start="371" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="403" id="E17" modality="FACTUAL" polarity="POS" start="395" text="admitted" type="OCCURRENCE"/>
+<EVENT end="437" id="E5" modality="FACTUAL" polarity="POS" start="429" text="Coumadin" type="TREATMENT"/>
+<EVENT end="448" id="E6" modality="FACTUAL" polarity="POS" start="441" text="Heparin" type="TREATMENT"/>
+<EVENT end="468" id="E26" modality="FACTUAL" polarity="POS" start="462" text="the OR" type="CLINICAL_DEPT"/>
+<EVENT end="486" id="E7" modality="FACTUAL" polarity="POS" start="482" text="CABG" type="TREATMENT"/>
+<EVENT end="509" id="E27" modality="FACTUAL" polarity="POS" start="500" text="OR report" type="EVIDENTIAL"/>
+<EVENT end="557" id="E8" modality="FACTUAL" polarity="POS" start="542" text="off pump CABGx4" type="TREATMENT"/>
+<EVENT end="571" id="E9" modality="FACTUAL" polarity="POS" start="563" text="LIMA-LAD" type="TREATMENT"/>
+<EVENT end="595" id="E10" modality="FACTUAL" polarity="POS" start="574" text="SVG OM-Y graft - Diag" type="TREATMENT"/>
+<EVENT end="605" id="E11" modality="FACTUAL" polarity="POS" start="598" text="SVG-PDA" type="TREATMENT"/>
+<EVENT end="628" id="E12" modality="FACTUAL" polarity="POS" start="621" text="surgery" type="TREATMENT"/>
+<EVENT end="653" id="E28" modality="FACTUAL" polarity="POS" start="642" text="transferred" type="OCCURRENCE"/>
+<EVENT end="668" id="E29" modality="FACTUAL" polarity="POS" start="657" text="CT CMED ICU" type="CLINICAL_DEPT"/>
+<EVENT end="682" id="E30" modality="FACTUAL" polarity="POS" start="678" text="well" type="OCCURRENCE"/>
+<EVENT end="724" id="E13" modality="FACTUAL" polarity="POS" start="715" text="extubated" type="TREATMENT"/>
+<EVENT end="755" id="E31" modality="FACTUAL" polarity="POS" start="744" text="transferred" type="OCCURRENCE"/>
+<EVENT end="778" id="E32" modality="FACTUAL" polarity="POS" start="759" text="the step down floor" type="CLINICAL_DEPT"/>
+<EVENT end="804" id="E14" modality="FACTUAL" polarity="POS" start="789" text="his chest tubes" type="TREATMENT"/>
+<EVENT end="832" id="E15" modality="FACTUAL" polarity="POS" start="809" text="epicardial pacing wires" type="TREATMENT"/>
+<EVENT end="862" id="E33" modality="FACTUAL" polarity="POS" start="850" text="his Coumadin" type="TREATMENT"/>
+<EVENT end="931" id="E38" modality="FACTUAL" polarity="POS" start="923" text="advanced" type="OCCURRENCE"/>
+<EVENT end="968" id="E34" modality="FACTUAL" polarity="POS" start="962" text="stable" type="OCCURRENCE"/>
+<EVENT end="995" id="E35" modality="FACTUAL" polarity="POS" start="985" text="discharged" type="OCCURRENCE"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2019-06-25" type="DATE" val="2019-06-25"/>
+<ATIMEX3 end="56" id="T3" mod="NA" start="46" text="2019-07-01" type="DATE" val="2019-07-01"/>
+<ATIMEX3 end="477" id="T4" mod="NA" start="472" text="06-26" type="DATE" val="2019-06-26"/>
+
+<RTIMEX3 end="736" id="T1" mod="NA" start="732" text="POD1" type="DATE" val="2019-06-27"/>
+<RTIMEX3 end="788" id="T2" mod="NA" start="784" text="POD2" type="DATE" val="2019-06-28"/>
+
+<RTIMEX3 end="939" id="T7" mod="NA" start="935" text="POD5" type="DATE" val="2019-07-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2019-06-25" end="28" id="S0" start="18" text="2019-06-25" type="ADMISSION"/>
+<SECTIME dvalue="2019-07-01" end="56" id="S1" start="46" text="2019-07-01" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

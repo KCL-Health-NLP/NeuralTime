@@ -1,0 +1,342 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+11-03-93
+DISCHARGE DATE :
+11-06-93
+HISTORY OF PRESENT ILLNESS :
+This 68-year-old patient of Dr. Naka Jesc had two episodes of rheumatic fever as a teenager .
+She has had chronic atrial fibrillation .
+Coumadin has caused bleeding from the mouth and nose on two occasions , on one occasion with prothrombin time 13 , and has been replaced by anti-platelet agents .
+She has had recurrent syncope since age 6 .
+She has now had progressive heart failure .
+A Holter showed atrial fibrillation with period of ventricular bigemini .
+She cut down dramatically on smoking two years ago , but has continued to smoke , although , very recently , she admits to only &quot; two puffs &quot; per day .
+She has not had hypertension or diabetes , and says he has lowered her cholesterol from 333 to 197 by changing her diet .
+There is no family history of heart disease .
+She has been treated with Vanceril for chronic obstructive pulmonary disease .
+She has had one gram per day proteinuria with normal creatinine .
+She had a partial gastrectomy in 1972 for a &quot; tumor &quot; .
+She has had an appendectomy and cholecystectomy .
+MEDICATIONS ON ADMISSION :
+Digoxin 0.125 mg po q.d. , Lasix 40 mg b.i.d. , aspirin held , and Vanceril three puffs b.i.d.
+ALLERGIES :
+Transdermal nitroglycerin caused headache .
+SOCIAL HISTORY :
+She does not drink .
+HOSPITAL COURSE :
+Cardiac catheterization was performed without complication from the right neck and right groin on the day of admission .
+Right atrial pressure was 12 with a wave form consistent with tricuspid regurgitation .
+There was no tricuspid valve gradient .
+Pulmonary artery pressure was markedly elevated at 120/60 .
+Pulmonary capillary wedge pressure was markedly elevated at 38 , with a very large mitral valve gradient .
+There was little or no aortic valve gradient .
+Fich cardiac output was 3.0 and indexed 2.0 .
+Arterial oxygen saturation was 85 percent .
+There was minimal mitral valve calcification , normal left ventricular contraction , and 2+ mitral regurgitation into a large left atrium .
+There was minimal aortic valve calcification , mild ______________ thickening , normal open , and mild aortic regurgitation .
+There was mild atherosclerosis of the mid left anterior descending .
+FVC was 1.6 or 58 percent of predicted and FEV1 0.95 or 45 percent of predicted .
+Room air arterial blood gas was 56/40/7.45 .
+Because it would be ideal to place a mechanical valve if valve replacement rather that commissurotomy is needed , she was seen by Dr. Ca Shuff of ENT for her history of epistaxis .
+He identified no bleeding source , but felt that the risk of nasal hemorrhage on Coumadin could be minimized interventional neuroradiology occlusion of the arteries to the nose bilaterally .
+The patient was therefore referred to the Dr. A Eu Wave .
+The procedure could not be scheduled during this admission .
+The patient is , therefore , discharged after a three day hospitalization , with plans for re-admission for the neuroradiology procedure .
+This will be followed by a trial of Coumadin , and then by mitral commissurotomy or replacement and probable tricuspid annuloplasty by Dr. Riemund C. Wave .
+In the meantime , Lasix dosage is increased .
+Potassium replacement has caused , according to the patient , marked hyperkalemia in the past .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1047" id="E27" modality="FACTUAL" polarity="POS" start="1026" text="a partial gastrectomy" type="TREATMENT"/>
+<EVENT end="1081" id="E28" modality="FACTUAL" polarity="POS" start="1060" text="a &quot; tumor &quot;" type="PROBLEM"/>
+<EVENT end="1111" id="E29" modality="FACTUAL" polarity="POS" start="1096" text="an appendectomy" type="TREATMENT"/>
+<EVENT end="1131" id="E30" modality="FACTUAL" polarity="POS" start="1116" text="cholecystectomy" type="TREATMENT"/>
+<EVENT end="1168" id="E31" modality="FACTUAL" polarity="POS" start="1161" text="Digoxin" type="TREATMENT"/>
+<EVENT end="1193" id="E32" modality="FACTUAL" polarity="POS" start="1188" text="Lasix" type="TREATMENT"/>
+<EVENT end="1216" id="E33" modality="FACTUAL" polarity="POS" start="1209" text="aspirin" type="TREATMENT"/>
+<EVENT end="1236" id="E34" modality="FACTUAL" polarity="POS" start="1228" text="Vanceril" type="TREATMENT"/>
+<EVENT end="1293" id="E35" modality="FACTUAL" polarity="POS" start="1268" text="Transdermal nitroglycerin" type="TREATMENT"/>
+<EVENT end="1309" id="E36" modality="FACTUAL" polarity="POS" start="1301" text="headache" type="PROBLEM"/>
+<EVENT end="1347" id="E37" modality="FACTUAL" polarity="NEG" start="1342" text="drink" type="OCCURRENCE"/>
+<EVENT end="1391" id="E38" modality="FACTUAL" polarity="POS" start="1368" text="Cardiac catheterization" type="TREATMENT"/>
+<EVENT end="1426" id="E39" modality="FACTUAL" polarity="NEG" start="1414" text="complication" type="PROBLEM"/>
+<EVENT end="159" id="E2" modality="FACTUAL" polarity="POS" start="144" text="rheumatic fever" type="PROBLEM"/>
+<EVENT end="1486" id="E40" modality="FACTUAL" polarity="POS" start="1477" text="admission" type="OCCURRENCE"/>
+<EVENT end="1510" id="E41" modality="FACTUAL" polarity="POS" start="1489" text="Right atrial pressure" type="TEST"/>
+<EVENT end="1574" id="E42" modality="FACTUAL" polarity="POS" start="1551" text="tricuspid regurgitation" type="PROBLEM"/>
+<EVENT end="1614" id="E43" modality="FACTUAL" polarity="NEG" start="1590" text="tricuspid valve gradient" type="PROBLEM"/>
+<EVENT end="1642" id="E44" modality="FACTUAL" polarity="POS" start="1617" text="Pulmonary artery pressure" type="TEST"/>
+<EVENT end="1664" id="E45" modality="FACTUAL" polarity="POS" start="1647" text="markedly elevated" type="PROBLEM"/>
+<EVENT end="1711" id="E46" modality="FACTUAL" polarity="POS" start="1677" text="Pulmonary capillary wedge pressure" type="TEST"/>
+<EVENT end="1733" id="E47" modality="FACTUAL" polarity="POS" start="1716" text="markedly elevated" type="PROBLEM"/>
+<EVENT end="1781" id="E48" modality="FACTUAL" polarity="POS" start="1747" text="a very large mitral valve gradient" type="PROBLEM"/>
+<EVENT end="1828" id="E49" modality="FACTUAL" polarity="NEG" start="1807" text="aortic valve gradient" type="PROBLEM"/>
+<EVENT end="1850" id="E50" modality="FACTUAL" polarity="POS" start="1831" text="Fich cardiac output" type="TEST"/>
+<EVENT end="215" id="E3" modality="FACTUAL" polarity="POS" start="188" text="chronic atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1903" id="E51" modality="FACTUAL" polarity="POS" start="1877" text="Arterial oxygen saturation" type="TEST"/>
+<EVENT end="1965" id="E52" modality="FACTUAL" polarity="POS" start="1931" text="minimal mitral valve calcification" type="PROBLEM"/>
+<EVENT end="2003" id="E53" modality="FACTUAL" polarity="POS" start="1968" text="normal left ventricular contraction" type="OCCURRENCE"/>
+<EVENT end="2058" id="E54" modality="FACTUAL" polarity="POS" start="2010" text="2+ mitral regurgitation into a large left atrium" type="PROBLEM"/>
+<EVENT end="2105" id="E55" modality="FACTUAL" polarity="POS" start="2071" text="minimal aortic valve calcification" type="PROBLEM"/>
+<EVENT end="2138" id="E56" modality="FACTUAL" polarity="POS" start="2108" text="mild ______________ thickening" type="PROBLEM"/>
+<EVENT end="2152" id="E57" modality="FACTUAL" polarity="POS" start="2141" text="normal open" type="OCCURRENCE"/>
+<EVENT end="2184" id="E58" modality="FACTUAL" polarity="POS" start="2159" text="mild aortic regurgitation" type="PROBLEM"/>
+<EVENT end="226" id="E4" modality="FACTUAL" polarity="POS" start="218" text="Coumadin" type="TREATMENT"/>
+<EVENT end="2253" id="E59" modality="FACTUAL" polarity="POS" start="2197" text="mild atherosclerosis of the mid left anterior descending" type="PROBLEM"/>
+<EVENT end="2259" id="E60" modality="FACTUAL" polarity="POS" start="2256" text="FVC" type="TEST"/>
+<EVENT end="2303" id="E61" modality="FACTUAL" polarity="POS" start="2299" text="FEV1" type="TEST"/>
+<EVENT end="2365" id="E62" modality="FACTUAL" polarity="POS" start="2338" text="Room air arterial blood gas" type="TEST"/>
+<EVENT end="270" id="E5" modality="FACTUAL" polarity="POS" start="238" text="bleeding from the mouth and nose" type="PROBLEM"/>
+<EVENT end="2436" id="E63" modality="CONDITIONAL" polarity="POS" start="2418" text="a mechanical valve" type="TREATMENT"/>
+<EVENT end="2457" id="E64" modality="CONDITIONAL" polarity="POS" start="2440" text="valve replacement" type="TREATMENT"/>
+<EVENT end="2484" id="E65" modality="CONDITIONAL" polarity="POS" start="2470" text="commissurotomy" type="TREATMENT"/>
+<EVENT end="2509" id="E66" modality="FACTUAL" polarity="POS" start="2505" text="seen" type="OCCURRENCE"/>
+<EVENT end="2561" id="E67" modality="FACTUAL" polarity="POS" start="2552" text="epistaxis" type="PROBLEM"/>
+<EVENT end="2596" id="E68" modality="FACTUAL" polarity="NEG" start="2581" text="bleeding source" type="PROBLEM"/>
+<EVENT end="2641" id="E69" modality="CONDITIONAL" polarity="POS" start="2625" text="nasal hemorrhage" type="PROBLEM"/>
+<EVENT end="2653" id="E70" modality="CONDITIONAL" polarity="POS" start="2645" text="Coumadin" type="TREATMENT"/>
+<EVENT end="2712" id="E71" modality="PROPOSED" polarity="POS" start="2673" text="interventional neuroradiology occlusion" type="TREATMENT"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2789" id="E72" modality="FACTUAL" polarity="POS" start="2781" text="referred" type="OCCURRENCE"/>
+<EVENT end="2826" id="E73" modality="PROPOSED" polarity="POS" start="2813" text="The procedure" type="TREATMENT"/>
+<EVENT end="2871" id="E74" modality="FACTUAL" polarity="POS" start="2857" text="this admission" type="OCCURRENCE"/>
+<EVENT end="2913" id="E75" modality="FACTUAL" polarity="POS" start="2903" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2947" id="E76" modality="FACTUAL" polarity="POS" start="2932" text="hospitalization" type="OCCURRENCE"/>
+<EVENT end="2977" id="E77" modality="PROPOSED" polarity="POS" start="2965" text="re-admission" type="OCCURRENCE"/>
+<EVENT end="3010" id="E78" modality="PROPOSED" polarity="POS" start="2982" text="the neuroradiology procedure" type="TREATMENT"/>
+<EVENT end="3057" id="E79" modality="PROPOSED" polarity="POS" start="3049" text="Coumadin" type="TREATMENT"/>
+<EVENT end="3093" id="E80" modality="PROPOSED" polarity="POS" start="3072" text="mitral commissurotomy" type="TREATMENT"/>
+<EVENT end="3108" id="E81" modality="PROPOSED" polarity="POS" start="3097" text="replacement" type="TREATMENT"/>
+<EVENT end="327" id="E6" modality="FACTUAL" polarity="POS" start="311" text="prothrombin time" type="TEST"/>
+<EVENT end="3144" id="E82" modality="PROPOSED" polarity="POS" start="3122" text="tricuspid annuloplasty" type="TREATMENT"/>
+<EVENT end="3193" id="E83" modality="FACTUAL" polarity="POS" start="3188" text="Lasix" type="TREATMENT"/>
+<EVENT end="3213" id="E84" modality="FACTUAL" polarity="POS" start="3204" text="increased" type="OCCURRENCE"/>
+<EVENT end="3237" id="E85" modality="FACTUAL" polarity="POS" start="3216" text="Potassium replacement" type="TREATMENT"/>
+<EVENT end="3297" id="E86" modality="FACTUAL" polarity="POS" start="3278" text="marked hyperkalemia" type="PROBLEM"/>
+<EVENT end="378" id="E7" modality="FACTUAL" polarity="POS" start="358" text="anti-platelet agents" type="TREATMENT"/>
+<EVENT end="410" id="E8" modality="FACTUAL" polarity="POS" start="393" text="recurrent syncope" type="PROBLEM"/>
+<EVENT end="466" id="E9" modality="FACTUAL" polarity="POS" start="441" text="progressive heart failure" type="PROBLEM"/>
+<EVENT end="477" id="E10" modality="FACTUAL" polarity="POS" start="469" text="A Holter" type="TEST"/>
+<EVENT end="484" id="E11" modality="FACTUAL" polarity="POS" start="478" text="showed" type="EVIDENTIAL"/>
+<EVENT end="504" id="E12" modality="FACTUAL" polarity="POS" start="485" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="540" id="E13" modality="FACTUAL" polarity="POS" start="520" text="ventricular bigemini" type="PROBLEM"/>
+<EVENT end="555" id="E14" modality="FACTUAL" polarity="POS" start="547" text="cut down" type="OCCURRENCE"/>
+<EVENT end="579" id="E15" modality="FACTUAL" polarity="POS" start="572" text="smoking" type="OCCURRENCE"/>
+<EVENT end="622" id="E16" modality="FACTUAL" polarity="POS" start="617" text="smoke" type="OCCURRENCE"/>
+<EVENT end="687" id="E17" modality="FACTUAL" polarity="POS" start="678" text="two puffs" type="OCCURRENCE"/>
+<EVENT end="733" id="E18" modality="FACTUAL" polarity="NEG" start="721" text="hypertension" type="PROBLEM"/>
+<EVENT end="745" id="E19" modality="FACTUAL" polarity="NEG" start="737" text="diabetes" type="PROBLEM"/>
+<EVENT end="787" id="E20" modality="FACTUAL" polarity="POS" start="764" text="lowered her cholesterol" type="OCCURRENCE"/>
+<EVENT end="824" id="E21" modality="FACTUAL" polarity="POS" start="807" text="changing her diet" type="OCCURRENCE"/>
+<EVENT end="870" id="E22" modality="FACTUAL" polarity="NEG" start="857" text="heart disease" type="PROBLEM"/>
+<EVENT end="907" id="E23" modality="FACTUAL" polarity="POS" start="899" text="Vanceril" type="TREATMENT"/>
+<EVENT end="949" id="E24" modality="FACTUAL" polarity="POS" start="912" text="chronic obstructive pulmonary disease" type="PROBLEM"/>
+<EVENT end="992" id="E25" modality="FACTUAL" polarity="POS" start="981" text="proteinuria" type="PROBLEM"/>
+<EVENT end="1015" id="E26" modality="FACTUAL" polarity="POS" start="998" text="normal creatinine" type="TEST"/>
+<ATIMEX3 end="1055" id="T8" mod="NA" start="1051" text="1972" type="DATE" val="1972"/>
+
+
+
+
+<RTIMEX3 end="1473" id="T12" mod="NA" start="1466" text="the day" type="DATE" val="1993-11-03"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="11-03-93" type="DATE" val="1993-11-03"/>
+
+
+
+<RTIMEX3 end="422" id="T14" mod="APPROX" start="417" text="age 6" type="DATE" val="1931"/>
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="11-06-93" type="DATE" val="1993-11-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1993-11-03" end="26" id="S0" start="18" text="11-03-93" type="ADMISSION"/>
+<SECTIME dvalue="1993-11-06" end="52" id="S1" start="44" text="11-06-93" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

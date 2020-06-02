@@ -1,0 +1,196 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-10-25
+Discharge Date :
+2018-10-31
+Service : 
+CARDIOTHORACIC
+History of Present Illness :
+67 y/o male with worsening shortness of breath. Had abnormal ETT and referred for cath .
+Cath revealed severe 3 vessel disease .
+Then referred for surgical intervention .
+Brief Hospital Course :
+Mr. Kammerer was a same day admit and on 10-25 was brought to the operating room where he underwent a coronary artery bypass graft x 3 .
+Please see operative report for surgical details .
+He tolerated the procedure well and was transferred to the CSRU for invasive monitoring in stable condition .
+Later on op day he was weaned from sedation , awoke neurologically intact , and 
+extubated .
+Beta blockers and diuretics were initiated on post-op day one .
+He was diuresed towards his pre-op weight .
+He appeared to be doing well and was transferred to the SDU on this day .
+He did have burst of atrial fibrillation and was started on a Amiodarone gtt .
+His beta blockers were also titrated for maximal BP and HR control .
+Chest tubes were removed on post-op day two and epicardial pacing wires on post-op day three .
+Over the next several days he continued to improve his ambulation and mobility with physical therapy .
+He had no further episodes of AFIB while on po Amiodarone .
+On post-op day five he appeared to have left arm phlebitis and was started on antibiotics .
+He was discharged home on post-op day six with antibiotics and appropriate meds .
+He will have VNA services and make the appropriate follow-up appointments .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1039" id="E16" modality="FACTUAL" polarity="POS" start="1028" text="Chest tubes" type="TREATMENT"/>
+<EVENT end="1099" id="E17" modality="FACTUAL" polarity="POS" start="1076" text="epicardial pacing wires" type="TREATMENT"/>
+<EVENT end="1173" id="E43" modality="FACTUAL" polarity="POS" start="1166" text="improve" type="OCCURRENCE"/>
+<EVENT end="1188" id="E45" modality="FACTUAL" polarity="POS" start="1174" text="his ambulation" type="OCCURRENCE"/>
+<EVENT end="1201" id="E44" modality="FACTUAL" polarity="POS" start="1193" text="mobility" type="OCCURRENCE"/>
+<EVENT end="1223" id="E18" modality="FACTUAL" polarity="POS" start="1207" text="physical therapy" type="TREATMENT"/>
+<EVENT end="1260" id="E19" modality="FACTUAL" polarity="NEG" start="1236" text="further episodes of AFIB" type="PROBLEM"/>
+<EVENT end="1283" id="E20" modality="FACTUAL" polarity="POS" start="1270" text="po Amiodarone" type="TREATMENT"/>
+<EVENT end="159" id="E28" modality="FACTUAL" polarity="POS" start="129" text="worsening shortness of breath." type="PROBLEM"/>
+<EVENT end="1344" id="E21" modality="FACTUAL" polarity="POS" start="1326" text="left arm phlebitis" type="PROBLEM"/>
+<EVENT end="1375" id="E22" modality="FACTUAL" polarity="POS" start="1364" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1400" id="E46" modality="FACTUAL" polarity="POS" start="1385" text="discharged home" type="OCCURRENCE"/>
+<EVENT end="1436" id="E23" modality="FACTUAL" polarity="POS" start="1425" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1457" id="E24" modality="FACTUAL" polarity="POS" start="1441" text="appropriate meds" type="TREATMENT"/>
+<EVENT end="1485" id="E47" modality="FACTUAL" polarity="POS" start="1473" text="VNA services" type="TREATMENT"/>
+<EVENT end="1533" id="E48" modality="FACTUAL" polarity="POS" start="1511" text="follow-up appointments" type="OCCURRENCE"/>
+<EVENT end="176" id="E1" modality="FACTUAL" polarity="POS" start="164" text="abnormal ETT" type="PROBLEM"/>
+<EVENT end="198" id="E2" modality="FACTUAL" polarity="POS" start="194" text="cath" type="TEST"/>
+<EVENT end="205" id="E3" modality="FACTUAL" polarity="POS" start="201" text="Cath" type="TEST"/>
+<EVENT end="214" id="E29" modality="FACTUAL" polarity="POS" start="206" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="238" id="E30" modality="FACTUAL" polarity="POS" start="215" text="severe 3 vessel disease" type="PROBLEM"/>
+<EVENT end="280" id="E31" modality="PROPOSED" polarity="POS" start="259" text="surgical intervention" type="TREATMENT"/>
+<EVENT end="38" id="E27" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="340" id="E32" modality="FACTUAL" polarity="POS" start="324" text="a same day admit" type="OCCURRENCE"/>
+<EVENT end="387" id="E33" modality="FACTUAL" polarity="POS" start="369" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="437" id="E4" modality="FACTUAL" polarity="POS" start="407" text="a coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="507" id="E34" modality="FACTUAL" polarity="POS" start="498" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="521" id="E5" modality="FACTUAL" polarity="POS" start="508" text="the procedure" type="TREATMENT"/>
+<EVENT end="526" id="E35" modality="FACTUAL" polarity="POS" start="522" text="well" type="OCCURRENCE"/>
+<EVENT end="546" id="E36" modality="FACTUAL" polarity="POS" start="535" text="transferred" type="OCCURRENCE"/>
+<EVENT end="558" id="E37" modality="FACTUAL" polarity="POS" start="550" text="the CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="582" id="E6" modality="FACTUAL" polarity="POS" start="563" text="invasive monitoring" type="TEST"/>
+<EVENT end="602" id="E38" modality="FACTUAL" polarity="POS" start="586" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="648" id="E7" modality="FACTUAL" polarity="POS" start="640" text="sedation" type="TREATMENT"/>
+<EVENT end="656" id="E40" modality="FACTUAL" polarity="POS" start="651" text="awoke" type="OCCURRENCE"/>
+<EVENT end="678" id="E39" modality="FACTUAL" polarity="POS" start="657" text="neurologically intact" type="OCCURRENCE"/>
+<EVENT end="695" id="E41" modality="FACTUAL" polarity="POS" start="686" text="extubated" type="OCCURRENCE"/>
+<EVENT end="711" id="E8" modality="FACTUAL" polarity="POS" start="698" text="Beta blockers" type="TREATMENT"/>
+<EVENT end="725" id="E9" modality="FACTUAL" polarity="POS" start="716" text="diuretics" type="TREATMENT"/>
+<EVENT end="777" id="E10" modality="FACTUAL" polarity="POS" start="769" text="diuresed" type="TREATMENT"/>
+<EVENT end="803" id="E11" modality="FACTUAL" polarity="POS" start="786" text="his pre-op weight" type="TEST"/>
+<EVENT end="834" id="E42" modality="FACTUAL" polarity="POS" start="830" text="well" type="OCCURRENCE"/>
+<EVENT end="854" id="E25" modality="FACTUAL" polarity="POS" start="843" text="transferred" type="OCCURRENCE"/>
+<EVENT end="865" id="E49" modality="FACTUAL" polarity="POS" start="858" text="the SDU" type="CLINICAL_DEPT"/>
+<EVENT end="920" id="E12" modality="FACTUAL" polarity="POS" start="892" text="burst of atrial fibrillation" type="PROBLEM"/>
+<EVENT end="956" id="E13" modality="FACTUAL" polarity="POS" start="940" text="a Amiodarone gtt" type="TREATMENT"/>
+<EVENT end="976" id="E14" modality="FACTUAL" polarity="POS" start="959" text="His beta blockers" type="TREATMENT"/>
+<EVENT end="1025" id="E15" modality="FACTUAL" polarity="POS" start="1000" text="maximal BP and HR control" type="TREATMENT"/>
+<RTIMEX3 end="1071" id="T6" mod="NA" start="1056" text="post-op day two" type="DATE" val="2018-10-27"/>
+<RTIMEX3 end="1120" id="T7" mod="NA" start="1103" text="post-op day three" type="DATE" val="2018-10-28"/>
+
+<RTIMEX3 end="1305" id="T8" mod="NA" start="1289" text="post-op day five" type="DATE" val="2018-10-30"/>
+<RTIMEX3 end="1419" id="T9" mod="NA" start="1404" text="post-op day six" type="DATE" val="2018-10-31"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2018-10-25" type="DATE" val="2018-10-25"/>
+<ATIMEX3 end="353" id="T3" mod="NA" start="348" text="10-25" type="DATE" val="2018-10-25"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2018-10-31" type="DATE" val="2018-10-31"/>
+<RTIMEX3 end="620" id="T0" mod="END" start="605" text="Later on op day" type="DATE" val="2018-10-25"/>
+<RTIMEX3 end="759" id="T4" mod="NA" start="744" text="post-op day one" type="DATE" val="2018-10-26"/>
+<RTIMEX3 end="877" id="T5" mod="NA" start="869" text="this day" type="DATE" val="2018-10-26"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-10-25" end="28" id="S0" start="18" text="2018-10-25" type="ADMISSION"/>
+<SECTIME dvalue="2018-10-31" end="56" id="S1" start="46" text="2018-10-31" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

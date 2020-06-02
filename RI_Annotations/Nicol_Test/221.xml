@@ -1,0 +1,218 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+09/21/92
+DISCHARGE DATE :
+09/24/92
+DISCHARGE DATE :
+09/24/92
+HISTORY OF PRESENT ILLNESS :
+The patient is a seventy-one year old white female with stenotic area on her mid sigmoid , noticed on barium enema .
+The ultrasound showed ascites and question of pelvic mass .
+The patient was explored by General surgery , who saw the 3C ovarian carcinoma .
+The patient also had an omentectomy and ileostomy .
+The patient was admitted for one cycle of Cytoxan and Cisplatin , and subsequently underwent debulking in June 1992 , as well as a total abdominal hysterectomy/ bilateral salpingo-oophorectomy , omentectomy , splenectomy , rectosigmoid resection with a take down of the ileostomy .
+Also ileal cecal resection , MDR showed that Cisplatin and VP 16 were more effective .
+The patient now presents for line 1 , cycle 4 to 15 of VP 16 and Cisplatin chemotherapy .
+HOSPITAL COURSE :
+The patient was admitted to the hospital and received two units of packed red blood cells for her hematocrit of 26 , and had a magnesium repleted .
+The patient received three days of chemotherapy , consisting of 45 mg. of Cisplatin 160 mg. of VP 16 , and tolerated chemotherapy resonably well .
+Serial PTs were obtained , and the patient was noted to have an initial PT of 10.9 on admission , despite Coumadin at home .
+She was given 10 mg. on hospital day # 1 , and 5 mg. on hospital day 2 , and back to 2.5 qhs .
+The patient &apos;s pro time bumped to 19.5 on hospital day # 3 , and the patient was instructed to continue with 2 1/2 mg. qhs and is to followup with Anticoagulation Clinic in one week for further pro time checks and adjustments .
+The patient did develop some hypertension during infusion of her VP 16 to the 170/100 range , which apparently happened during her prior chemotherapy .
+The patient was instructed to followup with her internist regarding further evaluation of her hypertension , and should be assessed regarding further management , as an inpatient , or while receiving chemotherapy .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1031" id="E35" modality="FACTUAL" polarity="POS" start="1020" text="a magnesium" type="TREATMENT"/>
+<EVENT end="1090" id="E36" modality="FACTUAL" polarity="POS" start="1078" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="1126" id="E37" modality="FACTUAL" polarity="POS" start="1117" text="Cisplatin" type="TREATMENT"/>
+<EVENT end="1143" id="E38" modality="FACTUAL" polarity="POS" start="1138" text="VP 16" type="TREATMENT"/>
+<EVENT end="1159" id="E40" modality="FACTUAL" polarity="POS" start="1150" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1172" id="E39" modality="FACTUAL" polarity="POS" start="1160" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="1200" id="E41" modality="FACTUAL" polarity="POS" start="1190" text="Serial PTs" type="TEST"/>
+<EVENT end="1264" id="E42" modality="FACTUAL" polarity="POS" start="1251" text="an initial PT" type="TEST"/>
+<EVENT end="1285" id="E43" modality="FACTUAL" polarity="POS" start="1276" text="admission" type="OCCURRENCE"/>
+<EVENT end="1304" id="E44" modality="FACTUAL" polarity="POS" start="1296" text="Coumadin" type="TREATMENT"/>
+<EVENT end="1438" id="E45" modality="FACTUAL" polarity="POS" start="1410" text="The patient 's pro time" type="TEST"/>
+<EVENT end="1584" id="E46" modality="PROPOSED" polarity="POS" start="1562" text="Anticoagulation Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="1624" id="E47" modality="PROPOSED" polarity="POS" start="1601" text="further pro time checks" type="TEST"/>
+<EVENT end="1640" id="E48" modality="CONDITIONAL" polarity="POS" start="1629" text="adjustments" type="TREATMENT"/>
+<EVENT end="196" id="E3" modality="FACTUAL" polarity="POS" start="164" text="stenotic area on her mid sigmoid" type="PROBLEM"/>
+<EVENT end="1684" id="E49" modality="FACTUAL" polarity="POS" start="1667" text="some hypertension" type="PROBLEM"/>
+<EVENT end="1713" id="E50" modality="FACTUAL" polarity="POS" start="1692" text="infusion of her VP 16" type="TREATMENT"/>
+<EVENT end="1792" id="E51" modality="FACTUAL" polarity="POS" start="1770" text="her prior chemotherapy" type="TREATMENT"/>
+<EVENT end="1833" id="E52" modality="PROPOSED" polarity="POS" start="1825" text="followup" type="OCCURRENCE"/>
+<EVENT end="1881" id="E53" modality="PROPOSED" polarity="POS" start="1863" text="further evaluation" type="TEST"/>
+<EVENT end="1901" id="E54" modality="FACTUAL" polarity="POS" start="1885" text="her hypertension" type="PROBLEM"/>
+<EVENT end="1955" id="E55" modality="PROPOSED" polarity="POS" start="1937" text="further management" type="TREATMENT"/>
+<EVENT end="2007" id="E56" modality="FACTUAL" polarity="POS" start="1995" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="222" id="E4" modality="FACTUAL" polarity="POS" start="210" text="barium enema" type="TEST"/>
+<EVENT end="239" id="E5" modality="FACTUAL" polarity="POS" start="225" text="The ultrasound" type="TEST"/>
+<EVENT end="246" id="E6" modality="FACTUAL" polarity="POS" start="240" text="showed" type="EVIDENTIAL"/>
+<EVENT end="254" id="E7" modality="FACTUAL" polarity="POS" start="247" text="ascites" type="PROBLEM"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="282" id="E8" modality="POSSIBLE" polarity="POS" start="271" text="pelvic mass" type="PROBLEM"/>
+<EVENT end="309" id="E9" modality="FACTUAL" polarity="POS" start="301" text="explored" type="TEST"/>
+<EVENT end="363" id="E10" modality="FACTUAL" polarity="POS" start="339" text="the 3C ovarian carcinoma" type="PROBLEM"/>
+<EVENT end="401" id="E11" modality="FACTUAL" polarity="POS" start="387" text="an omentectomy" type="TREATMENT"/>
+<EVENT end="415" id="E12" modality="FACTUAL" polarity="POS" start="406" text="ileostomy" type="TREATMENT"/>
+<EVENT end="442" id="E13" modality="FACTUAL" polarity="POS" start="434" text="admitted" type="OCCURRENCE"/>
+<EVENT end="467" id="E14" modality="FACTUAL" polarity="POS" start="460" text="Cytoxan" type="TREATMENT"/>
+<EVENT end="481" id="E15" modality="FACTUAL" polarity="POS" start="472" text="Cisplatin" type="TREATMENT"/>
+<EVENT end="520" id="E16" modality="FACTUAL" polarity="POS" start="511" text="debulking" type="TREATMENT"/>
+<EVENT end="62" id="E2" modality="FACTUAL" polarity="POS" start="53" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="578" id="E17" modality="FACTUAL" polarity="POS" start="547" text="a total abdominal hysterectomy/" type="TREATMENT"/>
+<EVENT end="610" id="E18" modality="FACTUAL" polarity="POS" start="579" text="bilateral salpingo-oophorectomy" type="TREATMENT"/>
+<EVENT end="624" id="E19" modality="FACTUAL" polarity="POS" start="613" text="omentectomy" type="TREATMENT"/>
+<EVENT end="638" id="E20" modality="FACTUAL" polarity="POS" start="627" text="splenectomy" type="TREATMENT"/>
+<EVENT end="663" id="E21" modality="FACTUAL" polarity="POS" start="641" text="rectosigmoid resection" type="TREATMENT"/>
+<EVENT end="697" id="E22" modality="FACTUAL" polarity="POS" start="669" text="a take down of the ileostomy" type="TREATMENT"/>
+<EVENT end="726" id="E23" modality="FACTUAL" polarity="POS" start="705" text="ileal cecal resection" type="TREATMENT"/>
+<EVENT end="732" id="E24" modality="FACTUAL" polarity="POS" start="729" text="MDR" type="TEST"/>
+<EVENT end="739" id="E25" modality="FACTUAL" polarity="POS" start="733" text="showed" type="EVIDENTIAL"/>
+<EVENT end="754" id="E26" modality="FACTUAL" polarity="POS" start="745" text="Cisplatin" type="TREATMENT"/>
+<EVENT end="764" id="E27" modality="FACTUAL" polarity="POS" start="759" text="VP 16" type="TREATMENT"/>
+<EVENT end="811" id="E28" modality="FACTUAL" polarity="POS" start="803" text="presents" type="EVIDENTIAL"/>
+<EVENT end="847" id="E29" modality="FACTUAL" polarity="POS" start="842" text="VP 16" type="TREATMENT"/>
+<EVENT end="874" id="E30" modality="FACTUAL" polarity="POS" start="852" text="Cisplatin chemotherapy" type="TREATMENT"/>
+<EVENT end="919" id="E31" modality="FACTUAL" polarity="POS" start="911" text="admitted" type="OCCURRENCE"/>
+<EVENT end="935" id="E32" modality="FACTUAL" polarity="POS" start="923" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="984" id="E33" modality="FACTUAL" polarity="POS" start="962" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="1003" id="E34" modality="FACTUAL" polarity="POS" start="989" text="her hematocrit" type="TEST"/>
+
+<RTIMEX3 end="1355" id="T5" mod="NA" start="1339" text="hospital day # 1" type="DATE" val="1992-09-21"/>
+<RTIMEX3 end="1385" id="T6" mod="NA" start="1371" text="hospital day 2" type="DATE" val="1992-09-22"/>
+
+<RTIMEX3 end="1473" id="T8" mod="NA" start="1457" text="hospital day # 3" type="DATE" val="1992-09-23"/>
+
+
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="09/21/92" type="DATE" val="1992-09-21"/>
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="09/24/92" type="DATE" val="1992-09-24"/>
+<RTIMEX3 end="533" id="T3" mod="NA" start="524" text="June 1992" type="DATE" val="1992-06"/>
+<ATIMEX3 end="78" id="T2" mod="NA" start="70" text="09/24/92" type="DATE" val="1992-09-24"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-09-21" end="26" id="S0" start="18" text="09/21/92" type="ADMISSION"/>
+<SECTIME dvalue="1992-09-24" end="52" id="S1" start="44" text="09/24/92" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

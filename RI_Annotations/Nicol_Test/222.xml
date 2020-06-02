@@ -1,0 +1,505 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-03-23
+Discharge Date :
+2012-03-26
+Service :
+MEDICINE
+History of Present Illness :
+39 year old male w/ h/o low back pain on chronic narcotics presents after being found unresponsive at home .
+His daughter awoke him at 7 a.m. , reports he said he felt " cold and shivery ," vomited several times , then drove her to school .
+According to his wife , he came home and went to sleep .
+When she tried to awaken him at 11 a.m. , she was unable to do so and called EMS .
+She did not notice any blood / urine / emesis / stool in the bed .
+EMS found him with agonal respirations and pinpoint pupils .
+FS 420 .
+He received 1 mg IV Narcan ( numerous bottles of oxycontin , percocet were found in room ); his pupils dilated to ~ 8 mm and he became combative / agitated .
+He was then intubated for airway protection ( etomidate / succinate ); it was a traumatic intubation 
+and one of his teeth was chipped .
+He was transported to Hallmark Health System Monica , where ABG 7.14/82/44 while bagging on 100% FiO2 .
+Wife reports that he drank a large amt of alcohol ( 12 bottles of beer ) night PTA .
+For 2 days PTA , he has expressed a wish to kill himself ( no clear plan , but fixing things around the house " so things will be ready when I 'm gone ").
+In Monica , pt received charcoal , 500 mg IV levofloxacin , 500 mg IV metronidazole for presumed aspiration pna .
+Brief Hospital Course :
+A : 39 year old male w/ HTN , chronic LBP on narcotics presents after being found unresponsive at home .
+P :
+1) Unresponsiveness : This is likely due todrug overdose ( known oxycontin use , (+) BNZ on tox screen ).
+Ddx : cardiac ischemia ( no ischemic EKG changes noted ), seizure w/ post-ictal state , CVA ( head CT neg ).
+His cardiac enzymes include only elevated CK , but not Shaffer , Juan he ruled out for MI .
+His mental status gradually improved from 03-23 to 03-24 .
+He was able to communicate appropriately as his level of narcotic medications waned in his blood .
+He was able to maintain a stable mental level for extubation on 03-24 .
+As of 3/21 , he was alert , appropriate and answers questions and follows command on exam .
+2) Pulmonary infiltrates : THere was initially concern that he was developing ARDS from aspiration pneumonia in the setting of being found unconscious .
+He was intubated and was on mechanical ventilation from 9/13 10/11 , but he was started on levofloxacin 
+and flagyl for total of 4 days .
+ON 03-26 , his antibiotics were started as this most likely represent a transiet aspiration episode and not ARDS .
+3) Airway protection : He was intubated in the field for airway protection
+He was extubated on 03-24 and was weaned off oxygen slowly from 03-24 to 03-26 without significant event .
+4) Hypertension : He was restarted on his atenolol and verapamil once his blood pressure stabilized on 03-25 .
+5) Depression : He was restarted on his paxil on 03-25 and was given 1:1 sitter for suicidal ideation leading up to his suicide leading up to this admission .
+He has not had further episodes while he was in the hospital .
+- plan to restart Paxil when taking PO
+6) Hyperglycemia : Although he has no known history of_ diabetes , his elevated FS noted in field with glycosuria prompted fingerstick check but he has not required insulin coverage .
+7) High amylase : He was admitted on 03-23 with elevated amylase but non-elevated lipase .
+This likely is not concerning of pancreatic process .
+His amylase trended down .
+He was restarted on regular diet on 4/14 4/17 after his extubation
+8) Anemia - He was admitted with borderline anemia with Fe studies suggestive of anemia of chronic disease and his hct decreased in the setting fluid resucitation .
+His hct has stabilized and improved to close to 30 at the time of 3/21 .
+He reports that his primary physician is aware of his anemia and was in the process of followup .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E72" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1019" id="E89" modality="FACTUAL" polarity="POS" start="1010" text="100% FiO2" type="TREATMENT"/>
+<EVENT end="1034" id="E90" modality="FACTUAL" polarity="POS" start="1027" text="reports" type="EVIDENTIAL"/>
+<EVENT end="1071" id="E91" modality="FACTUAL" polarity="POS" start="1043" text="drank a large amt of alcohol" type="OCCURRENCE"/>
+<EVENT end="1163" id="E92" modality="FACTUAL" polarity="POS" start="1141" text="a wish to kill himself" type="PROBLEM"/>
+<EVENT end="1199" id="E93" modality="FACTUAL" polarity="POS" start="1186" text="fixing things" type="OCCURRENCE"/>
+<EVENT end="1271" id="E94" modality="FACTUAL" polarity="POS" start="1265" text="Monica" type="CLINICAL_DEPT"/>
+<EVENT end="142" id="E1" modality="FACTUAL" polarity="POS" start="129" text="low back pain" type="PROBLEM"/>
+<EVENT end="1294" id="E95" modality="FACTUAL" polarity="POS" start="1286" text="charcoal" type="TREATMENT"/>
+<EVENT end="1319" id="E96" modality="FACTUAL" polarity="POS" start="1304" text="IV levofloxacin" type=""/>
+<EVENT end="1345" id="E97" modality="FACTUAL" polarity="POS" start="1329" text="IV metronidazole" type="TREATMENT"/>
+<EVENT end="1373" id="E98" modality="POSSIBLE" polarity="POS" start="1359" text="aspiration pna" type="PROBLEM"/>
+<EVENT end="1427" id="E99" modality="FACTUAL" polarity="POS" start="1424" text="HTN" type="PROBLEM"/>
+<EVENT end="1441" id="E100" modality="FACTUAL" polarity="POS" start="1430" text="chronic LBP" type="PROBLEM"/>
+<EVENT end="1454" id="E101" modality="FACTUAL" polarity="POS" start="1445" text="narcotics" type="TREATMENT"/>
+<EVENT end="163" id="E2" modality="FACTUAL" polarity="POS" start="146" text="chronic narcotics" type="TREATMENT"/>
+<EVENT end="1463" id="E102" modality="FACTUAL" polarity="POS" start="1455" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1494" id="E19" modality="FACTUAL" polarity="POS" start="1482" text="unresponsive" type="PROBLEM"/>
+<EVENT end="1528" id="E20" modality="FACTUAL" polarity="POS" start="1512" text="Unresponsiveness" type="PROBLEM"/>
+<EVENT end="1565" id="E103" modality="POSSIBLE" polarity="POS" start="1550" text="todrug overdose" type="PROBLEM"/>
+<EVENT end="1583" id="E21" modality="FACTUAL" polarity="POS" start="1574" text="oxycontin" type="TREATMENT"/>
+<EVENT end="1597" id="E22" modality="FACTUAL" polarity="POS" start="1590" text="(+) BNZ" type="PROBLEM"/>
+<EVENT end="1611" id="E23" modality="FACTUAL" polarity="POS" start="1601" text="tox screen" type="TEST"/>
+<EVENT end="1637" id="E24" modality="POSSIBLE" polarity="POS" start="1621" text="cardiac ischemia" type="PROBLEM"/>
+<EVENT end="172" id="E0" modality="FACTUAL" polarity="POS" start="164" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1663" id="E25" modality="FACTUAL" polarity="NEG" start="1643" text="ischemic EKG changes" type="PROBLEM"/>
+<EVENT end="1680" id="E26" modality="POSSIBLE" polarity="POS" start="1673" text="seizure" type="PROBLEM"/>
+<EVENT end="1700" id="E27" modality="POSSIBLE" polarity="POS" start="1684" text="post-ictal state" type="PROBLEM"/>
+<EVENT end="1706" id="E28" modality="POSSIBLE" polarity="POS" start="1703" text="CVA" type="PROBLEM"/>
+<EVENT end="1716" id="E29" modality="FACTUAL" polarity="POS" start="1709" text="head CT" type="TEST"/>
+<EVENT end="1743" id="E30" modality="FACTUAL" polarity="POS" start="1724" text="His cardiac enzymes" type="TEST"/>
+<EVENT end="1768" id="E31" modality="FACTUAL" polarity="POS" start="1757" text="elevated CK" type="PROBLEM"/>
+<EVENT end="1813" id="E32" modality="FACTUAL" polarity="NEG" start="1811" text="MI" type="PROBLEM"/>
+<EVENT end="1833" id="E104" modality="FACTUAL" polarity="POS" start="1816" text="His mental status" type="OCCURRENCE"/>
+<EVENT end="1852" id="E105" modality="FACTUAL" polarity="POS" start="1844" text="improved" type="OCCURRENCE"/>
+<EVENT end="1915" id="E106" modality="FACTUAL" polarity="POS" start="1882" text="able to communicate appropriately" type="OCCURRENCE"/>
+<EVENT end="203" id="E3" modality="FACTUAL" polarity="POS" start="191" text="unresponsive" type="PROBLEM"/>
+<EVENT end="1928" id="E33" modality="FACTUAL" polarity="POS" start="1919" text="his level" type="TEST"/>
+<EVENT end="1952" id="E34" modality="FACTUAL" polarity="POS" start="1932" text="narcotic medications" type="TREATMENT"/>
+<EVENT end="1971" id="E35" modality="FACTUAL" polarity="POS" start="1962" text="his blood" type="TEST"/>
+<EVENT end="2019" id="E107" modality="FACTUAL" polarity="POS" start="1998" text="a stable mental level" type="OCCURRENCE"/>
+<EVENT end="2034" id="E36" modality="FACTUAL" polarity="POS" start="2024" text="extubation" type="TREATMENT"/>
+<EVENT end="2071" id="E75" modality="FACTUAL" polarity="POS" start="2066" text="alert" type="OCCURRENCE"/>
+<EVENT end="2085" id="E108" modality="FACTUAL" polarity="POS" start="2074" text="appropriate" type="OCCURRENCE"/>
+<EVENT end="2107" id="E109" modality="FACTUAL" polarity="POS" start="2090" text="answers questions" type="OCCURRENCE"/>
+<EVENT end="2127" id="E110" modality="FACTUAL" polarity="POS" start="2112" text="follows command" type="OCCURRENCE"/>
+<EVENT end="2135" id="E37" modality="FACTUAL" polarity="POS" start="2131" text="exam" type="TEST"/>
+<EVENT end="2162" id="E38" modality="FACTUAL" polarity="POS" start="2141" text="Pulmonary infiltrates" type="PROBLEM"/>
+<EVENT end="2220" id="E111" modality="POSSIBLE" polarity="POS" start="2216" text="ARDS" type="PROBLEM"/>
+<EVENT end="2246" id="E39" modality="FACTUAL" polarity="POS" start="2226" text="aspiration pneumonia" type="PROBLEM"/>
+<EVENT end="232" id="E76" modality="FACTUAL" polarity="POS" start="227" text="awoke" type="OCCURRENCE"/>
+<EVENT end="2288" id="E40" modality="FACTUAL" polarity="POS" start="2277" text="unconscious" type="PROBLEM"/>
+<EVENT end="2307" id="E112" modality="FACTUAL" polarity="POS" start="2298" text="intubated" type="TREATMENT"/>
+<EVENT end="2341" id="E41" modality="FACTUAL" polarity="POS" start="2319" text="mechanical ventilation" type="TREATMENT"/>
+<EVENT end="2394" id="E42" modality="FACTUAL" polarity="POS" start="2382" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="2406" id="E43" modality="FACTUAL" polarity="POS" start="2400" text="flagyl" type="TREATMENT"/>
+<EVENT end="2455" id="E44" modality="FACTUAL" polarity="POS" start="2440" text="his antibiotics" type="TREATMENT"/>
+<EVENT end="256" id="E77" modality="FACTUAL" polarity="POS" start="249" text="reports" type="EVIDENTIAL"/>
+<EVENT end="2528" id="E113" modality="POSSIBLE" polarity="POS" start="2499" text="a transiet aspiration episode" type="PROBLEM"/>
+<EVENT end="2541" id="E45" modality="FACTUAL" polarity="NEG" start="2537" text="ARDS" type="PROBLEM"/>
+<EVENT end="2564" id="E46" modality="FACTUAL" polarity="POS" start="2547" text="Airway protection" type="TREATMENT"/>
+<EVENT end="2583" id="E47" modality="FACTUAL" polarity="POS" start="2574" text="intubated" type="TREATMENT"/>
+<EVENT end="2618" id="E48" modality="FACTUAL" polarity="POS" start="2601" text="airway protection" type="TREATMENT"/>
+<EVENT end="2635" id="E49" modality="FACTUAL" polarity="POS" start="2626" text="extubated" type="TREATMENT"/>
+<EVENT end="2663" id="E114" modality="FACTUAL" polarity="POS" start="2653" text="weaned off" type="TREATMENT"/>
+<EVENT end="2670" id="E50" modality="FACTUAL" polarity="POS" start="2664" text="oxygen" type="TREATMENT"/>
+<EVENT end="2723" id="E115" modality="FACTUAL" polarity="NEG" start="2706" text="significant event" type="OCCURRENCE"/>
+<EVENT end="2741" id="E116" modality="FACTUAL" polarity="POS" start="2729" text="Hypertension" type="PROBLEM"/>
+<EVENT end="279" id="E4" modality="FACTUAL" polarity="POS" start="275" text="cold" type="PROBLEM"/>
+<EVENT end="2776" id="E51" modality="FACTUAL" polarity="POS" start="2764" text="his atenolol" type="TREATMENT"/>
+<EVENT end="2790" id="E52" modality="FACTUAL" polarity="POS" start="2781" text="verapamil" type="TREATMENT"/>
+<EVENT end="2814" id="E53" modality="FACTUAL" polarity="POS" start="2796" text="his blood pressure" type="TEST"/>
+<EVENT end="2825" id="E117" modality="FACTUAL" polarity="POS" start="2815" text="stabilized" type="OCCURRENCE"/>
+<EVENT end="291" id="E5" modality="FACTUAL" polarity="POS" start="284" text="shivery" type="PROBLEM"/>
+<EVENT end="2850" id="E118" modality="FACTUAL" polarity="POS" start="2840" text="Depression" type="PROBLEM"/>
+<EVENT end="2882" id="E54" modality="FACTUAL" polarity="POS" start="2873" text="his paxil" type="TREATMENT"/>
+<EVENT end="2916" id="E55" modality="FACTUAL" polarity="POS" start="2900" text="given 1:1 sitter" type="TREATMENT"/>
+<EVENT end="38" id="E73" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2938" id="E56" modality="FACTUAL" polarity="POS" start="2921" text="suicidal ideation" type="PROBLEM"/>
+<EVENT end="302" id="E78" modality="FACTUAL" polarity="POS" start="295" text="vomited" type="PROBLEM"/>
+<EVENT end="2964" id="E119" modality="FACTUAL" polarity="POS" start="2953" text="his suicide" type="PROBLEM"/>
+<EVENT end="2993" id="E120" modality="FACTUAL" polarity="POS" start="2979" text="this admission" type="OCCURRENCE"/>
+<EVENT end="3027" id="E121" modality="FACTUAL" polarity="NEG" start="3011" text="further episodes" type="PROBLEM"/>
+<EVENT end="3056" id="E122" modality="FACTUAL" polarity="POS" start="3044" text="the hospital" type="OCCURRENCE"/>
+<EVENT end="3082" id="E123" modality="PROPOSED" polarity="POS" start="3077" text="Paxil" type="TREATMENT"/>
+<EVENT end="3097" id="E124" modality="FACTUAL" polarity="POS" start="3088" text="taking PO" type="OCCURRENCE"/>
+<EVENT end="3114" id="E125" modality="FACTUAL" polarity="POS" start="3101" text="Hyperglycemia" type="PROBLEM"/>
+<EVENT end="3162" id="E57" modality="FACTUAL" polarity="NEG" start="3154" text="diabetes" type="PROBLEM"/>
+<EVENT end="3180" id="E58" modality="FACTUAL" polarity="POS" start="3165" text="his elevated FS" type="PROBLEM"/>
+<EVENT end="3211" id="E59" modality="FACTUAL" polarity="POS" start="3201" text="glycosuria" type="PROBLEM"/>
+<EVENT end="3238" id="E60" modality="FACTUAL" polarity="POS" start="3221" text="fingerstick check" type="TEST"/>
+<EVENT end="343" id="E79" modality="FACTUAL" polarity="POS" start="324" text="drove her to school" type="OCCURRENCE"/>
+<EVENT end="3279" id="E126" modality="FACTUAL" polarity="NEG" start="3263" text="insulin coverage" type="TREATMENT"/>
+<EVENT end="3297" id="E127" modality="FACTUAL" polarity="POS" start="3285" text="High amylase" type="PROBLEM"/>
+<EVENT end="3315" id="E128" modality="FACTUAL" polarity="POS" start="3307" text="admitted" type="OCCURRENCE"/>
+<EVENT end="3346" id="E61" modality="FACTUAL" polarity="POS" start="3330" text="elevated amylase" type="PROBLEM"/>
+<EVENT end="3370" id="E62" modality="FACTUAL" polarity="POS" start="3351" text="non-elevated lipase" type="PROBLEM"/>
+<EVENT end="3424" id="E129" modality="POSSIBLE" polarity="NEG" start="3406" text="pancreatic process" type="PROBLEM"/>
+<EVENT end="3438" id="E63" modality="FACTUAL" polarity="POS" start="3427" text="His amylase" type="TEST"/>
+<EVENT end="3451" id="E130" modality="FACTUAL" polarity="POS" start="3439" text="trended down" type="OCCURRENCE"/>
+<EVENT end="3486" id="E131" modality="FACTUAL" polarity="POS" start="3474" text="regular diet" type="TREATMENT"/>
+<EVENT end="3520" id="E64" modality="FACTUAL" polarity="POS" start="3506" text="his extubation" type="TREATMENT"/>
+<EVENT end="3530" id="E132" modality="FACTUAL" polarity="POS" start="3524" text="Anemia" type="PROBLEM"/>
+<EVENT end="3548" id="E133" modality="FACTUAL" polarity="POS" start="3540" text="admitted" type="OCCURRENCE"/>
+<EVENT end="3571" id="E65" modality="FACTUAL" polarity="POS" start="3554" text="borderline anemia" type="PROBLEM"/>
+<EVENT end="3587" id="E66" modality="FACTUAL" polarity="POS" start="3577" text="Fe studies" type="TEST"/>
+<EVENT end="3627" id="E67" modality="POSSIBLE" polarity="POS" start="3602" text="anemia of chronic disease" type="PROBLEM"/>
+<EVENT end="3639" id="E68" modality="FACTUAL" polarity="POS" start="3632" text="his hct" type="TEST"/>
+<EVENT end="3649" id="E134" modality="FACTUAL" polarity="POS" start="3640" text="decreased" type="OCCURRENCE"/>
+<EVENT end="3683" id="E69" modality="FACTUAL" polarity="POS" start="3665" text="fluid resucitation" type="TREATMENT"/>
+<EVENT end="3693" id="E70" modality="FACTUAL" polarity="POS" start="3686" text="His hct" type="TEST"/>
+<EVENT end="3708" id="E135" modality="FACTUAL" polarity="POS" start="3698" text="stabilized" type="OCCURRENCE"/>
+<EVENT end="3721" id="E136" modality="FACTUAL" polarity="POS" start="3713" text="improved" type="OCCURRENCE"/>
+<EVENT end="382" id="E80" modality="FACTUAL" polarity="POS" start="373" text="came home" type="OCCURRENCE"/>
+<EVENT end="3769" id="E137" modality="FACTUAL" polarity="POS" start="3762" text="reports" type="OCCURRENCE"/>
+<EVENT end="3819" id="E71" modality="FACTUAL" polarity="POS" start="3809" text="his anemia" type="PROBLEM"/>
+<EVENT end="3854" id="E138" modality="FACTUAL" polarity="POS" start="3846" text="followup" type="TREATMENT"/>
+<EVENT end="400" id="E81" modality="FACTUAL" polarity="POS" start="387" text="went to sleep" type="OCCURRENCE"/>
+<EVENT end="431" id="E82" modality="FACTUAL" polarity="POS" start="412" text="tried to awaken him" type="OCCURRENCE"/>
+<EVENT end="468" id="E83" modality="FACTUAL" polarity="POS" start="453" text="unable to do so" type="PROBLEM"/>
+<EVENT end="483" id="E84" modality="FACTUAL" polarity="POS" start="473" text="called EMS" type="OCCURRENCE"/>
+<EVENT end="550" id="E6" modality="FACTUAL" polarity="NEG" start="505" text="any blood / urine / emesis / stool in the bed" type="PROBLEM"/>
+<EVENT end="591" id="E7" modality="FACTUAL" polarity="POS" start="572" text="agonal respirations" type="PROBLEM"/>
+<EVENT end="611" id="E8" modality="FACTUAL" polarity="POS" start="596" text="pinpoint pupils" type="PROBLEM"/>
+<EVENT end="616" id="E9" modality="FACTUAL" polarity="POS" start="614" text="FS" type="TEST"/>
+<EVENT end="649" id="E10" modality="FACTUAL" polarity="POS" start="640" text="IV Narcan" type="TREATMENT"/>
+<EVENT end="681" id="E11" modality="FACTUAL" polarity="POS" start="672" text="oxycontin" type="TREATMENT"/>
+<EVENT end="692" id="E12" modality="FACTUAL" polarity="POS" start="684" text="percocet" type="TREATMENT"/>
+<EVENT end="733" id="E85" modality="FACTUAL" polarity="POS" start="715" text="his pupils dilated" type="OCCURRENCE"/>
+<EVENT end="767" id="E13" modality="FACTUAL" polarity="POS" start="758" text="combative" type="PROBLEM"/>
+<EVENT end="778" id="E14" modality="FACTUAL" polarity="POS" start="770" text="agitated" type="PROBLEM"/>
+<EVENT end="802" id="E74" modality="FACTUAL" polarity="POS" start="793" text="intubated" type="TREATMENT"/>
+<EVENT end="824" id="E15" modality="FACTUAL" polarity="POS" start="807" text="airway protection" type="TREATMENT"/>
+<EVENT end="836" id="E16" modality="FACTUAL" polarity="POS" start="827" text="etomidate" type="TREATMENT"/>
+<EVENT end="848" id="E17" modality="FACTUAL" polarity="POS" start="839" text="succinate" type="TREATMENT"/>
+<EVENT end="881" id="E18" modality="FACTUAL" polarity="POS" start="859" text="a traumatic intubation" type="TREATMENT"/>
+<EVENT end="915" id="E86" modality="FACTUAL" polarity="POS" start="894" text="his teeth was chipped" type="PROBLEM"/>
+<EVENT end="969" id="E87" modality="FACTUAL" polarity="POS" start="940" text="Hallmark Health System Monica" type="CLINICAL_DEPT"/>
+<EVENT end="981" id="E88" modality="FACTUAL" polarity="POS" start="978" text="ABG" type="TEST"/>
+<RTIMEX3 end="1104" id="T14" mod="END" start="1095" text="night PTA" type="DATE" val="2012-03-22"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-03-23" type="DATE" val="2012-03-23"/>
+<ATIMEX3 end="1863" id="T16" mod="NA" start="1858" text="03-23" type="DATE" val="2012-03-23"/>
+<ATIMEX3 end="1872" id="T17" mod="NA" start="1867" text="03-24" type="DATE" val="2012-03-24"/>
+<ATIMEX3 end="2043" id="T3" mod="NA" start="2038" text="03-24" type="DATE" val="2012-03-24"/>
+<ATIMEX3 end="2056" id="T19" mod="NA" start="2052" text="3/21" type="DATE" val="2012-03-21"/>
+<ATIMEX3 end="2351" id="T8" mod="NA" start="2347" text="9/13" type="DATE" val="2012-03-23"/>
+<ATIMEX3 end="2357" id="T9" mod="NA" start="2352" text="10/11" type="DATE" val="2012-03-25"/>
+<ATIMEX3 end="246" id="T0" mod="NA" start="240" text="7 a.m." type="TIME" val="2012-03-23T07:00"/>
+
+<ATIMEX3 end="2437" id="T4" mod="NA" start="2432" text="03-26" type="DATE" val="2012-03-26"/>
+<ATIMEX3 end="2644" id="T5" mod="NA" start="2639" text="03-24" type="DATE" val="2012-03-24"/>
+<ATIMEX3 end="2688" id="T21" mod="NA" start="2683" text="03-24" type="DATE" val="2012-03-24"/>
+<ATIMEX3 end="2697" id="T22" mod="NA" start="2692" text="03-26" type="DATE" val="2012-03-23"/>
+<ATIMEX3 end="2834" id="T23" mod="NA" start="2829" text="03-25" type="DATE" val="2012-03-25"/>
+<ATIMEX3 end="2891" id="T6" mod="NA" start="2886" text="03-25" type="DATE" val="2012-03-25"/>
+
+<ATIMEX3 end="3324" id="T7" mod="NA" start="3319" text="03-23" type="DATE" val="2012-03-23"/>
+<ATIMEX3 end="3494" id="T10" mod="NA" start="3490" text="4/14" type="DATE" val="2012-03-24"/>
+<ATIMEX3 end="3499" id="T11" mod="NA" start="3495" text="4/17" type="DATE" val="2012-03-27"/>
+<ATIMEX3 end="3756" id="T24" mod="NA" start="3752" text="3/21" type="DATE" val="2012-03-21"/>
+<ATIMEX3 end="442" id="T13" mod="NA" start="435" text="11 a.m." type="TIME" val="2012-03-23T11:00"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-03-26" type="DATE" val="2012-03-26"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-03-23" end="28" id="S0" start="18" text="2012-03-23" type="ADMISSION"/>
+<SECTIME dvalue="2012-03-26" end="56" id="S1" start="46" text="2012-03-26" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

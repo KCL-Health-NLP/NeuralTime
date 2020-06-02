@@ -1,0 +1,129 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-11-21
+Discharge Date :
+2013-11-26
+Service :
+PLASTIC
+History of Present Illness :
+MS. Marshall IS A 64-YEAR OLD , MENTALLY RETARDED , FEMALE WHO PRESENTED WITH AN AQUIRED DEFECT OF THE RIGHT NASAL ALA AND MEDIAL CHEEK REGION AFTER BASAL CELL CARCINOMA WAS RESECTED BY DERMATOLOGY .
+Brief Hospital Course :
+UPON ADMISSION , THE PATIENT WAS PRE-OP 'D AND MADE NPO / IVF .
+SHE WENT TO SURGERY THE NEXT MORNING AND TOLERATED THE SURGERY WELL .
+HOWEVER , SHE WAS SLOW TO AWAKE FROM ANESTHESIA , AND WAS ADMITTED TO THE CMED CCU OBSERVATION .
+SHE WAS TRANSFERED TO THE FLOOR POST-OP DAY 2 WHERE SHE HAD BEEN AFEBRILE WITH NORMAL VITALS , MAKING GOOD URINE , AND TOLERATING A REGULAR DIET .
+HER WOUND HAS REMAIND DRY AND CLOSED , WITHOUT EVIDENCE OF INFECTION OR BREAKDOWN .
+SHE HAS BEEN WATCHED BY A SITTER AT ALL TIMES .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="153" id="E2" modality="FACTUAL" polarity="POS" start="136" text="MENTALLY RETARDED" type="PROBLEM"/>
+<EVENT end="176" id="E3" modality="FACTUAL" polarity="POS" start="167" text="PRESENTED" type="OCCURRENCE"/>
+<EVENT end="246" id="E4" modality="FACTUAL" polarity="POS" start="182" text="AN AQUIRED DEFECT OF THE RIGHT NASAL ALA AND MEDIAL CHEEK REGION" type="PROBLEM"/>
+<EVENT end="273" id="E5" modality="FACTUAL" polarity="POS" start="253" text="BASAL CELL CARCINOMA" type="PROBLEM"/>
+<EVENT end="286" id="E6" modality="FACTUAL" polarity="POS" start="278" text="RESECTED" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="301" id="E7" modality="FACTUAL" polarity="POS" start="290" text="DERMATOLOGY" type="CLINICAL_DEPT"/>
+<EVENT end="342" id="E8" modality="FACTUAL" polarity="POS" start="333" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="370" id="E9" modality="FACTUAL" polarity="POS" start="361" text="PRE-OP 'D" type="OCCURRENCE"/>
+<EVENT end="383" id="E10" modality="FACTUAL" polarity="POS" start="380" text="NPO" type="TREATMENT"/>
+<EVENT end="389" id="E11" modality="FACTUAL" polarity="POS" start="386" text="IVF" type="TREATMENT"/>
+<EVENT end="411" id="E12" modality="FACTUAL" polarity="POS" start="404" text="SURGERY" type="CLINICAL_DEPT"/>
+<EVENT end="442" id="E13" modality="FACTUAL" polarity="POS" start="433" text="TOLERATED" type="OCCURRENCE"/>
+<EVENT end="454" id="E14" modality="FACTUAL" polarity="POS" start="443" text="THE SURGERY" type="TREATMENT"/>
+<EVENT end="459" id="E33" modality="FACTUAL" polarity="POS" start="455" text="WELL" type="OCCURRENCE"/>
+<EVENT end="493" id="E15" modality="FACTUAL" polarity="POS" start="480" text="SLOW TO AWAKE" type="PROBLEM"/>
+<EVENT end="509" id="E16" modality="FACTUAL" polarity="POS" start="499" text="ANESTHESIA" type="TREATMENT"/>
+<EVENT end="528" id="E17" modality="FACTUAL" polarity="POS" start="520" text="ADMITTED" type="OCCURRENCE"/>
+<EVENT end="556" id="E18" modality="FACTUAL" polarity="POS" start="532" text="THE CMED CCU OBSERVATION" type="CLINICAL_DEPT"/>
+<EVENT end="577" id="E19" modality="FACTUAL" polarity="POS" start="567" text="TRANSFERED" type="OCCURRENCE"/>
+<EVENT end="590" id="E20" modality="FACTUAL" polarity="POS" start="581" text="THE FLOOR" type="CLINICAL_DEPT"/>
+<EVENT end="632" id="E21" modality="FACTUAL" polarity="POS" start="624" text="AFEBRILE" type="PROBLEM"/>
+<EVENT end="651" id="E22" modality="FACTUAL" polarity="POS" start="638" text="NORMAL VITALS" type="OCCURRENCE"/>
+<EVENT end="671" id="E23" modality="FACTUAL" polarity="POS" start="654" text="MAKING GOOD URINE" type="OCCURRENCE"/>
+<EVENT end="703" id="E24" modality="FACTUAL" polarity="POS" start="678" text="TOLERATING A REGULAR DIET" type="OCCURRENCE"/>
+<EVENT end="703" id="E25" modality="FACTUAL" polarity="POS" start="689" text="A REGULAR DIET" type="TREATMENT"/>
+<EVENT end="715" id="E26" modality="FACTUAL" polarity="POS" start="706" text="HER WOUND" type="PROBLEM"/>
+<EVENT end="731" id="E27" modality="FACTUAL" polarity="POS" start="728" text="DRY" type="OCCURRENCE"/>
+<EVENT end="742" id="E28" modality="FACTUAL" polarity="POS" start="736" text="CLOSED" type="OCCURRENCE"/>
+<EVENT end="774" id="E29" modality="FACTUAL" polarity="NEG" start="765" text="INFECTION" type="PROBLEM"/>
+<EVENT end="787" id="E30" modality="FACTUAL" polarity="NEG" start="778" text="BREAKDOWN" type="PROBLEM"/>
+<EVENT end="810" id="E31" modality="FACTUAL" polarity="POS" start="803" text="WATCHED" type="OCCURRENCE"/>
+<EVENT end="822" id="E32" modality="FACTUAL" polarity="POS" start="814" text="A SITTER" type="TREATMENT"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-11-21" type="DATE" val="2013-11-21"/>
+<RTIMEX3 end="428" id="T2" mod="START" start="412" text="THE NEXT MORNING" type="DATE" val="2013-11-22"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2013-11-26" type="DATE" val="2013-11-26"/>
+<RTIMEX3 end="604" id="T4" mod="NA" start="591" text="POST-OP DAY 2" type="DATE" val="2013-11-24"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-11-21" end="28" id="S0" start="18" text="2013-11-21" type="ADMISSION"/>
+<SECTIME dvalue="2013-11-26" end="56" id="S1" start="46" text="2013-11-26" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

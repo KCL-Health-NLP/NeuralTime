@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2014-05-08
+Discharge Date :
+2014-05-19
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+68 yo female trasnferred in from Catholic CMED CSRU. Ctr. with periprosthetic aortic valve stenosis and aortic valve thrombus .
+No cath done , but echo 05-07 showed EF 60-65% , stenotic mech. valve , mean gradient 33 mm , decreased disc motion , mobile mass in LVOT , mild AI , mild to moderate MR , trace TR. Referred for surgical evaluation .
+Brief Hospital Course :
+Admitted 05-08 to cardiology service for surgical work-up .
+INR 2.7 and echo repeated , coumadin held , and heparin drips started .
+Review of OSH echo revealed peak gradient of 64mm (  not 30 's ) .
+New echo showed pannus involving the valve and ? thrombus .
+Seen by Dr. Laura of cardiac surgery and underwent redo AVR with aortic root enlargement on 05-11 .
+Transferred to the CSRU in stable condition on phenylephrine and propofol drips .
+Weaned to extubation on POD #2 and off all drips .
+Episode of AFib that evening treated with amiodarone and converted to SR .
+Transferred to the floor on POD #3 to begin increasing her activity level .
+Chest tubes and wires removed without incident .
+Cleared for discharge to home with services .
+Pt. to make all follow-up appts. per discharge instructions .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T7" start="1075" end="1081" text="POD #3" type="DATE" relative="TRUE" val="2014-05-14" mod="NA" />
+<RTIMEX3 id="T6" start="945" end="951" text="POD #2" type="DATE" relative="TRUE" val="2014-05-13" mod="NA" />
+<RTIMEX3 id="T0" start="988" end="1000" text="that evening" type="DATE" relative="TRUE" val="2014-05-13" mod="END" />
+<ATIMEX3 id="T1" start="18" end="28" text="2014-05-08" type="DATE" val="2014-05-08" mod="NA" />
+<ATIMEX3 id="T3" start="263" end="268" text="05-07" type="DATE" val="2014-05-07" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2014-05-19" type="DATE" val="2014-05-19" mod="NA" />
+<ATIMEX3 id="T4" start="489" end="494" text="05-08" type="DATE" val="2014-05-08" mod="NA" />
+<ATIMEX3 id="T5" start="831" end="836" text="05-11" type="DATE" val="2014-05-11" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2014-05-08" type="ADMISSION" dvalue="2014-05-08" />
+<SECTIME id="S1" start="46" end="56" text="2014-05-19" type="DISCHARGE" dvalue="2014-05-19" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="POD #2" toID="T5" toText="05-11" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T0" fromText="that evening" toID="T6" toText="POD #2" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T7" fromText="POD #3" toID="T5" toText="05-11" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -1,0 +1,364 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2010-06-07
+Discharge Date :
+2010-06-12
+Service :
+CARDIOTHORACIC SURGERY
+HISTORY OF THE PRESENT ILLNESS :
+This is a 55 - year-old male with critical aortic stenosis who was referred to Dr. Brenda Hummer for discussion for surgical options to free this condition .
+The patient reportedly had been experiencing increasing fatigue and dyspnea with exertion for the year prior to his admission .
+The patient reported increasingly frequent episodes of dizziness and shortness of breath accompanied with coughing spells after walking approximately a half a mile or climbing three flights of stairs .
+On 2010-05-27 , an echocardiogram was done which revealed critical fibrocalcific aortic stenosis with a peak gradient of 125 mmHg , a mean gradient of 74 mmHg , an Oak Bluffs of 0.44 , and 1+ aortic and mitral insufficiency .
+The patient subsequently underwent a cardiac catheterization on 2010-06-01 , which demonstrated no hemodynamically significant coronary artery disease , but critical aortic stenosis consistent with his echocardiogram study results .
+The patient was subsequently scheduled for a mechanical aortic valve replacement procedure with aortic replacement on 2010-06-07 .
+HOSPITAL COURSE :
+On 2010-06-07 , the patient underwent a mechanical aortic valve replacement with a 23 mm Carbomedics mechanical valve and a Supra coronary aortic graft with gelweave 28 mm .
+The patient tolerated the procedure well with a bypass time of 155 minutes and a crossclamp time of
+130 minutes , and a rest time of 16 minutes .
+The patient 's pericardium was left open ; lines placed included a right radial line and a right IJ line ; both ventricular and atrial wires were placed ; two mediastinal tubes were placed .
+The patient was subsequently transferred to the Cardiac Surgery Recovery Unit , intubated , for further evaluation and management .
+On transfer , the patient 's mean arterial pressure was 76 , CVP 12 , PAD 17 , and his Bennie was 25 .
+The patient was AV paced at a rate of 88 beats per minute .
+Active drips included milrinone , Levophed , propofol , and insulin .
+On postoperative day number one , the patient was successfully weaned and extubated without complication .
+The patient was then advanced to oral intake which he tolerated without complication .
+On postoperative day number two , the patient 's chest tubes were removed without complication and the patient was subsequently cleared for transfer to the floor .
+The patient was subsequently admitted to the cardiothoracic service under the direction of Dr. Brenda Hummer .
+Postoperatively , the patient 's clinical course was largely unremarkable .
+The patient was evaluated by Physical Therapy , who declared him a suitable candidate for discharge directly to home following resolution of his medical therapy .
+The patient was advanced to a full regular diet , which he tolerated without complication , and had adequate pain control provided via oral pain medications .
+The patient was begun on anticoagulation therapy for a target INR of 2.5 .
+On the evening of postoperative day number four , the patient had a transient episode of disorientation and confusion which subsequently resolved spontaneously .
+By postoperative day number five , the patient was noted to be afebrile and stable .
+His incision was noted to be clean , dry , and intact with no evidence of cellulitis or purulent drainage .
+The patient was noted to be independently ambulatory and was productive of adequate amounts of urine .
+The patient was tolerant of a full regular diet and had his pain well controlled via oral pain medications .
+The patient 's INR was noted to be 2.3 .
+The patient was subsequently cleared for discharge to home with instructions for follow-up on postoperative day number five , 2010-06-12 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1067" id="E23" modality="FACTUAL" polarity="POS" start="1035" text="his echocardiogram study results" type="TEST"/>
+<EVENT end="1160" id="E24" modality="FACTUAL" polarity="POS" start="1113" text="a mechanical aortic valve replacement procedure" type="TREATMENT"/>
+<EVENT end="1184" id="E25" modality="FACTUAL" polarity="POS" start="1166" text="aortic replacement" type="TREATMENT"/>
+<EVENT end="1294" id="E26" modality="FACTUAL" polarity="POS" start="1257" text="a mechanical aortic valve replacement" type="TREATMENT"/>
+<EVENT end="1336" id="E94" modality="FACTUAL" polarity="POS" start="1300" text="a 23 mm Carbomedics mechanical valve" type="TREATMENT"/>
+<EVENT end="1370" id="E28" modality="FACTUAL" polarity="POS" start="1341" text="a Supra coronary aortic graft" type="TREATMENT"/>
+<EVENT end="1384" id="E95" modality="FACTUAL" polarity="POS" start="1376" text="gelweave" type="TREATMENT"/>
+<EVENT end="1428" id="E29" modality="FACTUAL" polarity="POS" start="1415" text="the procedure" type="TREATMENT"/>
+<EVENT end="1452" id="E30" modality="FACTUAL" polarity="POS" start="1439" text="a bypass time" type="TREATMENT"/>
+<EVENT end="1489" id="E31" modality="FACTUAL" polarity="POS" start="1472" text="a crossclamp time" type="TREATMENT"/>
+<EVENT end="1522" id="E92" modality="FACTUAL" polarity="POS" start="1511" text="a rest time" type="TREATMENT"/>
+<EVENT end="1579" id="E93" modality="FACTUAL" polarity="POS" start="1554" text="pericardium was left open" type="TREATMENT"/>
+<EVENT end="181" id="E2" modality="FACTUAL" polarity="POS" start="157" text="critical aortic stenosis" type="PROBLEM"/>
+<EVENT end="1587" id="E32" modality="FACTUAL" polarity="POS" start="1582" text="lines" type="TREATMENT"/>
+<EVENT end="1623" id="E33" modality="FACTUAL" polarity="POS" start="1604" text="a right radial line" type="TREATMENT"/>
+<EVENT end="1643" id="E34" modality="FACTUAL" polarity="POS" start="1628" text="a right IJ line" type="TREATMENT"/>
+<EVENT end="1679" id="E35" modality="FACTUAL" polarity="POS" start="1651" text="ventricular and atrial wires" type="TREATMENT"/>
+<EVENT end="1715" id="E36" modality="FACTUAL" polarity="POS" start="1694" text="two mediastinal tubes" type="TREATMENT"/>
+<EVENT end="1770" id="E41" modality="FACTUAL" polarity="POS" start="1759" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1807" id="E37" modality="FACTUAL" polarity="POS" start="1774" text="the Cardiac Surgery Recovery Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1819" id="E38" modality="FACTUAL" polarity="POS" start="1810" text="intubated" type="TREATMENT"/>
+<EVENT end="1844" id="E39" modality="FACTUAL" polarity="POS" start="1826" text="further evaluation" type="TEST"/>
+<EVENT end="1859" id="E40" modality="FACTUAL" polarity="POS" start="1849" text="management" type="OCCURRENCE"/>
+<EVENT end="1873" id="E42" modality="FACTUAL" polarity="POS" start="1865" text="transfer" type="OCCURRENCE"/>
+<EVENT end="1913" id="E43" modality="FACTUAL" polarity="POS" start="1876" text="the patient 's mean arterial pressure" type="TEST"/>
+<EVENT end="1926" id="E44" modality="FACTUAL" polarity="POS" start="1923" text="CVP" type="TEST"/>
+<EVENT end="1935" id="E45" modality="FACTUAL" polarity="POS" start="1932" text="PAD" type="TEST"/>
+<EVENT end="1955" id="E46" modality="FACTUAL" polarity="POS" start="1945" text="his Bennie" type="TEST"/>
+<EVENT end="1989" id="E47" modality="FACTUAL" polarity="POS" start="1981" text="AV paced" type="TREATMENT"/>
+<EVENT end="2037" id="E48" modality="FACTUAL" polarity="POS" start="2025" text="Active drips" type="TREATMENT"/>
+<EVENT end="2056" id="E49" modality="FACTUAL" polarity="POS" start="2047" text="milrinone" type="TREATMENT"/>
+<EVENT end="2067" id="E50" modality="FACTUAL" polarity="POS" start="2059" text="Levophed" type="TREATMENT"/>
+<EVENT end="2078" id="E51" modality="FACTUAL" polarity="POS" start="2070" text="propofol" type="TREATMENT"/>
+<EVENT end="2092" id="E52" modality="FACTUAL" polarity="POS" start="2085" text="insulin" type="TREATMENT"/>
+<EVENT end="2164" id="E53" modality="FACTUAL" polarity="POS" start="2158" text="weaned" type="TREATMENT"/>
+<EVENT end="2178" id="E54" modality="FACTUAL" polarity="POS" start="2169" text="extubated" type="TREATMENT"/>
+<EVENT end="2199" id="E55" modality="FACTUAL" polarity="NEG" start="2187" text="complication" type="PROBLEM"/>
+<EVENT end="2246" id="E56" modality="FACTUAL" polarity="POS" start="2223" text="advanced to oral intake" type="TREATMENT"/>
+<EVENT end="2265" id="E57" modality="FACTUAL" polarity="POS" start="2256" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="2286" id="E58" modality="FACTUAL" polarity="NEG" start="2274" text="complication" type="PROBLEM"/>
+<EVENT end="2349" id="E59" modality="FACTUAL" polarity="POS" start="2323" text="the patient 's chest tubes" type="TREATMENT"/>
+<EVENT end="2362" id="E60" modality="FACTUAL" polarity="POS" start="2355" text="removed" type="TREATMENT"/>
+<EVENT end="2383" id="E61" modality="FACTUAL" polarity="NEG" start="2371" text="complication" type="PROBLEM"/>
+<EVENT end="255" id="E3" modality="CONDITIONAL" polarity="POS" start="239" text="surgical options" type="TREATMENT"/>
+<EVENT end="2437" id="E62" modality="FACTUAL" polarity="POS" start="2429" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2450" id="E63" modality="FACTUAL" polarity="POS" start="2441" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2490" id="E64" modality="FACTUAL" polarity="POS" start="2482" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2520" id="E65" modality="FACTUAL" polarity="POS" start="2494" text="the cardiothoracic service" type="CLINICAL_DEPT"/>
+<EVENT end="2612" id="E66" modality="FACTUAL" polarity="POS" start="2597" text="clinical course" type="OCCURRENCE"/>
+<EVENT end="2637" id="E67" modality="FACTUAL" polarity="POS" start="2625" text="unremarkable" type="OCCURRENCE"/>
+<EVENT end="278" id="E4" modality="FACTUAL" polarity="POS" start="264" text="this condition" type="PROBLEM"/>
+<EVENT end="2665" id="E68" modality="FACTUAL" polarity="POS" start="2656" text="evaluated" type="TEST"/>
+<EVENT end="2739" id="E69" modality="FACTUAL" polarity="POS" start="2730" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2800" id="E70" modality="CONDITIONAL" polarity="NEG" start="2781" text="his medical therapy" type="TREATMENT"/>
+<EVENT end="2850" id="E71" modality="FACTUAL" polarity="POS" start="2819" text="advanced to a full regular diet" type="TREATMENT"/>
+<EVENT end="2871" id="E72" modality="FACTUAL" polarity="POS" start="2862" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="2892" id="E96" modality="FACTUAL" polarity="NEG" start="2880" text="complication" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2924" id="E73" modality="FACTUAL" polarity="POS" start="2903" text="adequate pain control" type="OCCURRENCE"/>
+<EVENT end="2959" id="E74" modality="FACTUAL" polarity="POS" start="2938" text="oral pain medications" type="TREATMENT"/>
+<EVENT end="3010" id="E75" modality="FACTUAL" polarity="POS" start="2987" text="anticoagulation therapy" type="TREATMENT"/>
+<EVENT end="3027" id="E76" modality="CONDITIONAL" polarity="POS" start="3015" text="a target INR" type="TEST"/>
+<EVENT end="3140" id="E77" modality="FACTUAL" polarity="POS" start="3126" text="disorientation" type="PROBLEM"/>
+<EVENT end="3154" id="E78" modality="FACTUAL" polarity="POS" start="3145" text="confusion" type="PROBLEM"/>
+<EVENT end="3182" id="E79" modality="FACTUAL" polarity="POS" start="3174" text="resolved" type="OCCURRENCE"/>
+<EVENT end="344" id="E5" modality="FACTUAL" polarity="POS" start="326" text="increasing fatigue" type="PROBLEM"/>
+<EVENT end="3270" id="E80" modality="FACTUAL" polarity="POS" start="3262" text="afebrile" type="PROBLEM"/>
+<EVENT end="3281" id="E81" modality="FACTUAL" polarity="POS" start="3275" text="stable" type="OCCURRENCE"/>
+<EVENT end="3296" id="E82" modality="FACTUAL" polarity="POS" start="3284" text="His incision" type="PROBLEM"/>
+<EVENT end="3337" id="E83" modality="FACTUAL" polarity="POS" start="3313" text="clean , dry , and intact" type="OCCURRENCE"/>
+<EVENT end="3368" id="E84" modality="FACTUAL" polarity="NEG" start="3358" text="cellulitis" type="PROBLEM"/>
+<EVENT end="3389" id="E85" modality="FACTUAL" polarity="NEG" start="3372" text="purulent drainage" type="PROBLEM"/>
+<EVENT end="356" id="E6" modality="CONDITIONAL" polarity="POS" start="349" text="dyspnea" type="PROBLEM"/>
+<EVENT end="3542" id="E86" modality="FACTUAL" polarity="POS" start="3511" text="tolerant of a full regular diet" type="OCCURRENCE"/>
+<EVENT end="3559" id="E87" modality="FACTUAL" polarity="POS" start="3551" text="his pain" type="PROBLEM"/>
+<EVENT end="3601" id="E88" modality="FACTUAL" polarity="POS" start="3580" text="oral pain medications" type="TREATMENT"/>
+<EVENT end="3622" id="E89" modality="FACTUAL" polarity="POS" start="3604" text="The patient 's INR" type="TEST"/>
+<EVENT end="3695" id="E90" modality="FACTUAL" polarity="POS" start="3686" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3735" id="E91" modality="FACTUAL" polarity="POS" start="3726" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="406" id="E7" modality="FACTUAL" polarity="POS" start="393" text="his admission" type="OCCURRENCE"/>
+<EVENT end="429" id="E8" modality="FACTUAL" polarity="POS" start="421" text="reported" type="EVIDENTIAL"/>
+<EVENT end="473" id="E9" modality="FACTUAL" polarity="POS" start="464" text="dizziness" type="PROBLEM"/>
+<EVENT end="497" id="E10" modality="FACTUAL" polarity="POS" start="478" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="530" id="E11" modality="CONDITIONAL" polarity="POS" start="515" text="coughing spells" type="PROBLEM"/>
+<EVENT end="644" id="E12" modality="FACTUAL" polarity="POS" start="627" text="an echocardiogram" type="TEST"/>
+<EVENT end="668" id="E13" modality="FACTUAL" polarity="POS" start="660" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="707" id="E14" modality="FACTUAL" polarity="POS" start="669" text="critical fibrocalcific aortic stenosis" type="PROBLEM"/>
+<EVENT end="728" id="E15" modality="FACTUAL" polarity="POS" start="713" text="a peak gradient" type="TEST"/>
+<EVENT end="758" id="E16" modality="FACTUAL" polarity="POS" start="743" text="a mean gradient" type="TEST"/>
+<EVENT end="785" id="E17" modality="FACTUAL" polarity="POS" start="772" text="an Oak Bluffs" type="TEST"/>
+<EVENT end="834" id="E18" modality="FACTUAL" polarity="POS" start="800" text="1+ aortic and mitral insufficiency" type="PROBLEM"/>
+<EVENT end="897" id="E19" modality="FACTUAL" polarity="POS" start="872" text="a cardiac catheterization" type="TEST"/>
+<EVENT end="932" id="E20" modality="FACTUAL" polarity="POS" start="920" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="987" id="E21" modality="FACTUAL" polarity="NEG" start="936" text="hemodynamically significant coronary artery disease" type="PROBLEM"/>
+<EVENT end="1018" id="E22" modality="FACTUAL" polarity="POS" start="994" text="critical aortic stenosis" type="PROBLEM"/>
+<ATIMEX3 end="1198" id="T5" mod="NA" start="1188" text="2010-06-07" type="DATE" val="2010-06-07"/>
+<ATIMEX3 end="1232" id="T6" mod="NA" start="1222" text="2010-06-07" type="DATE" val="2010-06-07"/>
+
+
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2010-06-07" type="DATE" val="2010-06-07"/>
+<RTIMEX3 end="2126" id="T15" mod="NA" start="2098" text="postoperative day number one" type="DATE" val="2010-06-08"/>
+<RTIMEX3 end="2320" id="T14" mod="NA" start="2292" text="postoperative day number two" type="DATE" val="2010-06-09"/>
+<RTIMEX3 end="3084" id="T13" mod="END" start="3040" text="the evening of postoperative day number four" type="DATE" val="2010-06-11"/>
+<RTIMEX3 end="3231" id="T12" mod="NA" start="3202" text="postoperative day number five" type="DATE" val="2010-06-12"/>
+<RTIMEX3 end="3768" id="T10" mod="NA" start="3739" text="postoperative day number five" type="DATE" val="2010-06-12"/>
+
+<ATIMEX3 end="3781" id="T11" mod="NA" start="3771" text="2010-06-12" type="DATE" val="2010-06-12"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2010-06-12" type="DATE" val="2010-06-12"/>
+<ATIMEX3 end="624" id="T3" mod="NA" start="614" text="2010-05-27" type="DATE" val="2010-05-27"/>
+<ATIMEX3 end="911" id="T4" mod="NA" start="901" text="2010-06-01" type="DATE" val="2010-06-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2010-06-07" end="28" id="S0" start="18" text="2010-06-07" type="ADMISSION"/>
+<SECTIME dvalue="2010-06-12" end="56" id="S1" start="46" text="2010-06-12" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

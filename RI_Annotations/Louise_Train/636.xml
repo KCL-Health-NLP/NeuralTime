@@ -1,0 +1,293 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+01/16/1996
+Discharge Date :
+01/20/1996
+HISTORY OF PRESENT ILLNESS :
+The patient has a history four years ago of being admitted to the Etearal Etsystems/ Hospital after suffering an acute anterior myocardial infarction .
+The course had multiple complications requiring pressors .
+He had a cardiac catheterization performed which revealed a three vessel coronary artery disease with an occluded RCA , 70%-80% proximal LAD , and a high grade left circumflex lesion after the OM with distal left circumflex occlusion .
+The patient was subsequently medically management after this hospitalization and has done very well .
+His most recent echocardiogram in April of 1995 showed an ejection fraction of 20% with a thin fibrotic septum with akinesis and moderately severe hypokinesis in all other regions except for the lateral wall .
+The patient also had an electrocardiogram in April of 1995 which was negative following , however was at a low workload .
+The patient &apos;s was most recently admitted to Centdick Naco Hospital Medical Center on Martin Luther King Day after becoming acutely short of breath after a five minute walk .
+He had no chest pain , palpitations , diaphoresis , or nausea .
+He called the EMT &apos;s and was found to be in pulmonary edema by chest x-ray at Centdick Naco Hospital Medical Center .
+He was diuresed and ruled out for myocardial infarction .
+His ECG showed no ischemic changes .
+He was then transferred to the Retelk County Medical Center for further management .
+HOSPITAL COURSE :
+The patient was admitted for further management of his pulmonary edema .
+It was felt that the patient possibly had a worsening of his coronary artery disease and therefore underwent cardiac catheterization on 01/17/96 .
+At cardiac catheterization he had an RA pressure of 8 , an RV pressure of 52/10 , PA pressure of 60/25 , and wedge of 26 .
+His coronary arteries revealed an 80% stenosis and a large OM .
+The dominant left circumflex was occluded with left-to-left filling .
+He also had a 50% LAD stenosis , a 100% large DT stenosis and a nondominant RCA with left RCA collaterals .
+It was felt that this cardiac catheterization was not significantly changed from his previous catheterization .
+Given his high right-sided filling pressure , he was started on Lasix for diuresis and his Captopril was increased for greater afterload reduction .
+It was felt that the patient should have an augmented medical regimen and as an outpatient undergo an exercise tolerance test with viability evaluation to determine whether he would benefit from revascularization .
+He was restarted on Coumadin for his low ejection fraction and started on diuresis with IV Lasix for two days and then switched to an oral Lasix regimen .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1013" id="E26" modality="FACTUAL" polarity="POS" start="1005" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1054" id="E27" modality="FACTUAL" polarity="POS" start="1017" text="Centdick Naco Hospital Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1119" id="E28" modality="FACTUAL" polarity="POS" start="1096" text="acutely short of breath" type="PROBLEM"/>
+<EVENT end="1144" id="E29" modality="FACTUAL" polarity="POS" start="1140" text="walk" type="OCCURRENCE"/>
+<EVENT end="1167" id="E30" modality="FACTUAL" polarity="NEG" start="1157" text="chest pain" type="PROBLEM"/>
+<EVENT end="1182" id="E31" modality="FACTUAL" polarity="NEG" start="1170" text="palpitations" type="PROBLEM"/>
+<EVENT end="1196" id="E32" modality="FACTUAL" polarity="NEG" start="1185" text="diaphoresis" type="PROBLEM"/>
+<EVENT end="1208" id="E33" modality="FACTUAL" polarity="NEG" start="1202" text="nausea" type="PROBLEM"/>
+<EVENT end="1236" id="E34" modality="FACTUAL" polarity="POS" start="1214" text="called the EMT 's" type="OCCURRENCE"/>
+<EVENT end="1250" id="E35" modality="FACTUAL" polarity="POS" start="1245" text="found" type="EVIDENTIAL"/>
+<EVENT end="1275" id="E36" modality="FACTUAL" polarity="POS" start="1260" text="pulmonary edema" type="PROBLEM"/>
+<EVENT end="1290" id="E37" modality="FACTUAL" polarity="POS" start="1279" text="chest x-ray" type="TEST"/>
+<EVENT end="1331" id="E38" modality="FACTUAL" polarity="POS" start="1294" text="Centdick Naco Hospital Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1349" id="E39" modality="FACTUAL" polarity="POS" start="1341" text="diuresed" type="TREATMENT"/>
+<EVENT end="144" id="E2" modality="FACTUAL" polarity="POS" start="136" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1389" id="E40" modality="FACTUAL" polarity="NEG" start="1368" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="1399" id="E41" modality="FACTUAL" polarity="POS" start="1392" text="His ECG" type="TEST"/>
+<EVENT end="1406" id="E42" modality="FACTUAL" polarity="POS" start="1400" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1426" id="E43" modality="FACTUAL" polarity="NEG" start="1410" text="ischemic changes" type="PROBLEM"/>
+<EVENT end="1452" id="E44" modality="FACTUAL" polarity="POS" start="1441" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1488" id="E45" modality="FACTUAL" polarity="POS" start="1456" text="the Retelk County Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="179" id="E3" modality="FACTUAL" polarity="POS" start="148" text="the Etearal Etsystems/ Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1511" id="E46" modality="FACTUAL" polarity="POS" start="1493" text="further management" type="TREATMENT"/>
+<EVENT end="1556" id="E47" modality="FACTUAL" polarity="POS" start="1548" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1579" id="E48" modality="FACTUAL" polarity="POS" start="1561" text="further management" type="TREATMENT"/>
+<EVENT end="1602" id="E49" modality="FACTUAL" polarity="POS" start="1583" text="his pulmonary edema" type="PROBLEM"/>
+<EVENT end="1689" id="E50" modality="FACTUAL" polarity="POS" start="1662" text="his coronary artery disease" type="PROBLEM"/>
+<EVENT end="1737" id="E51" modality="FACTUAL" polarity="POS" start="1714" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1778" id="E52" modality="FACTUAL" polarity="POS" start="1755" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1800" id="E53" modality="FACTUAL" polarity="POS" start="1786" text="an RA pressure" type="TEST"/>
+<EVENT end="1822" id="E54" modality="FACTUAL" polarity="POS" start="1808" text="an RV pressure" type="TEST"/>
+<EVENT end="1845" id="E55" modality="FACTUAL" polarity="POS" start="1834" text="PA pressure" type="TEST"/>
+<EVENT end="1866" id="E56" modality="FACTUAL" polarity="POS" start="1861" text="wedge" type="TEST"/>
+<EVENT end="1905" id="E57" modality="FACTUAL" polarity="POS" start="1897" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1921" id="E58" modality="FACTUAL" polarity="POS" start="1906" text="an 80% stenosis" type="PROBLEM"/>
+<EVENT end="1936" id="E59" modality="FACTUAL" polarity="POS" start="1926" text="a large OM" type="PROBLEM"/>
+<EVENT end="235" id="E4" modality="FACTUAL" polarity="POS" start="196" text="an acute anterior myocardial infarction" type="PROBLEM"/>
+<EVENT end="1980" id="E60" modality="FACTUAL" polarity="POS" start="1972" text="occluded" type="PROBLEM"/>
+<EVENT end="2006" id="E61" modality="FACTUAL" polarity="POS" start="1986" text="left-to-left filling" type="PROBLEM"/>
+<EVENT end="2039" id="E62" modality="FACTUAL" polarity="POS" start="2021" text="a 50% LAD stenosis" type="PROBLEM"/>
+<EVENT end="2066" id="E63" modality="FACTUAL" polarity="POS" start="2042" text="a 100% large DT stenosis" type="PROBLEM"/>
+<EVENT end="2162" id="E64" modality="FACTUAL" polarity="POS" start="2134" text="this cardiac catheterization" type="TEST"/>
+<EVENT end="2226" id="E65" modality="FACTUAL" polarity="POS" start="2198" text="his previous catheterization" type="TEST"/>
+<EVENT end="2272" id="E66" modality="FACTUAL" polarity="POS" start="2235" text="his high right-sided filling pressure" type="PROBLEM"/>
+<EVENT end="2298" id="E67" modality="FACTUAL" polarity="POS" start="2293" text="Lasix" type="TREATMENT"/>
+<EVENT end="2311" id="E68" modality="FACTUAL" polarity="POS" start="2303" text="diuresis" type="TREATMENT"/>
+<EVENT end="2329" id="E69" modality="FACTUAL" polarity="POS" start="2316" text="his Captopril" type="TREATMENT"/>
+<EVENT end="2375" id="E70" modality="FACTUAL" polarity="POS" start="2348" text="greater afterload reduction" type="TREATMENT"/>
+<EVENT end="2447" id="E71" modality="FACTUAL" polarity="POS" start="2419" text="an augmented medical regimen" type="TREATMENT"/>
+<EVENT end="2503" id="E72" modality="FACTUAL" polarity="POS" start="2477" text="an exercise tolerance test" type="TEST"/>
+<EVENT end="2529" id="E73" modality="FACTUAL" polarity="POS" start="2509" text="viability evaluation" type="TEST"/>
+<EVENT end="275" id="E5" modality="FACTUAL" polarity="POS" start="253" text="multiple complications" type="PROBLEM"/>
+<EVENT end="2590" id="E74" modality="CONDITIONAL" polarity="POS" start="2573" text="revascularization" type="TREATMENT"/>
+<EVENT end="2621" id="E75" modality="FACTUAL" polarity="POS" start="2613" text="Coumadin" type="TREATMENT"/>
+<EVENT end="2651" id="E76" modality="FACTUAL" polarity="POS" start="2626" text="his low ejection fraction" type="PROBLEM"/>
+<EVENT end="2675" id="E77" modality="FACTUAL" polarity="POS" start="2667" text="diuresis" type="TREATMENT"/>
+<EVENT end="2689" id="E78" modality="FACTUAL" polarity="POS" start="2681" text="IV Lasix" type="TREATMENT"/>
+<EVENT end="2745" id="E79" modality="FACTUAL" polarity="POS" start="2724" text="an oral Lasix regimen" type="TREATMENT"/>
+<EVENT end="294" id="E6" modality="FACTUAL" polarity="POS" start="286" text="pressors" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="329" id="E7" modality="FACTUAL" polarity="POS" start="304" text="a cardiac catheterization" type="TEST"/>
+<EVENT end="354" id="E8" modality="FACTUAL" polarity="POS" start="346" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="393" id="E9" modality="FACTUAL" polarity="POS" start="355" text="a three vessel coronary artery disease" type="PROBLEM"/>
+<EVENT end="414" id="E10" modality="FACTUAL" polarity="POS" start="399" text="an occluded RCA" type="PROBLEM"/>
+<EVENT end="437" id="E11" modality="FACTUAL" polarity="POS" start="417" text="70%-80% proximal LAD" type="PROBLEM"/>
+<EVENT end="492" id="E12" modality="FACTUAL" polarity="POS" start="444" text="a high grade left circumflex lesion after the OM" type="PROBLEM"/>
+<EVENT end="530" id="E13" modality="FACTUAL" polarity="POS" start="498" text="distal left circumflex occlusion" type="PROBLEM"/>
+<EVENT end="582" id="E14" modality="FACTUAL" polarity="POS" start="562" text="medically management" type="TREATMENT"/>
+<EVENT end="609" id="E15" modality="FACTUAL" polarity="POS" start="589" text="this hospitalization" type="OCCURRENCE"/>
+<EVENT end="632" id="E16" modality="FACTUAL" polarity="POS" start="623" text="very well" type="OCCURRENCE"/>
+<EVENT end="665" id="E17" modality="FACTUAL" polarity="POS" start="651" text="echocardiogram" type="TEST"/>
+<EVENT end="689" id="E18" modality="FACTUAL" polarity="POS" start="683" text="showed" type="EVIDENTIAL"/>
+<EVENT end="710" id="E20" modality="FACTUAL" polarity="POS" start="690" text="an ejection fraction" type="TEST"/>
+<EVENT end="745" id="E19" modality="FACTUAL" polarity="POS" start="723" text="a thin fibrotic septum" type="PROBLEM"/>
+<EVENT end="759" id="E21" modality="FACTUAL" polarity="POS" start="751" text="akinesis" type="PROBLEM"/>
+<EVENT end="793" id="E23" modality="FACTUAL" polarity="POS" start="764" text="moderately severe hypokinesis" type="PROBLEM"/>
+<EVENT end="886" id="E24" modality="FACTUAL" polarity="POS" start="866" text="an electrocardiogram" type="TEST"/>
+<EVENT end="964" id="E25" modality="FACTUAL" polarity="POS" start="950" text="a low workload" type="OCCURRENCE"/>
+<RTIMEX3 end="1080" id="T5" mod="APPROX" start="1058" text="Martin Luther King Day" type="DATE" val="1996-01-15"/>
+<RTIMEX3 end="126" id="T2" mod="APPROX" start="112" text="four years ago" type="DATE" val="1992-01-16"/>
+
+<ATIMEX3 end="1749" id="T7" mod="NA" start="1741" text="01/17/96" type="DATE" val="1996-01-17"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="01/16/1996" type="DATE" val="1996-01-16"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="01/20/1996" type="DATE" val="1996-01-20"/>
+<RTIMEX3 end="682" id="T3" mod="NA" start="669" text="April of 1995" type="DATE" val="1995-04"/>
+<RTIMEX3 end="903" id="T4" mod="NA" start="890" text="April of 1995" type="DATE" val="1995-04"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1996-01-16" end="28" id="S0" start="18" text="01/16/1996" type="ADMISSION"/>
+<SECTIME dvalue="1996-01-20" end="56" id="S1" start="46" text="01/20/1996" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

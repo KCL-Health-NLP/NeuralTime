@@ -1,0 +1,289 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+11/04/2000
+DISCHARGE DATE :
+11/09/2000
+HISTORY OF PRESENT ILLNESS :
+Mr. State is an 81-year-old man with a history of restrictive and obstructive lung disease , dilated cardiomyopathy , inferior myocardial infarction , and anterior mediastinal masses admitted with acute onset of pulmonary edema .
+In the setting of inadvertently decreasing Lasix from 80 mg. po 40 mg. a day Mr. State had sudden onset dyspnea after approximate day and a half prodrome culminating in severe dyspnea .
+Upon arrival in the Emergency Room Mr. State &apos;s saturations were in the mid 80s and he was promptly rendered more comfortable with high flow oxygen , morphine , and nitrates and intravenous Lasix .
+Chest x-ray was relatively unrevealing for interstitial or alveolar edema and with clinical improvement ensued with the immediate therapy in the Emergency Room as noted .
+The patient denied angina , syncope , preceding worsening orthopnea , paroxysmal nocturnal dyspnea , palpitations , chest pain , hematemesis or melena .
+HOSPITAL COURSE :
+The patient was admitted to the Hospital and underwent an approximate 1.5 liter diuresis within the first 24 hours with improvement in his symptoms and improvement in his oxygen saturations .
+After a long discussion with the patient and his family it was determined that a cardiac catheterization would be prudent .
+Prior to catheterization a VQ scan was performed which revealed a moderate probability for PE with a subsegmental defect in the lingular on the left lung .
+Subsequent lower extremities noninvasive studies and D-dimer test were both negative rendering the probability of acute pulmonary embolism less than 2 percent .
+It was not felt that the patient would be in need of chronic Coumadin therapy in lieu of this low probability findings in toto .
+Coronary angiography revealed occlusion of the right coronary artery proximally with insignificant plaquing in the left anterior descending artery and circumflex arteries .
+After a approximate 3 liter total diuresis the right atrial pressure was 5 , pulmonary capillary wedge pressure 14 , pulmonary vacuolar resistance 353 and the cardiac output depressed at 2.95 liters per minute , or a cardiac index of 1.7 liters per minute .
+Based upon these findings it was felt that Mr. State most likely has multi-factorial dyspnea owing to both his ventilatory limitation and to a chronic low output state .
+In Hospital he was seen by both Speech Therapy , physical therapy , and the Uspend Harmemewood Medical Center Congestive Heart Failure Nurse Practitioner Program .
+His Isordil was increased in Hospital and blood pressure control was relative episodic with systolic pressures ranging between 100 and 160 .
+Future adjustments will be made at home pending his blood pressure measures .
+At a goal weight of 142 pounds , Mr. State &apos;s filling pressures appeared ideal with a wedge pressure of 14 and his goal weight range will be between 142 and 44 pounds at home .
+The patient will be followed by Dr. State within a week of discharge and by Nieie Naebrand Freierm of the Dyathenslycha Medical Center .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1016" id="E16" modality="FACTUAL" polarity="NEG" start="1005" text="hematemesis" type="PROBLEM"/>
+<EVENT end="1026" id="E17" modality="FACTUAL" polarity="NEG" start="1020" text="melena" type="PROBLEM"/>
+<EVENT end="1071" id="E45" modality="FACTUAL" polarity="POS" start="1063" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1087" id="E46" modality="FACTUAL" polarity="POS" start="1075" text="the Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1135" id="E18" modality="FACTUAL" polarity="POS" start="1102" text="an approximate 1.5 liter diuresis" type="TREATMENT"/>
+<EVENT end="1178" id="E63" modality="FACTUAL" polarity="POS" start="1167" text="improvement" type="OCCURRENCE"/>
+<EVENT end="1194" id="E19" modality="FACTUAL" polarity="POS" start="1182" text="his symptoms" type="PROBLEM"/>
+<EVENT end="1210" id="E64" modality="FACTUAL" polarity="POS" start="1199" text="improvement" type="OCCURRENCE"/>
+<EVENT end="1236" id="E20" modality="FACTUAL" polarity="POS" start="1214" text="his oxygen saturations" type="TEST"/>
+<EVENT end="1262" id="E65" modality="FACTUAL" polarity="POS" start="1245" text="a long discussion" type="OCCURRENCE"/>
+<EVENT end="1343" id="E21" modality="FACTUAL" polarity="POS" start="1318" text="a cardiac catheterization" type="TEST"/>
+<EVENT end="176" id="E52" modality="FACTUAL" polarity="POS" start="136" text="restrictive and obstructive lung disease" type="PROBLEM"/>
+<EVENT end="1387" id="E22" modality="FACTUAL" polarity="POS" start="1372" text="catheterization" type="TEST"/>
+<EVENT end="1397" id="E23" modality="FACTUAL" polarity="POS" start="1388" text="a VQ scan" type="TEST"/>
+<EVENT end="1426" id="E47" modality="FACTUAL" polarity="POS" start="1418" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1456" id="E66" modality="POSSIBLE" polarity="POS" start="1454" text="PE" type="PROBLEM"/>
+<EVENT end="1499" id="E24" modality="FACTUAL" polarity="POS" start="1462" text="a subsegmental defect in the lingular" type="PROBLEM"/>
+<EVENT end="1567" id="E25" modality="FACTUAL" polarity="POS" start="1519" text="Subsequent lower extremities noninvasive studies" type="TEST"/>
+<EVENT end="1584" id="E26" modality="FACTUAL" polarity="POS" start="1572" text="D-dimer test" type="TEST"/>
+<EVENT end="1657" id="E27" modality="POSSIBLE" polarity="POS" start="1633" text="acute pulmonary embolism" type="PROBLEM"/>
+<EVENT end="1695" id="E80" modality="FACTUAL" polarity="NEG" start="1691" text="felt" type="EVIDENTIAL"/>
+<EVENT end="1757" id="E67" modality="FACTUAL" polarity="NEG" start="1733" text="chronic Coumadin therapy" type="TREATMENT"/>
+<EVENT end="201" id="E53" modality="FACTUAL" polarity="POS" start="179" text="dilated cardiomyopathy" type="PROBLEM"/>
+<EVENT end="1829" id="E28" modality="FACTUAL" polarity="POS" start="1809" text="Coronary angiography" type="TEST"/>
+<EVENT end="1838" id="E48" modality="FACTUAL" polarity="POS" start="1830" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1888" id="E29" modality="FACTUAL" polarity="POS" start="1839" text="occlusion of the right coronary artery proximally" type="PROBLEM"/>
+<EVENT end="1955" id="E68" modality="FACTUAL" polarity="POS" start="1894" text="insignificant plaquing in the left anterior descending artery" type="PROBLEM"/>
+<EVENT end="2024" id="E30" modality="FACTUAL" polarity="POS" start="1988" text="a approximate 3 liter total diuresis" type="TREATMENT"/>
+<EVENT end="2050" id="E31" modality="FACTUAL" polarity="POS" start="2025" text="the right atrial pressure" type="TEST"/>
+<EVENT end="234" id="E1" modality="FACTUAL" polarity="POS" start="204" text="inferior myocardial infarction" type="PROBLEM"/>
+<EVENT end="2093" id="E32" modality="FACTUAL" polarity="POS" start="2059" text="pulmonary capillary wedge pressure" type="TEST"/>
+<EVENT end="2128" id="E33" modality="FACTUAL" polarity="POS" start="2099" text="pulmonary vacuolar resistance" type="TEST"/>
+<EVENT end="2155" id="E34" modality="FACTUAL" polarity="POS" start="2137" text="the cardiac output" type="TEST"/>
+<EVENT end="2212" id="E35" modality="FACTUAL" polarity="POS" start="2197" text="a cardiac index" type="TEST"/>
+<EVENT end="2332" id="E69" modality="POSSIBLE" polarity="POS" start="2309" text="multi-factorial dyspnea" type="PROBLEM"/>
+<EVENT end="2373" id="E70" modality="FACTUAL" polarity="POS" start="2347" text="his ventilatory limitation" type="PROBLEM"/>
+<EVENT end="2407" id="E71" modality="FACTUAL" polarity="POS" start="2381" text="a chronic low output state" type="PROBLEM"/>
+<EVENT end="268" id="E54" modality="FACTUAL" polarity="POS" start="241" text="anterior mediastinal masses" type="PROBLEM"/>
+<EVENT end="2421" id="E49" modality="FACTUAL" polarity="POS" start="2413" text="Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2585" id="E72" modality="FACTUAL" polarity="POS" start="2574" text="His Isordil" type="TREATMENT"/>
+<EVENT end="2599" id="E73" modality="FACTUAL" polarity="POS" start="2590" text="increased" type="OCCURRENCE"/>
+<EVENT end="2611" id="E50" modality="FACTUAL" polarity="POS" start="2603" text="Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2638" id="E36" modality="FACTUAL" polarity="POS" start="2616" text="blood pressure control" type="TREATMENT"/>
+<EVENT end="2684" id="E37" modality="FACTUAL" polarity="POS" start="2666" text="systolic pressures" type="TEST"/>
+<EVENT end="277" id="E55" modality="FACTUAL" polarity="POS" start="269" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2733" id="E74" modality="CONDITIONAL" polarity="POS" start="2715" text="Future adjustments" type="OCCURRENCE"/>
+<EVENT end="2754" id="E82" modality="FACTUAL" polarity="POS" start="2750" text="home" type="OCCURRENCE"/>
+<EVENT end="2790" id="E75" modality="PROPOSED" polarity="POS" start="2763" text="his blood pressure measures" type="TEST"/>
+<EVENT end="2809" id="E38" modality="FACTUAL" polarity="POS" start="2803" text="weight" type="TEST"/>
+<EVENT end="2861" id="E39" modality="FACTUAL" polarity="POS" start="2826" text="Mr. State 's filling pressures" type="TEST"/>
+<EVENT end="2898" id="E40" modality="FACTUAL" polarity="POS" start="2882" text="a wedge pressure" type="TEST"/>
+<EVENT end="38" id="E51" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="313" id="E56" modality="FACTUAL" polarity="POS" start="298" text="pulmonary edema" type="PROBLEM"/>
+<EVENT end="3003" id="E76" modality="PROPOSED" polarity="POS" start="2995" text="followed" type="OCCURRENCE"/>
+<EVENT end="3043" id="E77" modality="FACTUAL" polarity="POS" start="3034" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3109" id="E78" modality="FACTUAL" polarity="POS" start="3077" text="the Dyathenslycha Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="358" id="E79" modality="FACTUAL" polarity="POS" start="334" text="inadvertently decreasing" type="OCCURRENCE"/>
+<EVENT end="364" id="E57" modality="FACTUAL" polarity="POS" start="359" text="Lasix" type="TREATMENT"/>
+<EVENT end="427" id="E58" modality="FACTUAL" polarity="POS" start="407" text="sudden onset dyspnea" type="PROBLEM"/>
+<EVENT end="499" id="E2" modality="FACTUAL" polarity="POS" start="485" text="severe dyspnea" type="PROBLEM"/>
+<EVENT end="514" id="E41" modality="FACTUAL" polarity="POS" start="507" text="arrival" type="OCCURRENCE"/>
+<EVENT end="536" id="E42" modality="FACTUAL" polarity="POS" start="518" text="the Emergency Room" type="CLINICAL_DEPT"/>
+<EVENT end="566" id="E3" modality="FACTUAL" polarity="POS" start="537" text="Mr. State 's saturations" type="TEST"/>
+<EVENT end="632" id="E59" modality="FACTUAL" polarity="POS" start="616" text="more comfortable" type="OCCURRENCE"/>
+<EVENT end="654" id="E4" modality="FACTUAL" polarity="POS" start="638" text="high flow oxygen" type="TREATMENT"/>
+<EVENT end="665" id="E5" modality="FACTUAL" polarity="POS" start="657" text="morphine" type="TREATMENT"/>
+<EVENT end="680" id="E6" modality="FACTUAL" polarity="POS" start="672" text="nitrates" type="TREATMENT"/>
+<EVENT end="702" id="E7" modality="FACTUAL" polarity="POS" start="685" text="intravenous Lasix" type="TREATMENT"/>
+<EVENT end="716" id="E8" modality="FACTUAL" polarity="POS" start="705" text="Chest x-ray" type="TEST"/>
+<EVENT end="778" id="E60" modality="POSSIBLE" polarity="POS" start="748" text="interstitial or alveolar edema" type="PROBLEM"/>
+<EVENT end="808" id="E61" modality="FACTUAL" polarity="POS" start="788" text="clinical improvement" type="OCCURRENCE"/>
+<EVENT end="842" id="E9" modality="FACTUAL" polarity="POS" start="821" text="the immediate therapy" type="TREATMENT"/>
+<EVENT end="864" id="E43" modality="FACTUAL" polarity="POS" start="846" text="the Emergency Room" type="CLINICAL_DEPT"/>
+<EVENT end="873" id="E62" modality="FACTUAL" polarity="POS" start="868" text="noted" type="EVIDENTIAL"/>
+<EVENT end="894" id="E44" modality="FACTUAL" polarity="POS" start="888" text="denied" type="EVIDENTIAL"/>
+<EVENT end="901" id="E10" modality="FACTUAL" polarity="NEG" start="895" text="angina" type="PROBLEM"/>
+<EVENT end="911" id="E11" modality="FACTUAL" polarity="NEG" start="904" text="syncope" type="PROBLEM"/>
+<EVENT end="943" id="E12" modality="FACTUAL" polarity="NEG" start="914" text="preceding worsening orthopnea" type="PROBLEM"/>
+<EVENT end="974" id="E13" modality="FACTUAL" polarity="NEG" start="946" text="paroxysmal nocturnal dyspnea" type="PROBLEM"/>
+<EVENT end="989" id="E14" modality="FACTUAL" polarity="NEG" start="977" text="palpitations" type="PROBLEM"/>
+<EVENT end="1002" id="E15" modality="FACTUAL" polarity="NEG" start="992" text="chest pain" type="PROBLEM"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="11/04/2000" type="DATE" val="2000-11-04"/>
+
+
+
+
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="11/09/2000" type="DATE" val="2000-11-09"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2000-11-04" end="28" id="S0" start="18" text="11/04/2000" type="ADMISSION"/>
+<SECTIME dvalue="2000-11-09" end="56" id="S1" start="46" text="11/09/2000" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,266 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+12/11/2005
+Discharge Date :
+12/13/2005
+Service :
+ORT
+HPI :
+Hibbskote has severe low back pain radiating down the right leg .
+She has been suffering from this problem for the last few weeks .
+A week and half ago , she had a steroid injection in an efforts to ameliorate the pain .
+She presents now with worsening low back pain radiating down the right leg .
+She denies numbness or weakness in any part of the body .
+She denies fever .
+She denies nausea , vomiting , and diarrhea .
+She denies chest pain .
+She says the pain is sharp in character , and radiates with a shock like intensity down the right leg .
+She says that oral analgesics have been of little help .
+On detailed review of systems , she admitted to one episode of urinary incontinence .
+She denied any changes in bowel habits .
+HOSPITAL COURSE :
+Patient was evaluated by the orthopedic service .
+An MRI of the spine showed L4/5 facet enhancement .
+It was evaluated by the IR radiology .
+Thad lesion was read as a facet hypertrophy and not an infectious process .
+Patient remained afebrile .
+ESR was within normal limits and CPR was mildly elevated .
+An AP of pelvis and R hip films were unremarkable .
+Physical examination of the RLE showed mild pain in right hip with some movements .
+When patient was distracted , some maneuvers were not painful .
+Patient remained cardiovascularly stable .
+Patient was weaned from supplemental oxygen and tolerated a regular diet prior to discharge .
+The patient received pneumoboots and lovenox for DVT prophylaxis . .
+Patient was instructed by PT on the correct way to ambulate , weight bearing as tolerated in the RLE . .
+Patient was able to void and ambulated without assistance as directed by P.T.
+The team decided that the patient was ready for discharge .
+Patient should follow up with her pain doctor , Dr. Maa Bloch 381-389-5852 , for her chronic pain management
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1042" id="E14" modality="FACTUAL" polarity="NEG" start="1021" text="an infectious process" type="PROBLEM"/>
+<EVENT end="1070" id="E15" modality="FACTUAL" polarity="POS" start="1062" text="afebrile" type="PROBLEM"/>
+<EVENT end="1076" id="E16" modality="FACTUAL" polarity="POS" start="1073" text="ESR" type="TEST"/>
+<EVENT end="1101" id="E61" modality="FACTUAL" polarity="POS" start="1088" text="normal limits" type="OCCURRENCE"/>
+<EVENT end="1109" id="E17" modality="FACTUAL" polarity="POS" start="1106" text="CPR" type="TEST"/>
+<EVENT end="1129" id="E18" modality="FACTUAL" polarity="POS" start="1114" text="mildly elevated" type="PROBLEM"/>
+<EVENT end="140" id="E41" modality="FACTUAL" polarity="POS" start="112" text="radiating down the right leg" type="PROBLEM"/>
+<EVENT end="1147" id="E19" modality="FACTUAL" polarity="POS" start="1132" text="An AP of pelvis" type="TEST"/>
+<EVENT end="1163" id="E20" modality="FACTUAL" polarity="POS" start="1152" text="R hip films" type="TEST"/>
+<EVENT end="1181" id="E62" modality="FACTUAL" polarity="POS" start="1169" text="unremarkable" type="EVIDENTIAL"/>
+<EVENT end="1215" id="E21" modality="FACTUAL" polarity="POS" start="1184" text="Physical examination of the RLE" type="TEST"/>
+<EVENT end="1222" id="E31" modality="FACTUAL" polarity="POS" start="1216" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1245" id="E63" modality="FACTUAL" polarity="POS" start="1223" text="mild pain in right hip" type="PROBLEM"/>
+<EVENT end="1265" id="E64" modality="HYPOTHETICAL" polarity="POS" start="1256" text="movements" type="OCCURRENCE"/>
+<EVENT end="1295" id="E32" modality="FACTUAL" polarity="POS" start="1285" text="distracted" type="OCCURRENCE"/>
+<EVENT end="1312" id="E65" modality="FACTUAL" polarity="POS" start="1303" text="maneuvers" type="OCCURRENCE"/>
+<EVENT end="1329" id="E66" modality="FACTUAL" polarity="NEG" start="1322" text="painful" type="PROBLEM"/>
+<EVENT end="1372" id="E67" modality="FACTUAL" polarity="POS" start="1349" text="cardiovascularly stable" type="OCCURRENCE"/>
+<EVENT end="1418" id="E22" modality="FACTUAL" polarity="POS" start="1399" text="supplemental oxygen" type="TREATMENT"/>
+<EVENT end="1447" id="E68" modality="FACTUAL" polarity="POS" start="1423" text="tolerated a regular diet" type="OCCURRENCE"/>
+<EVENT end="1466" id="E33" modality="FACTUAL" polarity="POS" start="1457" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1501" id="E23" modality="FACTUAL" polarity="POS" start="1490" text="pneumoboots" type="TREATMENT"/>
+<EVENT end="1513" id="E24" modality="FACTUAL" polarity="POS" start="1506" text="lovenox" type="TREATMENT"/>
+<EVENT end="1533" id="E25" modality="FACTUAL" polarity="POS" start="1518" text="DVT prophylaxis" type="TREATMENT"/>
+<EVENT end="1566" id="E69" modality="FACTUAL" polarity="POS" start="1550" text="instructed by PT" type="OCCURRENCE"/>
+<EVENT end="1597" id="E70" modality="FACTUAL" polarity="POS" start="1570" text="the correct way to ambulate" type="OCCURRENCE"/>
+<EVENT end="1614" id="E71" modality="FACTUAL" polarity="POS" start="1600" text="weight bearing" type="OCCURRENCE"/>
+<EVENT end="1627" id="E34" modality="FACTUAL" polarity="POS" start="1618" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1638" id="E72" modality="FACTUAL" polarity="POS" start="1631" text="the RLE" type="OCCURRENCE"/>
+<EVENT end="1667" id="E35" modality="FACTUAL" polarity="POS" start="1663" text="void" type="OCCURRENCE"/>
+<EVENT end="1681" id="E36" modality="FACTUAL" polarity="POS" start="1672" text="ambulated" type="OCCURRENCE"/>
+<EVENT end="1700" id="E73" modality="FACTUAL" polarity="NEG" start="1690" text="assistance" type="TREATMENT"/>
+<EVENT end="183" id="E42" modality="FACTUAL" polarity="POS" start="171" text="this problem" type="PROBLEM"/>
+<EVENT end="1737" id="E38" modality="FACTUAL" polarity="POS" start="1730" text="decided" type="OCCURRENCE"/>
+<EVENT end="1778" id="E37" modality="FACTUAL" polarity="POS" start="1769" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1805" id="E74" modality="FACTUAL" polarity="POS" start="1796" text="follow up" type="OCCURRENCE"/>
+<EVENT end="1889" id="E75" modality="FACTUAL" polarity="POS" start="1862" text="her chronic pain management" type="TREATMENT"/>
+<EVENT end="258" id="E1" modality="FACTUAL" polarity="POS" start="239" text="a steroid injection" type="TREATMENT"/>
+<EVENT end="295" id="E43" modality="FACTUAL" polarity="POS" start="287" text="the pain" type="PROBLEM"/>
+<EVENT end="38" id="E39" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="310" id="E44" modality="FACTUAL" polarity="POS" start="302" text="presents" type="OCCURRENCE"/>
+<EVENT end="343" id="E45" modality="FACTUAL" polarity="POS" start="320" text="worsening low back pain" type="PROBLEM"/>
+<EVENT end="372" id="E46" modality="FACTUAL" polarity="POS" start="344" text="radiating down the right leg" type="PROBLEM"/>
+<EVENT end="385" id="E26" modality="FACTUAL" polarity="POS" start="379" text="denies" type="EVIDENTIAL"/>
+<EVENT end="394" id="E2" modality="FACTUAL" polarity="NEG" start="386" text="numbness" type="PROBLEM"/>
+<EVENT end="406" id="E3" modality="FACTUAL" polarity="NEG" start="398" text="weakness" type="PROBLEM"/>
+<EVENT end="443" id="E27" modality="FACTUAL" polarity="POS" start="437" text="denies" type="EVIDENTIAL"/>
+<EVENT end="449" id="E4" modality="FACTUAL" polarity="NEG" start="444" text="fever" type="PROBLEM"/>
+<EVENT end="462" id="E28" modality="FACTUAL" polarity="POS" start="456" text="denies" type="EVIDENTIAL"/>
+<EVENT end="469" id="E5" modality="FACTUAL" polarity="NEG" start="463" text="nausea" type="PROBLEM"/>
+<EVENT end="480" id="E6" modality="FACTUAL" polarity="NEG" start="472" text="vomiting" type="PROBLEM"/>
+<EVENT end="495" id="E7" modality="FACTUAL" polarity="NEG" start="487" text="diarrhea" type="PROBLEM"/>
+<EVENT end="508" id="E29" modality="FACTUAL" polarity="POS" start="502" text="denies" type="EVIDENTIAL"/>
+<EVENT end="519" id="E8" modality="FACTUAL" polarity="NEG" start="509" text="chest pain" type="PROBLEM"/>
+<EVENT end="539" id="E47" modality="FACTUAL" polarity="POS" start="531" text="the pain" type="PROBLEM"/>
+<EVENT end="548" id="E48" modality="FACTUAL" polarity="POS" start="543" text="sharp" type="OCCURRENCE"/>
+<EVENT end="576" id="E49" modality="FACTUAL" polarity="POS" start="568" text="radiates" type="PROBLEM"/>
+<EVENT end="623" id="E50" modality="FACTUAL" polarity="POS" start="582" text="a shock like intensity down the right leg" type="PROBLEM"/>
+<EVENT end="655" id="E9" modality="FACTUAL" polarity="POS" start="640" text="oral analgesics" type="TREATMENT"/>
+<EVENT end="680" id="E52" modality="FACTUAL" polarity="POS" start="669" text="little help" type="OCCURRENCE"/>
+<EVENT end="712" id="E53" modality="FACTUAL" polarity="POS" start="686" text="detailed review of systems" type="TEST"/>
+<EVENT end="727" id="E54" modality="FACTUAL" polarity="POS" start="719" text="admitted" type="EVIDENTIAL"/>
+<EVENT end="766" id="E10" modality="FACTUAL" polarity="POS" start="746" text="urinary incontinence" type="PROBLEM"/>
+<EVENT end="779" id="E55" modality="FACTUAL" polarity="POS" start="773" text="denied" type="EVIDENTIAL"/>
+<EVENT end="807" id="E11" modality="FACTUAL" polarity="NEG" start="780" text="any changes in bowel habits" type="PROBLEM"/>
+<EVENT end="849" id="E56" modality="FACTUAL" polarity="POS" start="840" text="evaluated" type="TEST"/>
+<EVENT end="897" id="E12" modality="FACTUAL" polarity="POS" start="878" text="An MRI of the spine" type="TEST"/>
+<EVENT end="904" id="E30" modality="FACTUAL" polarity="POS" start="898" text="showed" type="EVIDENTIAL"/>
+<EVENT end="111" id="E40" modality="FACTUAL" polarity="POS" start="91" text="severe low back pain" type="PROBLEM"/>
+<EVENT end="927" id="E13" modality="FACTUAL" polarity="POS" start="905" text="L4/5 facet enhancement" type="PROBLEM"/>
+<EVENT end="946" id="E57" modality="FACTUAL" polarity="POS" start="937" text="evaluated" type="TEST"/>
+<EVENT end="980" id="E58" modality="FACTUAL" polarity="POS" start="969" text="Thad lesion" type="PROBLEM"/>
+<EVENT end="989" id="E59" modality="FACTUAL" polarity="POS" start="985" text="read" type="EVIDENTIAL"/>
+<EVENT end="1012" id="E60" modality="FACTUAL" polarity="POS" start="993" text="a facet hypertrophy" type="PROBLEM"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="12/11/2005" type="DATE" val="2005-12-11"/>
+
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="12/13/2005" type="DATE" val="2005-12-13"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2005-12-11" end="28" id="S0" start="18" text="12/11/2005" type="ADMISSION"/>
+<SECTIME dvalue="2005-12-13" end="56" id="S1" start="46" text="12/13/2005" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

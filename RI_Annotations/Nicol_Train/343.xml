@@ -1,0 +1,217 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+08-27-92
+DISCHARGE DATE :
+09-08-92
+HISTORY OF PRESENT ILLNESS :
+The patient is a 75 year old Hispanic male with insulin dependent diabetes mellitus , status post a right above-knee amputation about five years ago , who reportedly approximately four months ago , he developed a small ulceration in the left great toe , which progressively worsened .
+He was seen by a doctor in Arizona and treated with dressing changes and debridement until approximately six weeks ago , when antibiotics were started with Ciprofloxacin .
+The patient was seen and it was suggested that he should have an amputation and he decided to come to Fairm of Ijordcompmac Hospital for further evaluation .
+HOSPITAL COURSE :
+The patient was admitted for intravenous antibiotics and a question of evaluation of circulation to the left great toe and also possible debridement and possibly a toe amputation .
+The patient had the following radiological studies :
+08-27-92 , left foot film , correlation , patient consistent with osteomyelitis involving the first digit and possibly the second digit of the left foot .
+The chest X-ray reveals no evidence of acute disease .
+The patient had lower extremity arterial non-invasive study which showed good arterial hemodynamics of the left lower extremity , perfusion to the TM level , but there was evidence of diabetic small vessel disease and spasm of his digits .
+The arterial circulation is adequate for healing of his left great toe ulcer , noncompressible left thigh and calf pressures highly calcified arterial system .
+On 09-03-92 , patient underwent a left great toe buttontoe amputation under regional ankle block for chronic ulcer and osteomyelitis of the left great toe .
+The patient tolerated the procedure well .
+There were no complications during the procedure .
+There was a small Penrose drain postoperatively that was placed intraoperatively and discontinued on approximately postoperative day number three .
+The patient was preoperatively treated with about a seven day course of intravenous Unasyn and postoperatively treated for approximately four days of intravenous Unasyn .
+The patient was discharged home in stable condition on postoperative day number five , without any complications .
+The incision from buttontoe amputation of the left foot healing well , without any further complications .
+FOLLOWUP :
+The patient is to follow up in clinic .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1054" id="E21" modality="FACTUAL" polarity="POS" start="1015" text="osteomyelitis involving the first digit" type="PROBLEM"/>
+<EVENT end="1119" id="E22" modality="FACTUAL" polarity="POS" start="1104" text="The chest X-ray" type="TEST"/>
+<EVENT end="1127" id="E23" modality="FACTUAL" polarity="POS" start="1120" text="reveals" type="EVIDENTIAL"/>
+<EVENT end="1156" id="E24" modality="FACTUAL" polarity="NEG" start="1131" text="evidence of acute disease" type="PROBLEM"/>
+<EVENT end="1218" id="E25" modality="FACTUAL" polarity="POS" start="1191" text="arterial non-invasive study" type="TEST"/>
+<EVENT end="1231" id="E26" modality="FACTUAL" polarity="POS" start="1225" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1258" id="E27" modality="FACTUAL" polarity="POS" start="1232" text="good arterial hemodynamics" type="OCCURRENCE"/>
+<EVENT end="1314" id="E28" modality="FACTUAL" polarity="POS" start="1289" text="perfusion to the TM level" type="OCCURRENCE"/>
+<EVENT end="165" id="E2" modality="FACTUAL" polarity="POS" start="130" text="insulin dependent diabetes mellitus" type="PROBLEM"/>
+<EVENT end="1372" id="E29" modality="FACTUAL" polarity="POS" start="1343" text="diabetic small vessel disease" type="PROBLEM"/>
+<EVENT end="1396" id="E30" modality="FACTUAL" polarity="POS" start="1377" text="spasm of his digits" type="PROBLEM"/>
+<EVENT end="1435" id="E31" modality="FACTUAL" polarity="POS" start="1399" text="The arterial circulation is adequate" type="OCCURRENCE"/>
+<EVENT end="1447" id="E32" modality="FACTUAL" polarity="POS" start="1440" text="healing" type="OCCURRENCE"/>
+<EVENT end="1475" id="E33" modality="FACTUAL" polarity="POS" start="1451" text="his left great toe ulcer" type="PROBLEM"/>
+<EVENT end="1628" id="E34" modality="FACTUAL" polarity="POS" start="1591" text="a left great toe buttontoe amputation" type="TREATMENT"/>
+<EVENT end="1655" id="E35" modality="FACTUAL" polarity="POS" start="1635" text="regional ankle block" type="TREATMENT"/>
+<EVENT end="1673" id="E36" modality="FACTUAL" polarity="POS" start="1660" text="chronic ulcer" type="OCCURRENCE"/>
+<EVENT end="1691" id="E37" modality="FACTUAL" polarity="POS" start="1678" text="osteomyelitis" type="PROBLEM"/>
+<EVENT end="1751" id="E38" modality="FACTUAL" polarity="POS" start="1738" text="the procedure" type="TREATMENT"/>
+<EVENT end="1756" id="E39" modality="FACTUAL" polarity="POS" start="1752" text="well" type="OCCURRENCE"/>
+<EVENT end="1786" id="E40" modality="FACTUAL" polarity="NEG" start="1773" text="complications" type="PROBLEM"/>
+<EVENT end="1807" id="E41" modality="FACTUAL" polarity="POS" start="1794" text="the procedure" type="TREATMENT"/>
+<EVENT end="209" id="E3" modality="FACTUAL" polarity="POS" start="180" text="a right above-knee amputation" type="PROBLEM"/>
+<EVENT end="1841" id="E42" modality="FACTUAL" polarity="POS" start="1820" text="a small Penrose drain" type="TREATMENT"/>
+<EVENT end="1890" id="E43" modality="FACTUAL" polarity="POS" start="1874" text="intraoperatively" type="OCCURRENCE"/>
+<EVENT end="2048" id="E44" modality="FACTUAL" polarity="POS" start="2030" text="intravenous Unasyn" type="TREATMENT"/>
+<EVENT end="2126" id="E45" modality="FACTUAL" polarity="POS" start="2108" text="intravenous Unasyn" type="TREATMENT"/>
+<EVENT end="2155" id="E46" modality="FACTUAL" polarity="POS" start="2145" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2180" id="E47" modality="FACTUAL" polarity="POS" start="2164" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="2241" id="E48" modality="FACTUAL" polarity="POS" start="2228" text="complications" type="PROBLEM"/>
+<EVENT end="2256" id="E49" modality="FACTUAL" polarity="POS" start="2244" text="The incision" type="PROBLEM"/>
+<EVENT end="2282" id="E50" modality="FACTUAL" polarity="POS" start="2262" text="buttontoe amputation" type="TREATMENT"/>
+<EVENT end="2312" id="E51" modality="FACTUAL" polarity="POS" start="2300" text="healing well" type="OCCURRENCE"/>
+<EVENT end="2348" id="E52" modality="FACTUAL" polarity="POS" start="2335" text="complications" type="PROBLEM"/>
+<EVENT end="2389" id="E55" modality="FACTUAL" polarity="POS" start="2380" text="follow up" type="OCCURRENCE"/>
+<EVENT end="2399" id="E54" modality="FACTUAL" polarity="POS" start="2393" text="clinic" type="CLINICAL_DEPT"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="333" id="E4" modality="FACTUAL" polarity="POS" start="293" text="a small ulceration in the left great toe" type="PROBLEM"/>
+<EVENT end="364" id="E5" modality="FACTUAL" polarity="POS" start="342" text="progressively worsened" type="OCCURRENCE"/>
+<EVENT end="390" id="E6" modality="FACTUAL" polarity="POS" start="374" text="seen by a doctor" type="OCCURRENCE"/>
+<EVENT end="435" id="E7" modality="FACTUAL" polarity="POS" start="419" text="dressing changes" type="TREATMENT"/>
+<EVENT end="451" id="E8" modality="FACTUAL" polarity="POS" start="440" text="debridement" type="TREATMENT"/>
+<EVENT end="504" id="E9" modality="FACTUAL" polarity="POS" start="493" text="antibiotics" type="TREATMENT"/>
+<EVENT end="536" id="E10" modality="FACTUAL" polarity="POS" start="523" text="Ciprofloxacin" type="TREATMENT"/>
+<EVENT end="614" id="E11" modality="PROPOSED" polarity="POS" start="601" text="an amputation" type="TREATMENT"/>
+<EVENT end="671" id="E12" modality="FACTUAL" polarity="POS" start="641" text="Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="694" id="E13" modality="FACTUAL" polarity="POS" start="676" text="further evaluation" type="TEST"/>
+<EVENT end="739" id="E14" modality="FACTUAL" polarity="POS" start="731" text="admitted" type="OCCURRENCE"/>
+<EVENT end="767" id="E15" modality="FACTUAL" polarity="POS" start="744" text="intravenous antibiotics" type="TREATMENT"/>
+<EVENT end="811" id="E16" modality="FACTUAL" polarity="POS" start="786" text="evaluation of circulation" type="TEST"/>
+<EVENT end="863" id="E17" modality="PROPOSED" polarity="POS" start="852" text="debridement" type="TREATMENT"/>
+<EVENT end="893" id="E18" modality="CONDITIONAL" polarity="POS" start="877" text="a toe amputation" type="TREATMENT"/>
+<EVENT end="946" id="E19" modality="FACTUAL" polarity="POS" start="926" text="radiological studies" type="TEST"/>
+<EVENT end="974" id="E20" modality="FACTUAL" polarity="POS" start="960" text="left foot film" type="TEST"/>
+<ATIMEX3 end="1570" id="T6" mod="NA" start="1562" text="09-03-92" type="DATE" val="1992-09-03"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="08-27-92" type="DATE" val="1992-08-27"/>
+<RTIMEX3 end="1955" id="T7" mod="APPROX" start="1939" text="day number three" type="DATE" val="1992-09-06"/>
+
+
+
+<RTIMEX3 end="2213" id="T10" mod="NA" start="2198" text="day number five" type="DATE" val="1992-09-08"/>
+
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="09-08-92" type="DATE" val="1992-09-08"/>
+
+<ATIMEX3 end="957" id="T5" mod="NA" start="949" text="08-27-92" type="DATE" val="1992-08-27"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-08-27" end="26" id="S0" start="18" text="08-27-92" type="ADMISSION"/>
+<SECTIME dvalue="1992-09-08" end="52" id="S1" start="44" text="09-08-92" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

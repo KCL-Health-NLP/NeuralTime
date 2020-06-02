@@ -1,0 +1,76 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2010-02-05
+Discharge Date :
+2010-02-06
+Service :
+TRAUMA
+HISTORY OF PRESENT ILLNESS :
+The patient is a 23 year old female , status post fall from standing position after slipping on ice .
+She had no loss of consciousness .
+She recalled the entire event .
+She was found by family and friends to be somewhat confused and was therefore taken to Newton-Wellesley Hospital thereafter .
+Workup at the outside hospital included a CT scan of the head revealing a possible parietal subdural bleed on the right side .
+The patient 's GCS was 15 .
+She was hemodynamically stable .
+She was thereafter transferred to Beverly Hospital for further evaluation and management .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="157" id="E8" modality="FACTUAL" polarity="POS" start="153" text="fall" type="PROBLEM"/>
+<EVENT end="237" id="E1" modality="FACTUAL" polarity="NEG" start="216" text="loss of consciousness" type="PROBLEM"/>
+<EVENT end="269" id="E9" modality="FACTUAL" polarity="POS" start="264" text="event" type="PROBLEM"/>
+<EVENT end="38" id="E7" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="331" id="E10" modality="FACTUAL" polarity="POS" start="323" text="confused" type="PROBLEM"/>
+<EVENT end="384" id="E11" modality="FACTUAL" polarity="POS" start="359" text="Newton-Wellesley Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="404" id="E2" modality="FACTUAL" polarity="POS" start="398" text="Workup" type="TEST"/>
+<EVENT end="428" id="E12" modality="FACTUAL" polarity="POS" start="408" text="the outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="459" id="E3" modality="FACTUAL" polarity="POS" start="438" text="a CT scan of the head" type="TEST"/>
+<EVENT end="469" id="E13" modality="FACTUAL" polarity="POS" start="460" text="revealing" type="EVIDENTIAL"/>
+<EVENT end="522" id="E14" modality="POSSIBLE" polarity="POS" start="481" text="parietal subdural bleed on the right side" type="PROBLEM"/>
+<EVENT end="543" id="E4" modality="FACTUAL" polarity="POS" start="525" text="The patient 's GCS" type="TEST"/>
+<EVENT end="616" id="E15" modality="FACTUAL" polarity="POS" start="605" text="transferred" type="OCCURRENCE"/>
+<EVENT end="636" id="E16" modality="FACTUAL" polarity="POS" start="620" text="Beverly Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="659" id="E5" modality="FACTUAL" polarity="POS" start="641" text="further evaluation" type="TEST"/>
+<EVENT end="674" id="E6" modality="FACTUAL" polarity="POS" start="664" text="management" type="TREATMENT"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2010-02-05" type="DATE" val="2010-02-05"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2010-02-06" type="DATE" val="2010-02-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2010-02-05" end="28" id="S0" start="18" text="2010-02-05" type="ADMISSION"/>
+<SECTIME dvalue="2010-02-06" end="56" id="S1" start="46" text="2010-02-06" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

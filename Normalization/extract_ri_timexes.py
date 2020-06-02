@@ -113,6 +113,7 @@ def filter_absolute_timexes():
     # add the absolute characteristic as a boolean attribute of the timexe dataframe
 
     timexes['absolute'] = [is_absolute_timexe(string) for string in timexes['ann_text']]
+
     timexes.to_excel('date_and_time.xlsx')
 
     print('RELATIVE TIMEXES')

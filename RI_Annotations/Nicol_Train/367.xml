@@ -1,0 +1,299 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-10-21
+Discharge Date :
+2013-10-31
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+This is an 85 year old female with prior history of non-hodgkins lymphoma , s/p Cytoxan in 2003 a with recurrence in 2009 .
+Follow up examinations have found a suspicious left lower lobe finding .
+Cardiac workup prior to left lower lobe resection led to cardiac catheterization which found severe three vessel disease with 04-05+ mitral regurgitation .
+She now present for surgical intervention .
+Brief Hospital Course :
+Mrs. Mandelbaum was admitted and underwent three vessel coronary artery bypass grafting by Dr. Larry Mckinney .
+Of note , intraoperative transesophageal echocardiogram evaluation showed only mild mitral regurgitation , so no repair/replacement was indicated .
+Following the operation , she was brought to the CSRU .
+On postoperative day one , she was noted to be largely unresponsive with left hemiparesis .
+Restlessness with body tremors were also noted .
+A stat MRI was notable for multiple abnormal foci consistent with systemic emboli .
+These were found in the right cerebellar , occipital and anterior parietal lobes .
+The neurology service was consulted and attributed these findings to cholesterol emboli .
+Due to seizure activity , Dilantin was started .
+Anticoagulation was not recommended .
+Over the next several days , her neurological status slowly improved .
+She was eventually extubated without incident .
+She went on to experience paroxysmal atrial fibrillation which was initially treated with intravenous Amiodarone .
+She concomitantly had loose stools which were C. diff negative .
+Her clinical status stablized and she transferred to the step down unit on postoperative day six .
+She remained mostly in a normal sinus rhythm and transitioned to oral Amiodarone which will need to continue for three months postop .
+She tolerated beta blockade which was slowly advanced as tolerated .
+She worked daily with physical and occupational therapy .
+Her neurological status continued to improve .
+Acyclovir was eventually increased from her maintenance dose for a herpes zoster breakout on her right upper back .
+In addition , she was empirically started on Flagyl for persistent diarrhea ( despite negative C. diff cultures ) , however she developed an additional rash on her buttocks after the first dose of flagyl , so the flagyl was discontinued .
+She developed a urinary tract infection for which she was started on Bactrim .
+A foley catheter was inserted given her mutiple episodes of incontinence that were adding to skin irritation .
+On insertion she was found to be retaining 1400 cc of urine , so the foley catheter was left in .
+She continued to make clinical improvements and was cleared for discharge to rehab on postoperative day 10 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E58" modality="FACTUAL" polarity="POS" start="1004" text="notable" type="EVIDENTIAL"/>
+<EVENT end="1038" id="E20" modality="FACTUAL" polarity="POS" start="1016" text="multiple abnormal foci" type="PROBLEM"/>
+<EVENT end="1070" id="E21" modality="FACTUAL" polarity="POS" start="1055" text="systemic emboli" type="PROBLEM"/>
+<EVENT end="1177" id="E59" modality="FACTUAL" polarity="POS" start="1156" text="The neurology service" type="CLINICAL_DEPT"/>
+<EVENT end="1243" id="E22" modality="FACTUAL" polarity="POS" start="1225" text="cholesterol emboli" type="PROBLEM"/>
+<EVENT end="1269" id="E23" modality="FACTUAL" polarity="POS" start="1253" text="seizure activity" type="PROBLEM"/>
+<EVENT end="1280" id="E24" modality="FACTUAL" polarity="POS" start="1272" text="Dilantin" type="TREATMENT"/>
+<EVENT end="1310" id="E60" modality="PROPOSED" polarity="NEG" start="1295" text="Anticoagulation" type="TREATMENT"/>
+<EVENT end="1401" id="E61" modality="FACTUAL" polarity="POS" start="1386" text="slowly improved" type="OCCURRENCE"/>
+<EVENT end="1432" id="E47" modality="FACTUAL" polarity="POS" start="1423" text="extubated" type="TREATMENT"/>
+<EVENT end="1449" id="E62" modality="FACTUAL" polarity="NEG" start="1441" text="incident" type="PROBLEM"/>
+<EVENT end="1508" id="E25" modality="FACTUAL" polarity="POS" start="1478" text="paroxysmal atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1564" id="E26" modality="FACTUAL" polarity="POS" start="1542" text="intravenous Amiodarone" type="TREATMENT"/>
+<EVENT end="1601" id="E27" modality="FACTUAL" polarity="POS" start="1589" text="loose stools" type="PROBLEM"/>
+<EVENT end="1620" id="E28" modality="FACTUAL" polarity="NEG" start="1613" text="C. diff" type="TEST"/>
+<EVENT end="184" id="E1" modality="FACTUAL" polarity="POS" start="163" text="non-hodgkins lymphoma" type="PROBLEM"/>
+<EVENT end="1661" id="E63" modality="FACTUAL" polarity="POS" start="1652" text="stablized" type="OCCURRENCE"/>
+<EVENT end="1681" id="E48" modality="FACTUAL" polarity="POS" start="1670" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1703" id="E64" modality="FACTUAL" polarity="POS" start="1685" text="the step down unit" type="CLINICAL_DEPT"/>
+<EVENT end="1775" id="E65" modality="FACTUAL" polarity="POS" start="1754" text="a normal sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="1811" id="E29" modality="FACTUAL" polarity="POS" start="1796" text="oral Amiodarone" type="TREATMENT"/>
+<EVENT end="1893" id="E30" modality="FACTUAL" polarity="POS" start="1880" text="beta blockade" type="TREATMENT"/>
+<EVENT end="198" id="E2" modality="FACTUAL" polarity="POS" start="191" text="Cytoxan" type="TREATMENT"/>
+<EVENT end="1932" id="E67" modality="FACTUAL" polarity="POS" start="1911" text="advanced as tolerated" type="OCCURRENCE"/>
+<EVENT end="1990" id="E68" modality="FACTUAL" polarity="POS" start="1957" text="physical and occupational therapy" type="TREATMENT"/>
+<EVENT end="2016" id="E69" modality="FACTUAL" polarity="POS" start="1993" text="Her neurological status" type="OCCURRENCE"/>
+<EVENT end="2037" id="E70" modality="FACTUAL" polarity="POS" start="2030" text="improve" type="OCCURRENCE"/>
+<EVENT end="2049" id="E31" modality="FACTUAL" polarity="POS" start="2040" text="Acyclovir" type="TREATMENT"/>
+<EVENT end="2074" id="E71" modality="FACTUAL" polarity="POS" start="2065" text="increased" type="TREATMENT"/>
+<EVENT end="2100" id="E32" modality="FACTUAL" polarity="POS" start="2080" text="her maintenance dose" type="TREATMENT"/>
+<EVENT end="2153" id="E33" modality="FACTUAL" polarity="POS" start="2105" text="a herpes zoster breakout on her right upper back" type="PROBLEM"/>
+<EVENT end="224" id="E3" modality="FACTUAL" polarity="POS" start="214" text="recurrence" type="PROBLEM"/>
+<EVENT end="2207" id="E34" modality="FACTUAL" polarity="POS" start="2201" text="Flagyl" type="TREATMENT"/>
+<EVENT end="2231" id="E35" modality="FACTUAL" polarity="POS" start="2212" text="persistent diarrhea" type="PROBLEM"/>
+<EVENT end="2267" id="E72" modality="FACTUAL" polarity="NEG" start="2251" text="C. diff cultures" type="TEST"/>
+<EVENT end="2328" id="E36" modality="FACTUAL" polarity="POS" start="2294" text="an additional rash on her buttocks" type="PROBLEM"/>
+<EVENT end="257" id="E4" modality="FACTUAL" polarity="POS" start="235" text="Follow up examinations" type="TEST"/>
+<EVENT end="2359" id="E37" modality="FACTUAL" polarity="POS" start="2353" text="flagyl" type="TREATMENT"/>
+<EVENT end="2375" id="E38" modality="FACTUAL" polarity="POS" start="2365" text="the flagyl" type="TREATMENT"/>
+<EVENT end="2434" id="E39" modality="FACTUAL" polarity="POS" start="2409" text="a urinary tract infection" type="PROBLEM"/>
+<EVENT end="2471" id="E40" modality="FACTUAL" polarity="POS" start="2464" text="Bactrim" type="TREATMENT"/>
+<EVENT end="2490" id="E41" modality="FACTUAL" polarity="POS" start="2474" text="A foley catheter" type="TREATMENT"/>
+<EVENT end="2546" id="E42" modality="FACTUAL" polarity="POS" start="2534" text="incontinence" type="PROBLEM"/>
+<EVENT end="2582" id="E43" modality="FACTUAL" polarity="POS" start="2567" text="skin irritation" type="PROBLEM"/>
+<EVENT end="2597" id="E44" modality="FACTUAL" polarity="POS" start="2588" text="insertion" type="TREATMENT"/>
+<EVENT end="2627" id="E73" modality="FACTUAL" polarity="POS" start="2618" text="retaining" type="PROBLEM"/>
+<EVENT end="268" id="E52" modality="FACTUAL" polarity="POS" start="263" text="found" type="EVIDENTIAL"/>
+<EVENT end="2644" id="E74" modality="FACTUAL" polarity="POS" start="2639" text="urine" type="OCCURRENCE"/>
+<EVENT end="2668" id="E45" modality="FACTUAL" polarity="POS" start="2650" text="the foley catheter" type="TREATMENT"/>
+<EVENT end="305" id="E5" modality="FACTUAL" polarity="POS" start="269" text="a suspicious left lower lobe finding" type="PROBLEM"/>
+<EVENT end="2726" id="E75" modality="FACTUAL" polarity="POS" start="2705" text="clinical improvements" type="OCCURRENCE"/>
+<EVENT end="2756" id="E49" modality="FACTUAL" polarity="POS" start="2747" text="discharge" type="OCCURRENCE"/>
+<EVENT end="38" id="E50" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="322" id="E6" modality="FACTUAL" polarity="POS" start="308" text="Cardiac workup" type="TEST"/>
+<EVENT end="357" id="E7" modality="FACTUAL" polarity="POS" start="332" text="left lower lobe resection" type="TREATMENT"/>
+<EVENT end="388" id="E8" modality="FACTUAL" polarity="POS" start="365" text="cardiac catheterization" type="TEST"/>
+<EVENT end="400" id="E51" modality="FACTUAL" polarity="POS" start="395" text="found" type="EVIDENTIAL"/>
+<EVENT end="428" id="E53" modality="FACTUAL" polarity="POS" start="401" text="severe three vessel disease" type="PROBLEM"/>
+<EVENT end="461" id="E9" modality="FACTUAL" polarity="POS" start="434" text="04-05+ mitral regurgitation" type="PROBLEM"/>
+<EVENT end="479" id="E54" modality="FACTUAL" polarity="POS" start="472" text="present" type="OCCURRENCE"/>
+<EVENT end="505" id="E10" modality="FACTUAL" polarity="POS" start="484" text="surgical intervention" type="TREATMENT"/>
+<EVENT end="560" id="E46" modality="FACTUAL" polarity="POS" start="552" text="admitted" type="OCCURRENCE"/>
+<EVENT end="619" id="E11" modality="FACTUAL" polarity="POS" start="575" text="three vessel coronary artery bypass grafting" type="TREATMENT"/>
+<EVENT end="710" id="E12" modality="FACTUAL" polarity="POS" start="654" text="intraoperative transesophageal echocardiogram evaluation" type="TEST"/>
+<EVENT end="717" id="E55" modality="FACTUAL" polarity="POS" start="711" text="showed" type="EVIDENTIAL"/>
+<EVENT end="748" id="E56" modality="FACTUAL" polarity="POS" start="728" text="mitral regurgitation" type="PROBLEM"/>
+<EVENT end="775" id="E13" modality="FACTUAL" polarity="NEG" start="757" text="repair/replacement" type="TREATMENT"/>
+<EVENT end="815" id="E14" modality="FACTUAL" polarity="POS" start="802" text="the operation" type="TREATMENT"/>
+<EVENT end="845" id="E57" modality="FACTUAL" polarity="POS" start="837" text="the CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="888" id="E66" modality="FACTUAL" polarity="POS" start="883" text="noted" type="EVIDENTIAL"/>
+<EVENT end="915" id="E15" modality="FACTUAL" polarity="POS" start="895" text="largely unresponsive" type="PROBLEM"/>
+<EVENT end="937" id="E16" modality="FACTUAL" polarity="POS" start="921" text="left hemiparesis" type="PROBLEM"/>
+<EVENT end="952" id="E17" modality="FACTUAL" polarity="POS" start="940" text="Restlessness" type="PROBLEM"/>
+<EVENT end="970" id="E18" modality="FACTUAL" polarity="POS" start="958" text="body tremors" type="PROBLEM"/>
+<EVENT end="999" id="E19" modality="FACTUAL" polarity="POS" start="989" text="A stat MRI" type="TEST"/>
+
+<RTIMEX3 end="1728" id="T7" mod="NA" start="1707" text="postoperative day six" type="DATE" val="2013-10-27"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-10-21" type="DATE" val="2013-10-21"/>
+
+
+<ATIMEX3 end="206" id="T3" mod="NA" start="202" text="2003" type="DATE" val="2003"/>
+<ATIMEX3 end="232" id="T4" mod="NA" start="228" text="2009" type="DATE" val="2009"/>
+<RTIMEX3 end="2789" id="T1" mod="NA" start="2769" text="postoperative day 10" type="DATE" val="2013-10-31"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2013-10-31" type="DATE" val="2013-10-31"/>
+<RTIMEX3 end="872" id="T5" mod="NA" start="851" text="postoperative day one" type="DATE" val="2013-10-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-10-21" end="28" id="S0" start="18" text="2013-10-21" type="ADMISSION"/>
+<SECTIME dvalue="2013-10-31" end="56" id="S1" start="46" text="2013-10-31" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

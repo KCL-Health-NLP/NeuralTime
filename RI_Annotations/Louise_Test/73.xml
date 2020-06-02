@@ -1,0 +1,451 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2009-08-17
+Discharge Date :
+2009-09-10
+Service :
+BLUE GENERAL SURGERY
+HISTORY OF PRESENT ILLNESS :
+Mr. Cordano is a 58-year-old gentlemen with a past medical history significant for primary sclerosing cholangitis who presented with a chief complaint of endoscopic retrograde cholangiopancreatography endoscopic retrograde cholangiopancreatography and percutaneous transhepatic cholangiogram .
+The most recent percutaneous transluminal coronary angioplasty was done in 2009-07-25 .
+At the time an 8 Caucasian catheter was placed in the common hepatic/bioduct for external drainage .
+The endoscopic retrograde cholangiopancreatography also showed the presence proximal common bile duct .
+Nodularities in the common bile duct visualized by endoscopic retrograde cholangiopancreatography was also worrisome for cholangiocarcinoma and the patient was admitted to the Blue General Surgery Service for possible surgical interventions .
+HOSPITAL COURSE :
+Mr. Cordano was admitted on 2009-08-17 for a replacement of transhepatic biliary drainage catheter .
+At that time , cholangiogram confirmed that there was a distal stricture of the common bile duct .
+An endoscopic retrograde cholangiopancreatography also demonstrated similar findings
+and it is noted there was nodularity in the common bile duct which is worrisome for cholangiocarcinoma .
+Therefore , the patient was taken to the Operating Room on 2009-08-24 for a Whipple procedure versus hepaticojejunostomy .
+On exploration of the abdomen revealed significant nodularity of the liver indicating of advanced cirrhosis .
+Intraoperative frozen section of the distal and proximal common bile duct in the
+region nodularity , which is identified previously by endoscopic retrograde cholangiopancreatography , and regional lymph nodes were all sent to pathology .
+They were all negative for malignancy and therefore a hepaticojejunostomy
+was performed .
+Cholangiogram on postoperative day number two showed no evidence of leakage at the anastomosis site .
+The patient tolerated the procedure well and he was sent to the floor in stable condition .
+The patient 's postoperative course was notable for an elevation in white blood cell count peaking at 30.0 on postoperative day number two .
+He was given Unasyn for empiric antibiotic treatment .
+At the time , blood , urine and bile was sent for culture , which were all negative .
+A chest x-ray was also negative for any pneumonia .
+Postoperatively , Mr. Cordano also suffered from low urine output ranges between 25 to 30 cc per hour .
+Fractional excretion of sodium was less than 1% suggesting a prerenal etiology .
+The sodium creatinine peaked at 2.0 and the patient was treated with boluses of intravenous fluid and intravenous albumin infusion was also administered .
+He responded well to this regimen and made adequate urine output .
+At the same time , the patient also developed distentions of the abdomen consistent with accumulation of ascitic fluid .
+He also had significant lower extremity and scrotum edema .
+On postoperative day number eight , the patient 's oxygen saturation dropped to 85% on room air and he was transferred to the Surgical Intensive Care Unit for fluid management .
+Chest x-ray and sputum culture obtained at the time were negative and the patient was treated with 100% nonrebreather which improved his oxygenation .
+While he is in the Surgical Intensive Care Unit , paracentesis was performed and it
+revealed greater than 24,000 white blood cell count in the ascites which is consistent with SVT .
+He was given Zosyn for empiric treatment .
+Gram stain and culture of the ascites failed to identify any organism .
+He was weaned from oxygen requirement and was continued on normal saline boluses and
+intravenous albumin for treatment of prerenal azotemia .
+Somatostatin and midodrine were also given for this condition and he also received packed red blood cells .
+On postoperative day number ten , the patient returned to the floor with improved renal function and without oxygen requirement .
+The somatostatin and the midodrine were discontinued and the regimen of Lasix and spironolactone was started for diuresis .
+His creatinine levels trended toward normal and the fractional excretion of sodium also increased indicating a resolution of the prerenal kidney failure .
+On postoperative day number 17 , the patient was discharged .
+At the time he took good po .
+He has a PICC line in place for continued treatment with Rocephin and he will have a visiting nurse to help him to administer these medications .
+While in the hospital , the patient received initial work-up including echocardiogram , electrocardiogram and serology studies to be listed for liver transplant .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1063" id="E9" modality="FACTUAL" polarity="POS" start="1008" text="a replacement of transhepatic biliary drainage catheter" type="TREATMENT"/>
+<EVENT end="1094" id="E10" modality="FACTUAL" polarity="POS" start="1081" text="cholangiogram" type="TEST"/>
+<EVENT end="1162" id="E11" modality="FACTUAL" polarity="POS" start="1120" text="a distal stricture of the common bile duct" type="PROBLEM"/>
+<EVENT end="1214" id="E12" modality="FACTUAL" polarity="POS" start="1165" text="An endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="1232" id="E81" modality="FACTUAL" polarity="POS" start="1220" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="1249" id="E89" modality="FACTUAL" polarity="POS" start="1233" text="similar findings" type="PROBLEM"/>
+<EVENT end="1310" id="E13" modality="FACTUAL" polarity="POS" start="1276" text="nodularity in the common bile duct" type="PROBLEM"/>
+<EVENT end="1352" id="E14" modality="POSSIBLE" polarity="POS" start="1334" text="cholangiocarcinoma" type="PROBLEM"/>
+<EVENT end="1410" id="E72" modality="FACTUAL" polarity="POS" start="1392" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="1448" id="E90" modality="POSSIBLE" polarity="POS" start="1429" text="a Whipple procedure" type="TREATMENT"/>
+<EVENT end="1475" id="E91" modality="POSSIBLE" polarity="POS" start="1456" text="hepaticojejunostomy" type="TREATMENT"/>
+<EVENT end="1507" id="E15" modality="FACTUAL" polarity="POS" start="1481" text="exploration of the abdomen" type="TEST"/>
+<EVENT end="1516" id="E73" modality="FACTUAL" polarity="POS" start="1508" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1552" id="E16" modality="FACTUAL" polarity="POS" start="1517" text="significant nodularity of the liver" type="PROBLEM"/>
+<EVENT end="1585" id="E128" modality="FACTUAL" polarity="POS" start="1567" text="advanced cirrhosis" type="PROBLEM"/>
+<EVENT end="1661" id="E92" modality="FACTUAL" polarity="POS" start="1621" text="the distal and proximal common bile duct" type="TEST"/>
+<EVENT end="1769" id="E18" modality="FACTUAL" polarity="POS" start="1723" text="endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="1796" id="E93" modality="FACTUAL" polarity="POS" start="1776" text="regional lymph nodes" type="TEST"/>
+<EVENT end="1823" id="E94" modality="FACTUAL" polarity="POS" start="1814" text="pathology" type="CLINICAL_DEPT"/>
+<EVENT end="1863" id="E19" modality="FACTUAL" polarity="NEG" start="1853" text="malignancy" type="PROBLEM"/>
+<EVENT end="1899" id="E20" modality="FACTUAL" polarity="POS" start="1878" text="a hepaticojejunostomy" type="TREATMENT"/>
+<EVENT end="1929" id="E21" modality="FACTUAL" polarity="POS" start="1916" text="Cholangiogram" type="TEST"/>
+<EVENT end="1968" id="E82" modality="FACTUAL" polarity="POS" start="1962" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2015" id="E95" modality="FACTUAL" polarity="NEG" start="1984" text="leakage at the anastomosis site" type="PROBLEM"/>
+<EVENT end="230" id="E1" modality="FACTUAL" polarity="POS" start="200" text="primary sclerosing cholangitis" type="PROBLEM"/>
+<EVENT end="2053" id="E22" modality="FACTUAL" polarity="POS" start="2040" text="the procedure" type="TREATMENT"/>
+<EVENT end="2087" id="E74" modality="FACTUAL" polarity="POS" start="2078" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2107" id="E75" modality="FACTUAL" polarity="POS" start="2091" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="2145" id="E96" modality="FACTUAL" polarity="POS" start="2125" text="postoperative course" type="OCCURRENCE"/>
+<EVENT end="2200" id="E97" modality="FACTUAL" polarity="POS" start="2178" text="white blood cell count" type="TEST"/>
+<EVENT end="2270" id="E23" modality="FACTUAL" polarity="POS" start="2264" text="Unasyn" type="TREATMENT"/>
+<EVENT end="2303" id="E24" modality="FACTUAL" polarity="POS" start="2275" text="empiric antibiotic treatment" type="TREATMENT"/>
+<EVENT end="2325" id="E98" modality="FACTUAL" polarity="POS" start="2320" text="blood" type="TEST"/>
+<EVENT end="2333" id="E99" modality="FACTUAL" polarity="POS" start="2328" text="urine" type="TEST"/>
+<EVENT end="2342" id="E100" modality="FACTUAL" polarity="POS" start="2338" text="bile" type="TEST"/>
+<EVENT end="244" id="E67" modality="FACTUAL" polarity="POS" start="235" text="presented" type="OCCURRENCE"/>
+<EVENT end="2363" id="E101" modality="FACTUAL" polarity="NEG" start="2356" text="culture" type="TEST"/>
+<EVENT end="2389" id="E102" modality="FACTUAL" polarity="POS" start="2377" text="all negative" type="EVIDENTIAL"/>
+<EVENT end="2405" id="E25" modality="FACTUAL" polarity="POS" start="2392" text="A chest x-ray" type="TEST"/>
+<EVENT end="2441" id="E26" modality="FACTUAL" polarity="NEG" start="2428" text="any pneumonia" type="PROBLEM"/>
+<EVENT end="2509" id="E27" modality="FACTUAL" polarity="POS" start="2493" text="low urine output" type="PROBLEM"/>
+<EVENT end="267" id="E85" modality="FACTUAL" polarity="POS" start="252" text="chief complaint" type="EVIDENTIAL"/>
+<EVENT end="2578" id="E28" modality="FACTUAL" polarity="POS" start="2548" text="Fractional excretion of sodium" type="TEST"/>
+<EVENT end="2626" id="E103" modality="POSSIBLE" polarity="POS" start="2607" text="a prerenal etiology" type="PROBLEM"/>
+<EVENT end="2650" id="E29" modality="FACTUAL" polarity="POS" start="2629" text="The sodium creatinine" type="TEST"/>
+<EVENT end="2726" id="E30" modality="FACTUAL" polarity="POS" start="2698" text="boluses of intravenous fluid" type="TREATMENT"/>
+<EVENT end="317" id="E86" modality="FACTUAL" polarity="POS" start="271" text="endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="2759" id="E31" modality="FACTUAL" polarity="POS" start="2731" text="intravenous albumin infusion" type="TREATMENT"/>
+<EVENT end="2801" id="E83" modality="FACTUAL" polarity="POS" start="2787" text="responded well" type="OCCURRENCE"/>
+<EVENT end="2817" id="E32" modality="FACTUAL" polarity="POS" start="2805" text="this regimen" type="TREATMENT"/>
+<EVENT end="2848" id="E104" modality="FACTUAL" polarity="POS" start="2827" text="adequate urine output" type="OCCURRENCE"/>
+<EVENT end="2923" id="E33" modality="FACTUAL" polarity="POS" start="2897" text="distentions of the abdomen" type="PROBLEM"/>
+<EVENT end="38" id="E84" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2969" id="E34" modality="FACTUAL" polarity="POS" start="2940" text="accumulation of ascitic fluid" type="PROBLEM"/>
+<EVENT end="3029" id="E35" modality="FACTUAL" polarity="POS" start="2984" text="significant lower extremity and scrotum edema" type="PROBLEM"/>
+<EVENT end="3100" id="E36" modality="FACTUAL" polarity="POS" start="3068" text="the patient 's oxygen saturation" type="TEST"/>
+<EVENT end="3150" id="E76" modality="FACTUAL" polarity="POS" start="3139" text="transferred" type="OCCURRENCE"/>
+<EVENT end="3186" id="E77" modality="FACTUAL" polarity="POS" start="3154" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3207" id="E37" modality="FACTUAL" polarity="POS" start="3191" text="fluid management" type="TREATMENT"/>
+<EVENT end="3221" id="E38" modality="FACTUAL" polarity="POS" start="3210" text="Chest x-ray" type="TEST"/>
+<EVENT end="3240" id="E39" modality="FACTUAL" polarity="POS" start="3226" text="sputum culture" type="TEST"/>
+<EVENT end="3327" id="E40" modality="FACTUAL" polarity="POS" start="3309" text="100% nonrebreather" type="TREATMENT"/>
+<EVENT end="3358" id="E41" modality="FACTUAL" polarity="POS" start="3343" text="his oxygenation" type="TEST"/>
+<EVENT end="3408" id="E78" modality="FACTUAL" polarity="POS" start="3376" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3423" id="E42" modality="FACTUAL" polarity="POS" start="3411" text="paracentesis" type="TEST"/>
+<EVENT end="3453" id="E79" modality="FACTUAL" polarity="POS" start="3445" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3496" id="E43" modality="FACTUAL" polarity="POS" start="3474" text="white blood cell count" type="TEST"/>
+<EVENT end="3511" id="E44" modality="FACTUAL" polarity="POS" start="3500" text="the ascites" type="PROBLEM"/>
+<EVENT end="3540" id="E45" modality="FACTUAL" polarity="POS" start="3537" text="SVT" type="PROBLEM"/>
+<EVENT end="3561" id="E46" modality="FACTUAL" polarity="POS" start="3556" text="Zosyn" type="TREATMENT"/>
+<EVENT end="3583" id="E47" modality="FACTUAL" polarity="POS" start="3566" text="empiric treatment" type="TREATMENT"/>
+<EVENT end="3596" id="E48" modality="FACTUAL" polarity="POS" start="3586" text="Gram stain" type="TEST"/>
+<EVENT end="3608" id="E49" modality="FACTUAL" polarity="POS" start="3601" text="culture" type="TEST"/>
+<EVENT end="3623" id="E50" modality="FACTUAL" polarity="POS" start="3612" text="the ascites" type="PROBLEM"/>
+<EVENT end="3655" id="E51" modality="FACTUAL" polarity="NEG" start="3643" text="any organism" type="PROBLEM"/>
+<EVENT end="3671" id="E105" modality="FACTUAL" polarity="POS" start="3665" text="weaned" type="OCCURRENCE"/>
+<EVENT end="3695" id="E52" modality="FACTUAL" polarity="POS" start="3677" text="oxygen requirement" type="PROBLEM"/>
+<EVENT end="408" id="E87" modality="FACTUAL" polarity="POS" start="369" text="percutaneous transhepatic cholangiogram" type="TEST"/>
+<EVENT end="3738" id="E53" modality="FACTUAL" polarity="POS" start="3717" text="normal saline boluses" type="TREATMENT"/>
+<EVENT end="3762" id="E54" modality="FACTUAL" polarity="POS" start="3743" text="intravenous albumin" type="TREATMENT"/>
+<EVENT end="3797" id="E55" modality="FACTUAL" polarity="POS" start="3780" text="prerenal azotemia" type="PROBLEM"/>
+<EVENT end="3812" id="E106" modality="FACTUAL" polarity="POS" start="3800" text="Somatostatin" type="TREATMENT"/>
+<EVENT end="3826" id="E107" modality="FACTUAL" polarity="POS" start="3817" text="midodrine" type="TREATMENT"/>
+<EVENT end="3861" id="E108" modality="FACTUAL" polarity="POS" start="3847" text="this condition" type="PROBLEM"/>
+<EVENT end="3905" id="E109" modality="FACTUAL" polarity="POS" start="3883" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="3975" id="E80" modality="FACTUAL" polarity="POS" start="3966" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="4004" id="E110" modality="FACTUAL" polarity="POS" start="3981" text="improved renal function" type="OCCURRENCE"/>
+<EVENT end="4035" id="E111" modality="FACTUAL" polarity="NEG" start="4017" text="oxygen requirement" type="PROBLEM"/>
+<EVENT end="4054" id="E112" modality="FACTUAL" polarity="POS" start="4038" text="The somatostatin" type="TREATMENT"/>
+<EVENT end="4072" id="E113" modality="FACTUAL" polarity="POS" start="4059" text="the midodrine" type="TREATMENT"/>
+<EVENT end="4090" id="E114" modality="FACTUAL" polarity="POS" start="4078" text="discontinued" type="OCCURRENCE"/>
+<EVENT end="473" id="E2" modality="FACTUAL" polarity="POS" start="411" text="The most recent percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="4115" id="E56" modality="FACTUAL" polarity="POS" start="4110" text="Lasix" type="TREATMENT"/>
+<EVENT end="4134" id="E57" modality="FACTUAL" polarity="POS" start="4120" text="spironolactone" type="TREATMENT"/>
+<EVENT end="4146" id="E115" modality="FACTUAL" polarity="POS" start="4139" text="started" type="OCCURRENCE"/>
+<EVENT end="4159" id="E116" modality="FACTUAL" polarity="POS" start="4151" text="diuresis" type="TREATMENT"/>
+<EVENT end="4183" id="E58" modality="FACTUAL" polarity="POS" start="4162" text="His creatinine levels" type="TEST"/>
+<EVENT end="4205" id="E117" modality="FACTUAL" polarity="POS" start="4184" text="trended toward normal" type="OCCURRENCE"/>
+<EVENT end="4244" id="E59" modality="FACTUAL" polarity="POS" start="4210" text="the fractional excretion of sodium" type="TEST"/>
+<EVENT end="4270" id="E118" modality="FACTUAL" polarity="POS" start="4250" text="increased indicating" type="EVIDENTIAL"/>
+<EVENT end="4314" id="E119" modality="FACTUAL" polarity="POS" start="4287" text="the prerenal kidney failure" type="PROBLEM"/>
+<EVENT end="4376" id="E120" modality="FACTUAL" polarity="POS" start="4366" text="discharged" type="OCCURRENCE"/>
+<EVENT end="4406" id="E121" modality="FACTUAL" polarity="POS" start="4399" text="good po" type="OCCURRENCE"/>
+<EVENT end="4427" id="E60" modality="FACTUAL" polarity="POS" start="4416" text="a PICC line" type="TREATMENT"/>
+<EVENT end="4474" id="E61" modality="FACTUAL" polarity="POS" start="4466" text="Rocephin" type="TREATMENT"/>
+<EVENT end="4534" id="E122" modality="FACTUAL" polarity="POS" start="4512" text="help him to administer" type="TREATMENT"/>
+<EVENT end="4552" id="E62" modality="FACTUAL" polarity="POS" start="4535" text="these medications" type="TREATMENT"/>
+<EVENT end="4576" id="E123" modality="FACTUAL" polarity="POS" start="4564" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="4615" id="E63" modality="FACTUAL" polarity="POS" start="4600" text="initial work-up" type="TEST"/>
+<EVENT end="4640" id="E64" modality="FACTUAL" polarity="POS" start="4626" text="echocardiogram" type="TEST"/>
+<EVENT end="4660" id="E65" modality="FACTUAL" polarity="POS" start="4643" text="electrocardiogram" type="TEST"/>
+<EVENT end="4681" id="E66" modality="FACTUAL" polarity="POS" start="4665" text="serology studies" type="TEST"/>
+<EVENT end="4715" id="E124" modality="CONDITIONAL" polarity="POS" start="4699" text="liver transplant" type="TREATMENT"/>
+<EVENT end="534" id="E3" modality="FACTUAL" polarity="POS" start="511" text="an 8 Caucasian catheter" type="TREATMENT"/>
+<EVENT end="597" id="E4" modality="FACTUAL" polarity="POS" start="580" text="external drainage" type="TREATMENT"/>
+<EVENT end="650" id="E5" modality="FACTUAL" polarity="POS" start="600" text="The endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="662" id="E68" modality="FACTUAL" polarity="POS" start="656" text="showed" type="EVIDENTIAL"/>
+<EVENT end="701" id="E125" modality="FACTUAL" polarity="POS" start="676" text="proximal common bile duct" type="PROBLEM"/>
+<EVENT end="740" id="E6" modality="FACTUAL" polarity="POS" start="704" text="Nodularities in the common bile duct" type="PROBLEM"/>
+<EVENT end="801" id="E7" modality="FACTUAL" polarity="POS" start="755" text="endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="843" id="E88" modality="POSSIBLE" polarity="POS" start="825" text="cholangiocarcinoma" type="PROBLEM"/>
+<EVENT end="872" id="E69" modality="FACTUAL" polarity="POS" start="864" text="admitted" type="OCCURRENCE"/>
+<EVENT end="908" id="E70" modality="FACTUAL" polarity="POS" start="876" text="the Blue General Surgery Service" type="CLINICAL_DEPT"/>
+<EVENT end="944" id="E8" modality="POSSIBLE" polarity="POS" start="922" text="surgical interventions" type="TREATMENT"/>
+<EVENT end="989" id="E71" modality="FACTUAL" polarity="POS" start="981" text="admitted" type="OCCURRENCE"/>
+<RTIMEX3 end="1078" id="T10" mod="NA" start="1069" text="that time" type="DATE" val="2009-08-17"/>
+<ATIMEX3 end="1424" id="T5" mod="NA" start="1414" text="2009-08-24" type="DATE" val="2009-08-24"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2009-08-17" type="DATE" val="2009-08-17"/>
+<RTIMEX3 end="1961" id="T6" mod="NA" start="1933" text="postoperative day number two" type="DATE" val="2009-08-26"/>
+<RTIMEX3 end="2248" id="T7" mod="NA" start="2220" text="postoperative day number two" type="DATE" val="2009-08-26"/>
+<RTIMEX3 end="2317" id="T11" mod="NA" start="2309" text="the time" type="DATE" val="2009-08-26"/>
+<RTIMEX3 end="2867" id="T12" mod="NA" start="2854" text="the same time" type="DATE" val="2009-08-26"/>
+<RTIMEX3 end="3065" id="T8" mod="NA" start="3035" text="postoperative day number eight" type="DATE" val="2009-09-01"/>
+<RTIMEX3 end="3261" id="T13" mod="NA" start="3253" text="the time" type="DATE" val="2009-09-01"/>
+<RTIMEX3 end="3939" id="T9" mod="NA" start="3911" text="postoperative day number ten" type="DATE" val="2009-09-03"/>
+<RTIMEX3 end="4347" id="T14" mod="NA" start="4320" text="postoperative day number 17" type="DATE" val="2009-09-10"/>
+<RTIMEX3 end="4390" id="T15" mod="NA" start="4382" text="the time" type="DATE" val="2009-09-10"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2009-09-10" type="DATE" val="2009-09-10"/>
+<ATIMEX3 end="496" id="T3" mod="NA" start="486" text="2009-07-25" type="DATE" val="2009-07-25"/>
+<RTIMEX3 end="510" id="T0" mod="NA" start="502" text="the time" type="DATE" val="2009-07-25"/>
+<ATIMEX3 end="1003" id="T4" mod="NA" start="993" text="2009-08-17" type="DATE" val="2009-08-17"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2009-08-17" end="28" id="S0" start="18" text="2009-08-17" type="ADMISSION"/>
+<SECTIME dvalue="2009-09-10" end="56" id="S1" start="46" text="2009-09-10" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

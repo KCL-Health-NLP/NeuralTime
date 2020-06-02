@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+06/03/1993
+Discharge Date :
+06/06/1993
+HISTORY OF PRESENT ILLNESS :
+This is a 70 year old gravida IV , para 4 who presented for a vaginal hysterectomy secondary to uterine prolapse and also presented for evaluation of a suspicious lesion seen on a mammogram .
+Patient &apos;s problem started four years ago when she first experienced a pushing forward of her uterus .
+The patient described this sensation as uncomfortable and becoming more prominent over the following three years with increasing pressure and pain .
+Two months ago , the patient slipped and fell with valsalva that precipitated an exacerbation of her prolapse .
+She subsequently could not urinate and was in pain secondary to her problem .
+At this time , she decided that she needed the prolapse fixed and actually wrote to the Norri Hospital to try and find a Gynecologist .
+Her letter was referred to Dr. Earllamarg Para who saw her in the office and recommended vaginal hysterectomy .
+Patient has never had a pessary and refused one and denies nausea , fever , chills , dysuria , or stress incontinence on her current admission .
+HOSPITAL COURSE :
+Cardiology was consulted to evaluate this and felt that the changes seen on the EKG were not significant .
+The patient was also seen by Dr. Nusc from General Surgery for evaluation of micro calcifications in the right breast .
+The patient refused a biopsy for this admission and desires follow-up mammograms .
+She is to be followed up by General Surgery .
+The patient underwent a total vaginal hysterectomy on June 4 , 1993 which she tolerated without complications .
+Her post-operative course has been uncomplicated .
+She remained afebrile throughout her admission tolerating a regular diet by post-operative day two and was discharged on June 6 , 1993 with Percocet for pain .
+The Foley was discontinued and the patient was urinating on her own .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1546" end="1559" text="June 4 , 1993" type="DATE" relative="FALSE" val="1993-06-04" mod="NA" />
+<RTIMEX3 id="T7" start="1731" end="1753" text="post-operative day two" type="DATE" relative="TRUE" val="1993-06-06" mod="NA" />
+<RTIMEX3 id="T8" start="1776" end="1789" text="June 6 , 1993" type="DATE" relative="FALSE" val="1993-06-06" mod="NA" />
+<RTIMEX3 id="T4" start="535" end="545" text="Two months" type="DATE" relative="TRUE" val="1993-04-03" mod="APPROX" />
+<RTIMEX3 id="T5" start="728" end="737" text="this time" type="DATE" relative="TRUE" val="1993-04-03" mod="APPROX" />
+<ATIMEX3 id="T0" start="18" end="28" text="06/03/1993" type="DATE" val="1993-06-03" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="06/06/1993" type="DATE" val="1993-06-06" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="06/03/1993" type="ADMISSION" dvalue="1993-06-03" />
+<SECTIME id="S1" start="46" end="56" text="06/06/1993" type="DISCHARGE" dvalue="1993-06-06" />
+<ANCHORLINK id="AN0" fromID="T4" fromText="Two months" toID="S0" toText="06/03/1993" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T5" fromText="this time" toID="T4" toText="Two months" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T7" fromText="post-operative day two" toID="T6" toText="June 4 , 1993" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

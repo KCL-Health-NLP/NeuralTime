@@ -1,0 +1,178 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+02/22/92
+DISCHARGE DATE :
+03/08/92
+HISTORY OF PRESENT ILLNESS :
+Patient is a 72 year old female with known carotid stenosis , and recent carotid noninvasives at an outside hospital , which showed 90% left sided stenosis .
+She has not had a stroke , or transient ischemic attack .
+She was recently discharged from the Per Naplesspecrycet Hospital after an admission for congestive heart failure .
+HOSPITAL COURSE :
+The patient was admitted to the Tau Memorial Hospital .
+She was seen by Dr. Freiermthalskush of the renal service for management of her chronic renal insufficiency .
+On 02/22 , she underwent angiography , which revealed minimal right internal carotid artery disease , and proximal left internal carotid artery stenosis , 2 cm in length for the 1 mm residual lumen .
+The left anterior communicating artery fell from the right .
+She was also seen by Cardiology , and she underwent cardiac catheterization , as part of her preop evaluation , which revealed normal resting hemodynamics , and a moderate posterior descending artery , and obtuse marginal stenoses .
+She was , therefore , cleared for the operating room , and on 3/3/92 , she underwent a left carotid endarterectomy , with continuous electroencephalogram monitoring and vein patch angioplasty , which was uneventful .
+Her postoperative course was marked only by prolonged ileus , perhaps secondary to constipation , with persistent vomiting , requiring intravenous fluids , however , on 03/07/92 , she had a large bowel movement , after aggressive bowel regime , felt significantly better , was able to tolerate PO &apos;s .
+She is now able to be discharged home on her admission medications , with the exception of the fact that Vasotec was increased to 10 mg PO bid .
+SHERMENE JESCSELC , M.D.
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1058" id="E26" modality="FACTUAL" polarity="POS" start="1020" text="a moderate posterior descending artery" type="PROBLEM"/>
+<EVENT end="1089" id="E27" modality="FACTUAL" polarity="POS" start="1065" text="obtuse marginal stenoses" type="PROBLEM"/>
+<EVENT end="1121" id="E28" modality="FACTUAL" polarity="POS" start="1114" text="cleared" type="OCCURRENCE"/>
+<EVENT end="1144" id="E29" modality="FACTUAL" polarity="POS" start="1126" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1206" id="E30" modality="FACTUAL" polarity="POS" start="1177" text="a left carotid endarterectomy" type="TREATMENT"/>
+<EVENT end="141" id="E2" modality="FACTUAL" polarity="POS" start="119" text="known carotid stenosis" type="PROBLEM"/>
+<EVENT end="1256" id="E31" modality="FACTUAL" polarity="POS" start="1214" text="continuous electroencephalogram monitoring" type="TEST"/>
+<EVENT end="1283" id="E32" modality="FACTUAL" polarity="POS" start="1261" text="vein patch angioplasty" type="TREATMENT"/>
+<EVENT end="1306" id="E33" modality="FACTUAL" polarity="POS" start="1296" text="uneventful" type="OCCURRENCE"/>
+<EVENT end="1333" id="E48" modality="FACTUAL" polarity="POS" start="1309" text="Her postoperative course" type="OCCURRENCE"/>
+<EVENT end="1368" id="E34" modality="FACTUAL" polarity="POS" start="1353" text="prolonged ileus" type="PROBLEM"/>
+<EVENT end="1404" id="E35" modality="FACTUAL" polarity="POS" start="1392" text="constipation" type="PROBLEM"/>
+<EVENT end="1431" id="E36" modality="FACTUAL" polarity="POS" start="1412" text="persistent vomiting" type="PROBLEM"/>
+<EVENT end="1462" id="E37" modality="FACTUAL" polarity="POS" start="1444" text="intravenous fluids" type="TREATMENT"/>
+<EVENT end="175" id="E3" modality="FACTUAL" polarity="POS" start="148" text="recent carotid noninvasives" type="TEST"/>
+<EVENT end="1519" id="E38" modality="FACTUAL" polarity="POS" start="1497" text="a large bowel movement" type="OCCURRENCE"/>
+<EVENT end="1551" id="E39" modality="FACTUAL" polarity="POS" start="1528" text="aggressive bowel regime" type="TREATMENT"/>
+<EVENT end="1613" id="E41" modality="FACTUAL" polarity="POS" start="1594" text="tolerate PO 's" type="OCCURRENCE"/>
+<EVENT end="1648" id="E42" modality="FACTUAL" polarity="POS" start="1638" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1682" id="E43" modality="FACTUAL" polarity="POS" start="1657" text="her admission medications" type="TREATMENT"/>
+<EVENT end="1728" id="E44" modality="FACTUAL" polarity="POS" start="1721" text="Vasotec" type="TREATMENT"/>
+<EVENT end="1742" id="E45" modality="FACTUAL" polarity="POS" start="1733" text="increased" type="OCCURRENCE"/>
+<EVENT end="198" id="E4" modality="FACTUAL" polarity="POS" start="179" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="213" id="E47" modality="FACTUAL" polarity="POS" start="207" text="showed" type="EVIDENTIAL"/>
+<EVENT end="237" id="E5" modality="FACTUAL" polarity="POS" start="214" text="90% left sided stenosis" type="PROBLEM"/>
+<EVENT end="264" id="E6" modality="FACTUAL" polarity="NEG" start="256" text="a stroke" type="PROBLEM"/>
+<EVENT end="295" id="E7" modality="FACTUAL" polarity="NEG" start="270" text="transient ischemic attack" type="PROBLEM"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="325" id="E8" modality="FACTUAL" polarity="POS" start="315" text="discharged" type="OCCURRENCE"/>
+<EVENT end="363" id="E9" modality="FACTUAL" polarity="POS" start="331" text="the Per Naplesspecrycet Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="382" id="E10" modality="FACTUAL" polarity="POS" start="370" text="an admission" type="OCCURRENCE"/>
+<EVENT end="411" id="E11" modality="FACTUAL" polarity="POS" start="387" text="congestive heart failure" type="PROBLEM"/>
+<EVENT end="456" id="E12" modality="FACTUAL" polarity="POS" start="448" text="admitted" type="OCCURRENCE"/>
+<EVENT end="485" id="E13" modality="FACTUAL" polarity="POS" start="460" text="the Tau Memorial Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="545" id="E14" modality="FACTUAL" polarity="POS" start="528" text="the renal service" type="OCCURRENCE"/>
+<EVENT end="560" id="E15" modality="FACTUAL" polarity="POS" start="550" text="management" type="TREATMENT"/>
+<EVENT end="595" id="E16" modality="FACTUAL" polarity="POS" start="564" text="her chronic renal insufficiency" type="PROBLEM"/>
+<EVENT end="634" id="E17" modality="FACTUAL" polarity="POS" start="623" text="angiography" type="TEST"/>
+<EVENT end="651" id="E18" modality="FACTUAL" polarity="POS" start="643" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="697" id="E19" modality="FACTUAL" polarity="POS" start="652" text="minimal right internal carotid artery disease" type="PROBLEM"/>
+<EVENT end="750" id="E20" modality="FACTUAL" polarity="POS" start="704" text="proximal left internal carotid artery stenosis" type="PROBLEM"/>
+<EVENT end="890" id="E21" modality="FACTUAL" polarity="POS" start="880" text="Cardiology" type="OCCURRENCE"/>
+<EVENT end="934" id="E22" modality="FACTUAL" polarity="POS" start="911" text="cardiac catheterization" type="TEST"/>
+<EVENT end="968" id="E23" modality="FACTUAL" polarity="POS" start="948" text="her preop evaluation" type="TEST"/>
+<EVENT end="985" id="E24" modality="FACTUAL" polarity="POS" start="977" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1013" id="E25" modality="FACTUAL" polarity="POS" start="993" text="resting hemodynamics" type="OCCURRENCE"/>
+<ATIMEX3 end="1160" id="T3" mod="NA" start="1154" text="3/3/92" type="DATE" val="1992-03-03"/>
+<ATIMEX3 end="1486" id="T4" mod="NA" start="1478" text="03/07/92" type="DATE" val="1992-03-07"/>
+
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="02/22/92" type="DATE" val="1992-02-22"/>
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="03/08/92" type="DATE" val="1992-03-08"/>
+<ATIMEX3 end="606" id="T2" mod="NA" start="601" text="02/22" type="DATE" val="1992-02-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-02-22" end="26" id="S0" start="18" text="02/22/92" type="ADMISSION"/>
+<SECTIME dvalue="1992-03-08" end="52" id="S1" start="44" text="03/08/92" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

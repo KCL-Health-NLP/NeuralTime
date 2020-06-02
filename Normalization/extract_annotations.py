@@ -22,7 +22,7 @@ from xml_utilities import escape_invalid_characters
 
 def extract_annotations(xml_file, document_name, test):
     """
-    This function extracts timexes, events and tlinks from an xml file
+    This function extracts timexes, sectimes, events and tlinks from an xml file
 
     :param xml_file: xml file path to the annotated document
             document_name: the name of the document
@@ -35,6 +35,7 @@ def extract_annotations(xml_file, document_name, test):
     timexes = []
     tlinks = []
     events = []
+    sectimes = []
 
     try:
         xml_string = escape_invalid_characters(xml_file)
@@ -65,6 +66,24 @@ def extract_annotations(xml_file, document_name, test):
             type = ann.attrib['type']
             ann_text = ann.attrib['text']
             timexes += [(document_name, xml_file, id, start, end, type, value, ann_text)]
+
+            # timexes annotations
+        if ann.tag == 'SECTIME':
+            #<SECTIME dvalue="1997-10-25" end="28" id="S0" start="18" text="10/25/1997" type="ADMISSION"/>
+                start = int(ann.attrib['start'])
+                end = int(ann.attrib['end'])
+
+                # we take 1 to both start and end to be consistent with other types of annotations
+                if start > 0:
+                    start -= 1
+                if end > 0:
+                    end -= 1
+
+                id = ann.attrib['id']
+                value = ann.attrib['dvalue']
+                type = ann.attrib['type']
+                ann_text = ann.attrib['text']
+                sectimes += [(document_name, xml_file, id, start, end, type, value, ann_text)]
 
         # events annotations
         if ann.tag == 'EVENT':
@@ -98,14 +117,18 @@ def extract_annotations(xml_file, document_name, test):
 
 
     timexes = pd.DataFrame(timexes, columns=['docname', 'text_path', 'id', 'start', 'end', 'type', 'value', 'ann_text'])
+    sectimes = pd.DataFrame(sectimes, columns=['docname', 'text_path', 'id', 'start', 'end', 'type', 'value', 'ann_text'])
     events = pd.DataFrame(events, columns = ['docname', 'text_path', 'id', 'start', 'end', 'modality', 'polarity', 'type', 'ann_text'])
     tlinks = pd.DataFrame(tlinks, columns = ['docname', 'text_path', 'id', 'fromID', 'fromText', 'toID', 'toText', 'type'])
 
     timexes['test'] = [test for i in range(len(timexes))]
     events['test'] = [test for i in range(len(events))]
     tlinks['test'] = [test for i in range(len(tlinks))]
+    sectimes['test'] = [test for i in range(len(sectimes))]
 
-    return timexes, events, tlinks
+    print(sectimes)
+
+    return timexes, events, tlinks, sectimes
 
 
 
@@ -113,6 +136,7 @@ def extract_i2b2_annotations():
     """
     This function extracts all annotations from the i2b2 database
     :return: timexes : a list of timexes in tuple format : (document_name, filepath, annotation_id, start, end, type, value, ann_text,)
+            sectimes: same, for section times
             events : a list of events in tuple format : (document_name, filepath, annotation_id, start, end, modality, polarity, type, ann_text,)
             tlink : a list of tlinks in tuple format : (document_name, filepath, annotation_id, fromID, fromText, toID, toText, type)
 
@@ -124,35 +148,41 @@ def extract_i2b2_annotations():
     timexes = pd.DataFrame()
     events = pd.DataFrame()
     tlinks = pd.DataFrame()
+    sectimes = pd.DataFrame()
 
     for file_path in os.listdir(train_data_path):
         root, ext = os.path.splitext(file_path)
         if ext == '.xml':
             print(file_path)
             document_name = ntpath.basename(file_path)
-            doc_timexes, doc_events, doc_tlinks = extract_annotations(train_data_path + file_path, document_name, False)
+            doc_timexes, doc_events, doc_tlinks, doc_sectimes = extract_annotations(train_data_path + file_path, document_name, False)
 
-            timexes = timexes.append(doc_timexes)
-            events = events.append(doc_events)
-            tlinks = tlinks.append(doc_tlinks)
+            timexes = timexes.append(doc_timexes, ignore_index=True)
+            events = events.append(doc_events, ignore_index=True)
+            tlinks = tlinks.append(doc_tlinks, ignore_index=True)
+            sectimes = sectimes.append(doc_sectimes, ignore_index=True)
 
     for file_path in os.listdir(test_data_path):
         root, ext = os.path.splitext(file_path)
         if ext == '.xml':
             document_name = ntpath.basename(file_path)
-            doc_timexes, doc_events, doc_tlinks = extract_annotations(test_data_path + file_path, document_name, True)
+            doc_timexes, doc_events, doc_tlinks, doc_sectimes = extract_annotations(test_data_path + file_path, document_name, True)
 
             timexes = timexes.append(doc_timexes, ignore_index=True)
             events = events.append(doc_events, ignore_index=True)
             tlinks = tlinks.append(doc_tlinks, ignore_index=True)
+            sectimes = sectimes.append(doc_sectimes, ignore_index=True)
 
-    return timexes, events, tlinks
 
-timexes, events, tlinks = extract_i2b2_annotations()
+
+    return timexes, events, tlinks, sectimes
+
+timexes, events, tlinks, sectimes = extract_i2b2_annotations()
 
 timexes.to_excel('i2b2_timexe_annotations.xlsx')
 events.to_excel('i2b2_events_annotations.xlsx')
 tlinks.to_excel('i2b2_tlinks_annotations.xlsx')
+sectimes.to_excel('i2b2_sectimes_annotations.xlsx')
 
 
 

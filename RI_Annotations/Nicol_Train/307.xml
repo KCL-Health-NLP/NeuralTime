@@ -1,0 +1,116 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2014-04-19
+Discharge Date :
+2014-04-20
+Service :
+CMED CSRU
+HISTORY OF PRESENT ILLNESS :
+Baby Thomas Moss was born at 39 and 1/2 weeks gestation to a 20-year-old gravida IV , para III , now IV woman .
+The mother 's prenatal screens were blood type B positive , antibody negative , rubella immune , RPR nonreactive , hepatitis surface antigen negative and group B strep negative .
+This pregnancy was complicated by a prenatal diagnosis of a congenital cystic adenomatoid malformation
+( CCAM ).
+The mother was followed in the Massachusetts General Hospital Advanced Fetal Care Center and was followed by Dr. Ralph Wilson .
+The mother had spontaneous onset of labor and progressed to a spontaneous vaginal delivery .
+The infant emerged vigorous with Apgars of 9 at one and five minutes .
+His birth weight was 2905 grams .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="131" id="E13" modality="FACTUAL" polarity="POS" start="127" text="born" type="OCCURRENCE"/>
+<EVENT end="161" id="E14" modality="FACTUAL" polarity="POS" start="152" text="gestation" type="OCCURRENCE"/>
+<EVENT end="186" id="E15" modality="FACTUAL" polarity="POS" start="179" text="gravida" type="OCCURRENCE"/>
+<EVENT end="196" id="E16" modality="FACTUAL" polarity="POS" start="192" text="para" type="OCCURRENCE"/>
+<EVENT end="248" id="E1" modality="FACTUAL" polarity="POS" start="218" text="The mother 's prenatal screens" type="TEST"/>
+<EVENT end="264" id="E2" modality="FACTUAL" polarity="POS" start="254" text="blood type" type="TEST"/>
+<EVENT end="286" id="E3" modality="FACTUAL" polarity="POS" start="278" text="antibody" type="TEST"/>
+<EVENT end="38" id="E12" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="305" id="E4" modality="FACTUAL" polarity="POS" start="298" text="rubella" type="TEST"/>
+<EVENT end="318" id="E5" modality="FACTUAL" polarity="POS" start="315" text="RPR" type="TEST"/>
+<EVENT end="358" id="E6" modality="FACTUAL" polarity="POS" start="333" text="hepatitis surface antigen" type="TEST"/>
+<EVENT end="385" id="E7" modality="FACTUAL" polarity="POS" start="372" text="group B strep" type="TEST"/>
+<EVENT end="411" id="E17" modality="FACTUAL" polarity="POS" start="397" text="This pregnancy" type="OCCURRENCE"/>
+<EVENT end="427" id="E18" modality="FACTUAL" polarity="POS" start="416" text="complicated" type="PROBLEM"/>
+<EVENT end="451" id="E19" modality="FACTUAL" polarity="POS" start="431" text="a prenatal diagnosis" type="OCCURRENCE"/>
+<EVENT end="499" id="E8" modality="FACTUAL" polarity="POS" start="455" text="a congenital cystic adenomatoid malformation" type="PROBLEM"/>
+<EVENT end="506" id="E9" modality="FACTUAL" polarity="POS" start="502" text="CCAM" type="PROBLEM"/>
+<EVENT end="533" id="E20" modality="FACTUAL" polarity="POS" start="525" text="followed" type="OCCURRENCE"/>
+<EVENT end="598" id="E21" modality="FACTUAL" polarity="POS" start="537" text="the Massachusetts General Hospital Advanced Fetal Care Center" type="CLINICAL_DEPT"/>
+<EVENT end="679" id="E22" modality="FACTUAL" polarity="POS" start="653" text="spontaneous onset of labor" type="OCCURRENCE"/>
+<EVENT end="728" id="E23" modality="FACTUAL" polarity="POS" start="698" text="a spontaneous vaginal delivery" type="OCCURRENCE"/>
+<EVENT end="749" id="E24" modality="FACTUAL" polarity="POS" start="742" text="emerged" type="OCCURRENCE"/>
+<EVENT end="758" id="E25" modality="FACTUAL" polarity="POS" start="750" text="vigorous" type="OCCURRENCE"/>
+<EVENT end="770" id="E10" modality="FACTUAL" polarity="POS" start="764" text="Apgars" type="TEST"/>
+<EVENT end="818" id="E11" modality="FACTUAL" polarity="POS" start="802" text="His birth weight" type="TEST"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2014-04-19" type="DATE" val="2014-04-19"/>
+
+
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2014-04-20" type="DATE" val="2014-04-20"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2014-04-19" end="28" id="S0" start="18" text="2014-04-19" type="ADMISSION"/>
+<SECTIME dvalue="2014-04-20" end="56" id="S1" start="46" text="2014-04-20" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,175 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date:
+2011-02-08
+Discharge Date :
+2011-02-14
+Service :
+CMED
+HISTORY OF THE PRESENT ILLNESS :
+Briefly , this is a 57-year-old gentleman with a history of COPD , status post intubation six years ago but not on home 02 with recent FEV1 27% of predicted value , and FEV1/FVC ratio 56% of hypercholesterolemia , who was admitted for COPD exacerbation and worsening of upper respiratory tract infection symptoms for a week prior to admission .
+He was afebrile with stable vital signs on presentation to
+HOSPITAL COURSE :
+He was started on p.o. steroids and to CMED for management of COPD exacerbation but he appeared in more respiratory distress overnight and was started on IV Solu-Medrol and more frequent nebulizers for COPD .
+He was also started on antibiotics for possible bronchitis or community-acquired pneumonia .
+Given his tenuous respiratory status , he was transferred to the FICU with closer observation .
+He did not require intubation and improved with q. two hour nebulizers and chest PT .
+He was again transferred to the CMED Service for further management of his COPD exacerbation .
+He was continued on p.o. prednisone and frequent nebulizers for COPD .
+He was evaluated by the physical therapist in the hospital and was found to desaturate to 84% with ambulating on room air .
+Therefore , home 02 was recommended on discharge .
+
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1034" id="E26" modality="FACTUAL" polarity="POS" start="1023" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1054" id="E40" modality="FACTUAL" polarity="POS" start="1038" text="the CMED Service" type="CLINICAL_DEPT"/>
+<EVENT end="1077" id="E18" modality="FACTUAL" polarity="POS" start="1059" text="further management" type="TREATMENT"/>
+<EVENT end="1102" id="E19" modality="FACTUAL" polarity="POS" start="1081" text="his COPD exacerbation" type="PROBLEM"/>
+<EVENT end="1140" id="E20" modality="FACTUAL" polarity="POS" start="1125" text="p.o. prednisone" type="TREATMENT"/>
+<EVENT end="1164" id="E21" modality="FACTUAL" polarity="POS" start="1145" text="frequent nebulizers" type="TREATMENT"/>
+<EVENT end="1173" id="E22" modality="FACTUAL" polarity="POS" start="1169" text="COPD" type="PROBLEM"/>
+<EVENT end="1192" id="E41" modality="FACTUAL" polarity="POS" start="1183" text="evaluated" type="TEST"/>
+<EVENT end="1262" id="E23" modality="FACTUAL" polarity="POS" start="1252" text="desaturate" type="PROBLEM"/>
+<EVENT end="1285" id="E42" modality="FACTUAL" polarity="POS" start="1275" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="1297" id="E43" modality="FACTUAL" polarity="POS" start="1289" text="room air" type="TREATMENT"/>
+<EVENT end="1319" id="E44" modality="FACTUAL" polarity="POS" start="1312" text="home 02" type="TREATMENT"/>
+<EVENT end="1348" id="E45" modality="FACTUAL" polarity="POS" start="1339" text="discharge" type="OCCURRENCE"/>
+<EVENT end="168" id="E28" modality="FACTUAL" polarity="POS" start="164" text="COPD" type="PROBLEM"/>
+<EVENT end="193" id="E1" modality="FACTUAL" polarity="POS" start="183" text="intubation" type="TREATMENT"/>
+<EVENT end="226" id="E29" modality="FACTUAL" polarity="NEG" start="219" text="home 02" type="TREATMENT"/>
+<EVENT end="243" id="E2" modality="FACTUAL" polarity="POS" start="239" text="FEV1" type="TEST"/>
+<EVENT end="287" id="E3" modality="FACTUAL" polarity="POS" start="273" text="FEV1/FVC ratio" type="TEST"/>
+<EVENT end="37" id="E27" modality="FACTUAL" polarity="POS" start="28" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="315" id="E30" modality="FACTUAL" polarity="POS" start="295" text="hypercholesterolemia" type="PROBLEM"/>
+<EVENT end="334" id="E33" modality="FACTUAL" polarity="POS" start="326" text="admitted" type="OCCURRENCE"/>
+<EVENT end="356" id="E31" modality="FACTUAL" polarity="POS" start="339" text="COPD exacerbation" type="PROBLEM"/>
+<EVENT end="416" id="E32" modality="FACTUAL" polarity="POS" start="374" text="upper respiratory tract infection symptoms" type="PROBLEM"/>
+<EVENT end="446" id="E34" modality="FACTUAL" polarity="POS" start="437" text="admission" type="OCCURRENCE"/>
+<EVENT end="464" id="E4" modality="FACTUAL" polarity="POS" start="456" text="afebrile" type="PROBLEM"/>
+<EVENT end="504" id="E35" modality="FACTUAL" polarity="POS" start="492" text="presentation" type="EVIDENTIAL"/>
+<EVENT end="557" id="E5" modality="FACTUAL" polarity="POS" start="544" text="p.o. steroids" type="TREATMENT"/>
+<EVENT end="569" id="E36" modality="FACTUAL" polarity="POS" start="565" text="CMED" type="CLINICAL_DEPT"/>
+<EVENT end="584" id="E6" modality="FACTUAL" polarity="POS" start="574" text="management" type="TREATMENT"/>
+<EVENT end="605" id="E7" modality="FACTUAL" polarity="POS" start="588" text="COPD exacerbation" type="PROBLEM"/>
+<EVENT end="650" id="E37" modality="FACTUAL" polarity="POS" start="625" text="more respiratory distress" type="PROBLEM"/>
+<EVENT end="694" id="E8" modality="FACTUAL" polarity="POS" start="680" text="IV Solu-Medrol" type="TREATMENT"/>
+<EVENT end="723" id="E9" modality="FACTUAL" polarity="POS" start="699" text="more frequent nebulizers" type="TREATMENT"/>
+<EVENT end="732" id="E38" modality="FACTUAL" polarity="POS" start="728" text="COPD" type="PROBLEM"/>
+<EVENT end="769" id="E10" modality="FACTUAL" polarity="POS" start="758" text="antibiotics" type="TREATMENT"/>
+<EVENT end="793" id="E11" modality="POSSIBLE" polarity="POS" start="783" text="bronchitis" type="PROBLEM"/>
+<EVENT end="825" id="E12" modality="POSSIBLE" polarity="POS" start="797" text="community-acquired pneumonia" type="PROBLEM"/>
+<EVENT end="864" id="E13" modality="FACTUAL" polarity="POS" start="834" text="his tenuous respiratory status" type="PROBLEM"/>
+<EVENT end="885" id="E24" modality="FACTUAL" polarity="POS" start="874" text="transferred" type="OCCURRENCE"/>
+<EVENT end="897" id="E25" modality="FACTUAL" polarity="POS" start="889" text="the FICU" type="CLINICAL_DEPT"/>
+<EVENT end="921" id="E14" modality="FACTUAL" polarity="POS" start="903" text="closer observation" type="TEST"/>
+<EVENT end="953" id="E15" modality="FACTUAL" polarity="NEG" start="943" text="intubation" type="TREATMENT"/>
+<EVENT end="966" id="E39" modality="FACTUAL" polarity="POS" start="958" text="improved" type="OCCURRENCE"/>
+<EVENT end="994" id="E16" modality="FACTUAL" polarity="POS" start="984" text="nebulizers" type="TREATMENT"/>
+<EVENT end="1007" id="E17" modality="FACTUAL" polarity="POS" start="999" text="chest PT" type="TREATMENT"/>
+<ATIMEX3 end="27" id="T1" mod="NA" start="17" text="2011-02-08" type="DATE" val="2011-02-08"/>
+<RTIMEX3 end="207" id="T0" mod="APPROX" start="194" text="six years ago" type="DATE" val="2005-02-08"/>
+
+<ATIMEX3 end="55" id="T2" mod="NA" start="45" text="2011-02-14" type="DATE" val="2011-02-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-02-08" end="28" id="S0" start="18" text="2011-02-08" type="ADMISSION"/>
+<SECTIME dvalue="2011-02-14" end="56" id="S1" start="46" text="2011-02-14" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

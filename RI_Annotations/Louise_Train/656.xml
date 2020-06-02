@@ -1,0 +1,186 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+06/16/1997
+Discharge Date :
+06/18/1997
+HISTORY OF PRESENT ILLNESS :
+This is a 70 year old gentleman with metastatic rectal cancer who presented with biliary obstruction .
+In the past , he had biliary stents placed which clotted off .
+The patient was admitted to the Short Stay Unit for further evaluation .
+The day prior , the patient had endoscopic retrograde cholangiopancreatography done with dilated ducts times two and eventually had interventional radiology attempt to place percutaneous drains to decompress his biliary tree .
+The patient had two drains placed after a prolonged course and difficult procedure .
+After being transferred from the interventional radiology table to the stretcher , one of his lateral percutaneous drains had been pulled out inadvertently .
+He was admitted to the Short Stay Unit , given Ancef and Gentamicin per the team for antibiotic prophylaxis and observed overnight .
+HOSPITAL COURSE :
+The patient was admitted to the Short Stay Unit and continued to receive antibiotics overnight .
+The next morning , he was doing well with the intact drain draining bilious material without any difficulty .
+The patient was doing well with minimal to no belly pain and no nausea or vomiting .
+The patient was taken back to surgery by the interventional radiology team and had a second drain placed without any difficulty and was transferred back to the Short Stay Unit .
+The patient was observed overnight without any problems .
+He was tolerating p.o. and feeling back to his baseline .
+He was discharged in stable condition .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E14" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1030" id="E9" modality="FACTUAL" polarity="POS" start="1019" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1079" id="E35" modality="FACTUAL" polarity="POS" start="1069" text="doing well" type="OCCURRENCE"/>
+<EVENT end="1101" id="E10" modality="FACTUAL" polarity="POS" start="1085" text="the intact drain" type="TREATMENT"/>
+<EVENT end="1127" id="E36" modality="FACTUAL" polarity="POS" start="1102" text="draining bilious material" type="OCCURRENCE"/>
+<EVENT end="1150" id="E37" modality="FACTUAL" polarity="NEG" start="1140" text="difficulty" type="PROBLEM"/>
+<EVENT end="1179" id="E38" modality="FACTUAL" polarity="POS" start="1169" text="doing well" type="OCCURRENCE"/>
+<EVENT end="1209" id="E39" modality="FACTUAL" polarity="NEG" start="1199" text="belly pain" type="PROBLEM"/>
+<EVENT end="1223" id="E11" modality="FACTUAL" polarity="NEG" start="1217" text="nausea" type="PROBLEM"/>
+<EVENT end="147" id="E0" modality="FACTUAL" polarity="POS" start="123" text="metastatic rectal cancer" type="PROBLEM"/>
+<EVENT end="1235" id="E12" modality="FACTUAL" polarity="NEG" start="1227" text="vomiting" type="PROBLEM"/>
+<EVENT end="1275" id="E18" modality="FACTUAL" polarity="POS" start="1268" text="surgery" type="CLINICAL_DEPT"/>
+<EVENT end="1335" id="E13" modality="FACTUAL" polarity="POS" start="1321" text="a second drain" type="TREATMENT"/>
+<EVENT end="1365" id="E40" modality="FACTUAL" polarity="NEG" start="1355" text="difficulty" type="PROBLEM"/>
+<EVENT end="1385" id="E41" modality="FACTUAL" polarity="POS" start="1374" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1413" id="E42" modality="FACTUAL" polarity="POS" start="1394" text="the Short Stay Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1440" id="E43" modality="FACTUAL" polarity="POS" start="1432" text="observed" type="TEST"/>
+<EVENT end="1471" id="E44" modality="FACTUAL" polarity="NEG" start="1459" text="any problems" type="PROBLEM"/>
+<EVENT end="1496" id="E45" modality="FACTUAL" polarity="POS" start="1481" text="tolerating p.o." type="OCCURRENCE"/>
+<EVENT end="1529" id="E46" modality="FACTUAL" polarity="POS" start="1517" text="his baseline" type="OCCURRENCE"/>
+<EVENT end="161" id="E20" modality="FACTUAL" polarity="POS" start="152" text="presented" type="OCCURRENCE"/>
+<EVENT end="1549" id="E19" modality="FACTUAL" polarity="POS" start="1539" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1569" id="E47" modality="FACTUAL" polarity="POS" start="1553" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="186" id="E21" modality="FACTUAL" polarity="POS" start="167" text="biliary obstruction" type="PROBLEM"/>
+<EVENT end="224" id="E1" modality="FACTUAL" polarity="POS" start="210" text="biliary stents" type="TREATMENT"/>
+<EVENT end="249" id="E22" modality="FACTUAL" polarity="POS" start="238" text="clotted off" type="PROBLEM"/>
+<EVENT end="276" id="E23" modality="FACTUAL" polarity="POS" start="268" text="admitted" type="OCCURRENCE"/>
+<EVENT end="299" id="E24" modality="FACTUAL" polarity="POS" start="280" text="the Short Stay Unit" type="CLINICAL_DEPT"/>
+<EVENT end="38" id="E15" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="322" id="E25" modality="FACTUAL" polarity="POS" start="304" text="further evaluation" type="TEST"/>
+<EVENT end="403" id="E2" modality="FACTUAL" polarity="POS" start="357" text="endoscopic retrograde cholangiopancreatography" type="TEST"/>
+<EVENT end="427" id="E3" modality="FACTUAL" polarity="POS" start="414" text="dilated ducts" type="PROBLEM"/>
+<EVENT end="518" id="E4" modality="FACTUAL" polarity="POS" start="499" text="percutaneous drains" type="TREATMENT"/>
+<EVENT end="549" id="E26" modality="FACTUAL" polarity="POS" start="522" text="decompress his biliary tree" type="TREATMENT"/>
+<EVENT end="578" id="E5" modality="FACTUAL" polarity="POS" start="568" text="two drains" type="TREATMENT"/>
+<EVENT end="610" id="E6" modality="FACTUAL" polarity="POS" start="592" text="a prolonged course" type="TREATMENT"/>
+<EVENT end="634" id="E7" modality="FACTUAL" polarity="POS" start="615" text="difficult procedure" type="TREATMENT"/>
+<EVENT end="660" id="E27" modality="FACTUAL" polarity="POS" start="649" text="transferred" type="OCCURRENCE"/>
+<EVENT end="758" id="E8" modality="FACTUAL" polarity="POS" start="727" text="his lateral percutaneous drains" type="TREATMENT"/>
+<EVENT end="778" id="E28" modality="FACTUAL" polarity="POS" start="768" text="pulled out" type="PROBLEM"/>
+<EVENT end="810" id="E16" modality="FACTUAL" polarity="POS" start="802" text="admitted" type="OCCURRENCE"/>
+<EVENT end="833" id="E29" modality="FACTUAL" polarity="POS" start="814" text="the Short Stay Unit" type="CLINICAL_DEPT"/>
+<EVENT end="847" id="E30" modality="FACTUAL" polarity="POS" start="842" text="Ancef" type="TREATMENT"/>
+<EVENT end="862" id="E31" modality="FACTUAL" polarity="POS" start="852" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="902" id="E32" modality="FACTUAL" polarity="POS" start="880" text="antibiotic prophylaxis" type="TREATMENT"/>
+<EVENT end="915" id="E33" modality="FACTUAL" polarity="POS" start="907" text="observed" type="TEST"/>
+<EVENT end="970" id="E17" modality="FACTUAL" polarity="POS" start="962" text="admitted" type="OCCURRENCE"/>
+<EVENT end="993" id="E34" modality="FACTUAL" polarity="POS" start="974" text="the Short Stay Unit" type="CLINICAL_DEPT"/>
+
+<RTIMEX3 end="1059" id="T3" mod="START" start="1043" text="The next morning" type="DATE" val="1997-06-17"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="06/16/1997" type="DATE" val="1997-06-16"/>
+<RTIMEX3 end="338" id="T0" mod="NA" start="325" text="The day prior" type="DATE" val="1997-06-15"/>
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="06/18/1997" type="DATE" val="1997-06-18"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1997-06-16" end="28" id="S0" start="18" text="06/16/1997" type="ADMISSION"/>
+<SECTIME dvalue="1997-06-18" end="56" id="S1" start="46" text="06/18/1997" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

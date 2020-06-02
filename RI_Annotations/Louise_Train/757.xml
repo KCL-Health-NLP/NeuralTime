@@ -1,0 +1,377 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-03-04
+Discharge Date :
+2018-03-09
+Service :
+UROLOGY
+History of Present Illness:
+Justin Searle a 60-year-old man with a long history of chronic prostatitis status post two transurethral resection of the prostate procedures in 2007 and 1998 .
+He also has a diagnosis of interstitial cystitis and more significantly has a history of coronary artery disease with a recent catheterization , supraventricular tachycardia , and a progressive mitochondrial myopathy .
+He has had symptoms of dribbling , stress incontinence , hematuria , but has no dysuria .
+He was preadmitted for cardiac clearance by Dr. Lair , his cardiologist .
+Brief Hospital Course:
+On HD2 , cardiac clearance was obtained by Dr. Sanchez .
+Patient tolerated procedure on 2018-03-05 and was transferred to
+ICU for 24hr post-op cardiac monitoring .
+Stay was uneventful .
+On POD1 , patient was transferred out of FICU to 12R .
+Catheter was removed .
+He was started on Pyridium .
+On POD2 , patient was deemed suitable and stable for discharge .
+On POD4 , patient was discharged .
+Discharge Medications :
+1. Hydroxyzine HCl 10 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+2. Atorvastatin Calcium 20 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+3. Ezetimibe 10 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+4. Simethicone 80 mg Tablet , Chewable Sig : 0.5-1 Tablet , Chewable PO QID ( 4 times a day ) as needed for indigestion/gas pain .
+5. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig : 15-30 MLs PO QID ( 4 times a day ) as needed for indigestion .
+6. Atenolol 100 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+7. Hyoscyamine Sulfate 0.125 mg Tablet Sig : One ( 1 ) Tablet PO QID ( 4 times a day ) .
+8. Phenazopyridine HCl 100 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) for 3 days .
+Discharge Disposition :
+Home
+Discharge Diagnosis :
+Chronic prostatitis
+Interstitial cystitis
+Discharge Condition :
+Good
+Discharge Instructions :
+Go to an Emergency Room if you experience symptoms including , but not necessarily limited to : new and continuing nausea , vomiting , fevers ( >101.5 F ) , chills , or shortness of breath .
+Proceed to the ER/EW/Monica if your wound becomes red , swollen , warm , or produces pus .
+You may remove your dressings 2 days after your surgery if they were not removed in the hospital .
+Leave the steri strips on until they begin to peel , then you may remove them. Staples and stitches will remain until your follow-up appointment .
+If you experience clear drainage from your wounds , cover them with a clean dressing and stop showering until the drainage subsides for at least 2 days .
+No heavy lifting or exertion for at least 6 weeks .
+No driving while taking pain medications .
+Narcotics can cause constipation .
+Please take an over the counter stool softener such as Colace or a gentle laxative such as Milk of Magnesia if you experience constipation .
+You may resume your regular diet as tolerated .
+You may take showers ( no baths ) after your dressings have been removed from your wounds .
+Continue taking your home medications unless otherwise contraindicated and follow up with PCP .
+Followup Instructions :
+F/U with Rau .
+Call for appointment
+F/U with Dr. Ross in 2-3 weeks .
+Michael Morgan MD 43-508
+Completed by :
+Justin RAO MD 71-039 2018-03-09 @ 0842
+Signed electronically by :
+DR. Freddy Darr on :
+FRI 2018-03-23 9:45 AM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E18" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E37" modality="FACTUAL" polarity="POS" start="1005" text="stable" type="OCCURRENCE"/>
+<EVENT end="1025" id="E26" modality="FACTUAL" polarity="POS" start="1016" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1060" id="E27" modality="FACTUAL" polarity="POS" start="1050" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1105" id="E38" modality="FACTUAL" polarity="POS" start="1090" text="Hydroxyzine HCl" type="TREATMENT"/>
+<EVENT end="1186" id="E39" modality="FACTUAL" polarity="POS" start="1166" text="Atorvastatin Calcium" type="TREATMENT"/>
+<EVENT end="1256" id="E40" modality="FACTUAL" polarity="POS" start="1247" text="Ezetimibe" type="TREATMENT"/>
+<EVENT end="1328" id="E41" modality="FACTUAL" polarity="POS" start="1317" text="Simethicone" type="TREATMENT"/>
+<EVENT end="1442" id="E75" modality="CONDITIONAL" polarity="POS" start="1422" text="indigestion/gas pain" type="PROBLEM"/>
+<EVENT end="1476" id="E42" modality="FACTUAL" polarity="POS" start="1448" text="Aluminum-Magnesium Hydroxide" type="TREATMENT"/>
+<EVENT end="1570" id="E76" modality="CONDITIONAL" polarity="POS" start="1559" text="indigestion" type="PROBLEM"/>
+<EVENT end="177" id="E1" modality="FACTUAL" polarity="POS" start="158" text="chronic prostatitis" type="PROBLEM"/>
+<EVENT end="1584" id="E43" modality="FACTUAL" polarity="POS" start="1576" text="Atenolol" type="TREATMENT"/>
+<EVENT end="1665" id="E44" modality="FACTUAL" polarity="POS" start="1646" text="Hyoscyamine Sulfate" type="TREATMENT"/>
+<EVENT end="1754" id="E45" modality="FACTUAL" polarity="POS" start="1735" text="Phenazopyridine HCl" type="TREATMENT"/>
+<EVENT end="1900" id="E46" modality="FACTUAL" polarity="POS" start="1881" text="Chronic prostatitis" type="PROBLEM"/>
+<EVENT end="1922" id="E47" modality="FACTUAL" polarity="POS" start="1901" text="Interstitial cystitis" type="PROBLEM"/>
+<EVENT end="244" id="E30" modality="FACTUAL" polarity="POS" start="194" text="transurethral resection of the prostate procedures" type="TREATMENT"/>
+<EVENT end="1949" id="E48" modality="FACTUAL" polarity="POS" start="1945" text="Good" type="OCCURRENCE"/>
+<EVENT end="1998" id="E49" modality="CONDITIONAL" polarity="POS" start="1975" text="Go to an Emergency Room" type="OCCURRENCE"/>
+<EVENT end="2025" id="E50" modality="CONDITIONAL" polarity="POS" start="2017" text="symptoms" type="PROBLEM"/>
+<EVENT end="2096" id="E51" modality="CONDITIONAL" polarity="POS" start="2071" text="new and continuing nausea" type="PROBLEM"/>
+<EVENT end="2107" id="E52" modality="CONDITIONAL" polarity="POS" start="2099" text="vomiting" type="PROBLEM"/>
+<EVENT end="2116" id="E53" modality="CONDITIONAL" polarity="POS" start="2110" text="fevers" type="PROBLEM"/>
+<EVENT end="2138" id="E54" modality="CONDITIONAL" polarity="POS" start="2132" text="chills" type="PROBLEM"/>
+<EVENT end="2163" id="E55" modality="CONDITIONAL" polarity="POS" start="2144" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="2193" id="E56" modality="CONDITIONAL" polarity="POS" start="2166" text="Proceed to the ER/EW/Monica" type="OCCURRENCE"/>
+<EVENT end="2207" id="E57" modality="FACTUAL" polarity="POS" start="2197" text="your wound" type="PROBLEM"/>
+<EVENT end="2219" id="E58" modality="CONDITIONAL" polarity="POS" start="2216" text="red" type="PROBLEM"/>
+<EVENT end="2229" id="E59" modality="CONDITIONAL" polarity="POS" start="2222" text="swollen" type="PROBLEM"/>
+<EVENT end="2236" id="E60" modality="CONDITIONAL" polarity="POS" start="2232" text="warm" type="PROBLEM"/>
+<EVENT end="2254" id="E61" modality="CONDITIONAL" polarity="POS" start="2251" text="pus" type="PROBLEM"/>
+<EVENT end="2286" id="E16" modality="FACTUAL" polarity="POS" start="2272" text="your dressings" type="TREATMENT"/>
+<EVENT end="2312" id="E17" modality="FACTUAL" polarity="POS" start="2300" text="your surgery" type="TREATMENT"/>
+<EVENT end="2353" id="E62" modality="FACTUAL" polarity="POS" start="2341" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2378" id="E63" modality="FACTUAL" polarity="POS" start="2362" text="the steri strips" type="TREATMENT"/>
+<EVENT end="2406" id="E64" modality="FACTUAL" polarity="POS" start="2388" text="they begin to peel" type="OCCURRENCE"/>
+<EVENT end="2428" id="E65" modality="FACTUAL" polarity="POS" start="2422" text="remove" type="OCCURRENCE"/>
+<EVENT end="2442" id="E66" modality="FACTUAL" polarity="POS" start="2435" text="Staples" type="TREATMENT"/>
+<EVENT end="2455" id="E67" modality="FACTUAL" polarity="POS" start="2447" text="stitches" type="TREATMENT"/>
+<EVENT end="2500" id="E68" modality="FACTUAL" polarity="POS" start="2479" text="follow-up appointment" type="OCCURRENCE"/>
+<EVENT end="2535" id="E69" modality="CONDITIONAL" polarity="POS" start="2521" text="clear drainage" type="PROBLEM"/>
+<EVENT end="2552" id="E70" modality="FACTUAL" polarity="POS" start="2541" text="your wounds" type="PROBLEM"/>
+<EVENT end="2587" id="E71" modality="CONDITIONAL" polarity="POS" start="2571" text="a clean dressing" type="TREATMENT"/>
+<EVENT end="2606" id="E72" modality="CONDITIONAL" polarity="POS" start="2592" text="stop showering" type="OCCURRENCE"/>
+<EVENT end="2625" id="E73" modality="CONDITIONAL" polarity="POS" start="2613" text="the drainage" type="PROBLEM"/>
+<EVENT end="2634" id="E74" modality="FACTUAL" polarity="POS" start="2626" text="subsides" type="OCCURRENCE"/>
+<EVENT end="2673" id="E77" modality="FACTUAL" polarity="NEG" start="2660" text="heavy lifting" type="OCCURRENCE"/>
+<EVENT end="2719" id="E78" modality="FACTUAL" polarity="NEG" start="2712" text="driving" type="OCCURRENCE"/>
+<EVENT end="2749" id="E79" modality="FACTUAL" polarity="POS" start="2733" text="pain medications" type="TREATMENT"/>
+<EVENT end="2761" id="E80" modality="FACTUAL" polarity="POS" start="2752" text="Narcotics" type="TREATMENT"/>
+<EVENT end="2784" id="E81" modality="CONDITIONAL" polarity="POS" start="2772" text="constipation" type="PROBLEM"/>
+<EVENT end="2833" id="E82" modality="CONDITIONAL" polarity="POS" start="2799" text="an over the counter stool softener" type="TREATMENT"/>
+<EVENT end="2848" id="E83" modality="CONDITIONAL" polarity="POS" start="2842" text="Colace" type="TREATMENT"/>
+<EVENT end="2869" id="E84" modality="CONDITIONAL" polarity="POS" start="2852" text="a gentle laxative" type="TREATMENT"/>
+<EVENT end="2894" id="E85" modality="CONDITIONAL" polarity="POS" start="2878" text="Milk of Magnesia" type="TREATMENT"/>
+<EVENT end="38" id="E19" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="312" id="E2" modality="FACTUAL" polarity="POS" start="291" text="interstitial cystitis" type="PROBLEM"/>
+<EVENT end="2925" id="E86" modality="CONDITIONAL" polarity="POS" start="2913" text="constipation" type="PROBLEM"/>
+<EVENT end="2960" id="E87" modality="FACTUAL" polarity="POS" start="2936" text="resume your regular diet" type="OCCURRENCE"/>
+<EVENT end="2973" id="E88" modality="FACTUAL" polarity="POS" start="2964" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="2996" id="E89" modality="FACTUAL" polarity="POS" start="2984" text="take showers" type="OCCURRENCE"/>
+<EVENT end="3030" id="E90" modality="FACTUAL" polarity="POS" start="3016" text="your dressings" type="TREATMENT"/>
+<EVENT end="3048" id="E104" modality="FACTUAL" polarity="POS" start="3041" text="removed" type="OCCURRENCE"/>
+<EVENT end="3065" id="E91" modality="FACTUAL" polarity="POS" start="3054" text="your wounds" type="PROBLEM"/>
+<EVENT end="3105" id="E92" modality="FACTUAL" polarity="POS" start="3084" text="your home medications" type="TREATMENT"/>
+<EVENT end="3138" id="E93" modality="FACTUAL" polarity="POS" start="3123" text="contraindicated" type="OCCURRENCE"/>
+<EVENT end="3152" id="E94" modality="FACTUAL" polarity="POS" start="3143" text="follow up" type="OCCURRENCE"/>
+<EVENT end="3161" id="E95" modality="FACTUAL" polarity="POS" start="3158" text="PCP" type="CLINICAL_DEPT"/>
+<EVENT end="3191" id="E96" modality="FACTUAL" polarity="POS" start="3188" text="F/U" type="OCCURRENCE"/>
+<EVENT end="3200" id="E97" modality="FACTUAL" polarity="POS" start="3197" text="Rau" type="CLINICAL_DEPT"/>
+<EVENT end="3227" id="E98" modality="FACTUAL" polarity="POS" start="3224" text="F/U" type="OCCURRENCE"/>
+<EVENT end="3241" id="E99" modality="FACTUAL" polarity="POS" start="3233" text="Dr. Ross" type="CLINICAL_DEPT"/>
+<EVENT end="376" id="E3" modality="FACTUAL" polarity="POS" start="353" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="406" id="E4" modality="FACTUAL" polarity="POS" start="382" text="a recent catheterization" type="TEST"/>
+<EVENT end="437" id="E5" modality="FACTUAL" polarity="POS" start="409" text="supraventricular tachycardia" type="PROBLEM"/>
+<EVENT end="480" id="E6" modality="FACTUAL" polarity="POS" start="444" text="a progressive mitochondrial myopathy" type="PROBLEM"/>
+<EVENT end="502" id="E7" modality="FACTUAL" polarity="POS" start="494" text="symptoms" type="PROBLEM"/>
+<EVENT end="515" id="E8" modality="FACTUAL" polarity="POS" start="506" text="dribbling" type="PROBLEM"/>
+<EVENT end="537" id="E9" modality="FACTUAL" polarity="POS" start="518" text="stress incontinence" type="PROBLEM"/>
+<EVENT end="549" id="E10" modality="FACTUAL" polarity="POS" start="540" text="hematuria" type="PROBLEM"/>
+<EVENT end="570" id="E11" modality="FACTUAL" polarity="NEG" start="563" text="dysuria" type="PROBLEM"/>
+<EVENT end="591" id="E20" modality="FACTUAL" polarity="POS" start="580" text="preadmitted" type="OCCURRENCE"/>
+<EVENT end="613" id="E21" modality="FACTUAL" polarity="POS" start="596" text="cardiac clearance" type="TEST"/>
+<EVENT end="644" id="E100" modality="FACTUAL" polarity="POS" start="628" text="his cardiologist" type="CLINICAL_DEPT"/>
+<EVENT end="696" id="E12" modality="FACTUAL" polarity="POS" start="679" text="cardiac clearance" type="TEST"/>
+<EVENT end="744" id="E31" modality="FACTUAL" polarity="POS" start="735" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="754" id="E13" modality="FACTUAL" polarity="POS" start="745" text="procedure" type="TREATMENT"/>
+<EVENT end="788" id="E22" modality="FACTUAL" polarity="POS" start="777" text="transferred" type="OCCURRENCE"/>
+<EVENT end="795" id="E23" modality="FACTUAL" polarity="POS" start="792" text="ICU" type="CLINICAL_DEPT"/>
+<EVENT end="831" id="E14" modality="FACTUAL" polarity="POS" start="813" text="cardiac monitoring" type="TEST"/>
+<EVENT end="838" id="E32" modality="FACTUAL" polarity="POS" start="834" text="Stay" type="OCCURRENCE"/>
+<EVENT end="853" id="E33" modality="FACTUAL" polarity="POS" start="843" text="uneventful" type="EVIDENTIAL"/>
+<EVENT end="889" id="E24" modality="FACTUAL" polarity="POS" start="878" text="transferred" type="OCCURRENCE"/>
+<EVENT end="901" id="E25" modality="FACTUAL" polarity="POS" start="897" text="FICU" type="CLINICAL_DEPT"/>
+<EVENT end="908" id="E34" modality="FACTUAL" polarity="POS" start="905" text="12R" type="CLINICAL_DEPT"/>
+<EVENT end="919" id="E15" modality="FACTUAL" polarity="POS" start="911" text="Catheter" type="TREATMENT"/>
+<EVENT end="960" id="E35" modality="FACTUAL" polarity="POS" start="952" text="Pyridium" type="TREATMENT"/>
+<EVENT end="1000" id="E36" modality="FACTUAL" polarity="POS" start="992" text="suitable" type="OCCURRENCE"/>
+<RTIMEX3 end="1035" id="T9" mod="NA" start="1031" text="POD4" type="DATE" val="2018-03-09"/>
+
+
+
+
+
+
+
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2018-03-04" type="DATE" val="2018-03-04"/>
+
+<ATIMEX3 end="252" id="T3" mod="NA" start="248" text="2007" type="DATE" val="2007"/>
+<ATIMEX3 end="261" id="T4" mod="NA" start="257" text="1998" type="DATE" val="1998"/>
+<ATIMEX3 end="2654" id="T21" mod="MORE" start="2648" text="2 days" type="DATE" val="p2d"/>
+<ATIMEX3 end="2706" id="T19" mod="NA" start="2699" text="6 weeks" type="DATE" val="P6W"/>
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2018-03-09" type="DATE" val="2018-03-09"/>
+<RTIMEX3 end="676" id="T5" mod="NA" start="673" text="HD2" type="DATE" val="2018-03-05"/>
+<ATIMEX3 end="768" id="T6" mod="NA" start="758" text="2018-03-05" type="DATE" val="2018-03-05"/>
+
+<RTIMEX3 end="863" id="T7" mod="NA" start="859" text="POD1" type="DATE" val="2018-03-06"/>
+<RTIMEX3 end="970" id="T8" mod="NA" start="966" text="POD2" type="DATE" val="2018-03-07"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-03-04" end="28" id="S0" start="18" text="2018-03-04" type="ADMISSION"/>
+<SECTIME dvalue="2018-03-09" end="56" id="S1" start="46" text="2018-03-09" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

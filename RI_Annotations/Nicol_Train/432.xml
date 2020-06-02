@@ -1,0 +1,112 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-07-17
+Discharge Date :
+2012-07-22
+Service :
+SURGERY
+History of Present Illness :
+58 YEAR-OLD FEMALE S/P GASTRIC BYPASS 03-01 WITHOUT COMPLICATIONS POST-OPERATIVELY , NOW PRESENTS WITH ABOMENAL AND AND ASCOCIATED NAUSEA SINCE THE NIGHT BEFORE ADMISSION .
+PAIN IS DIFFUSED , 06-05 OUT OF 10 IN INTENSITY , AND HAS NOT IMPROVED OVERNIGHT .
+NO FLATUS X 1 DAY .
+Brief Hospital Course :
+UPON PRESENTATION TO THE HOSPITAL AND INTIAL WORK-UP , THE PATIENT WAS IMMEDIATELY TAKEN TO THE OPERATING ROOM FOR AN EXPLORATORY LAPORATOMY .
+INTRAOPERATIVELY , THE PATIENT WAS FOUND TO HAVE SMALL BOWEL OBSTRUCTION WITH ISCHEMIC SMALL BOWEL .
+PORTIONS OF THE SMALL BOWEL WERE RESECTED .
+SHE TOLERATED THE PROCEDURE AND WAS ADMITTED TO THE INTENSIVE CARE UNIT .
+SHE DID WELL IN THE ICU AND WAS SUBSEQUENTLY TRANSFERED TO THE FLOOR .
+SHE HAS BEEN AFEBRILE POST-OPERATIVELY , MAKING GOOD URINE , AMBULATING , EATING A REGULAR DIET WITHOUT ANY COMPLICATIONS .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="141" id="E1" modality="FACTUAL" polarity="POS" start="127" text="GASTRIC BYPASS" type="TREATMENT"/>
+<EVENT end="169" id="E2" modality="FACTUAL" polarity="NEG" start="156" text="COMPLICATIONS" type="PROBLEM"/>
+<EVENT end="201" id="E13" modality="FACTUAL" polarity="POS" start="193" text="PRESENTS" type="OCCURRENCE"/>
+<EVENT end="241" id="E14" modality="FACTUAL" polarity="POS" start="207" text="ABOMENAL AND AND ASCOCIATED NAUSEA" type="PROBLEM"/>
+<EVENT end="281" id="E15" modality="FACTUAL" polarity="POS" start="277" text="PAIN" type="PROBLEM"/>
+<EVENT end="38" id="E8" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="369" id="E16" modality="FACTUAL" polarity="NEG" start="363" text="FLATUS" type="PROBLEM"/>
+<EVENT end="421" id="E17" modality="FACTUAL" polarity="POS" start="409" text="PRESENTATION" type="OCCURRENCE"/>
+<EVENT end="437" id="E18" modality="FACTUAL" polarity="POS" start="425" text="THE HOSPITAL" type="CLINICAL_DEPT"/>
+<EVENT end="456" id="E3" modality="FACTUAL" polarity="POS" start="442" text="INTIAL WORK-UP" type="TEST"/>
+<EVENT end="514" id="E9" modality="FACTUAL" polarity="POS" start="496" text="THE OPERATING ROOM" type="CLINICAL_DEPT"/>
+<EVENT end="544" id="E4" modality="FACTUAL" polarity="POS" start="519" text="AN EXPLORATORY LAPORATOMY" type="TEST"/>
+<EVENT end="619" id="E5" modality="FACTUAL" polarity="POS" start="596" text="SMALL BOWEL OBSTRUCTION" type="PROBLEM"/>
+<EVENT end="645" id="E6" modality="FACTUAL" polarity="POS" start="625" text="ISCHEMIC SMALL BOWEL" type="PROBLEM"/>
+<EVENT end="689" id="E19" modality="FACTUAL" polarity="POS" start="681" text="RESECTED" type="TREATMENT"/>
+<EVENT end="719" id="E7" modality="FACTUAL" polarity="POS" start="706" text="THE PROCEDURE" type="TREATMENT"/>
+<EVENT end="736" id="E10" modality="FACTUAL" polarity="POS" start="728" text="ADMITTED" type="OCCURRENCE"/>
+<EVENT end="763" id="E11" modality="FACTUAL" polarity="POS" start="740" text="THE INTENSIVE CARE UNIT" type="CLINICAL_DEPT"/>
+<EVENT end="789" id="E20" modality="FACTUAL" polarity="POS" start="782" text="THE ICU" type="CLINICAL_DEPT"/>
+<EVENT end="821" id="E12" modality="FACTUAL" polarity="POS" start="811" text="TRANSFERED" type="OCCURRENCE"/>
+<EVENT end="834" id="E21" modality="FACTUAL" polarity="POS" start="825" text="THE FLOOR" type="CLINICAL_DEPT"/>
+<EVENT end="858" id="E22" modality="FACTUAL" polarity="POS" start="850" text="AFEBRILE" type="PROBLEM"/>
+<EVENT end="895" id="E23" modality="FACTUAL" polarity="POS" start="878" text="MAKING GOOD URINE" type="EVIDENTIAL"/>
+<EVENT end="908" id="E24" modality="FACTUAL" polarity="POS" start="898" text="AMBULATING" type="OCCURRENCE"/>
+<EVENT end="932" id="E25" modality="FACTUAL" polarity="POS" start="911" text="EATING A REGULAR DIET" type="OCCURRENCE"/>
+<EVENT end="958" id="E26" modality="FACTUAL" polarity="NEG" start="941" text="ANY COMPLICATIONS" type="PROBLEM"/>
+<ATIMEX3 end="147" id="T3" mod="NA" start="142" text="03-01" type="DATE" val="2012-03-01"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-07-17" type="DATE" val="2012-07-17"/>
+<RTIMEX3 end="274" id="T5" mod="END" start="248" text="THE NIGHT BEFORE ADMISSION" type="DATE" val="2012-07-16"/>
+
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-07-22" type="DATE" val="2012-07-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-07-17" end="28" id="S0" start="18" text="2012-07-17" type="ADMISSION"/>
+<SECTIME dvalue="2012-07-22" end="56" id="S1" start="46" text="2012-07-22" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

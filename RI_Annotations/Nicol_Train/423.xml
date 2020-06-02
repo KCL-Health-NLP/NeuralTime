@@ -1,0 +1,116 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+06/02/2005
+DISCHARGE DATE :
+06/05/2005
+HISTORY OF PRESENT ILLNESS :
+The patient is a 63-year-old female with a three-year history of bilateral hand numbness and occasional weakness .
+Within the past year , these symptoms have progressively gotten worse , to encompass also her feet .
+She had a workup by her neurologist and an MRI revealed a C5-6 disc herniation with cord compression and a T2 signal change at that level .
+HOSPITAL COURSE :
+The patient tolerated a C5-6 ACDF by Dr. Miezetri Gach quite well .
+She had a postoperative CT scan that revealed partial decompression of the spinal canal and good placement of her hardware .
+Immediately postop , her exam only improved slightly in her hyperreflexia .
+She was ambulating by postoperative day number two .
+She tolerated a regular diet .
+Her pain was under good control with PO pain medications and she was deemed suitable for discharge .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="174" id="E10" modality="FACTUAL" polarity="POS" start="151" text="bilateral hand numbness" type="PROBLEM"/>
+<EVENT end="198" id="E11" modality="FACTUAL" polarity="POS" start="179" text="occasional weakness" type="PROBLEM"/>
+<EVENT end="238" id="E12" modality="FACTUAL" polarity="POS" start="224" text="these symptoms" type="PROBLEM"/>
+<EVENT end="270" id="E13" modality="FACTUAL" polarity="POS" start="244" text="progressively gotten worse" type="OCCURRENCE"/>
+<EVENT end="38" id="E9" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="318" id="E1" modality="FACTUAL" polarity="POS" start="310" text="a workup" type="TEST"/>
+<EVENT end="348" id="E2" modality="FACTUAL" polarity="POS" start="342" text="an MRI" type="TEST"/>
+<EVENT end="357" id="E6" modality="FACTUAL" polarity="POS" start="349" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="380" id="E14" modality="FACTUAL" polarity="POS" start="358" text="a C5-6 disc herniation" type="PROBLEM"/>
+<EVENT end="402" id="E15" modality="FACTUAL" polarity="POS" start="386" text="cord compression" type="PROBLEM"/>
+<EVENT end="425" id="E16" modality="FACTUAL" polarity="POS" start="407" text="a T2 signal change" type="PROBLEM"/>
+<EVENT end="481" id="E17" modality="FACTUAL" polarity="POS" start="472" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="493" id="E3" modality="FACTUAL" polarity="POS" start="482" text="a C5-6 ACDF" type="TREATMENT"/>
+<EVENT end="525" id="E18" modality="FACTUAL" polarity="POS" start="521" text="well" type="OCCURRENCE"/>
+<EVENT end="559" id="E4" modality="FACTUAL" polarity="POS" start="536" text="a postoperative CT scan" type="TEST"/>
+<EVENT end="573" id="E7" modality="FACTUAL" polarity="POS" start="565" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="615" id="E19" modality="FACTUAL" polarity="POS" start="574" text="partial decompression of the spinal canal" type="PROBLEM"/>
+<EVENT end="634" id="E20" modality="FACTUAL" polarity="POS" start="620" text="good placement" type="OCCURRENCE"/>
+<EVENT end="650" id="E21" modality="FACTUAL" polarity="POS" start="638" text="her hardware" type="TREATMENT"/>
+<EVENT end="682" id="E5" modality="FACTUAL" polarity="POS" start="674" text="her exam" type="TEST"/>
+<EVENT end="696" id="E23" modality="FACTUAL" polarity="POS" start="688" text="improved" type="OCCURRENCE"/>
+<EVENT end="726" id="E24" modality="FACTUAL" polarity="POS" start="709" text="her hyperreflexia" type="PROBLEM"/>
+<EVENT end="747" id="E8" modality="FACTUAL" polarity="POS" start="737" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="810" id="E25" modality="FACTUAL" polarity="POS" start="796" text="a regular diet" type="OCCURRENCE"/>
+<EVENT end="821" id="E26" modality="FACTUAL" polarity="POS" start="813" text="Her pain" type="PROBLEM"/>
+<EVENT end="844" id="E27" modality="FACTUAL" polarity="POS" start="832" text="good control" type="OCCURRENCE"/>
+<EVENT end="869" id="E28" modality="FACTUAL" polarity="POS" start="850" text="PO pain medications" type="TREATMENT"/>
+<EVENT end="911" id="E29" modality="FACTUAL" polarity="POS" start="902" text="discharge" type="OCCURRENCE"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="06/02/2005" type="DATE" val="2005-06-02"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="06/05/2005" type="DATE" val="2005-06-05"/>
+<RTIMEX3 end="779" id="T4" mod="NA" start="751" text="postoperative day number two" type="DATE" val="2005-06-04"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2005-06-02" end="28" id="S0" start="18" text="06/02/2005" type="ADMISSION"/>
+<SECTIME dvalue="2005-06-05" end="56" id="S1" start="46" text="06/05/2005" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

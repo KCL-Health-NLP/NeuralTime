@@ -1,0 +1,258 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2014-04-17
+Discharge Date :
+2014-04-25
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+This is a 60 year old male with new onset chest pain .
+Nuclear myocardial perfusion study was notable for a moderate fixed defect within the inferior wall and cardiac apex .
+His ejection fraction however appeared preserved at 73% with mild inferior wall hypokinesis .
+Subsequent cardiac catheterization at Nantucket Cottage Hospital Hospital on 2014-04-16 was significant for severe two vessel coronary artery disease .
+Angiography revealed a right dominant system with a 40% lesion in the distal left main, several tight lesions in the proximal and mid left anterior descending artery , and a 90% stenosis in the proximal circumflex .
+The right coronary artery had mild diffuse plaquing but no evidence of focal stenosis .
+Based upon the above results , he was transferred to the Mediplex Rehab Hospital for surgical revascularization .
+Brief Hospital Course :
+Mr. Chester was admitted to the cardiac surgical service and underwent routine preoperative evaluation .
+He remained pain free on medical therapy .
+Workup was unremarkable and he was cleared for surgery .
+On 04-18 , Dr. Oneill performed off pump coronary artery bypass grafting .
+For surgical details , please see seperate dictated operative note .
+Following the operation , he was brought to the CSRU for invasive monitoring .
+Within 24 hours , he awoke neurologically intact and was extubated without incident .
+Given hypotension and bradycardia , he was slow to wean from Neosynephrine .
+Low dose beta blockade was eventually resumed .
+Chest tubes and pacing wires were removed without complication .
+On postoperative day three , he transferred to the SDU .
+He maintained a normal sinus rhythm without atrial or ventricular arrhythmias .
+He remained in sinus bradycardia ( rate 50-60 ) and tolerated low dose beta blockade .
+On POD #6 his creatinine became slightly elevated at 1.4 , his lasix was discontinued and the following day his creatinine was stable at 1.4 .
+He continued to progress and was eventually cleared for discharge to home on postoperative day 7 .
+His discharge chest x-ray showed persistent bibasilar atelectasis with only tiny pleural effusions .
+Of note , he will need to remain on Plavix for three months postop given the off pump procedure .
+In addition , he will need to remain on Imdur given use of his right internal mammary artery as a " free " arterial graft in preventing 
+vasospasm .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1029" id="E25" modality="FACTUAL" polarity="POS" start="1001" text="the cardiac surgical service" type="CLINICAL_DEPT"/>
+<EVENT end="1075" id="E26" modality="FACTUAL" polarity="POS" start="1044" text="routine preoperative evaluation" type="TEST"/>
+<EVENT end="1094" id="E27" modality="FACTUAL" polarity="NEG" start="1090" text="pain" type="PROBLEM"/>
+<EVENT end="1118" id="E28" modality="FACTUAL" polarity="POS" start="1103" text="medical therapy" type="TREATMENT"/>
+<EVENT end="1127" id="E29" modality="FACTUAL" polarity="POS" start="1121" text="Workup" type="TEST"/>
+<EVENT end="1175" id="E30" modality="FACTUAL" polarity="POS" start="1168" text="surgery" type="TREATMENT"/>
+<EVENT end="1250" id="E31" modality="FACTUAL" polarity="POS" start="1210" text="off pump coronary artery bypass grafting" type="TREATMENT"/>
+<EVENT end="1345" id="E32" modality="FACTUAL" polarity="POS" start="1332" text="the operation" type="TREATMENT"/>
+<EVENT end="1362" id="E33" modality="FACTUAL" polarity="POS" start="1355" text="brought" type="OCCURRENCE"/>
+<EVENT end="1374" id="E34" modality="FACTUAL" polarity="POS" start="1366" text="the CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="1398" id="E35" modality="FACTUAL" polarity="POS" start="1379" text="invasive monitoring" type="TEST"/>
+<EVENT end="1427" id="E69" modality="FACTUAL" polarity="POS" start="1422" text="awoke" type="OCCURRENCE"/>
+<EVENT end="1467" id="E36" modality="FACTUAL" polarity="POS" start="1458" text="extubated" type="TREATMENT"/>
+<EVENT end="1484" id="E37" modality="FACTUAL" polarity="NEG" start="1476" text="incident" type="PROBLEM"/>
+<EVENT end="1504" id="E38" modality="FACTUAL" polarity="POS" start="1493" text="hypotension" type="PROBLEM"/>
+<EVENT end="1520" id="E39" modality="FACTUAL" polarity="POS" start="1509" text="bradycardia" type="PROBLEM"/>
+<EVENT end="1542" id="E40" modality="FACTUAL" polarity="POS" start="1530" text="slow to wean" type="PROBLEM"/>
+<EVENT end="163" id="E2" modality="FACTUAL" polarity="POS" start="143" text="new onset chest pain" type="PROBLEM"/>
+<EVENT end="1561" id="E41" modality="FACTUAL" polarity="POS" start="1548" text="Neosynephrine" type="TREATMENT"/>
+<EVENT end="1586" id="E42" modality="FACTUAL" polarity="POS" start="1564" text="Low dose beta blockade" type="TREATMENT"/>
+<EVENT end="1623" id="E43" modality="FACTUAL" polarity="POS" start="1612" text="Chest tubes" type="TREATMENT"/>
+<EVENT end="1640" id="E44" modality="FACTUAL" polarity="POS" start="1628" text="pacing wires" type="TREATMENT"/>
+<EVENT end="200" id="E3" modality="FACTUAL" polarity="POS" start="166" text="Nuclear myocardial perfusion study" type="TEST"/>
+<EVENT end="1674" id="E45" modality="FACTUAL" polarity="NEG" start="1662" text="complication" type="PROBLEM"/>
+<EVENT end="1720" id="E46" modality="FACTUAL" polarity="POS" start="1709" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1731" id="E47" modality="FACTUAL" polarity="POS" start="1724" text="the SDU" type="CLINICAL_DEPT"/>
+<EVENT end="1769" id="E49" modality="FACTUAL" polarity="POS" start="1748" text="a normal sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="1811" id="E48" modality="FACTUAL" polarity="NEG" start="1778" text="atrial or ventricular arrhythmias" type="PROBLEM"/>
+<EVENT end="1846" id="E50" modality="FACTUAL" polarity="POS" start="1829" text="sinus bradycardia" type="PROBLEM"/>
+<EVENT end="1875" id="E52" modality="FACTUAL" polarity="POS" start="1866" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1898" id="E51" modality="FACTUAL" polarity="POS" start="1876" text="low dose beta blockade" type="TREATMENT"/>
+<EVENT end="1925" id="E53" modality="FACTUAL" polarity="POS" start="1911" text="his creatinine" type="TEST"/>
+<EVENT end="1950" id="E54" modality="FACTUAL" polarity="POS" start="1933" text="slightly elevated" type="PROBLEM"/>
+<EVENT end="1969" id="E55" modality="FACTUAL" polarity="POS" start="1960" text="his lasix" type="TREATMENT"/>
+<EVENT end="2023" id="E56" modality="FACTUAL" polarity="POS" start="2009" text="his creatinine" type="TEST"/>
+<EVENT end="2034" id="E57" modality="FACTUAL" polarity="POS" start="2028" text="stable" type="OCCURRENCE"/>
+<EVENT end="2068" id="E70" modality="FACTUAL" polarity="POS" start="2060" text="progress" type="OCCURRENCE"/>
+<EVENT end="2109" id="E58" modality="FACTUAL" polarity="POS" start="2100" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2168" id="E59" modality="FACTUAL" polarity="POS" start="2143" text="His discharge chest x-ray" type="TEST"/>
+<EVENT end="2175" id="E62" modality="FACTUAL" polarity="POS" start="2169" text="showed" type="EVIDENTIAL"/>
+<EVENT end="240" id="E5" modality="FACTUAL" polarity="POS" start="217" text="a moderate fixed defect" type="PROBLEM"/>
+<EVENT end="2208" id="E63" modality="FACTUAL" polarity="POS" start="2176" text="persistent bibasilar atelectasis" type="PROBLEM"/>
+<EVENT end="2241" id="E64" modality="FACTUAL" polarity="POS" start="2219" text="tiny pleural effusions" type="PROBLEM"/>
+<EVENT end="2286" id="E65" modality="FACTUAL" polarity="POS" start="2280" text="Plavix" type="TREATMENT"/>
+<EVENT end="2339" id="E66" modality="FACTUAL" polarity="POS" start="2317" text="the off pump procedure" type="TREATMENT"/>
+<EVENT end="2387" id="E67" modality="FACTUAL" polarity="POS" start="2382" text="Imdur" type="TREATMENT"/>
+<EVENT end="2488" id="E68" modality="HYPOTHETICAL" polarity="POS" start="2479" text="vasospasm" type="PROBLEM"/>
+<EVENT end="306" id="E6" modality="FACTUAL" polarity="POS" start="285" text="His ejection fraction" type="TEST"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="376" id="E7" modality="FACTUAL" polarity="POS" start="346" text="mild inferior wall hypokinesis" type="PROBLEM"/>
+<EVENT end="413" id="E8" modality="FACTUAL" polarity="POS" start="379" text="Subsequent cardiac catheterization" type="TEST"/>
+<EVENT end="452" id="E9" modality="FACTUAL" polarity="POS" start="417" text="Nantucket Cottage Hospital Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="528" id="E10" modality="FACTUAL" polarity="POS" start="487" text="severe two vessel coronary artery disease" type="PROBLEM"/>
+<EVENT end="542" id="E11" modality="FACTUAL" polarity="POS" start="531" text="Angiography" type="TEST"/>
+<EVENT end="551" id="E12" modality="FACTUAL" polarity="POS" start="543" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="575" id="E13" modality="FACTUAL" polarity="POS" start="552" text="a right dominant system" type="PROBLEM"/>
+<EVENT end="593" id="E14" modality="FACTUAL" polarity="POS" start="581" text="a 40% lesion" type="PROBLEM"/>
+<EVENT end="640" id="E16" modality="FACTUAL" polarity="POS" start="619" text="several tight lesions" type="PROBLEM"/>
+<EVENT end="717" id="E17" modality="FACTUAL" polarity="POS" start="703" text="a 90% stenosis" type="PROBLEM"/>
+<EVENT end="798" id="E19" modality="FACTUAL" polarity="POS" start="777" text="mild diffuse plaquing" type="PROBLEM"/>
+<EVENT end="832" id="E20" modality="FACTUAL" polarity="NEG" start="818" text="focal stenosis" type="PROBLEM"/>
+<EVENT end="884" id="E21" modality="FACTUAL" polarity="POS" start="873" text="transferred" type="OCCURRENCE"/>
+<EVENT end="915" id="E22" modality="FACTUAL" polarity="POS" start="888" text="the Mediplex Rehab Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="946" id="E23" modality="FACTUAL" polarity="POS" start="920" text="surgical revascularization" type="TREATMENT"/>
+<EVENT end="997" id="E24" modality="FACTUAL" polarity="POS" start="989" text="admitted" type="OCCURRENCE"/>
+<ATIMEX3 end="1186" id="T1" mod="NA" start="1181" text="04-18" type="DATE" val="2014-04-18"/>
+
+<RTIMEX3 end="1703" id="T3" mod="NA" start="1680" text="postoperative day three" type="DATE" val="2014-04-21"/>
+<ATIMEX3 end="28" id="T8" mod="NA" start="18" text="2014-04-17" type="DATE" val="2014-04-17"/>
+<RTIMEX3 end="1910" id="T4" mod="NA" start="1904" text="POD #6" type="DATE" val="2014-04-24"/>
+<RTIMEX3 end="2008" id="T5" mod="NA" start="1991" text="the following day" type="DATE" val="2014-04-25"/>
+<RTIMEX3 end="2140" id="T6" mod="NA" start="2121" text="postoperative day 7" type="DATE" val="2014-04-25"/>
+
+<ATIMEX3 end="466" id="T0" mod="NA" start="456" text="2014-04-16" type="DATE" val="2014-04-16"/>
+<ATIMEX3 end="56" id="T9" mod="NA" start="46" text="2014-04-25" type="DATE" val="2014-04-25"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2014-04-17" end="28" id="S0" start="18" text="2014-04-17" type="ADMISSION"/>
+<SECTIME dvalue="2014-04-25" end="56" id="S1" start="46" text="2014-04-25" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

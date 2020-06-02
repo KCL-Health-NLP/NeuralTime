@@ -1,0 +1,109 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+02/19/1991
+Discharge Date :
+02/25/1991
+HISTORY OF PRESENT ILLNESS :
+This is an 81-year-old who presented with postmenopausal spotting and had an endometrial biopsy which was read at the Etearal Etsystems/ Hospital as showing grade I adenocarcinoma .
+Accordingly she presents for operative therapy at this time .
+HOSPITAL COURSE :
+The patient was brought to the Operating Room on 2-19-91 where she had an exploratory laparotomy , TAH / BSO , and omental biopsy .
+She had a normal abdominal exploration of a small uterus with superficial invasion on gross examination , normal ovaries .
+Washings were sent .
+A subfascial J-P was left .
+The patient did well postoperatively and had a regular diet by the third postoperative day .
+Subfascia drain was discontinued .
+The patient &apos;s postoperative Hct was 34 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="122" id="E2" modality="FACTUAL" polarity="POS" start="113" text="presented" type="OCCURRENCE"/>
+<EVENT end="151" id="E3" modality="FACTUAL" polarity="POS" start="128" text="postmenopausal spotting" type="PROBLEM"/>
+<EVENT end="181" id="E4" modality="FACTUAL" polarity="POS" start="160" text="an endometrial biopsy" type="TEST"/>
+<EVENT end="196" id="E5" modality="FACTUAL" polarity="POS" start="192" text="read" type="EVIDENTIAL"/>
+<EVENT end="231" id="E6" modality="FACTUAL" polarity="POS" start="200" text="the Etearal Etsystems/ Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="242" id="E7" modality="FACTUAL" polarity="POS" start="235" text="showing" type="EVIDENTIAL"/>
+<EVENT end="265" id="E8" modality="FACTUAL" polarity="POS" start="243" text="grade I adenocarcinoma" type="PROBLEM"/>
+<EVENT end="292" id="E9" modality="FACTUAL" polarity="POS" start="284" text="presents" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="314" id="E10" modality="FACTUAL" polarity="POS" start="297" text="operative therapy" type="TREATMENT"/>
+<EVENT end="393" id="E11" modality="FACTUAL" polarity="POS" start="375" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="444" id="E12" modality="FACTUAL" polarity="POS" start="419" text="an exploratory laparotomy" type="TEST"/>
+<EVENT end="456" id="E13" modality="FACTUAL" polarity="POS" start="447" text="TAH / BSO" type="TREATMENT"/>
+<EVENT end="477" id="E14" modality="FACTUAL" polarity="POS" start="463" text="omental biopsy" type="TEST"/>
+<EVENT end="518" id="E15" modality="FACTUAL" polarity="POS" start="488" text="a normal abdominal exploration" type="TEST"/>
+<EVENT end="518" id="E25" modality="FACTUAL" polarity="POS" start="497" text="abdominal exploration" type="TEST"/>
+<EVENT end="562" id="E17" modality="FACTUAL" polarity="POS" start="542" text="superficial invasion" type="TEST"/>
+<EVENT end="583" id="E16" modality="FACTUAL" polarity="POS" start="566" text="gross examination" type="TEST"/>
+<EVENT end="611" id="E18" modality="FACTUAL" polarity="POS" start="603" text="Washings" type="TEST"/>
+<EVENT end="621" id="E19" modality="FACTUAL" polarity="POS" start="617" text="sent" type="OCCURRENCE"/>
+<EVENT end="640" id="E20" modality="FACTUAL" polarity="POS" start="624" text="A subfascial J-P" type="TREATMENT"/>
+<EVENT end="672" id="E21" modality="FACTUAL" polarity="POS" start="668" text="well" type="OCCURRENCE"/>
+<EVENT end="711" id="E22" modality="FACTUAL" polarity="POS" start="697" text="a regular diet" type="OCCURRENCE"/>
+<EVENT end="760" id="E23" modality="FACTUAL" polarity="POS" start="745" text="Subfascia drain" type="TREATMENT"/>
+<EVENT end="817" id="E24" modality="FACTUAL" polarity="POS" start="814" text="Hct" type="TEST"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="02/19/1991" type="DATE" val="1991-02-19"/>
+<RTIMEX3 end="327" id="T2" mod="NA" start="318" text="this time" type="DATE" val="1991-02-19"/>
+<ATIMEX3 end="404" id="T3" mod="NA" start="397" text="2-19-91" type="DATE" val="1991-02-19"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="02/25/1991" type="DATE" val="1991-02-25"/>
+<RTIMEX3 end="742" id="T4" mod="NA" start="715" text="the third postoperative day" type="DATE" val="1997-02-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1991-02-19" end="28" id="S0" start="18" text="02/19/1991" type="ADMISSION"/>
+<SECTIME dvalue="1991-02-25" end="56" id="S1" start="46" text="02/25/1991" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

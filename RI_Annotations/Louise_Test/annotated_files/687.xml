@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-03-18
+Discharge Date :
+2016-04-01
+Service : 
+SURGERY
+History of Present Illness :
+_Mr. Morton is a 86 yo male transferred from Kindred Park View Specialty Hospital of Springfield-Sample .
+He developed right foot pain the Sunday prior to admission and was seen by his Podiatrist , who diagnosed him with gout .
+He was given colchicine and prednisone .
+Mr. Morton then developed more pain and warmth to his right foot later in the week and presented to the Youville Hospital - Woody Monica .
+At this hospital he underwent an I&D ( 03-17 ) of a right foot infection and subsequently underwent 
+re-exploration ( 03-18 ) for developing necrotizing fascitis .
+He was transferred to Hallmark Health System for further care .
+Brief Hospital Course :
+Mr. Morton was admitted to the TSICU .
+He was placed on Penicillin G , Clindamycin , for empiric coverage of his wound , with Group A strep growth from the New England Baptist Hospital-Bryce cultures .
+He was transferred to the floor on HD#2 .
+He continued to undergo BID dressing changes .
+Plastic surgery was asked to evaluate the patient .
+Per their recommendations , silvadine was applied to the tendons to prevent dessication .
+Vascular surgery was also asked to evaluate the patient 's right lower extremity blood flow .
+An angiogram on HD#4 showed severe tibial disease and moderate SFA disease , no DP artery was seen .
+The vascular team recommended a femoral-peroneal bypass for revascularization and performed this operation on HD#5 .
+He tolerated the procedure well , please see Dr. Allgood Operative Note for detail .
+On POD#1 , Mr. Morton received 2 units of pRBCs for post-op anemia ( Hct 25 ).
+Mr. Morton continued to be followed by Infectious Disease , whose recommendations were to complete a 01-28 week course of Penicillin G and Clindamycin after the foot was completely debrided and the skin flaps completed .
+His wound continued to heal well and by POD #6 a VAC dressing was placed .
+He received a PICC on POD#7 for his long-term antibiotic therapy .
+At the time of discharge , Mr. Morton had good pain control , was tolerating a regular diet , had a well-healing wound treated with a VAC dressing , and was to continue his IV PCN G and Clindamycin .
+He was discharged to a rehab facility in fair condition .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1002" end="1006" text="HD#2" type="DATE" relative="TRUE" val="2016-03-19" mod="NA" />
+<RTIMEX3 id="T8" start="1308" end="1312" text="HD#4" type="DATE" relative="TRUE" val="2016-03-21" mod="NA" />
+<RTIMEX3 id="T9" start="1503" end="1507" text="HD#5" type="DATE" relative="TRUE" val="2016-03-22" mod="NA" />
+<RTIMEX3 id="T10" start="1598" end="1603" text="POD#1" type="DATE" relative="TRUE" val="2016-03-23" mod="NA" />
+<RTIMEX3 id="T12" start="1935" end="1941" text="POD #6" type="DATE" relative="TRUE" val="2016-03-28" mod="NA" />
+<RTIMEX3 id="T13" start="1992" end="1997" text="POD#7" type="DATE" relative="TRUE" val="2016-03-29" mod="NA" />
+<RTIMEX3 id="T14" start="2040" end="2048" text="the time" type="DATE" relative="TRUE" val="2016-04-01" mod="NA" />
+<RTIMEX3 id="T2" start="240" end="250" text="the Sunday" type="DATE" relative="TRUE" val="2016-03-13" mod="NA" />
+<RTIMEX3 id="T3" start="448" end="456" text="the week" type="DATE" relative="TRUE" val="2016-03-16" mod="APPROX" />
+<ATIMEX3 id="T0" start="18" end="28" text="2016-03-18" type="DATE" val="2016-03-18" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="2016-04-01" type="DATE" val="2016-04-01" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="552" end="557" text="03-17" type="DATE" val="2016-03-17" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="631" end="636" text="03-18" type="DATE" val="2016-03-18" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2016-03-18" type="ADMISSION" dvalue="2016-03-18" />
+<SECTIME id="S1" start="46" end="56" text="2016-04-01" type="DISCHARGE" dvalue="2016-04-01" />
+<ANCHORLINK id="AN0" fromID="T2" fromText="the Sunday" toID="S0" toText="2016-03-18" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T3" fromText="the week" toID="T2" toText="the Sunday" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T6" fromText="HD#2" toID="S0" toText="2016-03-18" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T8" fromText="HD#4" toID="S0" toText="2016-03-18" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T9" fromText="HD#5" toID="S0" toText="2016-03-18" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T10" fromText="POD#1" toID="T9" toText="HD#5" relation="AFTER" />
+<ANCHORLINK id="AN6" fromID="T12" fromText="POD #6" toID="T9" toText="HD#5" relation="AFTER" />
+<ANCHORLINK id="AN7" fromID="T13" fromText="POD#7" toID="T9" toText="HD#5" relation="AFTER" />
+<ANCHORLINK id="AN8" fromID="T13" fromText="POD#7" toID="T9" toText="HD#5" relation="AFTER" />
+<ANCHORLINK id="AN9" fromID="T14" fromText="the time" toID="S1" toText="2016-04-01" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>

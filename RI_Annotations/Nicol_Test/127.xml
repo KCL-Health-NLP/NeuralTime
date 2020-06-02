@@ -1,0 +1,413 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-10-31
+Discharge Date :
+2012-11-07
+History of Present Illness :
+HPI: Pt is a 71 y/o male with h/o dm2 , cad s/p cabg , DVT/PE on long term anti-coagulation , ulcerative colitis on Asacol presents with brbpr starting at 9am of the morning of admission .
+He 'd been having lower abdominal pain for approximately the past week , a symptom for which he 's been admitted in the past .
+His PCP had recently started ciprofloxacin for a UTI . 
+At 9am the morning of admission he passed a large , bloody bowel movement and came to the Michael . There , his vitals were intially stable with a hct of 36.7 , though he was felt to be hypovolemic and this hemoconcentrated ; his previous hct was 39 about five months ago .
+He refused an NG lavage .
+Although an initial DRE showed only clot , he later passed a large , bloody bowel movement , and his bp nadired to the low 90's but rested there only transiently and easily rebounded to the 130's-140's with fluid ; he then went to angiography for a tagged RBC scan where they found and embolized two vessels to the sigmoid colon .
+His HCT had dropped from 36.7 to 30.8 despite 2U PRBC and 3 U FFP .
+Is called out of the FICU as has been been HD and stable HCT .
+Currently denies CP , SOB , abd pain or continued BRBPR .
+Brief Hospital Course :
+Initial A/P :
+71 y/o male with dm2 , cad , chf , uc presents with one week of lower abdominal pain and 2 episodes of brpbr on the day of admission .
+# BRBPR -- The patient was in the intensive care unit given his lower GI bleed .
+An angiography showed bleeding in two vessels off of the Minnie supplying the sigmoid that were succesfully embolized .
+The patient was transfused from a Hct 29 to 34 on the day of discharge .
+His coumadin was held during his stay given his acute bleed but restarted per his PCP with the guidance of GI on the day of discharge .
+- The patient underwent a flex sigmoidoscopy on Friday , 11-02 , which showed old blood in the rectal vault but no active source of bleeding .
+Given this , it was advised that the patient have a colonoscopy to rule out further bleeding .
+- The patient had a colonoscopy on Monday 11-05 but unfortunately , was unable to complete the study as his bowel prep was inadequate .
+Therefore , he had a repeat colonoscopy on 11-06 which showed expected mucosal signs of moderate ulcerative colitis , no polyps , w/ 8 mm ulcer at junction of distal descending colon and sigmoid colon .
+- Biopsies were obtained during his colonoscopy and he should follow up with gastroenterology for the results .
+# Ulcerative colitis -- The patient 's Asacol was originally held but restarted the day prior to discharge per GI .
+# CAD/CHF - The patient was restarted on his home regimen prior to discharge as it was held temporarily given his acute GI bleed .
+The exception is that per his PCP , Jason aspirin will be held for 2 weeks given that he was restarted on coumadin with 
+his risk of bleeding .
+# DM-2 -- The patient was maintained on his home insulin regimen .
+# h/o DVT/PE :
+Coumadin was initially held .
+It was unclear at first as to why the patient required life-long anticoagulation .
+After discussing this with his PCP , Leon was clear that the patient had had recurrent DVTs and ultimately a PE and his PCP felt strongly that he required long-term anticoagulation .
+His goal INR should be 1.6-2.0 . If bleeding continues to occur , consider V. Winchester filter .
+# Access -- 2 large bore PIV's
+# Code -- full
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1022" id="E76" modality="FACTUAL" polarity="POS" start="1005" text="a tagged RBC scan" type="TEST"/>
+<EVENT end="1039" id="E77" modality="FACTUAL" polarity="POS" start="1034" text="found" type="EVIDENTIAL"/>
+<EVENT end="1086" id="E78" modality="FACTUAL" polarity="POS" start="1044" text="embolized two vessels to the sigmoid colon" type="TREATMENT"/>
+<EVENT end="1096" id="E79" modality="FACTUAL" polarity="POS" start="1089" text="His HCT" type="TEST"/>
+<EVENT end="1142" id="E80" modality="FACTUAL" polarity="POS" start="1135" text="2U PRBC" type="TREATMENT"/>
+<EVENT end="1154" id="E81" modality="FACTUAL" polarity="POS" start="1147" text="3 U FFP" type="TREATMENT"/>
+<EVENT end="1170" id="E82" modality="FACTUAL" polarity="POS" start="1160" text="called out" type="OCCURRENCE"/>
+<EVENT end="1217" id="E84" modality="FACTUAL" polarity="POS" start="1200" text="HD and stable HCT" type="TEST"/>
+<EVENT end="123" id="E1" modality="FACTUAL" polarity="POS" start="120" text="dm2" type="PROBLEM"/>
+<EVENT end="1236" id="E85" modality="FACTUAL" polarity="POS" start="1230" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1239" id="E86" modality="FACTUAL" polarity="NEG" start="1237" text="CP" type="PROBLEM"/>
+<EVENT end="1245" id="E87" modality="FACTUAL" polarity="NEG" start="1242" text="SOB" type="PROBLEM"/>
+<EVENT end="1256" id="E88" modality="FACTUAL" polarity="NEG" start="1248" text="abd pain" type="PROBLEM"/>
+<EVENT end="1275" id="E89" modality="FACTUAL" polarity="NEG" start="1260" text="continued BRBPR" type="PROBLEM"/>
+<EVENT end="129" id="E2" modality="FACTUAL" polarity="POS" start="126" text="cad" type="PROBLEM"/>
+<EVENT end="1336" id="E9" modality="FACTUAL" polarity="POS" start="1333" text="dm2" type="PROBLEM"/>
+<EVENT end="1342" id="E10" modality="FACTUAL" polarity="POS" start="1339" text="cad" type="PROBLEM"/>
+<EVENT end="1348" id="E11" modality="FACTUAL" polarity="POS" start="1345" text="chf" type="PROBLEM"/>
+<EVENT end="138" id="E3" modality="FACTUAL" polarity="POS" start="134" text="cabg" type="TREATMENT"/>
+<EVENT end="1362" id="E44" modality="FACTUAL" polarity="POS" start="1354" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1400" id="E12" modality="FACTUAL" polarity="POS" start="1380" text="lower abdominal pain" type="PROBLEM"/>
+<EVENT end="147" id="E53" modality="FACTUAL" polarity="POS" start="141" text="DVT/PE" type="PROBLEM"/>
+<EVENT end="1424" id="E90" modality="FACTUAL" polarity="POS" start="1419" text="brpbr" type="PROBLEM"/>
+<EVENT end="1448" id="E45" modality="FACTUAL" polarity="POS" start="1439" text="admission" type="OCCURRENCE"/>
+<EVENT end="1458" id="E13" modality="FACTUAL" polarity="POS" start="1453" text="BRBPR" type="PROBLEM"/>
+<EVENT end="1504" id="E91" modality="FACTUAL" polarity="POS" start="1481" text="the intensive care unit" type="CLINICAL_DEPT"/>
+<EVENT end="1529" id="E14" modality="FACTUAL" polarity="POS" start="1511" text="his lower GI bleed" type="PROBLEM"/>
+<EVENT end="177" id="E54" modality="FACTUAL" polarity="POS" start="151" text="long term anti-coagulation" type="TREATMENT"/>
+<EVENT end="1546" id="E15" modality="FACTUAL" polarity="POS" start="1532" text="An angiography" type="TEST"/>
+<EVENT end="1553" id="E46" modality="FACTUAL" polarity="POS" start="1547" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1577" id="E16" modality="FACTUAL" polarity="POS" start="1554" text="bleeding in two vessels" type="PROBLEM"/>
+<EVENT end="1649" id="E47" modality="FACTUAL" polarity="POS" start="1640" text="embolized" type="TREATMENT"/>
+<EVENT end="1678" id="E92" modality="FACTUAL" polarity="POS" start="1668" text="transfused" type="TREATMENT"/>
+<EVENT end="1689" id="E93" modality="FACTUAL" polarity="POS" start="1684" text="a Hct" type="TEST"/>
+<EVENT end="1722" id="E48" modality="FACTUAL" polarity="POS" start="1713" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1737" id="E17" modality="FACTUAL" polarity="POS" start="1725" text="His coumadin" type="TREATMENT"/>
+<EVENT end="1737" id="E120" modality="FACTUAL" polarity="POS" start="1725" text="His coumadin" type="TREATMENT"/>
+<EVENT end="1762" id="E94" modality="FACTUAL" polarity="POS" start="1754" text="his stay" type="OCCURRENCE"/>
+<EVENT end="1784" id="E18" modality="FACTUAL" polarity="POS" start="1769" text="his acute bleed" type="PROBLEM"/>
+<EVENT end="198" id="E4" modality="FACTUAL" polarity="POS" start="180" text="ulcerative colitis" type="PROBLEM"/>
+<EVENT end="1834" id="E95" modality="FACTUAL" polarity="POS" start="1816" text="the guidance of GI" type="OCCURRENCE"/>
+<EVENT end="1858" id="E96" modality="FACTUAL" polarity="POS" start="1849" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1905" id="E19" modality="FACTUAL" polarity="POS" start="1885" text="a flex sigmoidoscopy" type="TEST"/>
+<EVENT end="1938" id="E97" modality="FACTUAL" polarity="POS" start="1932" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1968" id="E20" modality="FACTUAL" polarity="POS" start="1939" text="old blood in the rectal vault" type="PROBLEM"/>
+<EVENT end="2001" id="E21" modality="FACTUAL" polarity="NEG" start="1976" text="active source of bleeding" type="PROBLEM"/>
+<EVENT end="2031" id="E98" modality="FACTUAL" polarity="POS" start="2024" text="advised" type="EVIDENTIAL"/>
+<EVENT end="2067" id="E99" modality="PROPOSED" polarity="POS" start="2054" text="a colonoscopy" type="TEST"/>
+<EVENT end="2096" id="E100" modality="POSSIBLE" polarity="POS" start="2080" text="further bleeding" type="PROBLEM"/>
+<EVENT end="217" id="E40" modality="FACTUAL" polarity="POS" start="209" text="presents" type="EVIDENTIAL"/>
+<EVENT end="208" id="E5" modality="FACTUAL" polarity="POS" start="202" text="Asacol" type="TREATMENT"/>
+<EVENT end="2130" id="E22" modality="FACTUAL" polarity="POS" start="2117" text="a colonoscopy" type="TEST"/>
+<EVENT end="2199" id="E101" modality="FACTUAL" polarity="POS" start="2190" text="the study" type="TEST"/>
+<EVENT end="2217" id="E102" modality="FACTUAL" polarity="POS" start="2203" text="his bowel prep" type="TREATMENT"/>
+<EVENT end="228" id="E61" modality="FACTUAL" polarity="POS" start="223" text="brbpr" type="PROBLEM"/>
+<EVENT end="2274" id="E23" modality="FACTUAL" polarity="POS" start="2254" text="a repeat colonoscopy" type="TEST"/>
+<EVENT end="2296" id="E103" modality="FACTUAL" polarity="POS" start="2290" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2319" id="E104" modality="FACTUAL" polarity="POS" start="2306" text="mucosal signs" type="PROBLEM"/>
+<EVENT end="2350" id="E105" modality="FACTUAL" polarity="POS" start="2323" text="moderate ulcerative colitis" type="PROBLEM"/>
+<EVENT end="2362" id="E24" modality="FACTUAL" polarity="NEG" start="2356" text="polyps" type="PROBLEM"/>
+<EVENT end="2378" id="E106" modality="FACTUAL" polarity="POS" start="2373" text="ulcer" type="PROBLEM"/>
+<EVENT end="2448" id="E25" modality="FACTUAL" polarity="POS" start="2440" text="Biopsies" type="TEST"/>
+<EVENT end="2485" id="E26" modality="FACTUAL" polarity="POS" start="2470" text="his colonoscopy" type="TEST"/>
+<EVENT end="2509" id="E107" modality="PROPOSED" polarity="POS" start="2500" text="follow up" type="OCCURRENCE"/>
+<EVENT end="2531" id="E108" modality="FACTUAL" polarity="POS" start="2515" text="gastroenterology" type="CLINICAL_DEPT"/>
+<EVENT end="2570" id="E109" modality="FACTUAL" polarity="POS" start="2552" text="Ulcerative colitis" type="PROBLEM"/>
+<EVENT end="2595" id="E27" modality="FACTUAL" polarity="POS" start="2574" text="The patient 's Asacol" type="TREATMENT"/>
+<EVENT end="2595" id="E121" modality="FACTUAL" polarity="POS" start="2574" text="The patient 's Asacol" type="TREATMENT"/>
+<EVENT end="272" id="E41" modality="FACTUAL" polarity="POS" start="263" text="admission" type="OCCURRENCE"/>
+<EVENT end="2656" id="E49" modality="FACTUAL" polarity="POS" start="2647" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2663" id="E110" modality="FACTUAL" polarity="POS" start="2661" text="GI" type="CLINICAL_DEPT"/>
+<EVENT end="2675" id="E28" modality="FACTUAL" polarity="POS" start="2668" text="CAD/CHF" type="PROBLEM"/>
+<EVENT end="2723" id="E29" modality="FACTUAL" polarity="POS" start="2707" text="his home regimen" type="TREATMENT"/>
+<EVENT end="2723" id="E123" modality="FACTUAL" polarity="POS" start="2707" text="his home regimen" type="TREATMENT"/>
+<EVENT end="2742" id="E50" modality="FACTUAL" polarity="POS" start="2733" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2794" id="E30" modality="FACTUAL" polarity="POS" start="2776" text="his acute GI bleed" type="PROBLEM"/>
+<EVENT end="2846" id="E31" modality="FACTUAL" polarity="NEG" start="2839" text="aspirin" type="TREATMENT"/>
+<EVENT end="2911" id="E32" modality="FACTUAL" polarity="POS" start="2903" text="coumadin" type="TREATMENT"/>
+<EVENT end="2938" id="E112" modality="FACTUAL" polarity="POS" start="2918" text="his risk of bleeding" type="PROBLEM"/>
+<EVENT end="313" id="E55" modality="FACTUAL" polarity="POS" start="293" text="lower abdominal pain" type="PROBLEM"/>
+<EVENT end="2947" id="E33" modality="FACTUAL" polarity="POS" start="2943" text="DM-2" type="PROBLEM"/>
+<EVENT end="3005" id="E34" modality="FACTUAL" polarity="POS" start="2981" text="his home insulin regimen" type="TREATMENT"/>
+<EVENT end="38" id="E51" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="3031" id="E35" modality="FACTUAL" polarity="POS" start="3023" text="Coumadin" type="TREATMENT"/>
+<EVENT end="3133" id="E36" modality="FACTUAL" polarity="POS" start="3108" text="life-long anticoagulation" type="TREATMENT"/>
+<EVENT end="3152" id="E113" modality="FACTUAL" polarity="POS" start="3142" text="discussing" type="EVIDENTIAL"/>
+<EVENT end="3227" id="E114" modality="FACTUAL" polarity="POS" start="3213" text="recurrent DVTs" type="PROBLEM"/>
+<EVENT end="3247" id="E115" modality="FACTUAL" polarity="POS" start="3243" text="a PE" type="PROBLEM"/>
+<EVENT end="3264" id="E116" modality="FACTUAL" polarity="POS" start="3260" text="felt" type="EVIDENTIAL"/>
+<EVENT end="3316" id="E37" modality="FACTUAL" polarity="POS" start="3291" text="long-term anticoagulation" type="TREATMENT"/>
+<EVENT end="3331" id="E117" modality="CONDITIONAL" polarity="POS" start="3319" text="His goal INR" type="TEST"/>
+<EVENT end="3363" id="E38" modality="CONDITIONAL" polarity="POS" start="3355" text="bleeding" type="PROBLEM"/>
+<EVENT end="3414" id="E118" modality="CONDITIONAL" polarity="POS" start="3394" text="V. Winchester filter" type="TREATMENT"/>
+<EVENT end="3447" id="E39" modality="FACTUAL" polarity="POS" start="3429" text="2 large bore PIV's" type="TREATMENT"/>
+<EVENT end="357" id="E56" modality="FACTUAL" polarity="POS" start="348" text="a symptom" type="PROBLEM"/>
+<EVENT end="387" id="E42" modality="FACTUAL" polarity="POS" start="379" text="admitted" type="OCCURRENCE"/>
+<EVENT end="444" id="E57" modality="FACTUAL" polarity="POS" start="431" text="ciprofloxacin" type="TREATMENT"/>
+<EVENT end="454" id="E58" modality="FACTUAL" polarity="POS" start="449" text="a UTI" type="PROBLEM"/>
+<EVENT end="489" id="E43" modality="FACTUAL" polarity="POS" start="480" text="admission" type="OCCURRENCE"/>
+<EVENT end="531" id="E59" modality="FACTUAL" polarity="POS" start="500" text="a large , bloody bowel movement" type="PROBLEM"/>
+<EVENT end="540" id="E60" modality="FACTUAL" polarity="POS" start="536" text="came" type="OCCURRENCE"/>
+<EVENT end="576" id="E62" modality="FACTUAL" polarity="POS" start="566" text="his vitals" type="TEST"/>
+<EVENT end="597" id="E63" modality="FACTUAL" polarity="POS" start="591" text="stable" type="TEST"/>
+<EVENT end="608" id="E64" modality="FACTUAL" polarity="POS" start="603" text="a hct" type="TEST"/>
+<EVENT end="637" id="E65" modality="FACTUAL" polarity="POS" start="633" text="felt" type="EVIDENTIAL"/>
+<EVENT end="655" id="E6" modality="FACTUAL" polarity="POS" start="644" text="hypovolemic" type="PROBLEM"/>
+<EVENT end="681" id="E7" modality="FACTUAL" polarity="POS" start="660" text="this hemoconcentrated" type="PROBLEM"/>
+<EVENT end="700" id="E66" modality="FACTUAL" polarity="POS" start="684" text="his previous hct" type="TEST"/>
+<EVENT end="742" id="E119" modality="FACTUAL" polarity="POS" start="735" text="refused" type="EVIDENTIAL"/>
+<EVENT end="755" id="E67" modality="FACTUAL" polarity="NEG" start="743" text="an NG lavage" type="TREATMENT"/>
+<EVENT end="781" id="E68" modality="FACTUAL" polarity="POS" start="767" text="an initial DRE" type="TEST"/>
+<EVENT end="788" id="E69" modality="FACTUAL" polarity="POS" start="782" text="showed" type="EVIDENTIAL"/>
+<EVENT end="798" id="E8" modality="FACTUAL" polarity="POS" start="794" text="clot" type="PROBLEM"/>
+<EVENT end="848" id="E70" modality="FACTUAL" polarity="POS" start="817" text="a large , bloody bowel movement" type="PROBLEM"/>
+<EVENT end="861" id="E71" modality="FACTUAL" polarity="POS" start="855" text="his bp" type="TEST"/>
+<EVENT end="896" id="E72" modality="FACTUAL" polarity="POS" start="890" text="rested" type="OCCURRENCE"/>
+<EVENT end="940" id="E73" modality="FACTUAL" polarity="POS" start="931" text="rebounded" type="OCCURRENCE"/>
+<EVENT end="970" id="E74" modality="FACTUAL" polarity="POS" start="965" text="fluid" type="TREATMENT"/>
+<EVENT end="1000" id="E75" modality="FACTUAL" polarity="POS" start="989" text="angiography" type="TEST"/>
+
+
+<RTIMEX3 end="1435" id="T3" mod="NA" start="1428" text="the day" type="DATE" val="2012-10-31"/>
+<RTIMEX3 end="1709" id="T4" mod="NA" start="1702" text="the day" type="DATE" val="2012-11-07"/>
+<RTIMEX3 end="1845" id="T8" mod="NA" start="1838" text="the day" type="DATE" val="2012-11-07"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-10-31" type="DATE" val="2012-10-31"/>
+<RTIMEX3 end="1923" id="T14" mod="NA" start="1909" text="Friday , 11-02" type="DATE" val="2012-11-02"/>
+<RTIMEX3 end="2146" id="T5" mod="NA" start="2134" text="Monday 11-05" type="DATE" val="2012-11-05"/>
+<ATIMEX3 end="2283" id="T6" mod="NA" start="2278" text="11-06" type="DATE" val="2012-11-06"/>
+<ATIMEX3 end="259" id="T0" mod="NA" start="241" text="9am of the morning" type="TIME" val="2012-10-31T09:00"/>
+<RTIMEX3 end="2637" id="T7" mod="NA" start="2630" text="the day" type="DATE" val="2012-11-06"/>
+
+
+<ATIMEX3 end="476" id="T10" mod="NA" start="461" text="9am the morning" type="TIME" val="2012-10-31T09:00"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-11-07" type="DATE" val="2012-11-07"/>
+<RTIMEX3 end="729" id="T11" mod="APPROX" start="714" text="five months ago" type="DATE" val="2012-05-31"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-10-31" end="28" id="S0" start="18" text="2012-10-31" type="ADMISSION"/>
+<SECTIME dvalue="2012-11-07" end="56" id="S1" start="46" text="2012-11-07" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

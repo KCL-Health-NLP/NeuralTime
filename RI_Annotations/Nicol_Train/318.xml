@@ -1,0 +1,125 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+8/21/93
+DISCHARGE DATE :
+8/23/93
+HISTORY OF PRESENT ILLNESS :
+This 68 year old female has rheumatic heart disease .
+Mitral and possibly tricuspid valve surgery is scheduled for Labor Day by Dr. Riemund C. Kennedy .
+Her history is detailed in the discharge summary of August 10 of this year .
+She is admitted now for a neuro-interventional radiology procedure to decrease the likelihood of epistaxis on Coumadin .
+HOSPITAL COURSE :
+The interventional neuro-radiology procedure was performed by Dr. A Skizeis , on August 22 , via the right femoral artery .
+The right internal maxillary artery supply to the nasal mucosa was embolized .
+The left external carotid artery was occluded at its origin , with collaterals from the internal carotid artery .
+Thus , embolization on the left side was not possible .
+The patient received Coumadin , 10 mg. , on the evening following the procedure , and is discharged the next day .
+Her prothrombin time will be rechecked on August 27 by her primary care physician , Dr. Naka Gift .
+Once her prothrombin time is in therapeutic range , she will be observed for epistaxis .
+She will take her last dose of Coumadin on September 1 in anticipation of cardiac surgery .
+If her prothrombin time does not come into therapeutic range promptly , then surgery may be delayed .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1062" id="E20" modality="PROPOSED" polarity="POS" start="1042" text="her prothrombin time" type="TEST"/>
+<EVENT end="1086" id="E21" modality="HYPOTHETICAL" polarity="POS" start="1069" text="therapeutic range" type="TREATMENT"/>
+<EVENT end="131" id="E8" modality="FACTUAL" polarity="POS" start="108" text="rheumatic heart disease" type="PROBLEM"/>
+<EVENT end="1109" id="E22" modality="HYPOTHETICAL" polarity="POS" start="1101" text="observed" type="OCCURRENCE"/>
+<EVENT end="1123" id="E4" modality="HYPOTHETICAL" polarity="POS" start="1114" text="epistaxis" type="PROBLEM"/>
+<EVENT end="1153" id="E23" modality="FACTUAL" polarity="POS" start="1135" text="take her last dose" type="OCCURRENCE"/>
+<EVENT end="1165" id="E24" modality="FACTUAL" polarity="POS" start="1157" text="Coumadin" type="TREATMENT"/>
+<EVENT end="1215" id="E25" modality="PROPOSED" polarity="POS" start="1200" text="cardiac surgery" type="TREATMENT"/>
+<EVENT end="1241" id="E26" modality="HYPOTHETICAL" polarity="POS" start="1221" text="her prothrombin time" type="TEST"/>
+<EVENT end="1278" id="E27" modality="HYPOTHETICAL" polarity="NEG" start="1251" text="come into therapeutic range" type="OCCURRENCE"/>
+<EVENT end="1302" id="E28" modality="PROPOSED" polarity="POS" start="1295" text="surgery" type="TREATMENT"/>
+<EVENT end="1317" id="E6" modality="HYPOTHETICAL" polarity="POS" start="1310" text="delayed" type="OCCURRENCE"/>
+<EVENT end="177" id="E9" modality="PROPOSED" polarity="POS" start="134" text="Mitral and possibly tricuspid valve surgery" type="TREATMENT"/>
+<EVENT end="35" id="E7" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="281" id="E5" modality="FACTUAL" polarity="POS" start="260" text="the discharge summary" type="EVIDENTIAL"/>
+<EVENT end="325" id="E10" modality="FACTUAL" polarity="POS" start="317" text="admitted" type="OCCURRENCE"/>
+<EVENT end="376" id="E11" modality="FACTUAL" polarity="POS" start="334" text="a neuro-interventional radiology procedure" type="TREATMENT"/>
+<EVENT end="416" id="E12" modality="HYPOTHETICAL" polarity="POS" start="407" text="epistaxis" type="PROBLEM"/>
+<EVENT end="428" id="E13" modality="FACTUAL" polarity="POS" start="420" text="Coumadin" type="TREATMENT"/>
+<EVENT end="493" id="E1" modality="FACTUAL" polarity="POS" start="449" text="The interventional neuro-radiology procedure" type="TREATMENT"/>
+<EVENT end="649" id="E2" modality="FACTUAL" polarity="POS" start="640" text="embolized" type="TREATMENT"/>
+<EVENT end="697" id="E3" modality="FACTUAL" polarity="POS" start="689" text="occluded" type="PROBLEM"/>
+<EVENT end="730" id="E14" modality="FACTUAL" polarity="POS" start="719" text="collaterals" type="PROBLEM"/>
+<EVENT end="802" id="E15" modality="FACTUAL" polarity="NEG" start="773" text="embolization on the left side" type="TREATMENT"/>
+<EVENT end="851" id="E16" modality="FACTUAL" polarity="POS" start="843" text="Coumadin" type="TREATMENT"/>
+<EVENT end="901" id="E17" modality="FACTUAL" polarity="POS" start="888" text="the procedure" type="TREATMENT"/>
+<EVENT end="921" id="E18" modality="FACTUAL" polarity="POS" start="911" text="discharged" type="OCCURRENCE"/>
+<EVENT end="957" id="E19" modality="PROPOSED" polarity="POS" start="937" text="Her prothrombin time" type="TEST"/>
+<RTIMEX3 end="1180" id="T8" mod="NA" start="1169" text="September 1" type="DATE" val="1993-09-01"/>
+<ATIMEX3 end="25" id="T0" mod="NA" start="18" text="8/21/93" type="DATE" val="1993-08-21"/>
+<RTIMEX3 end="204" id="T4" mod="NA" start="195" text="Labor Day" type="DATE" val="1993-09-06"/>
+<RTIMEX3 end="294" id="T1" mod="NA" start="285" text="August 10" type="DATE" val="1993-08-10"/>
+<ATIMEX3 end="50" id="T3" mod="NA" start="43" text="8/23/93" type="DATE" val="1993-08-23"/>
+<RTIMEX3 end="539" id="T5" mod="NA" start="530" text="August 22" type="DATE" val="1993-08-22"/>
+<RTIMEX3 end="901" id="T6" mod="END" start="866" text="the evening following the procedure" type="TIME" val="1993-08-22T19:00"/>
+<RTIMEX3 end="934" id="T7" mod="NA" start="922" text="the next day" type="DATE" val="1993-08-23"/>
+<RTIMEX3 end="988" id="T2" mod="NA" start="979" text="August 27" type="DATE" val="1993-08-27"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

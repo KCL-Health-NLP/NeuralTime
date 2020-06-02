@@ -1,0 +1,238 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+04/30/2005
+DISCHARGE DATE :
+5/14/05 05/14/2005
+HISTORY OF PRESENT ILLNESS :
+The patient is a pleasant 83-year-old retired psychiatrist who presents with a chief complaint of gait difficulty for the last five to six months .
+The patient has a history of laryngeal cancer in 2000 and 2001 , CVA in 2001 to 2002 and hypertension , who has a six month history of progressive difficulty in ambulation .
+The patient was in previously good health when he reports starting to notice problems ambulating about six months ago .
+His partner also reports that he has been having more difficulty with ADLs .
+He reported that he began with difficulty buttoning his shirt for many years since after a stroke but now reports that on occasion she would ask him why he was doing certain things and he could not give a concrete example .
+The patient was having a hard time walking and reports that he has felt weaker .
+He has had uncoordination of his feet and began having a cane four to five months ago with the increasing weakness .
+This was especially bad when trying to arise .
+The patient has seen his primary care physician who referred him to physical therapy for his gait weakness but his symptoms failed to improve .
+He continued to progress until two weeks prior to admission when he was found in the bathtub , unsteady and fell trying to steady himself .
+The patient could not be moved and had to have 911 called for help .
+Since that time he had been ambulating with a walker and has had increasing difficulty with falls in the last two weeks .
+The patient was again seen by his primary care physician and a CG scan revealed a mass in the right parietal lobe .
+The patient was referred to the Neurology Service for further workup of the mass .
+The patient denied blurry vision , headache , nausea , vomiting , paresthesias , pain in mental status , confusion or seizures .
+The patient is status post radiation therapy and resection and reconstruction for his laryngeal cancer .
+REVIEW OF SYSTEMS :
+Positive weakness , otherwise negative .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1032" id="E23" modality="FACTUAL" polarity="POS" start="1009" text="the increasing weakness" type="PROBLEM"/>
+<EVENT end="1058" id="E24" modality="FACTUAL" polarity="POS" start="1044" text="especially bad" type="OCCURRENCE"/>
+<EVENT end="1079" id="E25" modality="FACTUAL" polarity="POS" start="1064" text="trying to arise" type="OCCURRENCE"/>
+<EVENT end="1129" id="E26" modality="FACTUAL" polarity="POS" start="1098" text="seen his primary care physician" type="CLINICAL_DEPT"/>
+<EVENT end="1142" id="E27" modality="FACTUAL" polarity="POS" start="1134" text="referred" type="OCCURRENCE"/>
+<EVENT end="1166" id="E28" modality="PROPOSED" polarity="POS" start="1150" text="physical therapy" type="CLINICAL_DEPT"/>
+<EVENT end="1188" id="E29" modality="FACTUAL" polarity="POS" start="1171" text="his gait weakness" type="PROBLEM"/>
+<EVENT end="1205" id="E30" modality="FACTUAL" polarity="POS" start="1193" text="his symptoms" type="PROBLEM"/>
+<EVENT end="1223" id="E32" modality="FACTUAL" polarity="POS" start="1206" text="failed to improve" type="OCCURRENCE"/>
+<EVENT end="1250" id="E33" modality="FACTUAL" polarity="POS" start="1229" text="continued to progress" type="OCCURRENCE"/>
+<EVENT end="1285" id="E34" modality="FACTUAL" polarity="POS" start="1276" text="admission" type="OCCURRENCE"/>
+<EVENT end="1318" id="E35" modality="FACTUAL" polarity="POS" start="1298" text="found in the bathtub" type="OCCURRENCE"/>
+<EVENT end="1329" id="E36" modality="FACTUAL" polarity="POS" start="1321" text="unsteady" type="PROBLEM"/>
+<EVENT end="1363" id="E37" modality="FACTUAL" polarity="POS" start="1334" text="fell trying to steady himself" type="PROBLEM"/>
+<EVENT end="1396" id="E38" modality="FACTUAL" polarity="POS" start="1378" text="could not be moved" type="PROBLEM"/>
+<EVENT end="1473" id="E39" modality="FACTUAL" polarity="POS" start="1463" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="1487" id="E40" modality="FACTUAL" polarity="POS" start="1479" text="a walker" type="TREATMENT"/>
+<EVENT end="1532" id="E41" modality="FACTUAL" polarity="POS" start="1500" text="increasing difficulty with falls" type="PROBLEM"/>
+<EVENT end="1613" id="E42" modality="FACTUAL" polarity="POS" start="1579" text="seen by his primary care physician" type="CLINICAL_DEPT"/>
+<EVENT end="1627" id="E43" modality="FACTUAL" polarity="POS" start="1618" text="a CG scan" type="TEST"/>
+<EVENT end="1670" id="E44" modality="FACTUAL" polarity="POS" start="1637" text="a mass in the right parietal lobe" type="PROBLEM"/>
+<EVENT end="1697" id="E45" modality="FACTUAL" polarity="POS" start="1689" text="referred" type="OCCURRENCE"/>
+<EVENT end="1722" id="E46" modality="FACTUAL" polarity="POS" start="1701" text="the Neurology Service" type="CLINICAL_DEPT"/>
+<EVENT end="1741" id="E47" modality="FACTUAL" polarity="POS" start="1727" text="further workup" type="TEST"/>
+<EVENT end="1753" id="E48" modality="FACTUAL" polarity="POS" start="1745" text="the mass" type="PROBLEM"/>
+<EVENT end="1774" id="E50" modality="FACTUAL" polarity="POS" start="1768" text="denied" type="EVIDENTIAL"/>
+<EVENT end="1788" id="E49" modality="FACTUAL" polarity="NEG" start="1775" text="blurry vision" type="PROBLEM"/>
+<EVENT end="1799" id="E51" modality="FACTUAL" polarity="NEG" start="1791" text="headache" type="PROBLEM"/>
+<EVENT end="1808" id="E52" modality="FACTUAL" polarity="NEG" start="1802" text="nausea" type="PROBLEM"/>
+<EVENT end="1819" id="E53" modality="FACTUAL" polarity="NEG" start="1811" text="vomiting" type="PROBLEM"/>
+<EVENT end="1834" id="E54" modality="FACTUAL" polarity="NEG" start="1822" text="paresthesias" type="PROBLEM"/>
+<EVENT end="1858" id="E55" modality="FACTUAL" polarity="NEG" start="1837" text="pain in mental status" type="PROBLEM"/>
+<EVENT end="1870" id="E56" modality="FACTUAL" polarity="NEG" start="1861" text="confusion" type="PROBLEM"/>
+<EVENT end="1882" id="E57" modality="FACTUAL" polarity="NEG" start="1874" text="seizures" type="PROBLEM"/>
+<EVENT end="207" id="E3" modality="FACTUAL" polarity="POS" start="192" text="gait difficulty" type="PROBLEM"/>
+<EVENT end="1929" id="E58" modality="FACTUAL" polarity="POS" start="1912" text="radiation therapy" type="TREATMENT"/>
+<EVENT end="1943" id="E59" modality="FACTUAL" polarity="POS" start="1934" text="resection" type="TREATMENT"/>
+<EVENT end="1962" id="E60" modality="FACTUAL" polarity="POS" start="1948" text="reconstruction" type="TREATMENT"/>
+<EVENT end="1987" id="E61" modality="FACTUAL" polarity="POS" start="1967" text="his laryngeal cancer" type="PROBLEM"/>
+<EVENT end="2027" id="E62" modality="FACTUAL" polarity="POS" start="2010" text="Positive weakness" type="PROBLEM"/>
+<EVENT end="2048" id="E63" modality="FACTUAL" polarity="POS" start="2040" text="negative" type="EVIDENTIAL"/>
+<EVENT end="287" id="E4" modality="FACTUAL" polarity="POS" start="271" text="laryngeal cancer" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="310" id="E5" modality="FACTUAL" polarity="POS" start="307" text="CVA" type="PROBLEM"/>
+<EVENT end="343" id="E6" modality="FACTUAL" polarity="POS" start="331" text="hypertension" type="PROBLEM"/>
+<EVENT end="413" id="E7" modality="FACTUAL" polarity="POS" start="377" text="progressive difficulty in ambulation" type="PROBLEM"/>
+<EVENT end="457" id="E8" modality="FACTUAL" polarity="POS" start="446" text="good health" type="OCCURRENCE"/>
+<EVENT end="473" id="E9" modality="FACTUAL" polarity="POS" start="466" text="reports" type="EVIDENTIAL"/>
+<EVENT end="512" id="E10" modality="FACTUAL" polarity="POS" start="493" text="problems ambulating" type="PROBLEM"/>
+<EVENT end="560" id="E11" modality="FACTUAL" polarity="POS" start="553" text="reports" type="EVIDENTIAL"/>
+<EVENT end="610" id="E12" modality="FACTUAL" polarity="POS" start="585" text="more difficulty with ADLs" type="PROBLEM"/>
+<EVENT end="624" id="E13" modality="FACTUAL" polarity="POS" start="616" text="reported" type="EVIDENTIAL"/>
+<EVENT end="674" id="E14" modality="FACTUAL" polarity="POS" start="644" text="difficulty buttoning his shirt" type="PROBLEM"/>
+<EVENT end="710" id="E15" modality="FACTUAL" polarity="POS" start="702" text="a stroke" type="PROBLEM"/>
+<EVENT end="726" id="E16" modality="FACTUAL" polarity="POS" start="719" text="reports" type="EVIDENTIAL"/>
+<EVENT end="834" id="E17" modality="FACTUAL" polarity="POS" start="811" text="give a concrete example" type="PROBLEM"/>
+<EVENT end="879" id="E18" modality="FACTUAL" polarity="POS" start="860" text="a hard time walking" type="PROBLEM"/>
+<EVENT end="891" id="E19" modality="FACTUAL" polarity="POS" start="884" text="reports" type="EVIDENTIAL"/>
+<EVENT end="915" id="E20" modality="FACTUAL" polarity="POS" start="904" text="felt weaker" type="PROBLEM"/>
+<EVENT end="955" id="E21" modality="FACTUAL" polarity="POS" start="929" text="uncoordination of his feet" type="PROBLEM"/>
+<EVENT end="979" id="E22" modality="FACTUAL" polarity="POS" start="973" text="a cane" type="TREATMENT"/>
+
+<RTIMEX3 end="1554" id="T12" mod="NA" start="1545" text="two weeks" type="DATE" val="p2w"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="04/30/2005" type="DATE" val="2005-04-30"/>
+<RTIMEX3 end="239" id="T2" mod="APPROX" start="221" text="five to six months" type="DATE" val="p5.5m"/>
+<ATIMEX3 end="295" id="T3" mod="NA" start="291" text="2000" type="DATE" val="2000"/>
+<ATIMEX3 end="304" id="T4" mod="NA" start="300" text="2001" type="DATE" val="2001"/>
+<ATIMEX3 end="318" id="T5" mod="NA" start="314" text="2001" type="DATE" val="2001"/>
+<ATIMEX3 end="326" id="T6" mod="NA" start="322" text="2002" type="DATE" val="2002"/>
+
+<RTIMEX3 end="533" id="T8" mod="NA" start="519" text="six months ago" type="DATE" val="2004-11"/>
+<ATIMEX3 end="64" id="T1" mod="NA" start="54" text="05/14/2005" type="DATE" val="2005-04-14"/>
+
+<RTIMEX3 end="1003" id="T10" mod="APPROX" start="980" text="four to five months ago" type="DATE" val="2004-12"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2005-04-30" end="28" id="S0" start="18" text="04/30/2005" type="ADMISSION"/>
+<SECTIME dvalue="2005-04-30" end="28" id="S0" start="18" text="04/30/2005" type="ADMISSION"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

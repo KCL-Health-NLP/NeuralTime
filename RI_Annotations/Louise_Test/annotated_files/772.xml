@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-03-04
+Discharge Date :
+2016-03-22
+Service :
+HISTORY OF PRESENT ILLNESS :
+HISTORY OF PRESENT ILLNESS :
+This is an 85 year old man initially admitted to the Plastic Surgery Service for evaluation of a left facial mass .
+Subsequently , CMED CCU was consulted and he was transferred to our Service postoperatively .
+HOSPITAL COURSE :
+He was initially admitted to CMED for resection and repair of this left facial lesion .
+He also had consults from Urology for his hematuria as well as Medicine preoperatively and CMED CCU .
+He went to the Operating Room on 2016-03-10 with Urology for hematuria where he had a cystoscopy transurethral resection of prostate placement .
+He then went to the Operating Room on 2016-03-14 where he had resection of the left face squamous cell cancer by Dr. Langhorne and split thickness and full thickness skin grafting of the defects on 2016-03-14 .
+He tolerated the procedure well with no complications except postoperatively , his voice was hoarse .
+On scoping him he had significant supraglottic edema .
+He was kept in the Unit for observation of his airway and b.i.d. laryngoscopy .
+This revealed some supraglottic edema which revealed with time , without further intervention .
+He was followed by Plastic Surgery for his split thickness skin graft and his bolster was discontinued on postoperative day #5 with good take up of his skin graft .
+Urology also followed him and kept him on antibiotics until postoperative day #7 at which point antibiotics were discontinued .
+His
+Foley was also discontinued .
+He is being discharged to rehabilitation to follow up for XRT given the fact that his pathology revealed squamous cell cancer extending deep to the margin as well as positive level II nodes .
+Dr. Navarrete has been e-mailed and his secretary contacted for as soon as possible appointment for XRT follow up .
+He should also follow up with Dr. Rankin and Dr. Langhorne .
+He is being discharged , most likely , to Falmouth Hospital .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1338" end="1358" text="postoperative day #5" type="DATE" relative="TRUE" val="2016-03-19" mod="NA" />
+<RTIMEX3 id="T7" start="1457" end="1477" text="postoperative day #7" type="DATE" relative="TRUE" val="2016-03-21" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="2016-03-04" type="DATE" val="2016-03-04" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2016-03-22" type="DATE" val="2016-03-22" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="576" end="586" text="2016-03-10" type="DATE" val="2016-03-10" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="726" end="736" text="2016-03-14" type="DATE" val="2016-03-14" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="886" end="896" text="2016-03-14" type="DATE" val="2016-03-14" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2016-03-04" type="ADMISSION" dvalue="2016-03-04" />
+<SECTIME id="S1" start="46" end="56" text="2016-03-22" type="DISCHARGE" dvalue="2016-03-22" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="postoperative day #5" toID="T4" toText="2016-03-14" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T7" fromText="postoperative day #7" toID="T4" toText="2016-03-14" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

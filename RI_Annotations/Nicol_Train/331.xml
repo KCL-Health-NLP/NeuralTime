@@ -1,0 +1,218 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+10/15/1999
+DISCHARGE DATE :
+10/18/1999
+HISTORY OF PRESENT ILLNESS :
+Mr. Factor is a 76 year old white male with acute inferior myocardial infarction , who was urgently transferred by Dr. Lenni Factor for cardiac catheterization and possible angioplasty .
+His only cardiac risk factor includes hypertension .
+The night of Oct 14 , 1999 the patient developed chest discomfort associated with shortness of breath .
+On October 15 , 1999 at 6 AM the patient was admitted to No Verlmerver Medical Center .
+An electrocardiogram showed acute inferior myocardial infarction .
+Due to unknown duration of the chest pain thepatient was transferred urgently to the TGCHO for cardiac catheterization .
+Shortly after Aggrastat was started , the patient became pain free .
+HOSPITAL COURSE AND TREATMENT :
+The patient was directly admitted to the cardiac catheterization laboratory .
+Coronary angiography , right heart catheterization and percutaneous intervention of the RCA were performed from the right groin without complications .
+The proximal RCA was totally occluded with good left to right collaterals .
+The LAD showed a 40% stenosis in the proximal segment .
+The circumflex showed mild atherosclerotic .
+The RCA occlusion was successfully dilated and sent using a 3.0 X 23 mm Duet with post stent dilatation up to 16 atmospheres .
+Following intervention right heart catheterization was performed to rule out RV infarct .
+The RA was 5 .
+PA was 19/7 with a mean of 13 .
+PCW was 11 .
+Of note there was a clear A wave in the RV tracing , suggestive of RV infarct .
+The next day the patient was quite confused and disoriented , which gradually disappeared .
+An echocardiogram was performed to evaluate the LV function , which showed an ejection fraction of 53% with inferoposteriorakinesis / hypokinesis .
+The next day the patient &apos;s mental status came back to baseline and he remained free of angina .
+ASHEE SHOULTSNER , M.D.
+Electronically Signed ASHEE SHOULTSNER , M.D.
+11/07/1999 11:06
+TR :
+ghu
+DD :
+10/18/1999
+TD :
+10/18/1999 10:59
+Acc :
+ASHEE SHOULTSNER , M.D. Dr. Lenni Factor No Verlmerver Medical Center Dr. Tomedankell Flowayles No Verlmerver Medical Center STAT
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1034" id="E11" modality="FACTUAL" polarity="NEG" start="1021" text="complications" type="PROBLEM"/>
+<EVENT end="1074" id="E12" modality="FACTUAL" polarity="POS" start="1058" text="totally occluded" type="PROBLEM"/>
+<EVENT end="1127" id="E35" modality="FACTUAL" polarity="POS" start="1121" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1166" id="E13" modality="FACTUAL" polarity="POS" start="1128" text="a 40% stenosis in the proximal segment" type="PROBLEM"/>
+<EVENT end="1190" id="E51" modality="FACTUAL" polarity="POS" start="1184" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1211" id="E14" modality="FACTUAL" polarity="POS" start="1191" text="mild atherosclerotic" type="PROBLEM"/>
+<EVENT end="1231" id="E15" modality="FACTUAL" polarity="POS" start="1214" text="The RCA occlusion" type="PROBLEM"/>
+<EVENT end="1256" id="E52" modality="FACTUAL" polarity="POS" start="1249" text="dilated" type="TREATMENT"/>
+<EVENT end="1265" id="E53" modality="FACTUAL" polarity="POS" start="1261" text="sent" type="OCCURRENCE"/>
+<EVENT end="1290" id="E16" modality="FACTUAL" polarity="POS" start="1272" text="a 3.0 X 23 mm Duet" type="TREATMENT"/>
+<EVENT end="166" id="E1" modality="FACTUAL" polarity="POS" start="130" text="acute inferior myocardial infarction" type="PROBLEM"/>
+<EVENT end="1317" id="E54" modality="FACTUAL" polarity="POS" start="1296" text="post stent dilatation" type="TREATMENT"/>
+<EVENT end="1363" id="E55" modality="FACTUAL" polarity="POS" start="1351" text="intervention" type="TREATMENT"/>
+<EVENT end="1391" id="E17" modality="FACTUAL" polarity="POS" start="1364" text="right heart catheterization" type="TEST"/>
+<EVENT end="1428" id="E56" modality="POSSIBLE" polarity="POS" start="1418" text="RV infarct" type="PROBLEM"/>
+<EVENT end="1437" id="E18" modality="FACTUAL" polarity="POS" start="1431" text="The RA" type="TEST"/>
+<EVENT end="1448" id="E19" modality="FACTUAL" polarity="POS" start="1446" text="PA" type="TEST"/>
+<EVENT end="1481" id="E21" modality="FACTUAL" polarity="POS" start="1478" text="PCW" type="TEST"/>
+<EVENT end="1523" id="E22" modality="FACTUAL" polarity="POS" start="1509" text="a clear A wave" type="PROBLEM"/>
+<EVENT end="1541" id="E23" modality="FACTUAL" polarity="POS" start="1527" text="the RV tracing" type="TEST"/>
+<EVENT end="1568" id="E24" modality="POSSIBLE" polarity="POS" start="1558" text="RV infarct" type="PROBLEM"/>
+<EVENT end="1614" id="E25" modality="FACTUAL" polarity="POS" start="1600" text="quite confused" type="PROBLEM"/>
+<EVENT end="1630" id="E26" modality="FACTUAL" polarity="POS" start="1619" text="disoriented" type="PROBLEM"/>
+<EVENT end="1660" id="E36" modality="FACTUAL" polarity="POS" start="1649" text="disappeared" type="OCCURRENCE"/>
+<EVENT end="1680" id="E27" modality="FACTUAL" polarity="POS" start="1663" text="An echocardiogram" type="TEST"/>
+<EVENT end="1706" id="E57" modality="FACTUAL" polarity="POS" start="1698" text="evaluate" type="OCCURRENCE"/>
+<EVENT end="1722" id="E28" modality="FACTUAL" polarity="POS" start="1707" text="the LV function" type="TEST"/>
+<EVENT end="1737" id="E37" modality="FACTUAL" polarity="POS" start="1731" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1758" id="E29" modality="FACTUAL" polarity="POS" start="1738" text="an ejection fraction" type="TEST"/>
+<EVENT end="1794" id="E30" modality="FACTUAL" polarity="POS" start="1771" text="inferoposteriorakinesis" type="PROBLEM"/>
+<EVENT end="1808" id="E31" modality="FACTUAL" polarity="POS" start="1797" text="hypokinesis" type="PROBLEM"/>
+<EVENT end="1857" id="E58" modality="FACTUAL" polarity="POS" start="1824" text="the patient 's mental status" type="PROBLEM"/>
+<EVENT end="197" id="E39" modality="FACTUAL" polarity="POS" start="186" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1910" id="E32" modality="FACTUAL" polarity="NEG" start="1904" text="angina" type="PROBLEM"/>
+<EVENT end="245" id="E40" modality="FACTUAL" polarity="POS" start="222" text="cardiac catheterization" type="TEST"/>
+<EVENT end="270" id="E41" modality="POSSIBLE" polarity="POS" start="259" text="angioplasty" type="TREATMENT"/>
+<EVENT end="38" id="E38" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="323" id="E2" modality="FACTUAL" polarity="POS" start="311" text="hypertension" type="PROBLEM"/>
+<EVENT end="374" id="E43" modality="FACTUAL" polarity="POS" start="365" text="developed" type="OCCURRENCE"/>
+<EVENT end="391" id="E3" modality="FACTUAL" polarity="POS" start="375" text="chest discomfort" type="PROBLEM"/>
+<EVENT end="427" id="E4" modality="FACTUAL" polarity="POS" start="408" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="483" id="E42" modality="FACTUAL" polarity="POS" start="475" text="admitted" type="OCCURRENCE"/>
+<EVENT end="515" id="E44" modality="FACTUAL" polarity="POS" start="487" text="No Verlmerver Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="538" id="E5" modality="FACTUAL" polarity="POS" start="518" text="An electrocardiogram" type="TEST"/>
+<EVENT end="545" id="E33" modality="FACTUAL" polarity="POS" start="539" text="showed" type="EVIDENTIAL"/>
+<EVENT end="582" id="E6" modality="FACTUAL" polarity="POS" start="546" text="acute inferior myocardial infarction" type="PROBLEM"/>
+<EVENT end="626" id="E45" modality="FACTUAL" polarity="POS" start="612" text="the chest pain" type="PROBLEM"/>
+<EVENT end="653" id="E46" modality="FACTUAL" polarity="POS" start="642" text="transferred" type="OCCURRENCE"/>
+<EVENT end="675" id="E47" modality="FACTUAL" polarity="POS" start="666" text="the TGCHO" type="CLINICAL_DEPT"/>
+<EVENT end="703" id="E48" modality="FACTUAL" polarity="POS" start="680" text="cardiac catheterization" type="TEST"/>
+<EVENT end="729" id="E7" modality="FACTUAL" polarity="POS" start="720" text="Aggrastat" type="TREATMENT"/>
+<EVENT end="767" id="E49" modality="FACTUAL" polarity="POS" start="763" text="pain" type="PROBLEM"/>
+<EVENT end="840" id="E34" modality="FACTUAL" polarity="POS" start="832" text="admitted" type="OCCURRENCE"/>
+<EVENT end="882" id="E50" modality="FACTUAL" polarity="POS" start="844" text="the cardiac catheterization laboratory" type="CLINICAL_DEPT"/>
+<EVENT end="905" id="E8" modality="FACTUAL" polarity="POS" start="885" text="Coronary angiography" type="TEST"/>
+<EVENT end="935" id="E9" modality="FACTUAL" polarity="POS" start="908" text="right heart catheterization" type="TEST"/>
+<EVENT end="976" id="E10" modality="FACTUAL" polarity="POS" start="940" text="percutaneous intervention of the RCA" type="TREATMENT"/>
+<RTIMEX3 end="1583" id="T1" mod="NA" start="1571" text="The next day" type="DATE" val="1999-10-16"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="10/15/1999" type="DATE" val="1999-10-15"/>
+<RTIMEX3 end="1823" id="T2" mod="NA" start="1811" text="The next day" type="DATE" val="1999-10-17"/>
+<RTIMEX3 end="352" id="T4" mod="END" start="339" text="Oct 14 , 1999" type="DATE" val="1999-10-14"/>
+<RTIMEX3 end="458" id="T5" mod="NA" start="433" text="October 15 , 1999 at 6 AM" type="TIME" val="1999-10-15T06:00"/>
+<ATIMEX3 end="56" id="T3" mod="NA" start="46" text="10/18/1999" type="DATE" val="1999-10-18"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1999-10-15" end="28" id="S0" start="18" text="10/15/1999" type="ADMISSION"/>
+<SECTIME dvalue="1999-10-18" end="56" id="S1" start="46" text="10/18/1999" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

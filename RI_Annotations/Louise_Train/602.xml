@@ -1,0 +1,427 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2011-06-10
+Discharge Date :
+2011-06-13
+Service :
+CMED CSRU
+HISTORY OF PRESENT ILLNESS :
+This is a 35-year-old gentleman with HIV on HAART with last CD4 count of 268 and undetectable viral load who was referred to the emergency room via his PCP for progressive throat pain and edema .
+His throat pain began 2 to 3 days prior to admission , initially treated with ibuprofen , seen in an outside hospital emergency room day prior to admission where he received IV penicillin and was sent home .
+In clinic today , the patient desaturated to low 90 s with ambulation and also had complaints of progressive swelling " like my throat is going to close up " with increasing drooling , unable to swallow the HIV medications .
+Also noted to have low-grade temperature of 99 to 100 degrees with productive cough and yellow sputum times 1 day with
+right ear pain .
+No subjective shortness of breath .
+The patient describes whole body numbness .
+He currently notes improvement in his throat pain after some Decadron and clindamycin .
+He was seen by CMED CSRU in the emergency room and the exam was consistent with supraglottitis .
+REVIEW OF SYSTEMS :
+Review of systems was negative for history of opportunistic infections or prior hospitalizations .
+Of note , his CD4 count was less than 200 last winter .
+He believes he is up-to-date on all his vaccines .
+HOSPITAL COURSE :
+This is a 35-year-old gentleman with HIV on HAART , last CD4 count 268 with undetectable viral load who was initially admitted to the CMED CSRU for supraglottitis with significant edema .
+PROBLEM LIST :
+1. Epiglottitis / supraglottitis .
+The patient was observed in the CMED CSRU for 48 hours and noted to have decrease in swelling on serial exams .
+He was followed by the CMED CSRU Service and was started on IV Decadron initially in addition to IV Unasyn , which he tolerated well .
+His edema was improving and was starting to tolerate p.o.
+His airway and symptoms continued to improve and remained stable .
+The patient was stable for transfer to the floor , was treated with over 72 hours of IV Unasyn , and then transitioned to oral regimen of Augmentin to be continued as an outpatient .
+Eventually , his IV steroids were transitioned to a p.o. steroid taper , which he tolerated well , and was discharged on a steroid taper also with CMED CSRU follow-up as an outpatient .
+His oxygenation and symptoms remained stable and again tolerated p.o. without difficulty .
+Eventually , as the patient remained hemodynamically stable , his airway remained stable , and he was tolerating PO s, he was transitioned to the floor where he remained otherwise stable and asymptomatic .
+His voice improved during the course of his stay and was talking clearly by the time of discharge .
+He remained afebrile during the course of his stay after transfer to the floor and per CMED CSRU was to be discharged on a 2-week course of Augmentin with follow-up with Dr. Thibodeau in 2 weeks ' time in addition to a Medrol Dosepak .
+1. HIV .
+Once , the patient was tolerating p.o. , the patient was restarted on his HAART regimen and remained stable from that perspective .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1020" id="E37" modality="FACTUAL" polarity="POS" start="1007" text="some Decadron" type="TREATMENT"/>
+<EVENT end="1036" id="E38" modality="FACTUAL" polarity="POS" start="1025" text="clindamycin" type="TREATMENT"/>
+<EVENT end="1050" id="E39" modality="FACTUAL" polarity="POS" start="1046" text="seen" type="OCCURRENCE"/>
+<EVENT end="1063" id="E40" modality="FACTUAL" polarity="POS" start="1054" text="CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="1085" id="E41" modality="FACTUAL" polarity="POS" start="1067" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="1098" id="E42" modality="FACTUAL" polarity="POS" start="1090" text="the exam" type="TEST"/>
+<EVENT end="1133" id="E43" modality="POSSIBLE" polarity="POS" start="1119" text="supraglottitis" type="PROBLEM"/>
+<EVENT end="1173" id="E44" modality="FACTUAL" polarity="POS" start="1156" text="Review of systems" type="TEST"/>
+<EVENT end="1226" id="E45" modality="FACTUAL" polarity="NEG" start="1202" text="opportunistic infections" type="PROBLEM"/>
+<EVENT end="1252" id="E46" modality="FACTUAL" polarity="NEG" start="1230" text="prior hospitalizations" type="OCCURRENCE"/>
+<EVENT end="1262" id="E47" modality="FACTUAL" polarity="POS" start="1258" text="note" type="EVIDENTIAL"/>
+<EVENT end="1278" id="E48" modality="FACTUAL" polarity="POS" start="1265" text="his CD4 count" type="TEST"/>
+<EVENT end="1359" id="E49" modality="POSSIBLE" polarity="POS" start="1347" text="his vaccines" type="TREATMENT"/>
+<EVENT end="1420" id="E50" modality="FACTUAL" polarity="POS" start="1417" text="HIV" type="PROBLEM"/>
+<EVENT end="146" id="E2" modality="FACTUAL" polarity="POS" start="143" text="HIV" type="PROBLEM"/>
+<EVENT end="1429" id="E51" modality="FACTUAL" polarity="POS" start="1424" text="HAART" type="TREATMENT"/>
+<EVENT end="1446" id="E52" modality="FACTUAL" polarity="POS" start="1432" text="last CD4 count" type="TEST"/>
+<EVENT end="1479" id="E53" modality="FACTUAL" polarity="NEG" start="1469" text="viral load" type="TEST"/>
+<EVENT end="155" id="E3" modality="FACTUAL" polarity="POS" start="150" text="HAART" type="TREATMENT"/>
+<EVENT end="1506" id="E54" modality="FACTUAL" polarity="POS" start="1498" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1523" id="E55" modality="FACTUAL" polarity="POS" start="1510" text="the CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="1542" id="E56" modality="FACTUAL" polarity="POS" start="1528" text="supraglottitis" type="PROBLEM"/>
+<EVENT end="1565" id="E57" modality="FACTUAL" polarity="POS" start="1548" text="significant edema" type="PROBLEM"/>
+<EVENT end="1598" id="E58" modality="FACTUAL" polarity="POS" start="1586" text="Epiglottitis" type="PROBLEM"/>
+<EVENT end="175" id="E4" modality="FACTUAL" polarity="POS" start="161" text="last CD4 count" type="TEST"/>
+<EVENT end="1615" id="E59" modality="FACTUAL" polarity="POS" start="1601" text="supraglottitis" type="PROBLEM"/>
+<EVENT end="1642" id="E60" modality="FACTUAL" polarity="POS" start="1634" text="observed" type="TEST"/>
+<EVENT end="1659" id="E61" modality="FACTUAL" polarity="POS" start="1646" text="the CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="1682" id="E62" modality="FACTUAL" polarity="POS" start="1677" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1699" id="E64" modality="FACTUAL" polarity="POS" start="1691" text="decrease" type="OCCURRENCE"/>
+<EVENT end="1711" id="E63" modality="FACTUAL" polarity="POS" start="1703" text="swelling" type="PROBLEM"/>
+<EVENT end="1727" id="E65" modality="FACTUAL" polarity="POS" start="1715" text="serial exams" type="TEST"/>
+<EVENT end="1745" id="E66" modality="FACTUAL" polarity="POS" start="1737" text="followed" type="OCCURRENCE"/>
+<EVENT end="1770" id="E67" modality="FACTUAL" polarity="POS" start="1749" text="the CMED CSRU Service" type="CLINICAL_DEPT"/>
+<EVENT end="1786" id="E68" modality="FACTUAL" polarity="POS" start="1779" text="started" type="OCCURRENCE"/>
+<EVENT end="1801" id="E69" modality="FACTUAL" polarity="POS" start="1790" text="IV Decadron" type="TREATMENT"/>
+<EVENT end="1836" id="E70" modality="FACTUAL" polarity="POS" start="1827" text="IV Unasyn" type="TREATMENT"/>
+<EVENT end="1862" id="E72" modality="FACTUAL" polarity="POS" start="1848" text="tolerated well" type="OCCURRENCE"/>
+<EVENT end="1874" id="E73" modality="FACTUAL" polarity="POS" start="1865" text="His edema" type="PROBLEM"/>
+<EVENT end="1888" id="E74" modality="FACTUAL" polarity="POS" start="1879" text="improving" type="EVIDENTIAL"/>
+<EVENT end="1922" id="E76" modality="FACTUAL" polarity="POS" start="1897" text="starting to tolerate p.o." type="OCCURRENCE"/>
+<EVENT end="1946" id="E77" modality="FACTUAL" polarity="POS" start="1938" text="symptoms" type="PROBLEM"/>
+<EVENT end="1967" id="E78" modality="FACTUAL" polarity="POS" start="1960" text="improve" type="EVIDENTIAL"/>
+<EVENT end="1987" id="E79" modality="FACTUAL" polarity="POS" start="1972" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="210" id="E5" modality="FACTUAL" polarity="POS" start="200" text="viral load" type="TEST"/>
+<EVENT end="2012" id="E80" modality="FACTUAL" polarity="POS" start="2006" text="stable" type="EVIDENTIAL"/>
+<EVENT end="2025" id="E81" modality="FACTUAL" polarity="POS" start="2017" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2038" id="E82" modality="FACTUAL" polarity="POS" start="2029" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2052" id="E83" modality="FACTUAL" polarity="POS" start="2045" text="treated" type="OCCURRENCE"/>
+<EVENT end="2084" id="E84" modality="FACTUAL" polarity="POS" start="2075" text="IV Unasyn" type="TREATMENT"/>
+<EVENT end="2108" id="E85" modality="FACTUAL" polarity="POS" start="2096" text="transitioned" type="OCCURRENCE"/>
+<EVENT end="2137" id="E86" modality="FACTUAL" polarity="POS" start="2128" text="Augmentin" type="TREATMENT"/>
+<EVENT end="2153" id="E87" modality="FACTUAL" polarity="POS" start="2144" text="continued" type="OCCURRENCE"/>
+<EVENT end="2201" id="E88" modality="FACTUAL" polarity="POS" start="2186" text="his IV steroids" type="TREATMENT"/>
+<EVENT end="227" id="E6" modality="FACTUAL" polarity="POS" start="219" text="referred" type="OCCURRENCE"/>
+<EVENT end="2219" id="E89" modality="FACTUAL" polarity="POS" start="2207" text="transitioned" type="OCCURRENCE"/>
+<EVENT end="2243" id="E90" modality="FACTUAL" polarity="POS" start="2223" text="a p.o. steroid taper" type="TREATMENT"/>
+<EVENT end="2269" id="E92" modality="FACTUAL" polarity="POS" start="2255" text="tolerated well" type="OCCURRENCE"/>
+<EVENT end="2269" id="E93" modality="FACTUAL" polarity="POS" start="2255" text="tolerated well" type="OCCURRENCE"/>
+<EVENT end="2290" id="E94" modality="FACTUAL" polarity="POS" start="2280" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2309" id="E95" modality="FACTUAL" polarity="POS" start="2294" text="a steroid taper" type="TREATMENT"/>
+<EVENT end="2329" id="E127" modality="PROPOSED" polarity="POS" start="2320" text="CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="2339" id="E128" modality="PROPOSED" polarity="POS" start="2330" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="249" id="E7" modality="FACTUAL" polarity="POS" start="231" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="2387" id="E98" modality="FACTUAL" polarity="POS" start="2379" text="symptoms" type="PROBLEM"/>
+<EVENT end="2403" id="E99" modality="FACTUAL" polarity="POS" start="2388" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="2428" id="E100" modality="FACTUAL" polarity="POS" start="2414" text="tolerated p.o." type="OCCURRENCE"/>
+<EVENT end="2447" id="E101" modality="FACTUAL" polarity="NEG" start="2437" text="difficulty" type="OCCURRENCE"/>
+<EVENT end="2509" id="E102" modality="FACTUAL" polarity="POS" start="2478" text="remained hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="2538" id="E103" modality="FACTUAL" polarity="POS" start="2512" text="his airway remained stable" type="OCCURRENCE"/>
+<EVENT end="2565" id="E104" modality="FACTUAL" polarity="POS" start="2552" text="tolerating PO" type="OCCURRENCE"/>
+<EVENT end="2588" id="E105" modality="FACTUAL" polarity="POS" start="2576" text="transitioned" type="OCCURRENCE"/>
+<EVENT end="261" id="E8" modality="FACTUAL" polarity="POS" start="254" text="his PCP" type="CLINICAL_DEPT"/>
+<EVENT end="2601" id="E106" modality="FACTUAL" polarity="POS" start="2592" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2636" id="E107" modality="FACTUAL" polarity="POS" start="2630" text="stable" type="EVIDENTIAL"/>
+<EVENT end="2653" id="E108" modality="FACTUAL" polarity="POS" start="2641" text="asymptomatic" type="PROBLEM"/>
+<EVENT end="289" id="E9" modality="FACTUAL" polarity="POS" start="266" text="progressive throat pain" type="PROBLEM"/>
+<EVENT end="2674" id="E109" modality="FACTUAL" polarity="POS" start="2656" text="His voice improved" type="PROBLEM"/>
+<EVENT end="2704" id="E110" modality="FACTUAL" polarity="POS" start="2682" text="the course of his stay" type="OCCURRENCE"/>
+<EVENT end="2728" id="E111" modality="FACTUAL" polarity="POS" start="2713" text="talking clearly" type="OCCURRENCE"/>
+<EVENT end="2753" id="E112" modality="FACTUAL" polarity="POS" start="2744" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2776" id="E113" modality="FACTUAL" polarity="POS" start="2768" text="afebrile" type="PROBLEM"/>
+<EVENT end="2806" id="E114" modality="FACTUAL" polarity="POS" start="2784" text="the course of his stay" type="OCCURRENCE"/>
+<EVENT end="2821" id="E115" modality="FACTUAL" polarity="POS" start="2813" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2834" id="E116" modality="FACTUAL" polarity="POS" start="2825" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2852" id="E117" modality="FACTUAL" polarity="POS" start="2843" text="CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="2873" id="E118" modality="FACTUAL" polarity="POS" start="2863" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2905" id="E119" modality="FACTUAL" polarity="POS" start="2896" text="Augmentin" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2920" id="E120" modality="PROPOSED" polarity="POS" start="2911" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="299" id="E10" modality="FACTUAL" polarity="POS" start="294" text="edema" type="PROBLEM"/>
+<EVENT end="2989" id="E121" modality="FACTUAL" polarity="POS" start="2973" text="a Medrol Dosepak" type="TREATMENT"/>
+<EVENT end="2998" id="E122" modality="FACTUAL" polarity="POS" start="2995" text="HIV" type="PROBLEM"/>
+<EVENT end="317" id="E11" modality="FACTUAL" polarity="POS" start="302" text="His throat pain" type="PROBLEM"/>
+<EVENT end="3039" id="E123" modality="FACTUAL" polarity="POS" start="3024" text="tolerating p.o." type="EVIDENTIAL"/>
+<EVENT end="3067" id="E124" modality="FACTUAL" polarity="POS" start="3058" text="restarted" type="OCCURRENCE"/>
+<EVENT end="3088" id="E125" modality="FACTUAL" polarity="POS" start="3071" text="his HAART regimen" type="TREATMENT"/>
+<EVENT end="3108" id="E126" modality="FACTUAL" polarity="POS" start="3093" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="354" id="E12" modality="FACTUAL" polarity="POS" start="345" text="admission" type="OCCURRENCE"/>
+<EVENT end="374" id="E13" modality="FACTUAL" polarity="POS" start="367" text="treated" type="OCCURRENCE"/>
+<EVENT end="389" id="E14" modality="FACTUAL" polarity="POS" start="380" text="ibuprofen" type="TREATMENT"/>
+<EVENT end="434" id="E15" modality="FACTUAL" polarity="POS" start="392" text="seen in an outside hospital emergency room" type="OCCURRENCE"/>
+<EVENT end="475" id="E18" modality="FACTUAL" polarity="POS" start="467" text="received" type="OCCURRENCE"/>
+<EVENT end="489" id="E17" modality="FACTUAL" polarity="POS" start="476" text="IV penicillin" type="TREATMENT"/>
+<EVENT end="507" id="E19" modality="FACTUAL" polarity="POS" start="498" text="sent home" type="OCCURRENCE"/>
+<EVENT end="551" id="E20" modality="FACTUAL" polarity="POS" start="540" text="desaturated" type="PROBLEM"/>
+<EVENT end="579" id="E21" modality="FACTUAL" polarity="POS" start="569" text="ambulation" type="OCCURRENCE"/>
+<EVENT end="603" id="E22" modality="FACTUAL" polarity="POS" start="593" text="complaints" type="EVIDENTIAL"/>
+<EVENT end="627" id="E23" modality="FACTUAL" polarity="POS" start="607" text="progressive swelling" type="PROBLEM"/>
+<EVENT end="692" id="E24" modality="FACTUAL" polarity="POS" start="673" text="increasing drooling" type="PROBLEM"/>
+<EVENT end="712" id="E25" modality="FACTUAL" polarity="NEG" start="705" text="swallow" type="OCCURRENCE"/>
+<EVENT end="732" id="E26" modality="FACTUAL" polarity="POS" start="713" text="the HIV medications" type="TREATMENT"/>
+<EVENT end="745" id="E27" modality="FACTUAL" polarity="POS" start="740" text="noted" type="EVIDENTIAL"/>
+<EVENT end="775" id="E28" modality="FACTUAL" polarity="POS" start="754" text="low-grade temperature" type="PROBLEM"/>
+<EVENT end="818" id="E29" modality="FACTUAL" polarity="POS" start="802" text="productive cough" type="PROBLEM"/>
+<EVENT end="836" id="E30" modality="FACTUAL" polarity="POS" start="823" text="yellow sputum" type="PROBLEM"/>
+<EVENT end="868" id="E31" modality="FACTUAL" polarity="POS" start="854" text="right ear pain" type="PROBLEM"/>
+<EVENT end="904" id="E32" modality="FACTUAL" polarity="NEG" start="874" text="subjective shortness of breath" type="PROBLEM"/>
+<EVENT end="948" id="E33" modality="FACTUAL" polarity="POS" start="929" text="whole body numbness" type="PROBLEM"/>
+<EVENT end="969" id="E34" modality="FACTUAL" polarity="POS" start="964" text="notes" type="EVIDENTIAL"/>
+<EVENT end="981" id="E35" modality="FACTUAL" polarity="POS" start="970" text="improvement" type="EVIDENTIAL"/>
+<EVENT end="1000" id="E36" modality="FACTUAL" polarity="POS" start="985" text="his throat pain" type="PROBLEM"/>
+<RTIMEX3 end="1308" id="T6" mod="END" start="1297" text="last winter" type="DATE" val="2010"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2011-06-10" type="DATE" val="2011-06-10"/>
+<ATIMEX3 end="2071" id="T8" mod="MORE" start="2063" text="72 hours" type="DATE" val="p72h"/>
+<RTIMEX3 end="2753" id="T9" mod="NA" start="2732" text="the time of discharge" type="DATE" val="2011-06-13"/>
+
+
+
+<RTIMEX3 end="438" id="T4" mod="NA" start="435" text="day" type="DATE" val="2011-06-09"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2011-06-13" type="DATE" val="2011-06-13"/>
+<RTIMEX3 end="525" id="T3" mod="NA" start="520" text="today" type="DATE" val="2011-06-10"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-06-10" end="28" id="S0" start="18" text="2011-06-10" type="ADMISSION"/>
+<SECTIME dvalue="2011-06-13" end="56" id="S1" start="46" text="2011-06-13" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

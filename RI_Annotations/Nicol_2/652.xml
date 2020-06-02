@@ -1,0 +1,177 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-01-03
+Discharge Date :
+2013-01-09
+Service :
+HISTORY OF PRESENT ILLNESS :
+HISTORY OF PRESENT ILLNESS :
+This is a 58 - year-old woman who was transferred from Shaugnessy-Kaplan Rehab Hospital Hospital for cardiac catheterization .
+The patient had a long history of hypertension , hypercholesterolemia , tobacco abuse , and family history of coronary artery disease , who was in the usual state of health until Saturday previous to admission when she experienced bilateral arm and chest discomfort while carrying groceries .
+Her symptoms resolved with rest .
+The same symptoms occurred again the same evening with exertion and then were again relieved with rest .
+The patient presented to the outside hospital Emergency Room where she was started on Aspirin , Lovenox and beta blocker .
+She ruled out for myocardial infarction by CPK and troponin and had non diagnostic EKG changes .
+She is being transferred to Arbour-Fuller Hospital for cardiac catheterization .
+Results of the catheterization indicated the patient had three vessel disease and was a candidate for coronary artery bypass graft .
+The patient went to the operating room , was admitted to go to the operating room on 2013-01-04 .
+Her risk factors : Hypertension , tobacco abuse ( one pack per day times 45 years ), family history ( father diagnosed with coronary artery disease in his 50 's, patient 's mother had coronary artery disease , patient 's brother has coronary artery disease ).
+Hypercholesterolemia ( total cholesterol on admission 300 's several years ago ).
+The patient denies any history of diabetes .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1062" id="E29" modality="FACTUAL" polarity="POS" start="1042" text="three vessel disease" type="PROBLEM"/>
+<EVENT end="1115" id="E30" modality="PROPOSED" polarity="POS" start="1087" text="coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="1156" id="E41" modality="FACTUAL" polarity="POS" start="1138" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1171" id="E42" modality="FACTUAL" polarity="POS" start="1163" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1199" id="E43" modality="FACTUAL" polarity="POS" start="1181" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1247" id="E33" modality="FACTUAL" polarity="POS" start="1235" text="Hypertension" type="PROBLEM"/>
+<EVENT end="1263" id="E32" modality="FACTUAL" polarity="POS" start="1250" text="tobacco abuse" type="PROBLEM"/>
+<EVENT end="1363" id="E31" modality="FACTUAL" polarity="POS" start="1340" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1423" id="E34" modality="FACTUAL" polarity="POS" start="1400" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1472" id="E35" modality="FACTUAL" polarity="POS" start="1449" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1496" id="E36" modality="FACTUAL" polarity="POS" start="1476" text="Hypercholesterolemia" type="PROBLEM"/>
+<EVENT end="1516" id="E37" modality="FACTUAL" polarity="POS" start="1499" text="total cholesterol" type="TEST"/>
+<EVENT end="1529" id="E38" modality="FACTUAL" polarity="POS" start="1520" text="admission" type="OCCURRENCE"/>
+<EVENT end="1576" id="E39" modality="FACTUAL" polarity="POS" start="1570" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1600" id="E40" modality="FACTUAL" polarity="NEG" start="1592" text="diabetes" type="PROBLEM"/>
+<EVENT end="174" id="E2" modality="FACTUAL" polarity="POS" start="163" text="transferred" type="OCCURRENCE"/>
+<EVENT end="221" id="E3" modality="FACTUAL" polarity="POS" start="180" text="Shaugnessy-Kaplan Rehab Hospital Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="249" id="E4" modality="FACTUAL" polarity="POS" start="226" text="cardiac catheterization" type="TEST"/>
+<EVENT end="298" id="E5" modality="FACTUAL" polarity="POS" start="286" text="hypertension" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="321" id="E6" modality="FACTUAL" polarity="POS" start="301" text="hypercholesterolemia" type="PROBLEM"/>
+<EVENT end="337" id="E7" modality="FACTUAL" polarity="POS" start="324" text="tobacco abuse" type="PROBLEM"/>
+<EVENT end="385" id="E8" modality="FACTUAL" polarity="POS" start="362" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="424" id="E9" modality="FACTUAL" polarity="POS" start="399" text="the usual state of health" type="OCCURRENCE"/>
+<EVENT end="461" id="E10" modality="FACTUAL" polarity="POS" start="452" text="admission" type="OCCURRENCE"/>
+<EVENT end="517" id="E11" modality="FACTUAL" polarity="POS" start="483" text="bilateral arm and chest discomfort" type="PROBLEM"/>
+<EVENT end="557" id="E12" modality="FACTUAL" polarity="POS" start="545" text="Her symptoms" type="PROBLEM"/>
+<EVENT end="576" id="E13" modality="FACTUAL" polarity="POS" start="572" text="rest" type="TREATMENT"/>
+<EVENT end="596" id="E14" modality="FACTUAL" polarity="POS" start="579" text="The same symptoms" type="PROBLEM"/>
+<EVENT end="681" id="E15" modality="FACTUAL" polarity="POS" start="677" text="rest" type="TREATMENT"/>
+<EVENT end="705" id="E16" modality="FACTUAL" polarity="POS" start="696" text="presented" type="OCCURRENCE"/>
+<EVENT end="744" id="E17" modality="FACTUAL" polarity="POS" start="709" text="the outside hospital Emergency Room" type="CLINICAL_DEPT"/>
+<EVENT end="777" id="E18" modality="FACTUAL" polarity="POS" start="770" text="Aspirin" type="TREATMENT"/>
+<EVENT end="787" id="E19" modality="FACTUAL" polarity="POS" start="780" text="Lovenox" type="TREATMENT"/>
+<EVENT end="804" id="E20" modality="FACTUAL" polarity="POS" start="792" text="beta blocker" type="TREATMENT"/>
+<EVENT end="846" id="E21" modality="FACTUAL" polarity="NEG" start="825" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="853" id="E22" modality="FACTUAL" polarity="POS" start="850" text="CPK" type="TEST"/>
+<EVENT end="866" id="E23" modality="FACTUAL" polarity="POS" start="858" text="troponin" type="TEST"/>
+<EVENT end="901" id="E24" modality="FACTUAL" polarity="POS" start="875" text="non diagnostic EKG changes" type="PROBLEM"/>
+<EVENT end="928" id="E25" modality="FACTUAL" polarity="POS" start="917" text="transferred" type="OCCURRENCE"/>
+<EVENT end="954" id="E26" modality="FACTUAL" polarity="POS" start="932" text="Arbour-Fuller Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="982" id="E27" modality="FACTUAL" polarity="POS" start="959" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1015" id="E28" modality="FACTUAL" polarity="POS" start="996" text="the catheterization" type="TEST"/>
+<ATIMEX3 end="1213" id="T4" mod="NA" start="1203" text="2013-01-04" type="DATE" val="2013-01-04"/>
+
+
+<RTIMEX3 end="1554" id="T7" mod="APPROX" start="1537" text="several years ago" type="DATE" val="2010-01-03"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-01-03" type="DATE" val="2013-01-03"/>
+<RTIMEX3 end="439" id="T2" mod="NA" start="431" text="Saturday" type="DATE" val="2012-12-29"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2013-01-09" type="DATE" val="2013-01-09"/>
+<RTIMEX3 end="628" id="T3" mod="END" start="612" text="the same evening" type="DATE" val="2012-12-29"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-01-03" end="28" id="S0" start="18" text="2013-01-03" type="ADMISSION"/>
+<SECTIME dvalue="2013-01-09" end="56" id="S1" start="46" text="2013-01-09" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

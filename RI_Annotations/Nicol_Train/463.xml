@@ -1,0 +1,378 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+03/03/1999
+Discharge Date :
+03/08/1999
+HISTORY OF PRESENT ILLNESS :
+Mr. Prehekote is an 88-year-old Portuguese speaking only male who was diagnosed with adenocarcinoma of the prostate in 1998 .
+He received transurethral resection of the prostate one year ago because of persistent urinary retention .
+After that , he was on Lupron and Nilandron hormone therapy .
+The patient was admitted on February 23 , 1999 to Eifro Medical Center because of failure to thrive and decreased hematocrit .
+He was noted to have elevated BUN and creatinine .
+BUN was 34 and creatinine was 2.6 , up from his baseline of 1.0 .
+Prostate specific antigen increased from 77.9 to 88 , and the patient also had urinary incontinence and body weight loss .
+Further evaluation of his renal failure showed that the patient has bilateral hydronephrosis , most likely obstructive uropathy due to prostate CA in the pelvic area .
+Because of the increasing creatinine to 8.0 on February 28 , 1999 , a left nephrostomy tube was placed .
+However after the procedure , the patient &apos;s hematocrit dropped to 24 and he was transfused two units of packed red blood cells .
+His hematocrit increased to about 30 , but he continued to have hematuria and his renal function only improved very slowly .
+He also received Kayexalate for hyperkalemia .
+Due to the persistent blood in the urine , he was transferred from Eifro Medical Center to the Retelk County Medical Center for angiographic studies to rule out any vascular injuries .
+The patient was transferred to Genearocktemp Ry Health on March 3 , 1999 .
+REVIEW OF SYSTEMS :
+The patient had constipation with dysuria , but no fever or chills .
+No cough .
+No chest pain .
+No palpitations , history of epigastric pain and body weight loss .
+No headache .
+No bone pain .
+HOSPITAL COURSE :
+After admission , urology , nephrology as well as interventional radiology was consulted about the management of this patient .
+The specialist concluded that because the patient &apos;s hematuria seemed to be stable and hematocrit to maintain at about 29-30 , there is no urgent need to do an arteriogram which may cause further damage to the patient &apos;s kidney .
+Urology consultation thinks that cystoscopy would not add any benefit to the management and only would consider a right nephrostomy if renal function failed to improve .
+After admission , the patient was treated conservatively to correct his electrolyte and metabolic acidosis .
+He was given blood transfusion , two units when his hematocrit dropped to 29.4 .
+After transfusion , the patient &apos;s hematocrit rose to 37.7 on the day of discharge .
+The patient was also given sodium bicarbonate to correct his metabolic acidosis .
+He continued to pass about 1500-2000 cc of urine a day and his renal function improved slowly with creatinine decreased to 4.2 on the day of discharge .
+During this admission , the patient also developed atrial fibrillation with ventricular rate of about 70-80 .
+CPK was tracked , but was totally normal .
+No beta blockers were given .
+A long discussion amongst the specialist , nephrology , urology , interventional radiology , primary oncology as well with the family lead to the conclusion that conservative management may give the patient more comfort than crisis treatment in this well advanced prostate CA .
+Dr. Lucreamull discussed the patient &apos;s clinical status and overall situation with the patient &apos;s family and the family decided that Mr. Prehekote could return home with hospice .
+The patient &apos;s primary care physician , Dr. Tomedankell Flowayles will manage the hospice issues .
+The patient was discharged to home for hospice on March 8 , 1999 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1048" id="E26" modality="FACTUAL" polarity="POS" start="1035" text="the procedure" type="TREATMENT"/>
+<EVENT end="1081" id="E27" modality="FACTUAL" polarity="POS" start="1051" text="the patient 's hematocrit" type="PROBLEM"/>
+<EVENT end="1117" id="E28" modality="FACTUAL" polarity="POS" start="1107" text="transfused" type="OCCURRENCE"/>
+<EVENT end="1170" id="E29" modality="FACTUAL" polarity="POS" start="1156" text="His hematocrit" type="TEST"/>
+<EVENT end="1229" id="E30" modality="FACTUAL" polarity="POS" start="1220" text="hematuria" type="PROBLEM"/>
+<EVENT end="1252" id="E31" modality="FACTUAL" polarity="POS" start="1234" text="his renal function" type="PROBLEM"/>
+<EVENT end="1266" id="E32" modality="FACTUAL" polarity="POS" start="1258" text="improved" type="OCCURRENCE"/>
+<EVENT end="1308" id="E33" modality="FACTUAL" polarity="POS" start="1298" text="Kayexalate" type="TREATMENT"/>
+<EVENT end="1325" id="E34" modality="FACTUAL" polarity="POS" start="1313" text="hyperkalemia" type="PROBLEM"/>
+<EVENT end="1368" id="E35" modality="FACTUAL" polarity="POS" start="1335" text="the persistent blood in the urine" type="PROBLEM"/>
+<EVENT end="1389" id="E36" modality="FACTUAL" polarity="POS" start="1378" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1415" id="E37" modality="FACTUAL" polarity="POS" start="1395" text="Eifro Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1451" id="E38" modality="FACTUAL" polarity="POS" start="1419" text="the Retelk County Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1476" id="E39" modality="FACTUAL" polarity="POS" start="1456" text="angiographic studies" type="TEST"/>
+<EVENT end="1510" id="E40" modality="CONDITIONAL" polarity="POS" start="1493" text="vascular injuries" type="PROBLEM"/>
+<EVENT end="1540" id="E41" modality="FACTUAL" polarity="POS" start="1529" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1567" id="E42" modality="FACTUAL" polarity="POS" start="1544" text="Genearocktemp Ry Health" type="CLINICAL_DEPT"/>
+<EVENT end="165" id="E4" modality="FACTUAL" polarity="POS" start="156" text="diagnosed" type="OCCURRENCE"/>
+<EVENT end="1636" id="E43" modality="FACTUAL" polarity="POS" start="1624" text="constipation" type="PROBLEM"/>
+<EVENT end="1649" id="E44" modality="FACTUAL" polarity="POS" start="1642" text="dysuria" type="PROBLEM"/>
+<EVENT end="1664" id="E45" modality="FACTUAL" polarity="NEG" start="1659" text="fever" type="PROBLEM"/>
+<EVENT end="1674" id="E46" modality="FACTUAL" polarity="NEG" start="1668" text="chills" type="PROBLEM"/>
+<EVENT end="1685" id="E47" modality="FACTUAL" polarity="NEG" start="1680" text="cough" type="PROBLEM"/>
+<EVENT end="1701" id="E48" modality="FACTUAL" polarity="NEG" start="1691" text="chest pain" type="PROBLEM"/>
+<EVENT end="201" id="E5" modality="FACTUAL" polarity="POS" start="171" text="adenocarcinoma of the prostate" type="PROBLEM"/>
+<EVENT end="1719" id="E49" modality="FACTUAL" polarity="NEG" start="1707" text="palpitations" type="PROBLEM"/>
+<EVENT end="1748" id="E50" modality="FACTUAL" polarity="POS" start="1733" text="epigastric pain" type="PROBLEM"/>
+<EVENT end="1769" id="E51" modality="FACTUAL" polarity="POS" start="1753" text="body weight loss" type="PROBLEM"/>
+<EVENT end="1783" id="E52" modality="FACTUAL" polarity="NEG" start="1775" text="headache" type="PROBLEM"/>
+<EVENT end="1798" id="E53" modality="FACTUAL" polarity="NEG" start="1789" text="bone pain" type="PROBLEM"/>
+<EVENT end="1834" id="E54" modality="FACTUAL" polarity="POS" start="1825" text="admission" type="OCCURRENCE"/>
+<EVENT end="1907" id="E55" modality="FACTUAL" polarity="POS" start="1898" text="consulted" type="OCCURRENCE"/>
+<EVENT end="1928" id="E56" modality="CONDITIONAL" polarity="POS" start="1914" text="the management" type="TREATMENT"/>
+<EVENT end="1971" id="E57" modality="FACTUAL" polarity="POS" start="1962" text="concluded" type="OCCURRENCE"/>
+<EVENT end="2014" id="E58" modality="FACTUAL" polarity="POS" start="1985" text="the patient 's hematuria" type="PROBLEM"/>
+<EVENT end="2049" id="E59" modality="PROPOSED" polarity="POS" start="2039" text="hematocrit" type="TEST"/>
+<EVENT end="2123" id="E60" modality="CONDITIONAL" polarity="NEG" start="2109" text="an arteriogram" type="TEST"/>
+<EVENT end="2184" id="E61" modality="CONDITIONAL" polarity="POS" start="2140" text="further damage to the patient 's kidney" type="PROBLEM"/>
+<EVENT end="2207" id="E62" modality="FACTUAL" polarity="POS" start="2187" text="Urology consultation" type="TEST"/>
+<EVENT end="2230" id="E63" modality="CONDITIONAL" polarity="NEG" start="2220" text="cystoscopy" type="TREATMENT"/>
+<EVENT end="263" id="E2" modality="FACTUAL" polarity="POS" start="224" text="transurethral resection of the prostate" type="TREATMENT"/>
+<EVENT end="2274" id="E64" modality="PROPOSED" polarity="POS" start="2260" text="the management" type="TREATMENT"/>
+<EVENT end="2318" id="E65" modality="CONDITIONAL" polarity="POS" start="2299" text="a right nephrostomy" type="TREATMENT"/>
+<EVENT end="2336" id="E66" modality="FACTUAL" polarity="POS" start="2322" text="renal function" type="PROBLEM"/>
+<EVENT end="2354" id="E67" modality="CONDITIONAL" polarity="NEG" start="2347" text="improve" type="OCCURRENCE"/>
+<EVENT end="2372" id="E68" modality="FACTUAL" polarity="POS" start="2363" text="admission" type="OCCURRENCE"/>
+<EVENT end="2413" id="E69" modality="FACTUAL" polarity="POS" start="2391" text="treated conservatively" type="TREATMENT"/>
+<EVENT end="2463" id="E70" modality="FACTUAL" polarity="POS" start="2425" text="his electrolyte and metabolic acidosis" type="PROBLEM"/>
+<EVENT end="2496" id="E71" modality="FACTUAL" polarity="POS" start="2479" text="blood transfusion" type="TREATMENT"/>
+<EVENT end="2528" id="E72" modality="FACTUAL" polarity="POS" start="2514" text="his hematocrit" type="TEST"/>
+<EVENT end="2564" id="E73" modality="FACTUAL" polarity="POS" start="2553" text="transfusion" type="TREATMENT"/>
+<EVENT end="2597" id="E74" modality="FACTUAL" polarity="POS" start="2567" text="the patient 's hematocrit" type="TEST"/>
+<EVENT end="2634" id="E75" modality="FACTUAL" polarity="POS" start="2625" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2682" id="E76" modality="FACTUAL" polarity="POS" start="2664" text="sodium bicarbonate" type="TREATMENT"/>
+<EVENT end="2716" id="E77" modality="FACTUAL" polarity="POS" start="2694" text="his metabolic acidosis" type="PROBLEM"/>
+<EVENT end="2767" id="E78" modality="FACTUAL" polarity="POS" start="2762" text="urine" type="OCCURRENCE"/>
+<EVENT end="2796" id="E79" modality="FACTUAL" polarity="POS" start="2778" text="his renal function" type="TEST"/>
+<EVENT end="2805" id="E80" modality="FACTUAL" polarity="POS" start="2797" text="improved" type="OCCURRENCE"/>
+<EVENT end="2828" id="E81" modality="FACTUAL" polarity="POS" start="2818" text="creatinine" type="TEST"/>
+<EVENT end="2869" id="E82" modality="FACTUAL" polarity="POS" start="2860" text="discharge" type="OCCURRENCE"/>
+<EVENT end="316" id="E3" modality="FACTUAL" polarity="POS" start="288" text="persistent urinary retention" type="PROBLEM"/>
+<EVENT end="2893" id="E83" modality="FACTUAL" polarity="POS" start="2879" text="this admission" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2942" id="E84" modality="FACTUAL" polarity="POS" start="2923" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="2964" id="E85" modality="FACTUAL" polarity="POS" start="2948" text="ventricular rate" type="TEST"/>
+<EVENT end="2985" id="E86" modality="FACTUAL" polarity="POS" start="2982" text="CPK" type="TEST"/>
+<EVENT end="3022" id="E87" modality="FACTUAL" polarity="POS" start="3016" text="normal" type="OCCURRENCE"/>
+<EVENT end="3041" id="E88" modality="FACTUAL" polarity="NEG" start="3028" text="beta blockers" type="TREATMENT"/>
+<EVENT end="3072" id="E89" modality="FACTUAL" polarity="POS" start="3055" text="A long discussion" type="OCCURRENCE"/>
+<EVENT end="3211" id="E90" modality="FACTUAL" polarity="POS" start="3197" text="the conclusion" type="OCCURRENCE"/>
+<EVENT end="3240" id="E91" modality="PROPOSED" polarity="POS" start="3217" text="conservative management" type="TREATMENT"/>
+<EVENT end="3296" id="E92" modality="CONDITIONAL" polarity="POS" start="3280" text="crisis treatment" type="TREATMENT"/>
+<EVENT end="3330" id="E93" modality="FACTUAL" polarity="POS" start="3300" text="this well advanced prostate CA" type="PROBLEM"/>
+<EVENT end="3357" id="E94" modality="FACTUAL" polarity="POS" start="3348" text="discussed" type="OCCURRENCE"/>
+<EVENT end="3393" id="E95" modality="FACTUAL" polarity="POS" start="3387" text="status" type="OCCURRENCE"/>
+<EVENT end="348" id="E6" modality="FACTUAL" polarity="POS" start="342" text="Lupron" type="TREATMENT"/>
+<EVENT end="3470" id="E98" modality="FACTUAL" polarity="POS" start="3463" text="decided" type="OCCURRENCE"/>
+<EVENT end="3507" id="E99" modality="PROPOSED" polarity="POS" start="3496" text="return home" type="OCCURRENCE"/>
+<EVENT end="3520" id="E100" modality="PROPOSED" polarity="POS" start="3513" text="hospice" type="TREATMENT"/>
+<EVENT end="378" id="E7" modality="FACTUAL" polarity="POS" start="353" text="Nilandron hormone therapy" type="TREATMENT"/>
+<EVENT end="3624" id="E101" modality="CONDITIONAL" polarity="POS" start="3606" text="the hospice issues" type="TREATMENT"/>
+<EVENT end="3653" id="E102" modality="FACTUAL" polarity="POS" start="3643" text="discharged" type="OCCURRENCE"/>
+<EVENT end="3661" id="E103" modality="FACTUAL" polarity="POS" start="3657" text="home" type="OCCURRENCE"/>
+<EVENT end="3673" id="E104" modality="PROPOSED" polarity="POS" start="3666" text="hospice" type="TREATMENT"/>
+<EVENT end="405" id="E8" modality="FACTUAL" polarity="POS" start="397" text="admitted" type="OCCURRENCE"/>
+<EVENT end="451" id="E9" modality="FACTUAL" polarity="POS" start="431" text="Eifro Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="480" id="E10" modality="FACTUAL" polarity="POS" start="463" text="failure to thrive" type="PROBLEM"/>
+<EVENT end="505" id="E11" modality="FACTUAL" polarity="POS" start="485" text="decreased hematocrit" type="PROBLEM"/>
+<EVENT end="541" id="E12" modality="FACTUAL" polarity="POS" start="529" text="elevated BUN" type="PROBLEM"/>
+<EVENT end="556" id="E13" modality="FACTUAL" polarity="POS" start="546" text="creatinine" type="TEST"/>
+<EVENT end="562" id="E14" modality="FACTUAL" polarity="POS" start="559" text="BUN" type="TEST"/>
+<EVENT end="584" id="E15" modality="FACTUAL" polarity="POS" start="574" text="creatinine" type="TEST"/>
+<EVENT end="650" id="E16" modality="FACTUAL" polarity="POS" start="625" text="Prostate specific antigen" type="TEST"/>
+<EVENT end="724" id="E17" modality="FACTUAL" polarity="POS" start="704" text="urinary incontinence" type="PROBLEM"/>
+<EVENT end="745" id="E18" modality="FACTUAL" polarity="POS" start="729" text="body weight loss" type="PROBLEM"/>
+<EVENT end="766" id="E19" modality="FACTUAL" polarity="POS" start="748" text="Further evaluation" type="TEST"/>
+<EVENT end="787" id="E20" modality="FACTUAL" polarity="POS" start="770" text="his renal failure" type="PROBLEM"/>
+<EVENT end="840" id="E21" modality="FACTUAL" polarity="POS" start="816" text="bilateral hydronephrosis" type="PROBLEM"/>
+<EVENT end="875" id="E22" modality="POSSIBLE" polarity="POS" start="855" text="obstructive uropathy" type="PROBLEM"/>
+<EVENT end="913" id="E23" modality="FACTUAL" polarity="POS" start="883" text="prostate CA in the pelvic area" type="PROBLEM"/>
+<EVENT end="952" id="E24" modality="FACTUAL" polarity="POS" start="927" text="the increasing creatinine" type="PROBLEM"/>
+<EVENT end="1007" id="E25" modality="FACTUAL" polarity="POS" start="984" text="a left nephrostomy tube" type="TREATMENT"/>
+<RTIMEX3 end="1585" id="T7" mod="NA" start="1571" text="March 3 , 1999" type="DATE" val="1999-03-03"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="03/03/1999" type="DATE" val="1999-03-03"/>
+<ATIMEX3 end="209" id="T2" mod="NA" start="205" text="1998" type="DATE" val="1998"/>
+<RTIMEX3 end="2634" id="T8" mod="NA" start="2614" text="the day of discharge" type="DATE" val="1999-03-08"/>
+<RTIMEX3 end="276" id="T3" mod="APPROX" start="264" text="one year ago" type="DATE" val="1998-03-03"/>
+<RTIMEX3 end="2869" id="T9" mod="NA" start="2849" text="the day of discharge" type="DATE" val="1999-03-08"/>
+<RTIMEX3 end="3691" id="T10" mod="NA" start="3677" text="March 8 , 1999" type="DATE" val="1999-03-08"/>
+<RTIMEX3 end="427" id="T5" mod="NA" start="409" text="February 23 , 1999" type="DATE" val="1999-02-23"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="03/08/1999" type="DATE" val="1999-03-08"/>
+<RTIMEX3 end="981" id="T6" mod="NA" start="963" text="February 28 , 1999" type="DATE" val="1999-02-28"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1999-03-03" end="28" id="S0" start="18" text="03/03/1999" type="ADMISSION"/>
+<SECTIME dvalue="1999-03-08" end="56" id="S1" start="46" text="03/08/1999" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

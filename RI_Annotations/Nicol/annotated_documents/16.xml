@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+02/21/1991
+Discharge Date :
+02/26/1991
+HISTORY OF PRESENT ILLNESS :
+The patient was a 63 year old female with long-standing history of polycythemia vera , managed medically , who on a routine follow-up examination complained of left side pain and had an ultrasound that demonstrated a complex left renal mass .
+A computerized tomography scan demonstrated a contrast enhancing complex left renal mass .
+Metastatic work-up was negative .
+The patient presented for nephrectomy .
+HOSPITAL COURSE :
+The patient was taken to the operating room by Dr. Suot N. Dragtente on 02-21-91 , where a left radical nephrectomy was performed .
+At operation , there was no gross adenopathy or renal vein involvement , and it was felt that the tumor was completely excised .
+The patient thereafter had a benign convalescence , and was discharged on the 5th postoperative day .
+The oncology fellows from Venbonlea Health followed her course and recommended holding off on her Hydrea while she is hospitalized , and they will follow her as an outpatient and restart her Hydrea when her hematocrit is over 40% .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T3" start="847" end="872" text="the 5th postoperative day" type="DATE" relative="TRUE" val="1991-02-26" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="02/21/1991" type="DATE" val="1991-02-21" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="02/26/1991" type="DATE" val="1991-02-26" mod="NA" />
+<ATIMEX3 id="T2" start="584" end="592" text="02-21-91" type="DATE" val="1991-02-21" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="02/21/1991" type="ADMISSION" dvalue="1991-02-21" />
+<SECTIME id="S1" start="46" end="56" text="02/26/1991" type="DISCHARGE" dvalue="1991-02-26" />
+<ANCHORLINK id="AN0" fromID="T3" fromText="the 5th postoperative day" toID="T2" toText="02-21-91" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

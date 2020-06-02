@@ -1,0 +1,133 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+03/30/97
+DISCHARGE DATE :
+04/01/97
+HISTORY OF PRESENT ILLNESS AND REASON FOR HOSPITALIZATION :
+The patient was a 108-year-old nursing home resident , who was admitted with a two-day history of increased respiratory secretions and a 24-hour history of elevated fever .
+Despite Augmentin , the patient &apos;s delirium worsened in the 24 hours prior to admission , and her temperature was up to 102 .
+She was refusing to take p.o.&apos;s .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted for treatment of a presumed aspiration pneumonia and for rehydration .
+She was started on Clindamycin and Ofloxacin at renal dose to cover the aspiration pneumonia and positive urine culture , which subsequently came back .
+She had some wheezing , which responded well to Albuterol nebulizers .
+She was generally doing well with resolution of her temperature until 4/1/97 at 9:20 P.M. , when she was noted to be unresponsive with fixed dilated pupils .
+She was certified dead at 9:20 P.M.
+MI CUCHSLI , M.D.
+TR :
+vgo
+DD :
+05/11/97
+TD :
+05/15/97 8:26
+Acc :
+MI CUCHSLI , M.D.
+cc :
+Nursing Director Pcaer,ter Medical Center Sco , Ohio
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="184" id="E18" modality="FACTUAL" polarity="POS" start="176" text="admitted" type="OCCURRENCE"/>
+<EVENT end="243" id="E19" modality="FACTUAL" polarity="POS" start="211" text="increased respiratory secretions" type="PROBLEM"/>
+<EVENT end="283" id="E20" modality="FACTUAL" polarity="POS" start="269" text="elevated fever" type="PROBLEM"/>
+<EVENT end="36" id="E17" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="303" id="E21" modality="FACTUAL" polarity="POS" start="294" text="Augmentin" type="TREATMENT"/>
+<EVENT end="334" id="E22" modality="FACTUAL" polarity="POS" start="306" text="the patient 's delirium" type="PROBLEM"/>
+<EVENT end="343" id="E23" modality="FACTUAL" polarity="POS" start="335" text="worsened" type="OCCURRENCE"/>
+<EVENT end="378" id="E24" modality="FACTUAL" polarity="POS" start="369" text="admission" type="OCCURRENCE"/>
+<EVENT end="400" id="E1" modality="FACTUAL" polarity="POS" start="385" text="her temperature" type="TEST"/>
+<EVENT end="433" id="E13" modality="FACTUAL" polarity="POS" start="425" text="refusing" type="OCCURRENCE"/>
+<EVENT end="453" id="E25" modality="FACTUAL" polarity="NEG" start="437" text="take p.o.'s" type="OCCURRENCE"/>
+<EVENT end="512" id="E14" modality="FACTUAL" polarity="POS" start="504" text="admitted" type="OCCURRENCE"/>
+<EVENT end="526" id="E2" modality="FACTUAL" polarity="POS" start="517" text="treatment" type="TREATMENT"/>
+<EVENT end="561" id="E3" modality="POSSIBLE" polarity="POS" start="541" text="aspiration pneumonia" type="PROBLEM"/>
+<EVENT end="581" id="E4" modality="FACTUAL" polarity="POS" start="570" text="rehydration" type="TREATMENT"/>
+<EVENT end="614" id="E5" modality="FACTUAL" polarity="POS" start="603" text="Clindamycin" type="TREATMENT"/>
+<EVENT end="628" id="E6" modality="FACTUAL" polarity="POS" start="619" text="Ofloxacin" type="TREATMENT"/>
+<EVENT end="676" id="E7" modality="FACTUAL" polarity="POS" start="652" text="the aspiration pneumonia" type="PROBLEM"/>
+<EVENT end="703" id="E8" modality="FACTUAL" polarity="POS" start="681" text="positive urine culture" type="PROBLEM"/>
+<EVENT end="734" id="E15" modality="FACTUAL" polarity="POS" start="725" text="came back" type="OCCURRENCE"/>
+<EVENT end="758" id="E26" modality="FACTUAL" polarity="POS" start="745" text="some wheezing" type="PROBLEM"/>
+<EVENT end="781" id="E27" modality="FACTUAL" polarity="POS" start="767" text="responded well" type="OCCURRENCE"/>
+<EVENT end="805" id="E9" modality="FACTUAL" polarity="POS" start="785" text="Albuterol nebulizers" type="TREATMENT"/>
+<EVENT end="836" id="E28" modality="FACTUAL" polarity="POS" start="832" text="well" type="OCCURRENCE"/>
+<EVENT end="852" id="E16" modality="FACTUAL" polarity="POS" start="842" text="resolution" type="OCCURRENCE"/>
+<EVENT end="871" id="E10" modality="FACTUAL" polarity="POS" start="856" text="her temperature" type="TEST"/>
+<EVENT end="918" id="E29" modality="FACTUAL" polarity="POS" start="913" text="noted" type="EVIDENTIAL"/>
+<EVENT end="937" id="E11" modality="FACTUAL" polarity="POS" start="925" text="unresponsive" type="PROBLEM"/>
+<EVENT end="963" id="E12" modality="FACTUAL" polarity="POS" start="943" text="fixed dilated pupils" type="PROBLEM"/>
+<EVENT end="988" id="E30" modality="FACTUAL" polarity="POS" start="974" text="certified dead" type="PROBLEM"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="03/30/97" type="DATE" val="1997-03-30"/>
+
+
+
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="04/01/97" type="DATE" val="1997-04-01"/>
+<ATIMEX3 end="897" id="T5" mod="NA" start="878" text="4/1/97 at 9:20 P.M." type="TIME" val="1997-04-01t17:20"/>
+<ATIMEX3 end="1001" id="T6" mod="NA" start="992" text="9:20 P.M." type="TIME" val="1997-04-01t17:20"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1997-03-30" end="26" id="S0" start="18" text="03/30/97" type="ADMISSION"/>
+<SECTIME dvalue="1997-04-01" end="52" id="S1" start="44" text="04/01/97" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

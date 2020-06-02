@@ -1,0 +1,136 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+10-27-93
+DISCHARGE DATE :
+11-1-93
+HISTORY OF PRESENT ILLNESS :
+This 68 year old white male who had a seven to eight year history of knee pain .
+In 1984 , he had the right knee aspirated and was noted to have some uric acid crystals , although serum uric acid was normal and erythrocyte sedimentation rate .
+He continued to have intermittent symptoms and was noted to have some fullness in the suprapatellar pouch .
+Plain films taken by his orthopedist in Mongcana Ster Staarv revealed some soft tissue calcification within the medial and lateral compartments of the joint .
+an magnetic resonance imaging study demonstrated calcification densities in the suprapatellar bursa region , also with hypertrophia of the synovium .
+It was felt that the patient had synovial chondromatosis and would benefit from an open synovectomy and debridement .
+He was admitted for that procedure .
+HOSPITAL COURSE :
+He underwent right knee open synovectomy and debridement of synovial chondromatosis on 10-28-93 .
+Postoperatively , he has done well .
+He is mobilized with the help of physical therapy , on a continuous passive motion machine .
+His discharge range of motion is from zero to 40 degrees .
+He was on pain medication and he was also on Percocet , but now he can manage without the Percocet .
+He is on Coumadin which is to be continued for six weeks .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1047" id="E29" modality="FACTUAL" polarity="POS" start="1038" text="done well" type="OCCURRENCE"/>
+<EVENT end="1065" id="E30" modality="FACTUAL" polarity="POS" start="1056" text="mobilized" type="OCCURRENCE"/>
+<EVENT end="1099" id="E15" modality="FACTUAL" polarity="POS" start="1083" text="physical therapy" type="TREATMENT"/>
+<EVENT end="1140" id="E16" modality="FACTUAL" polarity="POS" start="1105" text="a continuous passive motion machine" type="TREATMENT"/>
+<EVENT end="1156" id="E31" modality="FACTUAL" polarity="POS" start="1143" text="His discharge" type="OCCURRENCE"/>
+<EVENT end="1172" id="E32" modality="FACTUAL" polarity="POS" start="1157" text="range of motion" type="TEST"/>
+<EVENT end="1227" id="E17" modality="FACTUAL" polarity="POS" start="1212" text="pain medication" type="TREATMENT"/>
+<EVENT end="1255" id="E19" modality="FACTUAL" polarity="POS" start="1247" text="Percocet" type="TREATMENT"/>
+<EVENT end="1300" id="E33" modality="FACTUAL" polarity="NEG" start="1288" text="the Percocet" type="TREATMENT"/>
+<EVENT end="1320" id="E34" modality="FACTUAL" polarity="POS" start="1312" text="Coumadin" type="TREATMENT"/>
+<EVENT end="159" id="E22" modality="FACTUAL" polarity="POS" start="150" text="knee pain" type="PROBLEM"/>
+<EVENT end="203" id="E20" modality="FACTUAL" polarity="POS" start="194" text="aspirated" type="TREATMENT"/>
+<EVENT end="249" id="E1" modality="FACTUAL" polarity="POS" start="231" text="uric acid crystals" type="PROBLEM"/>
+<EVENT end="276" id="E2" modality="FACTUAL" polarity="POS" start="261" text="serum uric acid" type="TEST"/>
+<EVENT end="36" id="E21" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="322" id="E3" modality="FACTUAL" polarity="POS" start="292" text="erythrocyte sedimentation rate" type="TEST"/>
+<EVENT end="367" id="E23" modality="FACTUAL" polarity="POS" start="346" text="intermittent symptoms" type="PROBLEM"/>
+<EVENT end="430" id="E4" modality="FACTUAL" polarity="POS" start="390" text="some fullness in the suprapatellar pouch" type="PROBLEM"/>
+<EVENT end="444" id="E5" modality="FACTUAL" polarity="POS" start="433" text="Plain films" type="TEST"/>
+<EVENT end="502" id="E24" modality="FACTUAL" polarity="POS" start="494" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="533" id="E6" modality="FACTUAL" polarity="POS" start="503" text="some soft tissue calcification" type="PROBLEM"/>
+<EVENT end="627" id="E7" modality="FACTUAL" polarity="POS" start="592" text="an magnetic resonance imaging study" type="TEST"/>
+<EVENT end="640" id="E25" modality="FACTUAL" polarity="POS" start="628" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="698" id="E8" modality="FACTUAL" polarity="POS" start="641" text="calcification densities in the suprapatellar bursa region" type="PROBLEM"/>
+<EVENT end="739" id="E9" modality="FACTUAL" polarity="POS" start="711" text="hypertrophia of the synovium" type="PROBLEM"/>
+<EVENT end="798" id="E26" modality="POSSIBLE" polarity="POS" start="775" text="synovial chondromatosis" type="PROBLEM"/>
+<EVENT end="841" id="E10" modality="FACTUAL" polarity="POS" start="822" text="an open synovectomy" type="TREATMENT"/>
+<EVENT end="857" id="E11" modality="FACTUAL" polarity="POS" start="846" text="debridement" type="TREATMENT"/>
+<EVENT end="875" id="E27" modality="FACTUAL" polarity="POS" start="867" text="admitted" type="OCCURRENCE"/>
+<EVENT end="894" id="E28" modality="FACTUAL" polarity="POS" start="880" text="that procedure" type="TREATMENT"/>
+<EVENT end="955" id="E12" modality="FACTUAL" polarity="POS" start="928" text="right knee open synovectomy" type="TREATMENT"/>
+<EVENT end="971" id="E13" modality="FACTUAL" polarity="POS" start="960" text="debridement" type="TREATMENT"/>
+<EVENT end="998" id="E14" modality="FACTUAL" polarity="POS" start="975" text="synovial chondromatosis" type="PROBLEM"/>
+<ATIMEX3 end="1010" id="T4" mod="NA" start="1002" text="10-28-93" type="DATE" val="1993-10-28"/>
+
+
+<ATIMEX3 end="169" id="T3" mod="NA" start="165" text="1984" type="DATE" val="1984"/>
+<ATIMEX3 end="26" id="T1" mod="NA" start="18" text="10-27-93" type="DATE" val="1993-10-27"/>
+<ATIMEX3 end="51" id="T2" mod="NA" start="44" text="11-1-93" type="DATE" val="1993-11-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1993-10-27" end="26" id="S0" start="18" text="10-27-93" type="ADMISSION"/>
+<SECTIME dvalue="1993-11-1" end="51" id="S1" start="44" text="11-1-93" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

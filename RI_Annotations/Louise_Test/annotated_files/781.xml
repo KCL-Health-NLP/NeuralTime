@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+07/03/1999
+Discharge Date :
+EHC9
+HISTORY OF PRESENT ILLNESS :
+The patient is a 71-year-old police chief who presents with painless jaundice x1 day .
+The patient was generally in excellent health with a past medical history significant only for noninsulin dependent diabetes mellitus who was presented with painless jaundice x2 days .
+He also noted a 23 pound weight loss in the past 11 months despite having an increased appetite .
+The patient also complained of fatigue and &quot; feeling down &quot; .
+His wife noted personality changes with increased irritability .
+Patient denies night sweats in the past month .
+The patient denies melena , hematochezia , nausea , and abdominal pain .
+The patient states that he is occasionally constipated .
+Also denies tenesmus .
+On the day prior to admission , the patient &apos;s family noted that &quot; he looked yellow &quot; and presented to the Lorough Medical Center &apos;s Emergency Department this after noon .
+HOSPITAL COURSE :
+The patient presented to the Emergency Department with a complaint of painless jaundice , weight loss , and fatigue .
+Abdominal CT while in the Emergency Department revealed likely primary colorectal adenocarcinoma with multiple liver metastases .
+Hematocrit was 24 in the Emergency Department .
+The patient received two units of packed red blood cells and the hematocrit rose to 30 the following day .
+The patient was seen by both Gastroenterology and Oncology .
+Biopsy was taken at colonoscopy on 7/5/99 .
+Head CT was done with final results pending on discharge .
+The patient was to follow-up with the Petersly Hospital And Medical Center as an outpatient for further treatment .
+The patient is discharged to home .
+His condition is stable and he was discharged with the following medications :
+Iron 300 mg p.o. t.i.d. , Glucotrol , Acel 10 mg p.o. q.d. , and Bactrim SS 1 tablet p.o. b.i.d.
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T8" start="1381" end="1398" text="the following day" type="DATE" relative="TRUE" val="1999-07-04" mod="NA" />
+<RTIMEX3 id="T7" start="791" end="798" text="the day" type="DATE" relative="TRUE" val="1999-07-02" mod="NA" />
+<RTIMEX3 id="T2" start="962" end="977" text="this after noon" type="DATE" relative="TRUE" val="1999-07-03" mod="MIDDLE" />
+<ATIMEX3 id="T3" start="1497" end="1503" text="7/5/99" type="DATE" val="1999-07-05" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="07/03/1999" type="DATE" val="1999-07-03" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="07/03/1999" type="ADMISSION" dvalue="1999-07-03" />
+<ANCHORLINK id="AN0" fromID="T7" fromText="the day" toID="S0" toText="07/03/1999" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T2" fromText="this after noon" toID="S0" toText="07/03/1999" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T8" fromText="the following day" toID="S0" toText="07/03/1999" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

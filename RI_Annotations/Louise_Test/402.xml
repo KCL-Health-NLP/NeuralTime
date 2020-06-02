@@ -1,0 +1,609 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-02-18
+Discharge Date :
+2013-02-27
+Service :
+MEDICINE
+History of Present Illness :
+The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and nausea .
+She was found to have a R ureteral stone w/ resultant hydronephrosis and was transferred to Nantucket Cottage Hospital for ureteral stent placement .
+Her INR was found to be elevated when admitted and , in the course of waiting for this to normalize , the patient spiked a temperature to 105 and became hypotensive to the 70s .
+She was bolused w/out effect and had little response to neo so she was changed to levophed , given doses of cipro / vanco / gent and transferred to the CMED CSRU for management .
+In the CMED , urology was consulted and the patient received a R nephrostomy tube .
+However , tube placement was complicated by renal artery puncture , afib , and increased dyspnea .
+She was intubated for this hypoxia and treated with lasix , metoprolol , and diltiazem .
+She was weaned off her pressors on 02-21 and maintained her pressure w/out additional fluid boluses .
+Her sedation was weaned down and she was successfully extubated shortly thereafter .
+UCx grew proteus and her abx were changed to levaquin alone and she remained afebrile for > 24 hr on this regimen .
+She continued to have trouble with afib and required a dilt gtt on the day prior to call-out to control this rhythm but she was transitioned to PO diltiazem and has been in NSR since this time .
+She was restarted on heparin prior to d/c as a bridge to therapeutic coumadin anticoagulation .
+Brief Hospital Course :
+A/P :
+78 year old female with history of HTN , a.fib presenting with ureteral stone , hydronephrosis , and urosepsis .
+She originally had hypotension and a leukocytosis in the ER and was admitted to the CMED CCU .
+In the CMED , urology was consulted and the patient received a R nephrostomy tube .
+However , tube placement was complicated by renal artery puncture , afib , and increased dyspnea .
+She was intubated for this hypoxia and treated with lasix , metoprolol , and diltiazem .
+She was weaned off her pressors on 02-21 and maintained her pressure w/out additional fluid boluses .
+Her sedation was weaned down and she was successfully extubated shortly thereafter .
+UCx grew proteus and her abx were changed to levaquin alone and she remained afebrile for > 24hr on this regimen .
+She continued to have trouble with afib and required a dilt gtt on the day prior to call-out to control this rhythm but she was transitioned to PO diltiazem on the day of call-out .
+1. Sepsis - The patient was septic in the ER and her blood cultures eventually grew proteus .
+Her Bcx remained negative throughout her stay .
+She was treated with levaquin on the floor and will complete a 14d course at rehab .
+She has been afebrile since she was called out to the floor .
+2. Ureteral stone - The patient had a nephrostomy tube placed by IR to relieve her hydronephrosis .
+She was followed by urology during her stay and will see them again 2 wk after d/c for definitive treatment of her nephrolithiasis .
+At this time , urology will coordinate removal of her nephrostomy tube with IR .
+Her nephrostomy tube was draining clear yellow urine at the time of d/c .
+3. a.fib - The patient has a history of atrial fibrillation controlled with beta blockers at home .
+She was treated in the CMED as above .
+Once on the floor , the patient had one episode of afib w/ RVR that responded immediately to IV metoprolol .
+Because of this , the patient 's diltiazem was stopped and she was started on tid metoprolol .
+After this , the patient had no further problems with her rate control .
+She was maintained on a heparin gtt for bridge to coumadin while on the floor after this was cleared by IR and urology .
+She will be d/c w/out her heparin as she is trending upwards with her INR and has no MR Paul Paquettec heart disease .
+She will continue her coumadin at rehab to achieve an INR between 03-22 .
+4. delirium - The patient had troubles with agitation while in the CMED CCU .
+She received prn haldol w/ little effect and improved as her infection cleared .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1025" id="E92" modality="FACTUAL" polarity="POS" start="1019" text="weaned" type="OCCURRENCE"/>
+<EVENT end="1042" id="E93" modality="FACTUAL" polarity="POS" start="1030" text="her pressors" type="TREATMENT"/>
+<EVENT end="1066" id="E94" modality="FACTUAL" polarity="POS" start="1056" text="maintained" type="OCCURRENCE"/>
+<EVENT end="1079" id="E95" modality="FACTUAL" polarity="POS" start="1067" text="her pressure" type="OCCURRENCE"/>
+<EVENT end="1110" id="E96" modality="FACTUAL" polarity="NEG" start="1086" text="additional fluid boluses" type="TREATMENT"/>
+<EVENT end="1125" id="E97" modality="FACTUAL" polarity="POS" start="1113" text="Her sedation" type="TREATMENT"/>
+<EVENT end="1136" id="E98" modality="FACTUAL" polarity="POS" start="1130" text="weaned" type="OCCURRENCE"/>
+<EVENT end="1176" id="E99" modality="FACTUAL" polarity="POS" start="1167" text="extubated" type="TREATMENT"/>
+<EVENT end="1201" id="E101" modality="FACTUAL" polarity="POS" start="1198" text="UCx" type="TEST"/>
+<EVENT end="1214" id="E102" modality="FACTUAL" polarity="POS" start="1207" text="proteus" type="PROBLEM"/>
+<EVENT end="1226" id="E103" modality="FACTUAL" polarity="POS" start="1219" text="her abx" type="TREATMENT"/>
+<EVENT end="1239" id="E185" modality="FACTUAL" polarity="POS" start="1232" text="changed" type="OCCURRENCE"/>
+<EVENT end="1251" id="E104" modality="FACTUAL" polarity="POS" start="1243" text="levaquin" type="TREATMENT"/>
+<EVENT end="1274" id="E105" modality="FACTUAL" polarity="POS" start="1266" text="remained" type="OCCURRENCE"/>
+<EVENT end="1283" id="E106" modality="FACTUAL" polarity="POS" start="1275" text="afebrile" type="PROBLEM"/>
+<EVENT end="1311" id="E107" modality="FACTUAL" polarity="POS" start="1299" text="this regimen" type="TREATMENT"/>
+<EVENT end="1327" id="E108" modality="FACTUAL" polarity="POS" start="1318" text="continued" type="OCCURRENCE"/>
+<EVENT end="1353" id="E109" modality="FACTUAL" polarity="POS" start="1349" text="afib" type="PROBLEM"/>
+<EVENT end="1366" id="E110" modality="FACTUAL" polarity="POS" start="1358" text="required" type="OCCURRENCE"/>
+<EVENT end="1377" id="E10" modality="FACTUAL" polarity="POS" start="1367" text="a dilt gtt" type="TREATMENT"/>
+<EVENT end="1406" id="E137" modality="FACTUAL" polarity="POS" start="1398" text="call-out" type="OCCURRENCE"/>
+<EVENT end="1429" id="E111" modality="FACTUAL" polarity="POS" start="1418" text="this rhythm" type="PROBLEM"/>
+<EVENT end="1454" id="E112" modality="FACTUAL" polarity="POS" start="1442" text="transitioned" type="OCCURRENCE"/>
+<EVENT end="1470" id="E113" modality="FACTUAL" polarity="POS" start="1458" text="PO diltiazem" type="TREATMENT"/>
+<EVENT end="1490" id="E114" modality="FACTUAL" polarity="POS" start="1487" text="NSR" type="OCCURRENCE"/>
+<EVENT end="1526" id="E115" modality="FACTUAL" polarity="POS" start="1517" text="restarted" type="OCCURRENCE"/>
+<EVENT end="1537" id="E116" modality="FACTUAL" polarity="POS" start="1530" text="heparin" type="TREATMENT"/>
+<EVENT end="1550" id="E117" modality="FACTUAL" polarity="POS" start="1547" text="d/c" type="OCCURRENCE"/>
+<EVENT end="159" id="E61" modality="FACTUAL" polarity="POS" start="156" text="HTN" type="PROBLEM"/>
+<EVENT end="1602" id="E118" modality="FACTUAL" polarity="POS" start="1566" text="therapeutic coumadin anticoagulation" type="TREATMENT"/>
+<EVENT end="168" id="E62" modality="FACTUAL" polarity="POS" start="164" text="afib" type="PROBLEM"/>
+<EVENT end="1673" id="E119" modality="FACTUAL" polarity="POS" start="1670" text="HTN" type="PROBLEM"/>
+<EVENT end="1681" id="E120" modality="FACTUAL" polarity="POS" start="1676" text="a.fib" type="PROBLEM"/>
+<EVENT end="1692" id="E54" modality="FACTUAL" polarity="POS" start="1682" text="presenting" type="OCCURRENCE"/>
+<EVENT end="1712" id="E121" modality="FACTUAL" polarity="POS" start="1698" text="ureteral stone" type="PROBLEM"/>
+<EVENT end="1729" id="E122" modality="FACTUAL" polarity="POS" start="1715" text="hydronephrosis" type="PROBLEM"/>
+<EVENT end="182" id="E52" modality="FACTUAL" polarity="POS" start="173" text="presented" type="OCCURRENCE"/>
+<EVENT end="1745" id="E11" modality="FACTUAL" polarity="POS" start="1736" text="urosepsis" type="PROBLEM"/>
+<EVENT end="1778" id="E12" modality="FACTUAL" polarity="POS" start="1767" text="hypotension" type="PROBLEM"/>
+<EVENT end="1797" id="E13" modality="FACTUAL" polarity="POS" start="1783" text="a leukocytosis" type="PROBLEM"/>
+<EVENT end="1807" id="E123" modality="FACTUAL" polarity="POS" start="1801" text="the ER" type="CLINICAL_DEPT"/>
+<EVENT end="1824" id="E55" modality="FACTUAL" polarity="POS" start="1816" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1840" id="E124" modality="FACTUAL" polarity="POS" start="1828" text="the CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="1854" id="E125" modality="FACTUAL" polarity="POS" start="1846" text="the CMED" type="CLINICAL_DEPT"/>
+<EVENT end="1864" id="E126" modality="FACTUAL" polarity="POS" start="1857" text="urology" type="CLINICAL_DEPT"/>
+<EVENT end="192" id="E63" modality="FACTUAL" polarity="POS" start="186" text="an OSH" type="CLINICAL_DEPT"/>
+<EVENT end="1924" id="E14" modality="FACTUAL" polarity="POS" start="1904" text="a R nephrostomy tube" type="TREATMENT"/>
+<EVENT end="1951" id="E15" modality="FACTUAL" polarity="POS" start="1937" text="tube placement" type="TREATMENT"/>
+<EVENT end="1967" id="E127" modality="FACTUAL" polarity="POS" start="1956" text="complicated" type="OCCURRENCE"/>
+<EVENT end="206" id="E64" modality="FACTUAL" polarity="POS" start="196" text="complaints" type="OCCURRENCE"/>
+<EVENT end="1992" id="E16" modality="FACTUAL" polarity="POS" start="1971" text="renal artery puncture" type="PROBLEM"/>
+<EVENT end="1999" id="E128" modality="FACTUAL" polarity="POS" start="1995" text="afib" type="PROBLEM"/>
+<EVENT end="2023" id="E17" modality="FACTUAL" polarity="POS" start="2006" text="increased dyspnea" type="PROBLEM"/>
+<EVENT end="2043" id="E56" modality="FACTUAL" polarity="POS" start="2034" text="intubated" type="TREATMENT"/>
+<EVENT end="2060" id="E18" modality="FACTUAL" polarity="POS" start="2048" text="this hypoxia" type="PROBLEM"/>
+<EVENT end="2072" id="E186" modality="FACTUAL" polarity="POS" start="2065" text="treated" type="OCCURRENCE"/>
+<EVENT end="2083" id="E19" modality="FACTUAL" polarity="POS" start="2078" text="lasix" type="TREATMENT"/>
+<EVENT end="2096" id="E20" modality="FACTUAL" polarity="POS" start="2086" text="metoprolol" type="TREATMENT"/>
+<EVENT end="218" id="E65" modality="FACTUAL" polarity="POS" start="210" text="abd pain" type="PROBLEM"/>
+<EVENT end="2112" id="E21" modality="FACTUAL" polarity="POS" start="2103" text="diltiazem" type="TREATMENT"/>
+<EVENT end="2129" id="E129" modality="FACTUAL" polarity="POS" start="2123" text="weaned" type="OCCURRENCE"/>
+<EVENT end="2146" id="E130" modality="FACTUAL" polarity="POS" start="2134" text="her pressors" type="TREATMENT"/>
+<EVENT end="2170" id="E187" modality="FACTUAL" polarity="POS" start="2160" text="maintained" type="OCCURRENCE"/>
+<EVENT end="2183" id="E22" modality="FACTUAL" polarity="POS" start="2171" text="her pressure" type="TEST"/>
+<EVENT end="2214" id="E23" modality="FACTUAL" polarity="NEG" start="2190" text="additional fluid boluses" type="TREATMENT"/>
+<EVENT end="2229" id="E24" modality="FACTUAL" polarity="POS" start="2217" text="Her sedation" type="TREATMENT"/>
+<EVENT end="229" id="E66" modality="FACTUAL" polarity="POS" start="223" text="nausea" type="PROBLEM"/>
+<EVENT end="2245" id="E131" modality="FACTUAL" polarity="POS" start="2234" text="weaned down" type="OCCURRENCE"/>
+<EVENT end="2280" id="E132" modality="FACTUAL" polarity="POS" start="2271" text="extubated" type="TREATMENT"/>
+<EVENT end="2305" id="E25" modality="FACTUAL" polarity="POS" start="2302" text="UCx" type="TEST"/>
+<EVENT end="2318" id="E26" modality="FACTUAL" polarity="POS" start="2311" text="proteus" type="PROBLEM"/>
+<EVENT end="2330" id="E27" modality="FACTUAL" polarity="POS" start="2323" text="her abx" type="TREATMENT"/>
+<EVENT end="2343" id="E188" modality="FACTUAL" polarity="POS" start="2336" text="changed" type="OCCURRENCE"/>
+<EVENT end="2355" id="E133" modality="FACTUAL" polarity="POS" start="2347" text="levaquin" type="TREATMENT"/>
+<EVENT end="2387" id="E28" modality="FACTUAL" polarity="POS" start="2379" text="afebrile" type="PROBLEM"/>
+<EVENT end="2414" id="E134" modality="FACTUAL" polarity="POS" start="2402" text="this regimen" type="TREATMENT"/>
+<EVENT end="2456" id="E135" modality="FACTUAL" polarity="POS" start="2452" text="afib" type="PROBLEM"/>
+<EVENT end="2480" id="E29" modality="FACTUAL" polarity="POS" start="2470" text="a dilt gtt" type="TREATMENT"/>
+<EVENT end="2509" id="E136" modality="FACTUAL" polarity="POS" start="2501" text="call-out" type="OCCURRENCE"/>
+<EVENT end="2532" id="E138" modality="FACTUAL" polarity="POS" start="2521" text="this rhythm" type="PROBLEM"/>
+<EVENT end="272" id="E67" modality="FACTUAL" polarity="POS" start="254" text="a R ureteral stone" type="PROBLEM"/>
+<EVENT end="2557" id="E139" modality="FACTUAL" polarity="POS" start="2545" text="transitioned" type="OCCURRENCE"/>
+<EVENT end="2573" id="E30" modality="FACTUAL" polarity="POS" start="2561" text="PO diltiazem" type="TREATMENT"/>
+<EVENT end="2596" id="E140" modality="FACTUAL" polarity="POS" start="2588" text="call-out" type="OCCURRENCE"/>
+<EVENT end="2633" id="E32" modality="FACTUAL" polarity="POS" start="2627" text="septic" type="PROBLEM"/>
+<EVENT end="2643" id="E141" modality="FACTUAL" polarity="POS" start="2637" text="the ER" type="CLINICAL_DEPT"/>
+<EVENT end="2666" id="E33" modality="FACTUAL" polarity="POS" start="2648" text="her blood cultures" type="TEST"/>
+<EVENT end="2690" id="E34" modality="FACTUAL" polarity="POS" start="2683" text="proteus" type="PROBLEM"/>
+<EVENT end="2700" id="E35" modality="FACTUAL" polarity="POS" start="2693" text="Her Bcx" type="TEST"/>
+<EVENT end="2718" id="E142" modality="FACTUAL" polarity="POS" start="2710" text="negative" type="OCCURRENCE"/>
+<EVENT end="2738" id="E143" modality="FACTUAL" polarity="POS" start="2730" text="her stay" type="OCCURRENCE"/>
+<EVENT end="2770" id="E189" modality="FACTUAL" polarity="POS" start="2762" text="levaquin" type="TREATMENT"/>
+<EVENT end="2783" id="E144" modality="FACTUAL" polarity="POS" start="2774" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2823" id="E57" modality="FACTUAL" polarity="POS" start="2818" text="rehab" type="CLINICAL_DEPT"/>
+<EVENT end="2847" id="E36" modality="FACTUAL" polarity="POS" start="2839" text="afebrile" type="PROBLEM"/>
+<EVENT end="300" id="E68" modality="FACTUAL" polarity="POS" start="286" text="hydronephrosis" type="PROBLEM"/>
+<EVENT end="2868" id="E145" modality="FACTUAL" polarity="POS" start="2862" text="called" type="OCCURRENCE"/>
+<EVENT end="2885" id="E146" modality="FACTUAL" polarity="POS" start="2876" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="38" id="E60" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2942" id="E147" modality="FACTUAL" polarity="POS" start="2924" text="a nephrostomy tube" type="TREATMENT"/>
+<EVENT end="2955" id="E148" modality="FACTUAL" polarity="POS" start="2953" text="IR" type="CLINICAL_DEPT"/>
+<EVENT end="2985" id="E149" modality="FACTUAL" polarity="POS" start="2967" text="her hydronephrosis" type="PROBLEM"/>
+<EVENT end="3004" id="E190" modality="FACTUAL" polarity="POS" start="2996" text="followed" type="OCCURRENCE"/>
+<EVENT end="3015" id="E152" modality="FACTUAL" polarity="POS" start="3008" text="urology" type="CLINICAL_DEPT"/>
+<EVENT end="3031" id="E153" modality="FACTUAL" polarity="POS" start="3023" text="her stay" type="OCCURRENCE"/>
+<EVENT end="3095" id="E37" modality="FACTUAL" polarity="POS" start="3075" text="definitive treatment" type="TREATMENT"/>
+<EVENT end="320" id="E69" modality="FACTUAL" polarity="POS" start="309" text="transferred" type="OCCURRENCE"/>
+<EVENT end="3118" id="E154" modality="FACTUAL" polarity="POS" start="3099" text="her nephrolithiasis" type="PROBLEM"/>
+<EVENT end="3143" id="E191" modality="FACTUAL" polarity="POS" start="3136" text="urology" type="CLINICAL_DEPT"/>
+<EVENT end="3167" id="E38" modality="FACTUAL" polarity="POS" start="3160" text="removal" type="TREATMENT"/>
+<EVENT end="3191" id="E155" modality="FACTUAL" polarity="POS" start="3171" text="her nephrostomy tube" type="TREATMENT"/>
+<EVENT end="3199" id="E156" modality="FACTUAL" polarity="POS" start="3197" text="IR" type="CLINICAL_DEPT"/>
+<EVENT end="3222" id="E157" modality="FACTUAL" polarity="POS" start="3202" text="Her nephrostomy tube" type="TREATMENT"/>
+<EVENT end="3254" id="E159" modality="FACTUAL" polarity="POS" start="3227" text="draining clear yellow urine" type="OCCURRENCE"/>
+<EVENT end="350" id="E70" modality="FACTUAL" polarity="POS" start="324" text="Nantucket Cottage Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="3335" id="E160" modality="FACTUAL" polarity="POS" start="3316" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="3365" id="E162" modality="FACTUAL" polarity="POS" start="3352" text="beta blockers" type="TREATMENT"/>
+<EVENT end="3391" id="E163" modality="FACTUAL" polarity="POS" start="3384" text="treated" type="OCCURRENCE"/>
+<EVENT end="3403" id="E164" modality="FACTUAL" polarity="POS" start="3395" text="the CMED" type="CLINICAL_DEPT"/>
+<EVENT end="3432" id="E165" modality="FACTUAL" polarity="POS" start="3423" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="3470" id="E39" modality="FACTUAL" polarity="POS" start="3466" text="afib" type="PROBLEM"/>
+<EVENT end="3477" id="E40" modality="FACTUAL" polarity="POS" start="3474" text="RVR" type="PROBLEM"/>
+<EVENT end="3521" id="E41" modality="FACTUAL" polarity="POS" start="3508" text="IV metoprolol" type="TREATMENT"/>
+<EVENT end="3539" id="E166" modality="FACTUAL" polarity="POS" start="3535" text="this" type="OCCURRENCE"/>
+<EVENT end="379" id="E71" modality="FACTUAL" polarity="POS" start="355" text="ureteral stent placement" type="TREATMENT"/>
+<EVENT end="3566" id="E167" modality="FACTUAL" polarity="POS" start="3542" text="the patient 's diltiazem" type="TREATMENT"/>
+<EVENT end="3578" id="E168" modality="FACTUAL" polarity="POS" start="3571" text="stopped" type="OCCURRENCE"/>
+<EVENT end="3598" id="E169" modality="FACTUAL" polarity="POS" start="3591" text="started" type="OCCURRENCE"/>
+<EVENT end="3616" id="E192" modality="FACTUAL" polarity="POS" start="3606" text="metoprolol" type="TREATMENT"/>
+<EVENT end="3629" id="E170" modality="FACTUAL" polarity="POS" start="3625" text="this" type="OCCURRENCE"/>
+<EVENT end="3667" id="E43" modality="FACTUAL" polarity="NEG" start="3651" text="further problems" type="PROBLEM"/>
+<EVENT end="3689" id="E44" modality="FACTUAL" polarity="POS" start="3673" text="her rate control" type="TREATMENT"/>
+<EVENT end="3710" id="E171" modality="FACTUAL" polarity="POS" start="3700" text="maintained" type="OCCURRENCE"/>
+<EVENT end="3727" id="E45" modality="FACTUAL" polarity="POS" start="3714" text="a heparin gtt" type="TREATMENT"/>
+<EVENT end="3750" id="E172" modality="FACTUAL" polarity="POS" start="3742" text="coumadin" type="TREATMENT"/>
+<EVENT end="3769" id="E173" modality="FACTUAL" polarity="POS" start="3760" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="3780" id="E174" modality="FACTUAL" polarity="POS" start="3776" text="this" type="OCCURRENCE"/>
+<EVENT end="3792" id="E175" modality="FACTUAL" polarity="POS" start="3785" text="cleared" type="OCCURRENCE"/>
+<EVENT end="3798" id="E176" modality="FACTUAL" polarity="POS" start="3796" text="IR" type="CLINICAL_DEPT"/>
+<EVENT end="3810" id="E177" modality="FACTUAL" polarity="POS" start="3803" text="urology" type="CLINICAL_DEPT"/>
+<EVENT end="389" id="E1" modality="FACTUAL" polarity="POS" start="382" text="Her INR" type="TEST"/>
+<EVENT end="3828" id="E178" modality="FACTUAL" polarity="POS" start="3825" text="d/c" type="OCCURRENCE"/>
+<EVENT end="3846" id="E179" modality="FACTUAL" polarity="NEG" start="3835" text="her heparin" type="TREATMENT"/>
+<EVENT end="3886" id="E46" modality="FACTUAL" polarity="POS" start="3879" text="her INR" type="TEST"/>
+<EVENT end="3929" id="E47" modality="FACTUAL" polarity="NEG" start="3898" text="MR Paul Paquettec heart disease" type="PROBLEM"/>
+<EVENT end="3962" id="E180" modality="FACTUAL" polarity="POS" start="3950" text="her coumadin" type="TREATMENT"/>
+<EVENT end="3971" id="E58" modality="FACTUAL" polarity="POS" start="3966" text="rehab" type="CLINICAL_DEPT"/>
+<EVENT end="3989" id="E181" modality="PROPOSED" polarity="POS" start="3983" text="an INR" type="TEST"/>
+<EVENT end="4059" id="E49" modality="FACTUAL" polarity="POS" start="4050" text="agitation" type="PROBLEM"/>
+<EVENT end="414" id="E2" modality="FACTUAL" polarity="POS" start="406" text="elevated" type="PROBLEM"/>
+<EVENT end="4081" id="E182" modality="FACTUAL" polarity="POS" start="4069" text="the CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="4107" id="E50" modality="FACTUAL" polarity="POS" start="4097" text="prn haldol" type="TREATMENT"/>
+<EVENT end="4124" id="E183" modality="FACTUAL" polarity="POS" start="4111" text="little effect" type="OCCURRENCE"/>
+<EVENT end="4137" id="E184" modality="FACTUAL" polarity="POS" start="4129" text="improved" type="EVIDENTIAL"/>
+<EVENT end="4154" id="E51" modality="FACTUAL" polarity="POS" start="4141" text="her infection" type="PROBLEM"/>
+<EVENT end="4162" id="E59" modality="FACTUAL" polarity="POS" start="4155" text="cleared" type="OCCURRENCE"/>
+<EVENT end="428" id="E53" modality="FACTUAL" polarity="POS" start="420" text="admitted" type="OCCURRENCE"/>
+<EVENT end="516" id="E3" modality="FACTUAL" polarity="POS" start="503" text="a temperature" type="TEST"/>
+<EVENT end="546" id="E4" modality="FACTUAL" polarity="POS" start="535" text="hypotensive" type="PROBLEM"/>
+<EVENT end="575" id="E72" modality="FACTUAL" polarity="POS" start="568" text="bolused" type="TREATMENT"/>
+<EVENT end="588" id="E73" modality="FACTUAL" polarity="NEG" start="582" text="effect" type="OCCURRENCE"/>
+<EVENT end="612" id="E74" modality="FACTUAL" polarity="POS" start="604" text="response" type="OCCURRENCE"/>
+<EVENT end="619" id="E5" modality="FACTUAL" polarity="POS" start="616" text="neo" type="TREATMENT"/>
+<EVENT end="638" id="E75" modality="FACTUAL" polarity="POS" start="631" text="changed" type="OCCURRENCE"/>
+<EVENT end="650" id="E6" modality="FACTUAL" polarity="POS" start="642" text="levophed" type="TREATMENT"/>
+<EVENT end="673" id="E7" modality="FACTUAL" polarity="POS" start="668" text="cipro" type="TREATMENT"/>
+<EVENT end="681" id="E8" modality="FACTUAL" polarity="POS" start="676" text="vanco" type="TREATMENT"/>
+<EVENT end="688" id="E9" modality="FACTUAL" polarity="POS" start="684" text="gent" type="TREATMENT"/>
+<EVENT end="704" id="E76" modality="FACTUAL" polarity="POS" start="693" text="transferred" type="OCCURRENCE"/>
+<EVENT end="721" id="E77" modality="FACTUAL" polarity="POS" start="708" text="the CMED CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="736" id="E78" modality="FACTUAL" polarity="POS" start="726" text="management" type="TREATMENT"/>
+<EVENT end="750" id="E79" modality="FACTUAL" polarity="POS" start="742" text="the CMED" type="CLINICAL_DEPT"/>
+<EVENT end="760" id="E80" modality="FACTUAL" polarity="POS" start="753" text="urology" type="CLINICAL_DEPT"/>
+<EVENT end="820" id="E81" modality="FACTUAL" polarity="POS" start="800" text="a R nephrostomy tube" type="TREATMENT"/>
+<EVENT end="847" id="E82" modality="FACTUAL" polarity="POS" start="833" text="tube placement" type="TREATMENT"/>
+<EVENT end="888" id="E83" modality="FACTUAL" polarity="POS" start="867" text="renal artery puncture" type="PROBLEM"/>
+<EVENT end="895" id="E84" modality="FACTUAL" polarity="POS" start="891" text="afib" type="PROBLEM"/>
+<EVENT end="919" id="E85" modality="FACTUAL" polarity="POS" start="902" text="increased dyspnea" type="PROBLEM"/>
+<EVENT end="939" id="E86" modality="FACTUAL" polarity="POS" start="930" text="intubated" type="TREATMENT"/>
+<EVENT end="956" id="E87" modality="FACTUAL" polarity="POS" start="944" text="this hypoxia" type="PROBLEM"/>
+<EVENT end="968" id="E88" modality="FACTUAL" polarity="POS" start="961" text="treated" type="OCCURRENCE"/>
+<EVENT end="979" id="E89" modality="FACTUAL" polarity="POS" start="974" text="lasix" type="TREATMENT"/>
+<EVENT end="992" id="E90" modality="FACTUAL" polarity="POS" start="982" text="metoprolol" type="TREATMENT"/>
+<EVENT end="1008" id="E91" modality="FACTUAL" polarity="POS" start="999" text="diltiazem" type="TREATMENT"/>
+<ATIMEX3 end="1051" id="T4" mod="NA" start="1046" text="02-21" type="DATE" val="2013-02-21"/>
+
+<RTIMEX3 end="1388" id="T6" mod="NA" start="1381" text="the day" type="DATE" val="2013-02-17"/>
+<RTIMEX3 end="1506" id="T7" mod="NA" start="1497" text="this time" type="DATE" val="2013-02-18"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-02-18" type="DATE" val="2013-02-18"/>
+<ATIMEX3 end="2155" id="T9" mod="NA" start="2150" text="02-21" type="DATE" val="2013-02-21"/>
+
+<RTIMEX3 end="2491" id="T8" mod="NA" start="2484" text="the day" type="DATE" val="2013-02-17"/>
+<RTIMEX3 end="2584" id="T11" mod="NA" start="2577" text="the day" type="DATE" val="2013-02-18"/>
+
+<ATIMEX3 end="3060" id="T12" mod="NA" start="3056" text="2 wk" type="DATE" val="2013-03-13"/>
+<RTIMEX3 end="3133" id="T13" mod="NA" start="3124" text="this time" type="DATE" val="2013-03-13"/>
+<RTIMEX3 end="3273" id="T14" mod="NA" start="3258" text="the time of d/c" type="DATE" val="2013-02-27"/>
+
+
+<ATIMEX3 end="56" id="T3" mod="NA" start="46" text="2013-02-27" type="DATE" val="2013-02-27"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-02-18" end="28" id="S0" start="18" text="2013-02-18" type="ADMISSION"/>
+<SECTIME dvalue="2013-02-27" end="56" id="S1" start="46" text="2013-02-27" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,224 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2019-10-10
+Discharge Date :
+2019-10-19
+Service :
+ORTHOPAEDICS
+History of Present Illness :
+Mr. Steadman is a 25 year old man who was locked out of his apartment and tried to enter by climbing up two stories to get in by a window .
+He fell 15-20 feet onto concrete , denies any loss of consiousness .
+Brief Hospital Course :
+Mr. Steadman is a 25 year old man who presented to the The Hospital for Orthopedics on
+2019-10-10 via ambulance after falling 15-20 feet onto concrete .
+He was evaluated by the trauma surgery department and the orthopaedic surgery department .
+He was intoxicated and tachycardic in the trauma bay .
+His injuries were identified as a left elbow disloaction with was reduced and splinted .
+Also a left distal radius fracture with was reduced and splinted .
+Also a Left non displaced sacral wing fracture and left inferior pubic ramus fx extending the to inferior acetabulum .
+He was admitted to the trauma intensive care unit due to his tachycardia which was not resolved with pain medication .
+On 2019-10-11 he was started on lopressor for his tachycardia which had good effect .
+He was then transfered to the floor in the care of the orthopaedic surgery service .
+Also on 2019-10-11 he was taken to the operating room for an ORIF of his left distal radius fracture .
+His pelvis fracture are closed treated and he can be weight bearing as tolerated on his right leg and and nonweight bearing on his left leg .
+He tolerated the procedure without difficulty .
+He begain to work with physical therapy to improve his strenght and mobility .
+His heart rate continued to be well controlled with his lopressor .
+Throught the stay his labs remained normal and his pain controlled .
+He was discharged home in stable conditions .
+He was instructed to follow up with Dr. Conway in 2 weeks and an appointment was made on 11-15 for him at the Louis Schubert Community Health Center to follow his heart rate and continued need for lopressor .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E40" modality="FACTUAL" polarity="NEG" start="1003" text="resolved" type="OCCURRENCE"/>
+<EVENT end="1032" id="E9" modality="FACTUAL" polarity="POS" start="1017" text="pain medication" type="TREATMENT"/>
+<EVENT end="1076" id="E10" modality="FACTUAL" polarity="POS" start="1067" text="lopressor" type="TREATMENT"/>
+<EVENT end="1096" id="E11" modality="FACTUAL" polarity="POS" start="1081" text="his tachycardia" type="PROBLEM"/>
+<EVENT end="1118" id="E41" modality="FACTUAL" polarity="POS" start="1107" text="good effect" type="OCCURRENCE"/>
+<EVENT end="1143" id="E22" modality="FACTUAL" polarity="POS" start="1133" text="transfered" type="OCCURRENCE"/>
+<EVENT end="1156" id="E42" modality="FACTUAL" polarity="POS" start="1147" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="1259" id="E43" modality="FACTUAL" polarity="POS" start="1241" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1271" id="E12" modality="FACTUAL" polarity="POS" start="1264" text="an ORIF" type="TREATMENT"/>
+<EVENT end="1306" id="E13" modality="FACTUAL" polarity="POS" start="1275" text="his left distal radius fracture" type="PROBLEM"/>
+<EVENT end="1328" id="E14" modality="FACTUAL" polarity="POS" start="1309" text="His pelvis fracture" type="PROBLEM"/>
+<EVENT end="1347" id="E44" modality="FACTUAL" polarity="POS" start="1333" text="closed treated" type="TREATMENT"/>
+<EVENT end="1389" id="E45" modality="FACTUAL" polarity="POS" start="1362" text="weight bearing as tolerated" type="OCCURRENCE"/>
+<EVENT end="1432" id="E46" modality="FACTUAL" polarity="POS" start="1415" text="nonweight bearing" type="TREATMENT"/>
+<EVENT end="1477" id="E15" modality="FACTUAL" polarity="POS" start="1464" text="the procedure" type="TREATMENT"/>
+<EVENT end="1496" id="E47" modality="FACTUAL" polarity="POS" start="1486" text="difficulty" type="PROBLEM"/>
+<EVENT end="178" id="E25" modality="FACTUAL" polarity="POS" start="151" text="locked out of his apartment" type="OCCURRENCE"/>
+<EVENT end="1538" id="E48" modality="FACTUAL" polarity="POS" start="1512" text="work with physical therapy" type="TREATMENT"/>
+<EVENT end="1575" id="E49" modality="FACTUAL" polarity="POS" start="1542" text="improve his strenght and mobility" type="TREATMENT"/>
+<EVENT end="1592" id="E16" modality="FACTUAL" polarity="POS" start="1578" text="His heart rate" type="TEST"/>
+<EVENT end="1624" id="E50" modality="FACTUAL" polarity="POS" start="1609" text="well controlled" type="TREATMENT"/>
+<EVENT end="1643" id="E17" modality="FACTUAL" polarity="POS" start="1630" text="his lopressor" type="TREATMENT"/>
+<EVENT end="1663" id="E51" modality="FACTUAL" polarity="POS" start="1655" text="the stay" type="OCCURRENCE"/>
+<EVENT end="1672" id="E18" modality="FACTUAL" polarity="POS" start="1664" text="his labs" type="TEST"/>
+<EVENT end="1701" id="E19" modality="FACTUAL" polarity="POS" start="1693" text="his pain" type="PROBLEM"/>
+<EVENT end="1712" id="E52" modality="FACTUAL" polarity="POS" start="1702" text="controlled" type="TREATMENT"/>
+<EVENT end="1732" id="E23" modality="FACTUAL" polarity="POS" start="1722" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1758" id="E53" modality="FACTUAL" polarity="POS" start="1741" text="stable conditions" type="OCCURRENCE"/>
+<EVENT end="1791" id="E54" modality="PROPOSED" polarity="POS" start="1782" text="follow up" type="OCCURRENCE"/>
+<EVENT end="1909" id="E55" modality="FACTUAL" polarity="POS" start="1867" text="the Louis Schubert Community Health Center" type="CLINICAL_DEPT"/>
+<EVENT end="1919" id="E58" modality="PROPOSED" polarity="POS" start="1913" text="follow" type="OCCURRENCE"/>
+<EVENT end="1934" id="E56" modality="FACTUAL" polarity="POS" start="1920" text="his heart rate" type="TEST"/>
+<EVENT end="1967" id="E57" modality="FACTUAL" polarity="POS" start="1958" text="lopressor" type="TREATMENT"/>
+<EVENT end="212" id="E26" modality="FACTUAL" polarity="POS" start="201" text="climbing up" type="OCCURRENCE"/>
+<EVENT end="256" id="E27" modality="FACTUAL" polarity="POS" start="249" text="He fell" type="PROBLEM"/>
+<EVENT end="290" id="E28" modality="FACTUAL" polarity="POS" start="284" text="denies" type="EVIDENTIAL"/>
+<EVENT end="38" id="E24" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="315" id="E1" modality="FACTUAL" polarity="NEG" start="295" text="loss of consiousness" type="PROBLEM"/>
+<EVENT end="389" id="E29" modality="FACTUAL" polarity="POS" start="380" text="presented" type="EVIDENTIAL"/>
+<EVENT end="425" id="E30" modality="FACTUAL" polarity="POS" start="393" text="the The Hospital for Orthopedics" type="CLINICAL_DEPT"/>
+<EVENT end="453" id="E31" modality="FACTUAL" polarity="POS" start="444" text="ambulance" type="OCCURRENCE"/>
+<EVENT end="467" id="E20" modality="FACTUAL" polarity="POS" start="460" text="falling" type="PROBLEM"/>
+<EVENT end="511" id="E32" modality="FACTUAL" polarity="POS" start="502" text="evaluated" type="TEST"/>
+<EVENT end="604" id="E33" modality="FACTUAL" polarity="POS" start="593" text="intoxicated" type="PROBLEM"/>
+<EVENT end="620" id="E2" modality="FACTUAL" polarity="POS" start="609" text="tachycardic" type="PROBLEM"/>
+<EVENT end="638" id="E34" modality="FACTUAL" polarity="POS" start="624" text="the trauma bay" type="CLINICAL_DEPT"/>
+<EVENT end="653" id="E3" modality="FACTUAL" polarity="POS" start="641" text="His injuries" type="PROBLEM"/>
+<EVENT end="697" id="E4" modality="FACTUAL" polarity="POS" start="673" text="a left elbow disloaction" type="PROBLEM"/>
+<EVENT end="714" id="E35" modality="FACTUAL" polarity="POS" start="707" text="reduced" type="TREATMENT"/>
+<EVENT end="727" id="E36" modality="FACTUAL" polarity="POS" start="719" text="splinted" type="TREATMENT"/>
+<EVENT end="764" id="E5" modality="FACTUAL" polarity="POS" start="735" text="a left distal radius fracture" type="PROBLEM"/>
+<EVENT end="781" id="E37" modality="FACTUAL" polarity="POS" start="774" text="reduced" type="TREATMENT"/>
+<EVENT end="794" id="E38" modality="FACTUAL" polarity="POS" start="786" text="splinted" type="TREATMENT"/>
+<EVENT end="843" id="E6" modality="FACTUAL" polarity="POS" start="802" text="a Left non displaced sacral wing fracture" type="PROBLEM"/>
+<EVENT end="876" id="E7" modality="FACTUAL" polarity="POS" start="848" text="left inferior pubic ramus fx" type="PROBLEM"/>
+<EVENT end="931" id="E21" modality="FACTUAL" polarity="POS" start="923" text="admitted" type="OCCURRENCE"/>
+<EVENT end="965" id="E39" modality="FACTUAL" polarity="POS" start="935" text="the trauma intensive care unit" type="CLINICAL_DEPT"/>
+<EVENT end="988" id="E8" modality="FACTUAL" polarity="POS" start="973" text="his tachycardia" type="PROBLEM"/>
+<ATIMEX3 end="1048" id="T4" mod="NA" start="1038" text="2019-10-11" type="DATE" val="2019-10-11"/>
+<ATIMEX3 end="1224" id="T0" mod="NA" start="1214" text="2019-10-11" type="DATE" val="2019-10-11"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2019-10-10" type="DATE" val="2019-10-10"/>
+
+<ATIMEX3 end="1855" id="T5" mod="NA" start="1850" text="11-15" type="DATE" val="2019-11-15"/>
+<ATIMEX3 end="439" id="T3" mod="NA" start="429" text="2019-10-10" type="DATE" val="2019-10-10"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2019-10-19" type="DATE" val="2019-10-19"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2019-10-10" end="28" id="S0" start="18" text="2019-10-10" type="ADMISSION"/>
+<SECTIME dvalue="2019-10-19" end="56" id="S1" start="46" text="2019-10-19" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

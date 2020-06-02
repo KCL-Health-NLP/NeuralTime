@@ -1,0 +1,120 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+Report Status :
+Discharge Date :
+01/23/2003
+HISTORY OF PRESENT ILLNESS :
+The patient is a 50-year-old female with history of low back pain radiating to both legs .
+She had increasing symptoms overtime , not controlled by conservative management .
+She therefore elected to undergo surgical treatment .
+HOSPITAL COURSE :
+She was taken to the operating room on 01/16/2003 for decompression at L2 , L5 and laminectomy with posterior instrumented fusion at L3 to L5 .
+She tolerated the surgery well .
+She was transferred to recovery room in stable condition .
+She received blood transfusions intraoperatively and postoperatively in addition to autologous blood .
+Her hematocrit was stable postoperatively .
+Her neurologic exam was stable postoperatively with 5/5 bilaterally , tibial , EHL , FHL , gastroc soleus , and intact quadriceps .
+She has intact sensation L3 to S1 and bilateral lower extremities .
+She was fitted for Verholl Aet over leg brace and mobilized out of the bed in the brace with physical therapy .
+Her wounds were stable without any erythema or drainage .
+She reported nausea on pain medications .
+Her pain medications were changed around until an acceptable regime was accomplished .
+She is stable for discharge to rehab .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1029" id="E33" modality="FACTUAL" polarity="POS" start="1013" text="physical therapy" type="TREATMENT"/>
+<EVENT end="1042" id="E34" modality="FACTUAL" polarity="POS" start="1032" text="Her wounds" type="PROBLEM"/>
+<EVENT end="1054" id="E35" modality="FACTUAL" polarity="POS" start="1048" text="stable" type="OCCURRENCE"/>
+<EVENT end="1075" id="E36" modality="FACTUAL" polarity="NEG" start="1067" text="erythema" type="PROBLEM"/>
+<EVENT end="1087" id="E37" modality="FACTUAL" polarity="NEG" start="1079" text="drainage" type="PROBLEM"/>
+<EVENT end="1102" id="E38" modality="FACTUAL" polarity="POS" start="1094" text="reported" type="EVIDENTIAL"/>
+<EVENT end="1109" id="E39" modality="FACTUAL" polarity="POS" start="1103" text="nausea" type="PROBLEM"/>
+<EVENT end="1129" id="E40" modality="FACTUAL" polarity="POS" start="1113" text="pain medications" type="TREATMENT"/>
+<EVENT end="1152" id="E41" modality="FACTUAL" polarity="POS" start="1132" text="Her pain medications" type="TREATMENT"/>
+<EVENT end="1165" id="E42" modality="FACTUAL" polarity="POS" start="1158" text="changed" type="OCCURRENCE"/>
+<EVENT end="1199" id="E43" modality="FACTUAL" polarity="POS" start="1179" text="an acceptable regime" type="TREATMENT"/>
+<EVENT end="1232" id="E44" modality="FACTUAL" polarity="POS" start="1226" text="stable" type="OCCURRENCE"/>
+<EVENT end="1246" id="E45" modality="FACTUAL" polarity="POS" start="1237" text="discharge" type="OCCURRENCE"/>
+<EVENT end="179" id="E9" modality="FACTUAL" polarity="POS" start="143" text="low back pain radiating to both legs" type="PROBLEM"/>
+<EVENT end="209" id="E3" modality="FACTUAL" polarity="POS" start="190" text="increasing symptoms" type="PROBLEM"/>
+<EVENT end="262" id="E5" modality="FACTUAL" polarity="POS" start="239" text="conservative management" type="TREATMENT"/>
+<EVENT end="286" id="E6" modality="FACTUAL" polarity="POS" start="279" text="elected" type="OCCURRENCE"/>
+<EVENT end="316" id="E7" modality="FACTUAL" polarity="POS" start="298" text="surgical treatment" type="TREATMENT"/>
+<EVENT end="43" id="E1" modality="FACTUAL" polarity="POS" start="34" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="372" id="E8" modality="FACTUAL" polarity="POS" start="354" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="415" id="E10" modality="FACTUAL" polarity="POS" start="391" text="decompression at L2 , L5" type="TREATMENT"/>
+<EVENT end="431" id="E11" modality="FACTUAL" polarity="POS" start="420" text="laminectomy" type="TREATMENT"/>
+<EVENT end="478" id="E12" modality="FACTUAL" polarity="POS" start="437" text="posterior instrumented fusion at L3 to L5" type="TREATMENT"/>
+<EVENT end="506" id="E13" modality="FACTUAL" polarity="POS" start="495" text="the surgery" type="TREATMENT"/>
+<EVENT end="533" id="E14" modality="FACTUAL" polarity="POS" start="522" text="transferred" type="OCCURRENCE"/>
+<EVENT end="550" id="E15" modality="FACTUAL" polarity="POS" start="537" text="recovery room" type="CLINICAL_DEPT"/>
+<EVENT end="570" id="E16" modality="FACTUAL" polarity="POS" start="554" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="604" id="E17" modality="FACTUAL" polarity="POS" start="586" text="blood transfusions" type="TREATMENT"/>
+<EVENT end="673" id="E18" modality="FACTUAL" polarity="POS" start="657" text="autologous blood" type="TREATMENT"/>
+<EVENT end="690" id="E19" modality="FACTUAL" polarity="POS" start="676" text="Her hematocrit" type="TEST"/>
+<EVENT end="701" id="E20" modality="FACTUAL" polarity="POS" start="695" text="stable" type="OCCURRENCE"/>
+<EVENT end="739" id="E21" modality="FACTUAL" polarity="POS" start="720" text="Her neurologic exam" type="TEST"/>
+<EVENT end="750" id="E22" modality="FACTUAL" polarity="POS" start="744" text="stable" type="OCCURRENCE"/>
+<EVENT end="796" id="E23" modality="FACTUAL" polarity="POS" start="790" text="tibial" type="TEST"/>
+<EVENT end="802" id="E24" modality="FACTUAL" polarity="POS" start="799" text="EHL" type="TEST"/>
+<EVENT end="808" id="E25" modality="FACTUAL" polarity="POS" start="805" text="FHL" type="EVIDENTIAL"/>
+<EVENT end="825" id="E26" modality="FACTUAL" polarity="POS" start="811" text="gastroc soleus" type="TEST"/>
+<EVENT end="849" id="E27" modality="FACTUAL" polarity="POS" start="832" text="intact quadriceps" type="TEST"/>
+<EVENT end="917" id="E28" modality="FACTUAL" polarity="POS" start="867" text="sensation L3 to S1 and bilateral lower extremities" type="TEST"/>
+<EVENT end="934" id="E29" modality="FACTUAL" polarity="POS" start="928" text="fitted" type="TEST"/>
+<EVENT end="965" id="E30" modality="FACTUAL" polarity="POS" start="939" text="Verholl Aet over leg brace" type="TREATMENT"/>
+<EVENT end="979" id="E31" modality="FACTUAL" polarity="POS" start="970" text="mobilized" type="TREATMENT"/>
+<EVENT end="1007" id="E32" modality="FACTUAL" polarity="POS" start="998" text="the brace" type="TREATMENT"/>
+<ATIMEX3 end="386" id="T1" mod="NA" start="376" text="01/16/2003" type="DATE" val="2003-01-16"/>
+<ATIMEX3 end="61" id="T0" mod="NA" start="51" text="01/23/2003" type="DATE" val="2003-01-23"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2003-01-23" end="56" id="S1" start="46" text="01/23/2003" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

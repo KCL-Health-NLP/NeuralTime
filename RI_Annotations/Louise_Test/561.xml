@@ -1,0 +1,240 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+2-23-93
+DISCHARGE DATE :
+2-24-93
+HISTORY OF PRESENT ILLNESS :
+This is the second Fairm of Ijordcompmac Hospital admission for Taroby Patient , a 70 year old male with a history of metastatic melanoma .
+His melanoma was originally diagnosed last fall when he presented with lesions in the liver and spleen , and a chest CT showed left upper lobe nodules .
+A head CT scan was negative , but an MRI scan of the spine showed an L5 metastasis with a fracture and had with epidural and paraspinal extension .
+In addition , there was a T11 metastasis with cord compression .
+Approximately one week ago , he was admitted to the Fairm of Ijordcompmac Hospital for chemotherapy with DTIC and Tamoxifen .
+At that time , he also began radiation therapy to his lumbosacral spine .
+He is continuing on the radiation therapy to date .
+On February 23 , Mr. Patient presented to Dr. Patient &apos;s office with two major symptoms .
+First , he had right lower extremity swelling and lower extremity noninvasives confirmed the diagnosis of a femoral deep venous thrombosis .
+Second , he had a witnessed episode in which his eyes rolled to the back of his head and there was a question of some seizure activity .
+In the past , he has not been known to have a history of CNS metastases .
+The episode of potential seizure activity occurred in the setting of a bowel movement and may have been associated with vasovagal activity .
+HOSPITAL COURSE :
+Mr. Patient underwent venogram and inferior vena cava filter placement on February 23 , 1993 and was then he was admitted to the Fairm of Ijordcompmac Hospital for postoperative care .
+He tolerated the procedure well .
+In addition , the second major event that had occurred yesterday was a neurologic event of some kind .
+Over the 24 hours of in house hospitalization , he did not have any further neurologic activity and was able to ambulate without assistance prior to discharge .
+He will be scheduled for an MRI scan , Neurology consult , and an EEG next week as an out patient .
+Mr. Patient was a poor candidate for anticoagulation because of his history of metastatic melanoma and the question of CNS metastases .
+An IVC filter placement was accomplished without complication .
+He is stable on February 24 and ready for discharge to home .
+PROCEDURES :
+IVC filter placement .
+COMPLICATIONS :
+None .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1071" id="E29" modality="FACTUAL" polarity="POS" start="1039" text="a femoral deep venous thrombosis" type="PROBLEM"/>
+<EVENT end="1109" id="E30" modality="FACTUAL" polarity="POS" start="1090" text="a witnessed episode" type="PROBLEM"/>
+<EVENT end="1158" id="E31" modality="FACTUAL" polarity="POS" start="1119" text="his eyes rolled to the back of his head" type="PROBLEM"/>
+<EVENT end="1208" id="E32" modality="POSSIBLE" polarity="POS" start="1187" text="some seizure activity" type="PROBLEM"/>
+<EVENT end="1282" id="E33" modality="FACTUAL" polarity="NEG" start="1268" text="CNS metastases" type="PROBLEM"/>
+<EVENT end="1326" id="E34" modality="POSSIBLE" polarity="POS" start="1300" text="potential seizure activity" type="PROBLEM"/>
+<EVENT end="139" id="E61" modality="FACTUAL" polarity="POS" start="130" text="admission" type="OCCURRENCE"/>
+<EVENT end="1370" id="E35" modality="FACTUAL" polarity="POS" start="1354" text="a bowel movement" type="OCCURRENCE"/>
+<EVENT end="1423" id="E36" modality="POSSIBLE" polarity="POS" start="1405" text="vasovagal activity" type="PROBLEM"/>
+<EVENT end="1474" id="E37" modality="FACTUAL" polarity="POS" start="1466" text="venogram" type="TEST"/>
+<EVENT end="1514" id="E38" modality="FACTUAL" polarity="POS" start="1479" text="inferior vena cava filter placement" type="TREATMENT"/>
+<EVENT end="1565" id="E39" modality="FACTUAL" polarity="POS" start="1557" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1603" id="E40" modality="FACTUAL" polarity="POS" start="1569" text="the Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1626" id="E41" modality="FACTUAL" polarity="POS" start="1608" text="postoperative care" type="TREATMENT"/>
+<EVENT end="1641" id="E43" modality="FACTUAL" polarity="POS" start="1632" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1655" id="E42" modality="FACTUAL" polarity="POS" start="1642" text="the procedure" type="TREATMENT"/>
+<EVENT end="1750" id="E44" modality="FACTUAL" polarity="POS" start="1732" text="a neurologic event" type="PROBLEM"/>
+<EVENT end="1811" id="E45" modality="FACTUAL" polarity="POS" start="1787" text="in house hospitalization" type="OCCURRENCE"/>
+<EVENT end="1861" id="E46" modality="FACTUAL" polarity="NEG" start="1830" text="any further neurologic activity" type="PROBLEM"/>
+<EVENT end="1905" id="E47" modality="FACTUAL" polarity="POS" start="1878" text="ambulate without assistance" type="OCCURRENCE"/>
+<EVENT end="1924" id="E48" modality="FACTUAL" polarity="POS" start="1915" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1963" id="E49" modality="PROPOSED" polarity="POS" start="1952" text="an MRI scan" type="TEST"/>
+<EVENT end="1983" id="E50" modality="PROPOSED" polarity="POS" start="1966" text="Neurology consult" type="OCCURRENCE"/>
+<EVENT end="217" id="E2" modality="FACTUAL" polarity="POS" start="198" text="metastatic melanoma" type="PROBLEM"/>
+<EVENT end="1996" id="E51" modality="PROPOSED" polarity="POS" start="1990" text="an EEG" type="TEST"/>
+<EVENT end="2079" id="E52" modality="FACTUAL" polarity="NEG" start="2064" text="anticoagulation" type="TREATMENT"/>
+<EVENT end="2125" id="E53" modality="FACTUAL" polarity="POS" start="2106" text="metastatic melanoma" type="PROBLEM"/>
+<EVENT end="2160" id="E54" modality="POSSIBLE" polarity="POS" start="2146" text="CNS metastases" type="PROBLEM"/>
+<EVENT end="2186" id="E55" modality="FACTUAL" polarity="POS" start="2163" text="An IVC filter placement" type="TREATMENT"/>
+<EVENT end="232" id="E3" modality="FACTUAL" polarity="POS" start="220" text="His melanoma" type="PROBLEM"/>
+<EVENT end="2224" id="E56" modality="FACTUAL" polarity="NEG" start="2212" text="complication" type="PROBLEM"/>
+<EVENT end="2239" id="E57" modality="FACTUAL" polarity="POS" start="2233" text="stable" type="OCCURRENCE"/>
+<EVENT end="2278" id="E58" modality="FACTUAL" polarity="POS" start="2269" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2322" id="E59" modality="FACTUAL" polarity="POS" start="2302" text="IVC filter placement" type="TREATMENT"/>
+<EVENT end="257" id="E4" modality="FACTUAL" polarity="POS" start="248" text="diagnosed" type="OCCURRENCE"/>
+<EVENT end="35" id="E1" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="285" id="E5" modality="FACTUAL" polarity="POS" start="276" text="presented" type="EVIDENTIAL"/>
+<EVENT end="322" id="E6" modality="FACTUAL" polarity="POS" start="291" text="lesions in the liver and spleen" type="PROBLEM"/>
+<EVENT end="339" id="E7" modality="FACTUAL" polarity="POS" start="329" text="a chest CT" type="TEST"/>
+<EVENT end="346" id="E8" modality="FACTUAL" polarity="POS" start="340" text="showed" type="EVIDENTIAL"/>
+<EVENT end="370" id="E9" modality="FACTUAL" polarity="POS" start="347" text="left upper lobe nodules" type="PROBLEM"/>
+<EVENT end="387" id="E10" modality="FACTUAL" polarity="POS" start="373" text="A head CT scan" type="TEST"/>
+<EVENT end="431" id="E11" modality="FACTUAL" polarity="POS" start="407" text="an MRI scan of the spine" type="TEST"/>
+<EVENT end="438" id="E12" modality="FACTUAL" polarity="POS" start="432" text="showed" type="EVIDENTIAL"/>
+<EVENT end="455" id="E13" modality="FACTUAL" polarity="POS" start="439" text="an L5 metastasis" type="PROBLEM"/>
+<EVENT end="471" id="E14" modality="FACTUAL" polarity="POS" start="461" text="a fracture" type="PROBLEM"/>
+<EVENT end="518" id="E15" modality="FACTUAL" polarity="POS" start="485" text="epidural and paraspinal extension" type="PROBLEM"/>
+<EVENT end="561" id="E16" modality="FACTUAL" polarity="POS" start="545" text="a T11 metastasis" type="PROBLEM"/>
+<EVENT end="583" id="E17" modality="FACTUAL" polarity="POS" start="567" text="cord compression" type="PROBLEM"/>
+<EVENT end="630" id="E18" modality="FACTUAL" polarity="POS" start="622" text="admitted" type="OCCURRENCE"/>
+<EVENT end="668" id="E19" modality="FACTUAL" polarity="POS" start="634" text="the Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="685" id="E20" modality="FACTUAL" polarity="POS" start="673" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="695" id="E21" modality="FACTUAL" polarity="POS" start="691" text="DTIC" type="TREATMENT"/>
+<EVENT end="709" id="E22" modality="FACTUAL" polarity="POS" start="700" text="Tamoxifen" type="TREATMENT"/>
+<EVENT end="758" id="E23" modality="FACTUAL" polarity="POS" start="741" text="radiation therapy" type="TREATMENT"/>
+<EVENT end="827" id="E24" modality="FACTUAL" polarity="POS" start="806" text="the radiation therapy" type="TREATMENT"/>
+<EVENT end="876" id="E25" modality="FACTUAL" polarity="POS" start="867" text="presented" type="EVIDENTIAL"/>
+<EVENT end="930" id="E26" modality="FACTUAL" polarity="POS" start="912" text="two major symptoms" type="PROBLEM"/>
+<EVENT end="978" id="E27" modality="FACTUAL" polarity="POS" start="948" text="right lower extremity swelling" type="PROBLEM"/>
+<EVENT end="1011" id="E28" modality="FACTUAL" polarity="POS" start="983" text="lower extremity noninvasives" type="TEST"/>
+<EVENT end="129" id="E60" modality="FACTUAL" polarity="POS" start="99" text="Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<RTIMEX3 end="1536" id="T7" mod="NA" start="1518" text="February 23 , 1993" type="DATE" val="1993-02-23"/>
+<RTIMEX3 end="1727" id="T8" mod="NA" start="1718" text="yesterday" type="DATE" val="1993-02-22"/>
+
+<ATIMEX3 end="25" id="T0" mod="NA" start="18" text="2-23-93" type="DATE" val="1993-02-23"/>
+<RTIMEX3 end="2006" id="T10" mod="APPROX" start="1997" text="next week" type="DATE" val="1993-03-04"/>
+<RTIMEX3 end="2254" id="T11" mod="NA" start="2243" text="February 24" type="DATE" val="1993-02-24"/>
+<RTIMEX3 end="267" id="T3" mod="APPROX" start="258" text="last fall" type="DATE" val="1992-10"/>
+<ATIMEX3 end="50" id="T1" mod="NA" start="43" text="2-24-93" type="DATE" val="1993-02-24"/>
+<RTIMEX3 end="612" id="T5" mod="APPROX" start="600" text="one week ago" type="DATE" val="1993-02-16"/>
+<RTIMEX3 end="852" id="T6" mod="NA" start="841" text="February 23" type="DATE" val="1993-02-23"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1993-2-23" end="25" id="S0" start="18" text="2-23-93" type="ADMISSION"/>
+<SECTIME dvalue="1993-2-24" end="50" id="S1" start="43" text="2-24-93" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,278 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+10-01-94
+DISCHARGE DATE :
+10-10-94
+HISTORY OF PRESENT ILLNESS :
+The patient is a 60 year old diabetic who underwent an APR in 1989 for rectal carcinoma and has been doing following radiation therapy and 5FU .
+He recently developed fatigue and dyspnea and workup disclosed a large liver mass which was biopsied and revealed to be poorly differentiated neoplasm most consistent with metastatic rectal discontinued .
+HOSPITAL COURSE :
+The patient was admitted and underwent celiac and superior mesenteric artery angiography which demonstrated a patent celiac and superior mesenteric artery with normal branching pattern .
+His preoperative workup was completed and included a normal white count , hematocrit 42 .
+normal electrolytes , normal coags and normal renal function .
+On 10-02-94 the patient was brought to the operating room where he underwent exploratory laparotomy and left hepatectomy and cholecystectomy by Dr. Duhenile .
+The patient tolerated the procedure well with a 2000 cc. blood loss and was autotransfused two units of blood .
+In the postoperative course Mr. Fyfe did surprisingly well given his underlying medical condition . ,
+He did require two units of transfused blood but otherwise did quite well and was extubated on the night of surgery .
+He remained in the Intensive Care Unit for two days but was hemodynamically stable throughout .
+He continued to manifest occasional premature ventricular contractions , but these were unchanged from preoperatively and the patient otherwise did well .
+His nasogastric tube was discontinued and he was begun on clear liquids and subsequently advanced to a regular diet without difficulty .
+Both of his Jackson-Pratt drains were removed without incident .
+By postoperative day # 7 , Mr. Fyfe was tolerating a regular ADA 1800 kilocalorie diet without difficulty with all of his tubes and drains removed .
+His wound was noted to be healing well and his colostomy functioning appropriately without significant difficulty .
+He is being transferred back to the Per Naplesspecrycet Hospital in stable condition on the same medications which he was on preoperatively .
+These include Diabeta 10 mg. po. bid .
+Serax 20 mg. po. qhs .
+Sudafed 30 po. bid .
+Theo-dur 300 mg. po. bid .
+Betoptic 0.5% one drop OU bid , Propene 0.1% one drop OU bid .
+Pred-Forte 1% one drop OS bid .
+Percocet two tabs po. q4h prn .
+Proventil 2 puffs q6hours prn ..
+The patient will followup with Dr. Fede Duhenile in two weeks in Dr. Duhenile &apos;s office .
+LENNI BREUTZOLN , M.D.
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1016" id="E29" modality="FACTUAL" polarity="POS" start="1006" text="blood loss" type="PROBLEM"/>
+<EVENT end="1039" id="E30" modality="FACTUAL" polarity="POS" start="1025" text="autotransfused" type="TREATMENT"/>
+<EVENT end="1058" id="E31" modality="FACTUAL" polarity="POS" start="1053" text="blood" type="TREATMENT"/>
+<EVENT end="1088" id="E32" modality="FACTUAL" polarity="POS" start="1064" text="the postoperative course" type="OCCURRENCE"/>
+<EVENT end="119" id="E2" modality="FACTUAL" polarity="POS" start="111" text="diabetic" type="PROBLEM"/>
+<EVENT end="1119" id="E33" modality="FACTUAL" polarity="POS" start="1115" text="well" type="EVIDENTIAL"/>
+<EVENT end="1158" id="E34" modality="FACTUAL" polarity="POS" start="1126" text="his underlying medical condition" type="PROBLEM"/>
+<EVENT end="1207" id="E35" modality="FACTUAL" polarity="POS" start="1191" text="transfused blood" type="TREATMENT"/>
+<EVENT end="1254" id="E36" modality="FACTUAL" polarity="POS" start="1245" text="extubated" type="TREATMENT"/>
+<EVENT end="1278" id="E37" modality="FACTUAL" polarity="POS" start="1271" text="surgery" type="TREATMENT"/>
+<EVENT end="1319" id="E38" modality="FACTUAL" polarity="POS" start="1296" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="140" id="E3" modality="FACTUAL" polarity="POS" start="134" text="an APR" type="TREATMENT"/>
+<EVENT end="1363" id="E39" modality="FACTUAL" polarity="POS" start="1341" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1447" id="E40" modality="FACTUAL" polarity="POS" start="1402" text="occasional premature ventricular contractions" type="PROBLEM"/>
+<EVENT end="169" id="E4" modality="FACTUAL" polarity="POS" start="153" text="rectal carcinoma" type="PROBLEM"/>
+<EVENT end="1529" id="E41" modality="FACTUAL" polarity="POS" start="1521" text="did well" type="OCCURRENCE"/>
+<EVENT end="1552" id="E42" modality="FACTUAL" polarity="POS" start="1532" text="His nasogastric tube" type="TREATMENT"/>
+<EVENT end="1603" id="E43" modality="FACTUAL" polarity="POS" start="1590" text="clear liquids" type="TREATMENT"/>
+<EVENT end="1647" id="E44" modality="FACTUAL" polarity="POS" start="1633" text="a regular diet" type="OCCURRENCE"/>
+<EVENT end="1701" id="E45" modality="FACTUAL" polarity="POS" start="1677" text="his Jackson-Pratt drains" type="TREATMENT"/>
+<EVENT end="1731" id="E46" modality="FACTUAL" polarity="NEG" start="1723" text="incident" type="PROBLEM"/>
+<EVENT end="1820" id="E47" modality="FACTUAL" polarity="POS" start="1785" text="a regular ADA 1800 kilocalorie diet" type="TREATMENT"/>
+<EVENT end="1839" id="E48" modality="FACTUAL" polarity="NEG" start="1829" text="difficulty" type="OCCURRENCE"/>
+<EVENT end="1861" id="E49" modality="FACTUAL" polarity="POS" start="1852" text="his tubes" type="TREATMENT"/>
+<EVENT end="1872" id="E50" modality="FACTUAL" polarity="POS" start="1866" text="drains" type="TREATMENT"/>
+<EVENT end="1892" id="E51" modality="FACTUAL" polarity="POS" start="1883" text="His wound" type="PROBLEM"/>
+<EVENT end="1921" id="E52" modality="FACTUAL" polarity="POS" start="1909" text="healing well" type="OCCURRENCE"/>
+<EVENT end="1939" id="E53" modality="FACTUAL" polarity="POS" start="1926" text="his colostomy" type="TREATMENT"/>
+<EVENT end="1965" id="E54" modality="FACTUAL" polarity="POS" start="1940" text="functioning appropriately" type="OCCURRENCE"/>
+<EVENT end="1996" id="E55" modality="FACTUAL" polarity="NEG" start="1974" text="significant difficulty" type="OCCURRENCE"/>
+<EVENT end="216" id="E5" modality="FACTUAL" polarity="POS" start="199" text="radiation therapy" type="TREATMENT"/>
+<EVENT end="2022" id="E56" modality="FACTUAL" polarity="POS" start="2011" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2063" id="E57" modality="FACTUAL" polarity="POS" start="2031" text="the Per Naplesspecrycet Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2083" id="E58" modality="FACTUAL" polarity="POS" start="2067" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="2107" id="E59" modality="FACTUAL" polarity="POS" start="2087" text="the same medications" type="TREATMENT"/>
+<EVENT end="2107" id="E70" modality="FACTUAL" polarity="POS" start="2087" text="the same medications" type="TREATMENT"/>
+<EVENT end="2162" id="E60" modality="FACTUAL" polarity="POS" start="2155" text="Diabeta" type="TREATMENT"/>
+<EVENT end="2185" id="E61" modality="FACTUAL" polarity="POS" start="2180" text="Serax" type="TREATMENT"/>
+<EVENT end="224" id="E6" modality="FACTUAL" polarity="POS" start="221" text="5FU" type="TREATMENT"/>
+<EVENT end="2210" id="E62" modality="FACTUAL" polarity="POS" start="2203" text="Sudafed" type="TREATMENT"/>
+<EVENT end="2232" id="E63" modality="FACTUAL" polarity="POS" start="2224" text="Theo-dur" type="TREATMENT"/>
+<EVENT end="2259" id="E64" modality="FACTUAL" polarity="POS" start="2251" text="Betoptic" type="TREATMENT"/>
+<EVENT end="2290" id="E65" modality="FACTUAL" polarity="POS" start="2283" text="Propene" type="TREATMENT"/>
+<EVENT end="2324" id="E66" modality="FACTUAL" polarity="POS" start="2314" text="Pred-Forte" type="TREATMENT"/>
+<EVENT end="2354" id="E67" modality="FACTUAL" polarity="POS" start="2346" text="Percocet" type="TREATMENT"/>
+<EVENT end="2387" id="E68" modality="FACTUAL" polarity="POS" start="2378" text="Proventil" type="TREATMENT"/>
+<EVENT end="2436" id="E69" modality="FACTUAL" polarity="POS" start="2428" text="followup" type="OCCURRENCE"/>
+<EVENT end="256" id="E7" modality="FACTUAL" polarity="POS" start="249" text="fatigue" type="PROBLEM"/>
+<EVENT end="268" id="E8" modality="FACTUAL" polarity="POS" start="261" text="dyspnea" type="PROBLEM"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="279" id="E9" modality="FACTUAL" polarity="POS" start="273" text="workup" type="TEST"/>
+<EVENT end="308" id="E10" modality="FACTUAL" polarity="POS" start="290" text="a large liver mass" type="PROBLEM"/>
+<EVENT end="327" id="E11" modality="FACTUAL" polarity="POS" start="319" text="biopsied" type="TEST"/>
+<EVENT end="340" id="E12" modality="FACTUAL" polarity="POS" start="332" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="377" id="E13" modality="FACTUAL" polarity="POS" start="347" text="poorly differentiated neoplasm" type="PROBLEM"/>
+<EVENT end="429" id="E14" modality="POSSIBLE" polarity="POS" start="399" text="metastatic rectal discontinued" type="PROBLEM"/>
+<EVENT end="474" id="E15" modality="FACTUAL" polarity="POS" start="466" text="admitted" type="OCCURRENCE"/>
+<EVENT end="538" id="E16" modality="FACTUAL" polarity="POS" start="489" text="celiac and superior mesenteric artery angiography" type="TEST"/>
+<EVENT end="660" id="E17" modality="FACTUAL" polarity="POS" start="637" text="His preoperative workup" type="TEST"/>
+<EVENT end="708" id="E18" modality="FACTUAL" polarity="POS" start="688" text="a normal white count" type="TEST"/>
+<EVENT end="721" id="E19" modality="FACTUAL" polarity="POS" start="711" text="hematocrit" type="TEST"/>
+<EVENT end="746" id="E20" modality="FACTUAL" polarity="POS" start="727" text="normal electrolytes" type="TEST"/>
+<EVENT end="761" id="E21" modality="FACTUAL" polarity="POS" start="749" text="normal coags" type="TEST"/>
+<EVENT end="787" id="E22" modality="FACTUAL" polarity="POS" start="766" text="normal renal function" type="OCCURRENCE"/>
+<EVENT end="847" id="E23" modality="FACTUAL" polarity="POS" start="829" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="889" id="E24" modality="FACTUAL" polarity="POS" start="867" text="exploratory laparotomy" type="TEST"/>
+<EVENT end="910" id="E25" modality="FACTUAL" polarity="POS" start="894" text="left hepatectomy" type="TREATMENT"/>
+<EVENT end="930" id="E26" modality="FACTUAL" polarity="POS" start="915" text="cholecystectomy" type="TREATMENT"/>
+<EVENT end="970" id="E27" modality="FACTUAL" polarity="POS" start="961" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="984" id="E28" modality="FACTUAL" polarity="POS" start="971" text="the procedure" type="TREATMENT"/>
+<RTIMEX3 end="1267" id="T4" mod="NA" start="1258" text="the night" type="TIME" val="1994-10-02T21:00"/>
+
+<ATIMEX3 end="148" id="T2" mod="NA" start="144" text="1989" type="DATE" val="1989"/>
+<RTIMEX3 end="1758" id="T6" mod="NA" start="1737" text="postoperative day # 7" type="DATE" val="1994-10-09"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="10-01-94" type="DATE" val="1994-10-01"/>
+
+
+
+
+
+
+
+
+
+
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="10-10-94" type="DATE" val="1991-10-10"/>
+<ATIMEX3 end="801" id="T3" mod="NA" start="793" text="10-02-94" type="DATE" val="1994-10-02"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-10-01" end="26" id="S0" start="18" text="10-01-94" type="ADMISSION"/>
+<SECTIME dvalue="1994-10-10" end="52" id="S1" start="44" text="10-10-94" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

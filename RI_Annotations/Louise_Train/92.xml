@@ -1,0 +1,145 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+12/13/2002
+DISCHARGE DATE :
+12/14/2002
+HISTORY OF PRESENT ILLNESS :
+The patient is a 30 -year-old Gravida III , Para II who presented desiring definitive surgical sterilization .
+She was extensively counseled regarding other methods of birth control and desired to proceed with definitive surgical therapy .
+In addition , the patient desired liposuction of varying areas as well .
+The patient was consented for both procedures and brought to the Operating Room .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted to the Operating Room where she underwent an unremarkable laparoscopic tubal ligation .
+This was done with Falope rings .
+The estimated blood loss was minimal and the patient received 600 cc. of intravenous fluid .
+Of note , the patient had a negative urine pregnancy test prior to the surgery .
+The patient then underwent liposuction of her abdomen , inner thighs , hips , flanks , chest and arms with Dr. Chain .
+She did well and was admitted to the GYN Service postoperatively because the patient had persistent pain .
+On postoperative day #one , she was then stable with no complaints .
+She remained afebrile .
+Her Foley was removed .
+Her diet was advanced without difficulty and the patient was stable for discharge .
+The patient was to follow up in several days time with Dr. Chain of the Plastics Clinic .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1057" id="E27" modality="FACTUAL" polarity="POS" start="1042" text="persistent pain" type="PROBLEM"/>
+<EVENT end="1107" id="E28" modality="FACTUAL" polarity="POS" start="1101" text="stable" type="OCCURRENCE"/>
+<EVENT end="1126" id="E29" modality="FACTUAL" polarity="NEG" start="1116" text="complaints" type="PROBLEM"/>
+<EVENT end="1150" id="E30" modality="FACTUAL" polarity="POS" start="1142" text="afebrile" type="PROBLEM"/>
+<EVENT end="1162" id="E31" modality="FACTUAL" polarity="NEG" start="1153" text="Her Foley" type="TREATMENT"/>
+<EVENT end="123" id="E3" modality="FACTUAL" polarity="POS" start="116" text="Gravida" type="OCCURRENCE"/>
+<EVENT end="1198" id="E32" modality="FACTUAL" polarity="POS" start="1190" text="advanced" type="OCCURRENCE"/>
+<EVENT end="1217" id="E33" modality="FACTUAL" polarity="NEG" start="1207" text="difficulty" type="PROBLEM"/>
+<EVENT end="1244" id="E34" modality="FACTUAL" polarity="POS" start="1238" text="stable" type="OCCURRENCE"/>
+<EVENT end="1258" id="E35" modality="FACTUAL" polarity="POS" start="1249" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1289" id="E36" modality="PROPOSED" polarity="POS" start="1280" text="follow up" type="OCCURRENCE"/>
+<EVENT end="134" id="E2" modality="FACTUAL" polarity="POS" start="130" text="Para" type="OCCURRENCE"/>
+<EVENT end="1348" id="E37" modality="FACTUAL" polarity="POS" start="1329" text="the Plastics Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="151" id="E4" modality="FACTUAL" polarity="POS" start="142" text="presented" type="EVIDENTIAL"/>
+<EVENT end="194" id="E5" modality="FACTUAL" polarity="POS" start="161" text="definitive surgical sterilization" type="TREATMENT"/>
+<EVENT end="226" id="E6" modality="FACTUAL" polarity="POS" start="205" text="extensively counseled" type="OCCURRENCE"/>
+<EVENT end="250" id="E7" modality="PROPOSED" polarity="NEG" start="237" text="other methods" type="TREATMENT"/>
+<EVENT end="267" id="E8" modality="PROPOSED" polarity="NEG" start="254" text="birth control" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="323" id="E9" modality="FACTUAL" polarity="POS" start="296" text="definitive surgical therapy" type="TREATMENT"/>
+<EVENT end="388" id="E10" modality="FACTUAL" polarity="POS" start="360" text="liposuction of varying areas" type="TREATMENT"/>
+<EVENT end="424" id="E11" modality="FACTUAL" polarity="POS" start="415" text="consented" type="OCCURRENCE"/>
+<EVENT end="444" id="E12" modality="FACTUAL" polarity="POS" start="429" text="both procedures" type="TREATMENT"/>
+<EVENT end="478" id="E13" modality="FACTUAL" polarity="POS" start="460" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="537" id="E14" modality="FACTUAL" polarity="POS" start="529" text="admitted" type="OCCURRENCE"/>
+<EVENT end="559" id="E15" modality="FACTUAL" polarity="POS" start="541" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="623" id="E17" modality="FACTUAL" polarity="POS" start="580" text="an unremarkable laparoscopic tubal ligation" type="TREATMENT"/>
+<EVENT end="657" id="E18" modality="FACTUAL" polarity="POS" start="645" text="Falope rings" type="TREATMENT"/>
+<EVENT end="684" id="E19" modality="FACTUAL" polarity="POS" start="660" text="The estimated blood loss" type="PROBLEM"/>
+<EVENT end="750" id="E20" modality="FACTUAL" polarity="POS" start="733" text="intravenous fluid" type="TREATMENT"/>
+<EVENT end="810" id="E21" modality="FACTUAL" polarity="POS" start="790" text="urine pregnancy test" type="TEST"/>
+<EVENT end="831" id="E22" modality="FACTUAL" polarity="POS" start="820" text="the surgery" type="TREATMENT"/>
+<EVENT end="935" id="E23" modality="FACTUAL" polarity="POS" start="861" text="liposuction of her abdomen , inner thighs , hips , flanks , chest and arms" type="TREATMENT"/>
+<EVENT end="965" id="E24" modality="FACTUAL" polarity="POS" start="957" text="did well" type="OCCURRENCE"/>
+<EVENT end="982" id="E25" modality="FACTUAL" polarity="POS" start="974" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1001" id="E26" modality="FACTUAL" polarity="POS" start="986" text="the GYN Service" type="CLINICAL_DEPT"/>
+<RTIMEX3 end="1085" id="T2" mod="NA" start="1063" text="postoperative day #one" type="DATE" val="2002-12-14"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="12/13/2002" type="DATE" val="2002-12-13"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="12/14/2002" type="DATE" val="2002-12-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2002-12-13" end="28" id="S0" start="18" text="12/13/2002" type="ADMISSION"/>
+<SECTIME dvalue="2002-12-14" end="56" id="S1" start="46" text="12/14/2002" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

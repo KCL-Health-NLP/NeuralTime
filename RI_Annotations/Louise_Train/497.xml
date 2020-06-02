@@ -1,0 +1,284 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-05-26
+Discharge Date :
+2018-06-13
+Service :
+MEDICINE
+History of Present Illness :
+52 y.o. male with ESLD due to HCV / EtOH Cirrhosis now with delta MS .
+Recently d/c 'd on 05-15 after admission for hepatic encephalopathy versus opiate abuse .
+Brought in by family for ams .
+No hx available at Youville Hospital Katherine , except for abdominal pain .
+Increasing tachypnea and tachycardia in Leola , cxr with likely aspiration pna versus chf , intubated .
+Started on levo / flagyl / ceftriaxone and lasix for sbp and questionable meningitis .
+Brief Hospital Course :
+SBP :
+Pt admitted with E coli SPB and bacteremia .
+Was treated with ceftriaxone 2 gm IV daily with multiple repeat paracenteses .
+Repeat taps did not revealed evidence of infection .
+Patient was treated with 14 days of levoflox .
+Resp failure :
+Unclear etiology , but likely aspiration event in Monica .
+Treated aspiration pneumonia .
+Weaning and potential extubation complicated by mechanical disadvantage from large ascites as well as continued somnolence ( off sedation ).
+we Performed frequent large vol taps and attempted to give diuretics , but were limited by renal failure .
+The ascites quickly accumulated after each tap .
+Patient was not a TIPS candidate .
+Cirrhosis :
+End-stage cirrhosis with refractory ascites .
+Each time we have initiated diuretics , creatinine rose .
+Patient was continued on nadolol ( as bp tolerated ) and lactulose )
+Renal failure :
+Creatinine elevation appears to be related to both elevated abdominal pressures from ascites as well as to attempts at diuresis .
+AMS :
+Likely hepatic encepholopathy initially , and later likely related to sedation and delayed clearance from liver disease .
+Patient became increasingly hypotensive with a rising cr , eventually becoming pressor dependent .
+Family meeting was held to discuss grave prognosis , and patient was made cmo .
+He passed away shortly thereafter .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1014" id="E45" modality="FACTUAL" polarity="POS" start="1001" text="large ascites" type="PROBLEM"/>
+<EVENT end="1046" id="E46" modality="FACTUAL" polarity="POS" start="1026" text="continued somnolence" type="PROBLEM"/>
+<EVENT end="1061" id="E47" modality="FACTUAL" polarity="POS" start="1053" text="sedation" type="TREATMENT"/>
+<EVENT end="1101" id="E48" modality="FACTUAL" polarity="POS" start="1078" text="frequent large vol taps" type="TREATMENT"/>
+<EVENT end="1133" id="E49" modality="FACTUAL" polarity="POS" start="1124" text="diuretics" type="TREATMENT"/>
+<EVENT end="1169" id="E50" modality="FACTUAL" polarity="POS" start="1156" text="renal failure" type="PROBLEM"/>
+<EVENT end="1183" id="E51" modality="FACTUAL" polarity="POS" start="1172" text="The ascites" type="PROBLEM"/>
+<EVENT end="1218" id="E52" modality="FACTUAL" polarity="POS" start="1210" text="each tap" type="TREATMENT"/>
+<EVENT end="127" id="E2" modality="FACTUAL" polarity="POS" start="123" text="ESLD" type="PROBLEM"/>
+<EVENT end="1253" id="E53" modality="FACTUAL" polarity="NEG" start="1237" text="a TIPS candidate" type="TREATMENT"/>
+<EVENT end="1265" id="E54" modality="FACTUAL" polarity="POS" start="1256" text="Cirrhosis" type="PROBLEM"/>
+<EVENT end="1287" id="E55" modality="FACTUAL" polarity="POS" start="1268" text="End-stage cirrhosis" type="PROBLEM"/>
+<EVENT end="1311" id="E56" modality="FACTUAL" polarity="POS" start="1293" text="refractory ascites" type="PROBLEM"/>
+<EVENT end="138" id="E3" modality="FACTUAL" polarity="POS" start="135" text="HCV" type="PROBLEM"/>
+<EVENT end="1351" id="E57" modality="FACTUAL" polarity="POS" start="1342" text="diuretics" type="TREATMENT"/>
+<EVENT end="1364" id="E58" modality="FACTUAL" polarity="POS" start="1354" text="creatinine" type="TEST"/>
+<EVENT end="1404" id="E59" modality="FACTUAL" polarity="POS" start="1397" text="nadolol" type="TREATMENT"/>
+<EVENT end="155" id="E4" modality="FACTUAL" polarity="POS" start="141" text="EtOH Cirrhosis" type="PROBLEM"/>
+<EVENT end="1412" id="E60" modality="FACTUAL" polarity="POS" start="1410" text="bp" type="TEST"/>
+<EVENT end="1438" id="E61" modality="FACTUAL" polarity="POS" start="1429" text="lactulose" type="TREATMENT"/>
+<EVENT end="1454" id="E62" modality="FACTUAL" polarity="POS" start="1441" text="Renal failure" type="PROBLEM"/>
+<EVENT end="1477" id="E63" modality="FACTUAL" polarity="POS" start="1457" text="Creatinine elevation" type="PROBLEM"/>
+<EVENT end="1536" id="E64" modality="FACTUAL" polarity="POS" start="1508" text="elevated abdominal pressures" type="PROBLEM"/>
+<EVENT end="1549" id="E65" modality="FACTUAL" polarity="POS" start="1542" text="ascites" type="PROBLEM"/>
+<EVENT end="1584" id="E66" modality="FACTUAL" polarity="POS" start="1576" text="diuresis" type="TREATMENT"/>
+<EVENT end="1590" id="E67" modality="FACTUAL" polarity="POS" start="1587" text="AMS" type="PROBLEM"/>
+<EVENT end="1622" id="E68" modality="POSSIBLE" polarity="POS" start="1600" text="hepatic encepholopathy" type="PROBLEM"/>
+<EVENT end="173" id="E5" modality="FACTUAL" polarity="POS" start="165" text="delta MS" type="PROBLEM"/>
+<EVENT end="1671" id="E69" modality="FACTUAL" polarity="POS" start="1663" text="sedation" type="TREATMENT"/>
+<EVENT end="1693" id="E70" modality="POSSIBLE" polarity="POS" start="1676" text="delayed clearance" type="PROBLEM"/>
+<EVENT end="1712" id="E71" modality="FACTUAL" polarity="POS" start="1699" text="liver disease" type="PROBLEM"/>
+<EVENT end="1754" id="E72" modality="FACTUAL" polarity="POS" start="1743" text="hypotensive" type="PROBLEM"/>
+<EVENT end="1771" id="E73" modality="FACTUAL" polarity="POS" start="1760" text="a rising cr" type="PROBLEM"/>
+<EVENT end="1811" id="E74" modality="FACTUAL" polarity="POS" start="1794" text="pressor dependent" type="PROBLEM"/>
+<EVENT end="191" id="E6" modality="FACTUAL" polarity="POS" start="185" text="d/c 'd" type="OCCURRENCE"/>
+<EVENT end="1891" id="E75" modality="FACTUAL" polarity="POS" start="1888" text="cmo" type="TREATMENT"/>
+<EVENT end="1908" id="E76" modality="FACTUAL" polarity="POS" start="1897" text="passed away" type="OCCURRENCE"/>
+<EVENT end="216" id="E7" modality="FACTUAL" polarity="POS" start="207" text="admission" type="OCCURRENCE"/>
+<EVENT end="243" id="E10" modality="POSSIBLE" polarity="POS" start="221" text="hepatic encephalopathy" type="PROBLEM"/>
+<EVENT end="263" id="E9" modality="POSSIBLE" polarity="POS" start="251" text="opiate abuse" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="294" id="E11" modality="FACTUAL" polarity="POS" start="291" text="ams" type="PROBLEM"/>
+<EVENT end="343" id="E12" modality="FACTUAL" polarity="POS" start="316" text="Youville Hospital Katherine" type="CLINICAL_DEPT"/>
+<EVENT end="371" id="E13" modality="FACTUAL" polarity="POS" start="357" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="394" id="E14" modality="FACTUAL" polarity="POS" start="374" text="Increasing tachypnea" type="PROBLEM"/>
+<EVENT end="410" id="E15" modality="FACTUAL" polarity="POS" start="399" text="tachycardia" type="PROBLEM"/>
+<EVENT end="419" id="E16" modality="FACTUAL" polarity="POS" start="414" text="Leola" type="CLINICAL_DEPT"/>
+<EVENT end="425" id="E17" modality="FACTUAL" polarity="POS" start="422" text="cxr" type="TEST"/>
+<EVENT end="452" id="E18" modality="POSSIBLE" polarity="POS" start="438" text="aspiration pna" type="PROBLEM"/>
+<EVENT end="463" id="E19" modality="POSSIBLE" polarity="POS" start="460" text="chf" type="PROBLEM"/>
+<EVENT end="475" id="E20" modality="FACTUAL" polarity="POS" start="466" text="intubated" type="TREATMENT"/>
+<EVENT end="493" id="E21" modality="FACTUAL" polarity="POS" start="489" text="levo" type="TREATMENT"/>
+<EVENT end="502" id="E22" modality="FACTUAL" polarity="POS" start="496" text="flagyl" type="TREATMENT"/>
+<EVENT end="516" id="E23" modality="FACTUAL" polarity="POS" start="505" text="ceftriaxone" type="TREATMENT"/>
+<EVENT end="526" id="E24" modality="FACTUAL" polarity="POS" start="521" text="lasix" type="TREATMENT"/>
+<EVENT end="534" id="E25" modality="FACTUAL" polarity="POS" start="531" text="sbp" type="PROBLEM"/>
+<EVENT end="562" id="E26" modality="POSSIBLE" polarity="POS" start="552" text="meningitis" type="PROBLEM"/>
+<EVENT end="592" id="E27" modality="FACTUAL" polarity="POS" start="589" text="SBP" type="PROBLEM"/>
+<EVENT end="606" id="E28" modality="FACTUAL" polarity="POS" start="598" text="admitted" type="OCCURRENCE"/>
+<EVENT end="622" id="E29" modality="FACTUAL" polarity="POS" start="612" text="E coli SPB" type="PROBLEM"/>
+<EVENT end="637" id="E30" modality="FACTUAL" polarity="POS" start="627" text="bacteremia" type="PROBLEM"/>
+<EVENT end="668" id="E31" modality="FACTUAL" polarity="POS" start="657" text="ceftriaxone" type="TREATMENT"/>
+<EVENT end="716" id="E32" modality="FACTUAL" polarity="POS" start="688" text="multiple repeat paracenteses" type="TREATMENT"/>
+<EVENT end="730" id="E33" modality="FACTUAL" polarity="POS" start="719" text="Repeat taps" type="TEST"/>
+<EVENT end="747" id="E34" modality="FACTUAL" polarity="NEG" start="739" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="769" id="E35" modality="FACTUAL" polarity="NEG" start="760" text="infection" type="PROBLEM"/>
+<EVENT end="816" id="E36" modality="FACTUAL" polarity="POS" start="808" text="levoflox" type="TREATMENT"/>
+<EVENT end="831" id="E37" modality="FACTUAL" polarity="POS" start="819" text="Resp failure" type="PROBLEM"/>
+<EVENT end="880" id="E38" modality="POSSIBLE" polarity="POS" start="864" text="aspiration event" type="PROBLEM"/>
+<EVENT end="890" id="E39" modality="FACTUAL" polarity="POS" start="884" text="Monica" type="CLINICAL_DEPT"/>
+<EVENT end="900" id="E40" modality="FACTUAL" polarity="POS" start="893" text="Treated" type="TREATMENT"/>
+<EVENT end="921" id="E41" modality="FACTUAL" polarity="POS" start="901" text="aspiration pneumonia" type="PROBLEM"/>
+<EVENT end="931" id="E42" modality="FACTUAL" polarity="POS" start="924" text="Weaning" type="OCCURRENCE"/>
+<EVENT end="956" id="E43" modality="HYPOTHETICAL" polarity="POS" start="936" text="potential extubation" type="TREATMENT"/>
+<EVENT end="995" id="E44" modality="FACTUAL" polarity="POS" start="972" text="mechanical disadvantage" type="PROBLEM"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2018-05-26" type="DATE" val="2018-05-26"/>
+<ATIMEX3 end="200" id="T2" mod="NA" start="195" text="05-15" type="DATE" val="2018-05-15"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2018-06-13" type="DATE" val="2018-06-13"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-05-26" end="28" id="S0" start="18" text="2018-05-26" type="ADMISSION"/>
+<SECTIME dvalue="2018-06-13" end="56" id="S1" start="46" text="2018-06-13" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

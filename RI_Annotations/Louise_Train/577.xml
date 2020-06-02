@@ -1,0 +1,511 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2009-06-23
+Discharge Date :
+2009-07-12
+Service :
+CMI ; then to Medcine ; then transferred to CCU
+HISTORY OF PRESENT ILLNESS :
+The patient is an 83-year-old male with a history of diabetes mellitus , steroid-treated polymyalgia rheumatica , hypertension , benign prostatic hypertrophy , and high cholesterol who presented for a lower extremity peripheral angiography for bilateral foot ulcers , and he was found to an evaluated blood urea nitrogen , and creatinine , and potassium .
+The patient notes he developed worsening foot pain and ulcers four months ago .
+Due to his worsening blood glucose , he was started on insulin .
+His foot ulcers continued to develop , and the patient complained of pain in his feet ; primarily at night .
+The patient was referred to for Vascular consultation because of the ulcerations and pain and scheduled for a lower extremity angiography on the day of admission , but due to his renal failure the procedure was cancelled .
+The patient showed peaked T waves on electrocardiogram , and he was transferred to Medicine .
+The patient denied any oliguria , hematuria , dysuria , foamy urine , flank pain , abdominal pain , or urinary hesitancy .
+He has complained of fatigue , anorexia , and a 10-pound weight loss in the last four months .
+He gets short of breath with one flight of stairs .
+He denies any fevers , chills , recent infections , chest pain , orthopnea , nausea , vomiting , diarrhea , hematemesis , melena , or hematochezia .
+The patient also notes he has had hoarseness for the last two to three weeks .
+HOSPITAL COURSE :
+The patient is an 83 - year-old male with a history of diabetes , steroid-treated polymyalgia rheumatica , hypertension , benign prostatic hypertrophy , and high cholesterol without presented to the hospital for lower extremity angiograph ; however , that was deferred due to new onset renal failure .
+1. RENAL FAILURE :
+The patient was initially thought to be prerenal , and his renal status improved after hydration and increased oral intake .
+He did have a magnetic resonance angiography of his kidneys which showed mild right-sided renal artery stenosis .
+His renal function fluctuated throughout his hospital stay , and when he was in the Medical Intensive Care Unit he did have decreased urine output in the setting of cardiogenic shock .
+2. CARDIOVASCULAR :
+The patient with severe peripheral vascular disease .
+During his hospital stay , he developed some nonsustained ventricular tachycardia .
+He also became hypotensive on 07-02 in the setting of infection .
+The patient had a central line placed and went into sustained ventricular tachycardia that was treated with lidocaine .
+After being treated with lidocaine , the patient became apneic requiring intubation and transfer to the Coronary Care Unit .
+His nonsustained ventricular tachycardia was treated with a lidocaine drip .
+It was found that he had elevated troponins and likely an ischemic event on the 07-02 .
+A repeat echocardiogram showed a decreased ejection fraction from prior .
+He had a cardiac catheterization which revealed 3-vessel disease .
+Cardiothoracic Surgery was consulted , and due to the patient 's acute illness , they wanted to re-evaluate after the patient was extubated .
+The patient continued to have intermittent episodes of ventricular tachycardia .
+He was continued on lidocaine and eventually changed over to amiodarone .
+He was noted to be cardiogenic shock requiring pressors .
+Of note , he likely suffered a second ischemic event during his Coronary Care Unit stay .
+The patient did have a Swan-Ganz catheter in place and had a low cardiac output .
+The patient 's family eventually decided to withdraw care , and the patient was extubated and passed away on 2009-07-12 .
+2. INFECTIOUS DISEASE :
+The patient was initially treated with levofloxacin for a left lower lobe infiltrate and a urinary tract infection .
+He then developed positive blood cultures with Staphylococcus aureus sensitive to levofloxacin , and that was continued .
+When the patient became hypotensive and required intubation and pressors , his antibiotics were broadened , and he was put on stress-dose steroids .
+He was found to have bilateral Staphylococcus pneumonia .
+3. PULMONARY :
+The patient required intubation in the setting of hypotension and ventricular tachycardia .
+He was actually extubated on 07-09 , but then reintubated one hour later due to hypoxia .
+He was also found to have a bilateral Staphylococcus pneumonia .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1031" id="E28" modality="FACTUAL" polarity="POS" start="1014" text="electrocardiogram" type="TEST"/>
+<EVENT end="1056" id="E29" modality="FACTUAL" polarity="POS" start="1045" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1068" id="E30" modality="FACTUAL" polarity="POS" start="1060" text="Medicine" type="CLINICAL_DEPT"/>
+<EVENT end="1089" id="E31" modality="FACTUAL" polarity="POS" start="1083" text="denied" type="EVIDENTIAL"/>
+<EVENT end="1102" id="E32" modality="FACTUAL" polarity="NEG" start="1094" text="oliguria" type="PROBLEM"/>
+<EVENT end="1114" id="E33" modality="FACTUAL" polarity="NEG" start="1105" text="hematuria" type="PROBLEM"/>
+<EVENT end="1124" id="E34" modality="FACTUAL" polarity="NEG" start="1117" text="dysuria" type="PROBLEM"/>
+<EVENT end="1138" id="E35" modality="FACTUAL" polarity="NEG" start="1127" text="foamy urine" type="PROBLEM"/>
+<EVENT end="1151" id="E36" modality="FACTUAL" polarity="NEG" start="1141" text="flank pain" type="PROBLEM"/>
+<EVENT end="1168" id="E37" modality="FACTUAL" polarity="NEG" start="1154" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1191" id="E38" modality="FACTUAL" polarity="NEG" start="1174" text="urinary hesitancy" type="PROBLEM"/>
+<EVENT end="1211" id="E39" modality="FACTUAL" polarity="POS" start="1201" text="complained" type="EVIDENTIAL"/>
+<EVENT end="1222" id="E40" modality="FACTUAL" polarity="POS" start="1215" text="fatigue" type="PROBLEM"/>
+<EVENT end="1233" id="E41" modality="FACTUAL" polarity="POS" start="1225" text="anorexia" type="PROBLEM"/>
+<EVENT end="1262" id="E42" modality="FACTUAL" polarity="POS" start="1240" text="a 10-pound weight loss" type="PROBLEM"/>
+<EVENT end="1312" id="E43" modality="FACTUAL" polarity="POS" start="1297" text="short of breath" type="PROBLEM"/>
+<EVENT end="1350" id="E44" modality="FACTUAL" polarity="POS" start="1344" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1361" id="E45" modality="FACTUAL" polarity="NEG" start="1351" text="any fevers" type="PROBLEM"/>
+<EVENT end="1370" id="E46" modality="FACTUAL" polarity="NEG" start="1364" text="chills" type="PROBLEM"/>
+<EVENT end="1390" id="E47" modality="FACTUAL" polarity="NEG" start="1373" text="recent infections" type="PROBLEM"/>
+<EVENT end="1403" id="E48" modality="FACTUAL" polarity="NEG" start="1393" text="chest pain" type="PROBLEM"/>
+<EVENT end="1415" id="E49" modality="FACTUAL" polarity="NEG" start="1406" text="orthopnea" type="PROBLEM"/>
+<EVENT end="1424" id="E50" modality="FACTUAL" polarity="NEG" start="1418" text="nausea" type="PROBLEM"/>
+<EVENT end="1435" id="E51" modality="FACTUAL" polarity="NEG" start="1427" text="vomiting" type="PROBLEM"/>
+<EVENT end="1446" id="E52" modality="FACTUAL" polarity="NEG" start="1438" text="diarrhea" type="PROBLEM"/>
+<EVENT end="1460" id="E53" modality="FACTUAL" polarity="NEG" start="1449" text="hematemesis" type="PROBLEM"/>
+<EVENT end="1469" id="E54" modality="FACTUAL" polarity="NEG" start="1463" text="melena" type="PROBLEM"/>
+<EVENT end="1487" id="E55" modality="FACTUAL" polarity="NEG" start="1475" text="hematochezia" type="PROBLEM"/>
+<EVENT end="1512" id="E56" modality="FACTUAL" polarity="POS" start="1507" text="notes" type="EVIDENTIAL"/>
+<EVENT end="1534" id="E57" modality="FACTUAL" polarity="POS" start="1524" text="hoarseness" type="PROBLEM"/>
+<EVENT end="1650" id="E58" modality="FACTUAL" polarity="POS" start="1642" text="diabetes" type="PROBLEM"/>
+<EVENT end="1691" id="E59" modality="FACTUAL" polarity="POS" start="1653" text="steroid-treated polymyalgia rheumatica" type="PROBLEM"/>
+<EVENT end="1706" id="E60" modality="FACTUAL" polarity="POS" start="1694" text="hypertension" type="PROBLEM"/>
+<EVENT end="1737" id="E61" modality="FACTUAL" polarity="POS" start="1709" text="benign prostatic hypertrophy" type="PROBLEM"/>
+<EVENT end="1760" id="E62" modality="FACTUAL" polarity="POS" start="1744" text="high cholesterol" type="PROBLEM"/>
+<EVENT end="1778" id="E63" modality="FACTUAL" polarity="NEG" start="1769" text="presented" type="OCCURRENCE"/>
+<EVENT end="1794" id="E64" modality="FACTUAL" polarity="POS" start="1782" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1825" id="E65" modality="FACTUAL" polarity="POS" start="1799" text="lower extremity angiograph" type="TEST"/>
+<EVENT end="1842" id="E66" modality="FACTUAL" polarity="NEG" start="1838" text="that" type="TEST"/>
+<EVENT end="1855" id="E67" modality="FACTUAL" polarity="POS" start="1847" text="deferred" type="OCCURRENCE"/>
+<EVENT end="1886" id="E68" modality="FACTUAL" polarity="POS" start="1863" text="new onset renal failure" type="PROBLEM"/>
+<EVENT end="1956" id="E69" modality="POSSIBLE" polarity="POS" start="1948" text="prerenal" type="PROBLEM"/>
+<EVENT end="214" id="E2" modality="FACTUAL" polarity="POS" start="197" text="diabetes mellitus" type="PROBLEM"/>
+<EVENT end="1979" id="E70" modality="FACTUAL" polarity="POS" start="1963" text="his renal status" type="PROBLEM"/>
+<EVENT end="1988" id="E71" modality="FACTUAL" polarity="POS" start="1980" text="improved" type="OCCURRENCE"/>
+<EVENT end="2004" id="E72" modality="FACTUAL" polarity="POS" start="1995" text="hydration" type="TREATMENT"/>
+<EVENT end="2030" id="E73" modality="FACTUAL" polarity="POS" start="2009" text="increased oral intake" type="TREATMENT"/>
+<EVENT end="2092" id="E74" modality="FACTUAL" polarity="POS" start="2045" text="a magnetic resonance angiography of his kidneys" type="TEST"/>
+<EVENT end="2105" id="E75" modality="FACTUAL" polarity="POS" start="2099" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2144" id="E76" modality="FACTUAL" polarity="POS" start="2106" text="mild right-sided renal artery stenosis" type="PROBLEM"/>
+<EVENT end="2165" id="E77" modality="FACTUAL" polarity="POS" start="2147" text="His renal function" type="TEST"/>
+<EVENT end="255" id="E3" modality="FACTUAL" polarity="POS" start="217" text="steroid-treated polymyalgia rheumatica" type="PROBLEM"/>
+<EVENT end="2176" id="E78" modality="FACTUAL" polarity="POS" start="2166" text="fluctuated" type="OCCURRENCE"/>
+<EVENT end="2205" id="E79" modality="FACTUAL" polarity="POS" start="2188" text="his hospital stay" type="OCCURRENCE"/>
+<EVENT end="2258" id="E80" modality="FACTUAL" polarity="POS" start="2227" text="the Medical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2293" id="E81" modality="FACTUAL" polarity="POS" start="2271" text="decreased urine output" type="PROBLEM"/>
+<EVENT end="2329" id="E82" modality="FACTUAL" polarity="POS" start="2312" text="cardiogenic shock" type="PROBLEM"/>
+<EVENT end="2403" id="E83" modality="FACTUAL" polarity="POS" start="2369" text="severe peripheral vascular disease" type="PROBLEM"/>
+<EVENT end="2430" id="E84" modality="FACTUAL" polarity="POS" start="2413" text="his hospital stay" type="OCCURRENCE"/>
+<EVENT end="2487" id="E85" modality="FACTUAL" polarity="POS" start="2446" text="some nonsustained ventricular tachycardia" type="PROBLEM"/>
+<EVENT end="2516" id="E86" modality="FACTUAL" polarity="POS" start="2505" text="hypotensive" type="PROBLEM"/>
+<EVENT end="2553" id="E87" modality="FACTUAL" polarity="POS" start="2544" text="infection" type="PROBLEM"/>
+<EVENT end="270" id="E4" modality="FACTUAL" polarity="POS" start="258" text="hypertension" type="PROBLEM"/>
+<EVENT end="2586" id="E88" modality="FACTUAL" polarity="POS" start="2572" text="a central line" type="TREATMENT"/>
+<EVENT end="2641" id="E89" modality="FACTUAL" polarity="POS" start="2608" text="sustained ventricular tachycardia" type="PROBLEM"/>
+<EVENT end="2673" id="E90" modality="FACTUAL" polarity="POS" start="2664" text="lidocaine" type="TREATMENT"/>
+<EVENT end="2710" id="E91" modality="FACTUAL" polarity="POS" start="2701" text="lidocaine" type="TREATMENT"/>
+<EVENT end="301" id="E5" modality="FACTUAL" polarity="POS" start="273" text="benign prostatic hypertrophy" type="PROBLEM"/>
+<EVENT end="2738" id="E92" modality="FACTUAL" polarity="POS" start="2732" text="apneic" type="PROBLEM"/>
+<EVENT end="2759" id="E93" modality="FACTUAL" polarity="POS" start="2749" text="intubation" type="TREATMENT"/>
+<EVENT end="2772" id="E94" modality="FACTUAL" polarity="POS" start="2764" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2798" id="E95" modality="FACTUAL" polarity="POS" start="2776" text="the Coronary Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2841" id="E96" modality="FACTUAL" polarity="POS" start="2801" text="His nonsustained ventricular tachycardia" type="PROBLEM"/>
+<EVENT end="2875" id="E97" modality="FACTUAL" polarity="POS" start="2859" text="a lidocaine drip" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2921" id="E98" modality="FACTUAL" polarity="POS" start="2903" text="elevated troponins" type="PROBLEM"/>
+<EVENT end="2950" id="E99" modality="FACTUAL" polarity="POS" start="2933" text="an ischemic event" type="PROBLEM"/>
+<EVENT end="2989" id="E100" modality="FACTUAL" polarity="POS" start="2966" text="A repeat echocardiogram" type="TEST"/>
+<EVENT end="2996" id="E101" modality="FACTUAL" polarity="POS" start="2990" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3026" id="E102" modality="FACTUAL" polarity="POS" start="2997" text="a decreased ejection fraction" type="PROBLEM"/>
+<EVENT end="3037" id="E103" modality="FACTUAL" polarity="POS" start="3032" text="prior" type="TEST"/>
+<EVENT end="3072" id="E104" modality="FACTUAL" polarity="POS" start="3047" text="a cardiac catheterization" type="TEST"/>
+<EVENT end="324" id="E6" modality="FACTUAL" polarity="POS" start="308" text="high cholesterol" type="PROBLEM"/>
+<EVENT end="3087" id="E105" modality="FACTUAL" polarity="POS" start="3079" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3104" id="E106" modality="FACTUAL" polarity="POS" start="3088" text="3-vessel disease" type="PROBLEM"/>
+<EVENT end="3129" id="E107" modality="FACTUAL" polarity="POS" start="3107" text="Cardiothoracic Surgery" type="CLINICAL_DEPT"/>
+<EVENT end="3185" id="E108" modality="FACTUAL" polarity="POS" start="3157" text="the patient 's acute illness" type="PROBLEM"/>
+<EVENT end="3214" id="E109" modality="FACTUAL" polarity="POS" start="3203" text="re-evaluate" type="TEST"/>
+<EVENT end="3246" id="E110" modality="FACTUAL" polarity="POS" start="3237" text="extubated" type="OCCURRENCE"/>
+<EVENT end="338" id="E7" modality="FACTUAL" polarity="POS" start="329" text="presented" type="OCCURRENCE"/>
+<EVENT end="3327" id="E111" modality="FACTUAL" polarity="POS" start="3304" text="ventricular tachycardia" type="PROBLEM"/>
+<EVENT end="3359" id="E112" modality="FACTUAL" polarity="POS" start="3350" text="lidocaine" type="TREATMENT"/>
+<EVENT end="3401" id="E113" modality="FACTUAL" polarity="POS" start="3391" text="amiodarone" type="TREATMENT"/>
+<EVENT end="3416" id="E144" modality="FACTUAL" polarity="POS" start="3411" text="noted" type="OCCURRENCE"/>
+<EVENT end="383" id="E8" modality="FACTUAL" polarity="POS" start="343" text="a lower extremity peripheral angiography" type="TEST"/>
+<EVENT end="3440" id="E114" modality="FACTUAL" polarity="POS" start="3423" text="cardiogenic shock" type="PROBLEM"/>
+<EVENT end="3459" id="E115" modality="FACTUAL" polarity="POS" start="3451" text="pressors" type="TREATMENT"/>
+<EVENT end="3514" id="E116" modality="FACTUAL" polarity="POS" start="3491" text="a second ischemic event" type="PROBLEM"/>
+<EVENT end="3544" id="E117" modality="FACTUAL" polarity="POS" start="3522" text="his Coronary Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3593" id="E119" modality="FACTUAL" polarity="POS" start="3573" text="a Swan-Ganz catheter" type="TEST"/>
+<EVENT end="3631" id="E120" modality="FACTUAL" polarity="POS" start="3611" text="a low cardiac output" type="PROBLEM"/>
+<EVENT end="3691" id="E121" modality="FACTUAL" polarity="POS" start="3678" text="withdraw care" type="OCCURRENCE"/>
+<EVENT end="3723" id="E122" modality="FACTUAL" polarity="POS" start="3714" text="extubated" type="OCCURRENCE"/>
+<EVENT end="3739" id="E123" modality="FACTUAL" polarity="POS" start="3728" text="passed away" type="OCCURRENCE"/>
+<EVENT end="3831" id="E124" modality="FACTUAL" polarity="POS" start="3819" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="3864" id="E125" modality="FACTUAL" polarity="POS" start="3836" text="a left lower lobe infiltrate" type="PROBLEM"/>
+<EVENT end="3894" id="E126" modality="FACTUAL" polarity="POS" start="3869" text="a urinary tract infection" type="PROBLEM"/>
+<EVENT end="409" id="E9" modality="FACTUAL" polarity="POS" start="388" text="bilateral foot ulcers" type="PROBLEM"/>
+<EVENT end="3938" id="E127" modality="FACTUAL" polarity="POS" start="3915" text="positive blood cultures" type="PROBLEM"/>
+<EVENT end="3965" id="E128" modality="FACTUAL" polarity="POS" start="3944" text="Staphylococcus aureus" type="PROBLEM"/>
+<EVENT end="3991" id="E129" modality="FACTUAL" polarity="POS" start="3979" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="4002" id="E130" modality="FACTUAL" polarity="POS" start="3998" text="that" type="TREATMENT"/>
+<EVENT end="4054" id="E131" modality="FACTUAL" polarity="POS" start="4043" text="hypotensive" type="PROBLEM"/>
+<EVENT end="4078" id="E132" modality="FACTUAL" polarity="POS" start="4068" text="intubation" type="TREATMENT"/>
+<EVENT end="4091" id="E133" modality="FACTUAL" polarity="POS" start="4083" text="pressors" type="TREATMENT"/>
+<EVENT end="4109" id="E134" modality="FACTUAL" polarity="POS" start="4094" text="his antibiotics" type="TREATMENT"/>
+<EVENT end="4165" id="E135" modality="FACTUAL" polarity="POS" start="4145" text="stress-dose steroids" type="TREATMENT"/>
+<EVENT end="4223" id="E136" modality="FACTUAL" polarity="POS" start="4189" text="bilateral Staphylococcus pneumonia" type="PROBLEM"/>
+<EVENT end="4272" id="E137" modality="FACTUAL" polarity="POS" start="4262" text="intubation" type="TREATMENT"/>
+<EVENT end="4302" id="E138" modality="FACTUAL" polarity="POS" start="4291" text="hypotension" type="PROBLEM"/>
+<EVENT end="4330" id="E139" modality="FACTUAL" polarity="POS" start="4307" text="ventricular tachycardia" type="PROBLEM"/>
+<EVENT end="497" id="E10" modality="FACTUAL" polarity="POS" start="432" text="an evaluated blood urea nitrogen , and creatinine , and potassium" type="PROBLEM"/>
+<EVENT end="4358" id="E140" modality="FACTUAL" polarity="POS" start="4349" text="extubated" type="OCCURRENCE"/>
+<EVENT end="4390" id="E141" modality="FACTUAL" polarity="POS" start="4379" text="reintubated" type="TREATMENT"/>
+<EVENT end="4420" id="E142" modality="FACTUAL" polarity="POS" start="4413" text="hypoxia" type="PROBLEM"/>
+<EVENT end="4485" id="E143" modality="FACTUAL" polarity="POS" start="4449" text="a bilateral Staphylococcus pneumonia" type="PROBLEM"/>
+<EVENT end="517" id="E11" modality="FACTUAL" polarity="POS" start="512" text="notes" type="EVIDENTIAL"/>
+<EVENT end="550" id="E12" modality="FACTUAL" polarity="POS" start="531" text="worsening foot pain" type="PROBLEM"/>
+<EVENT end="561" id="E13" modality="FACTUAL" polarity="POS" start="555" text="ulcers" type="PROBLEM"/>
+<EVENT end="614" id="E14" modality="FACTUAL" polarity="POS" start="587" text="his worsening blood glucose" type="PROBLEM"/>
+<EVENT end="642" id="E15" modality="FACTUAL" polarity="POS" start="635" text="insulin" type="TREATMENT"/>
+<EVENT end="660" id="E16" modality="FACTUAL" polarity="POS" start="645" text="His foot ulcers" type="PROBLEM"/>
+<EVENT end="710" id="E17" modality="FACTUAL" polarity="POS" start="700" text="complained" type="EVIDENTIAL"/>
+<EVENT end="730" id="E18" modality="FACTUAL" polarity="POS" start="714" text="pain in his feet" type="PROBLEM"/>
+<EVENT end="778" id="E19" modality="FACTUAL" polarity="POS" start="770" text="referred" type="OCCURRENCE"/>
+<EVENT end="807" id="E20" modality="FACTUAL" polarity="POS" start="786" text="Vascular consultation" type="TEST"/>
+<EVENT end="834" id="E21" modality="FACTUAL" polarity="POS" start="819" text="the ulcerations" type="PROBLEM"/>
+<EVENT end="843" id="E22" modality="FACTUAL" polarity="POS" start="839" text="pain" type="PROBLEM"/>
+<EVENT end="891" id="E23" modality="FACTUAL" polarity="POS" start="864" text="lower extremity angiography" type="TEST"/>
+<EVENT end="946" id="E24" modality="FACTUAL" polarity="POS" start="929" text="his renal failure" type="PROBLEM"/>
+<EVENT end="960" id="E25" modality="FACTUAL" polarity="NEG" start="947" text="the procedure" type="TEST"/>
+<EVENT end="995" id="E27" modality="FACTUAL" polarity="POS" start="989" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1010" id="E26" modality="FACTUAL" polarity="POS" start="996" text="peaked T waves" type="PROBLEM"/>
+
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2009-06-23" type="DATE" val="2009-06-23"/>
+<ATIMEX3 end="2525" id="T6" mod="NA" start="2520" text="07-02" type="DATE" val="2009-07-02"/>
+<RTIMEX3 end="2963" id="T7" mod="NA" start="2954" text="the 07-02" type="DATE" val="2009-07-02"/>
+<ATIMEX3 end="3753" id="T8" mod="NA" start="3743" text="2009-07-12" type="DATE" val="2009-07-12"/>
+<ATIMEX3 end="4367" id="T9" mod="NA" start="4362" text="07-09" type="DATE" val="2009-07-09"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2009-07-12" type="DATE" val="2009-07-12"/>
+<RTIMEX3 end="577" id="T2" mod="APPROX" start="562" text="four months ago" type="DATE" val="2009-02-23"/>
+<RTIMEX3 end="902" id="T3" mod="NA" start="895" text="the day" type="DATE" val="2009-06-23"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2009-06-23" end="28" id="S0" start="18" text="2009-06-23" type="ADMISSION"/>
+<SECTIME dvalue="2009-07-12" end="56" id="S1" start="46" text="2009-07-12" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

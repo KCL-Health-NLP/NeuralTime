@@ -1,0 +1,455 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2019-01-09
+Discharge Date :
+2019-01-15
+Service :
+MEDICINE
+History of Present Illness :
+45M w/no PMH presented to Chelseahospital after a syncopal episode on the morning of admission .
+Pt was preparing lunch when suddenly felt lightheaded / faint and immediately fell to the kitchen floor face first .
+He denies LOC .
+Immediately there after he was very short of breath , felt lightheaded again and called 911 .
+At Springfield , CT chest was positive for saddle PE .
+VS were with stable BPs , tachy to 110-120 , sat 98% RA .
+He received Lovenox 91 mg SC prior to transport and was transferred to Arbour Hospital for further care .
+Mr. Anders states that 2 weeks prior to his presentation he hurt his left knee .
+He was sitting on the floor legs crossed and stood up when he heard his knee CMED CCU .
+Then again on Sunday , 3 days PTA , again from sitting to standing heard his knee CMED CCU .
+He was essentially bed bound for 3 days prior to admission , unable to ambulate .
+He started to notice inflammation of his L calf / leg worse 2 days prior to presentation .
+In this 2 week interval he denied having CP / chest discomfort or difficulty breathing , no cough or hemoptysis .
+No f/c/ sweats .
+Pt denied any bleeding or clotting disorders and has never had a clot in the past .
+Brief Hospital Course :
+Mr. Anders was admitted for anticoagulation and hemodynamic monitoring in the setting of saddle pulmonary embolus and left knee injury .
+#. PE :
+Given no other risk factors or likely causes , the most likely etiology for his embolus is DVT from the left leg .
+He has no known clotting disorder but did have trauma to leg prompting immobility and stasis .
+He remained hemodynmically stable throughout his hospitalization and did not have an oxygen requirement upon discharge .
+Given no evidence of hemodynamic instability , lysis was not required .
+He was anticoagulated with heparin and coumadin .
+He will need to follow up with hematology for an outpatient thrombophilia work-up ( not done as inpatient as results would not change acute management of PE ).
+He will also require close follow up with his primary care provider for coumadin management .
+Duration of his coumadin therapy to be determined by hematology , but likely to be at least 6 months in duration .
+#. Syncope :
+In setting of PE .
+Remainder of his cardiac workup was negative .
+He did have a small troponin leak , felt to be related to right heart strain in the setting of P-pulmonale related to clot burden .
+His tronponin quickly trended down and he did not have EKG evidence of ischemia .
+An ECHO did not reveal any wall motion abnormalities related to ischemia .
+#. Hematocrit :
+Dropped from 42.7 to 36 in setting of anticoagulation for saddle PE and IV fluids .
+No active bleeding noted .
+Pt asymptomatic .
+#. L knee injury :
+Given his history and physical exam , Mr. Anders presented with an injury most consistent with meniscal tear .
+In order to facilitate therapy and to promote mobility , an MRI of the knee was done .
+He was seen by physical therapy and will need to follow up with orthopaedics upon discharge for repeat evaluation .
+#. CODE :
+FULL CODE .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1045" id="E38" modality="FACTUAL" polarity="POS" start="1013" text="inflammation of his L calf / leg" type="PROBLEM"/>
+<EVENT end="1080" id="E39" modality="FACTUAL" polarity="POS" start="1068" text="presentation" type="EVIDENTIAL"/>
+<EVENT end="1116" id="E40" modality="FACTUAL" polarity="POS" start="1110" text="denied" type="EVIDENTIAL"/>
+<EVENT end="1126" id="E41" modality="FACTUAL" polarity="NEG" start="1124" text="CP" type="PROBLEM"/>
+<EVENT end="1145" id="E42" modality="FACTUAL" polarity="NEG" start="1129" text="chest discomfort" type="PROBLEM"/>
+<EVENT end="1169" id="E43" modality="FACTUAL" polarity="NEG" start="1149" text="difficulty breathing" type="PROBLEM"/>
+<EVENT end="1180" id="E44" modality="FACTUAL" polarity="NEG" start="1175" text="cough" type="PROBLEM"/>
+<EVENT end="127" id="E2" modality="FACTUAL" polarity="POS" start="118" text="presented" type="EVIDENTIAL"/>
+<EVENT end="1194" id="E45" modality="FACTUAL" polarity="NEG" start="1184" text="hemoptysis" type="PROBLEM"/>
+<EVENT end="1204" id="E46" modality="FACTUAL" polarity="NEG" start="1200" text="f/c/" type="PROBLEM"/>
+<EVENT end="1211" id="E47" modality="FACTUAL" polarity="NEG" start="1205" text="sweats" type="PROBLEM"/>
+<EVENT end="1223" id="E48" modality="FACTUAL" polarity="POS" start="1217" text="denied" type="EVIDENTIAL"/>
+<EVENT end="1258" id="E49" modality="FACTUAL" polarity="NEG" start="1224" text="any bleeding or clotting disorders" type="PROBLEM"/>
+<EVENT end="1283" id="E50" modality="FACTUAL" polarity="NEG" start="1277" text="a clot" type="PROBLEM"/>
+<EVENT end="146" id="E3" modality="FACTUAL" polarity="POS" start="131" text="Chelseahospital" type="CLINICAL_DEPT"/>
+<EVENT end="1345" id="E54" modality="FACTUAL" polarity="POS" start="1337" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1365" id="E55" modality="FACTUAL" polarity="POS" start="1350" text="anticoagulation" type="TREATMENT"/>
+<EVENT end="1392" id="E56" modality="FACTUAL" polarity="POS" start="1370" text="hemodynamic monitoring" type="TEST"/>
+<EVENT end="1435" id="E57" modality="FACTUAL" polarity="POS" start="1411" text="saddle pulmonary embolus" type="PROBLEM"/>
+<EVENT end="1456" id="E58" modality="FACTUAL" polarity="POS" start="1440" text="left knee injury" type="PROBLEM"/>
+<EVENT end="1464" id="E59" modality="FACTUAL" polarity="POS" start="1462" text="PE" type="PROBLEM"/>
+<EVENT end="1494" id="E60" modality="FACTUAL" polarity="NEG" start="1476" text="other risk factors" type="PROBLEM"/>
+<EVENT end="1511" id="E61" modality="FACTUAL" polarity="NEG" start="1498" text="likely causes" type="OCCURRENCE"/>
+<EVENT end="171" id="E4" modality="FACTUAL" polarity="POS" start="153" text="a syncopal episode" type="PROBLEM"/>
+<EVENT end="1554" id="E62" modality="FACTUAL" polarity="POS" start="1543" text="his embolus" type="PROBLEM"/>
+<EVENT end="1579" id="E63" modality="POSSIBLE" polarity="POS" start="1558" text="DVT from the left leg" type="PROBLEM"/>
+<EVENT end="1615" id="E64" modality="FACTUAL" polarity="NEG" start="1592" text="known clotting disorder" type="PROBLEM"/>
+<EVENT end="1642" id="E65" modality="FACTUAL" polarity="POS" start="1629" text="trauma to leg" type="PROBLEM"/>
+<EVENT end="1663" id="E66" modality="FACTUAL" polarity="POS" start="1653" text="immobility" type="PROBLEM"/>
+<EVENT end="1674" id="E67" modality="FACTUAL" polarity="POS" start="1668" text="stasis" type="PROBLEM"/>
+<EVENT end="1710" id="E68" modality="FACTUAL" polarity="POS" start="1689" text="hemodynmically stable" type="OCCURRENCE"/>
+<EVENT end="1741" id="E69" modality="FACTUAL" polarity="POS" start="1722" text="his hospitalization" type="OCCURRENCE"/>
+<EVENT end="1780" id="E70" modality="FACTUAL" polarity="NEG" start="1759" text="an oxygen requirement" type="PROBLEM"/>
+<EVENT end="1795" id="E71" modality="FACTUAL" polarity="POS" start="1786" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1842" id="E72" modality="FACTUAL" polarity="NEG" start="1819" text="hemodynamic instability" type="PROBLEM"/>
+<EVENT end="1850" id="E73" modality="FACTUAL" polarity="NEG" start="1845" text="lysis" type="TREATMENT"/>
+<EVENT end="1891" id="E74" modality="FACTUAL" polarity="POS" start="1877" text="anticoagulated" type="TREATMENT"/>
+<EVENT end="1904" id="E75" modality="FACTUAL" polarity="POS" start="1897" text="heparin" type="TREATMENT"/>
+<EVENT end="199" id="E5" modality="FACTUAL" polarity="POS" start="190" text="admission" type="OCCURRENCE"/>
+<EVENT end="1917" id="E76" modality="FACTUAL" polarity="POS" start="1909" text="coumadin" type="TREATMENT"/>
+<EVENT end="1945" id="E77" modality="FACTUAL" polarity="POS" start="1936" text="follow up" type="OCCURRENCE"/>
+<EVENT end="1961" id="E78" modality="FACTUAL" polarity="POS" start="1951" text="hematology" type="OCCURRENCE"/>
+<EVENT end="2001" id="E79" modality="PROPOSED" polarity="POS" start="1966" text="an outpatient thrombophilia work-up" type="TEST"/>
+<EVENT end="2070" id="E80" modality="FACTUAL" polarity="POS" start="2054" text="acute management" type="TREATMENT"/>
+<EVENT end="2076" id="E81" modality="FACTUAL" polarity="POS" start="2074" text="PE" type="PROBLEM"/>
+<EVENT end="2116" id="E82" modality="PROPOSED" polarity="POS" start="2107" text="follow up" type="OCCURRENCE"/>
+<EVENT end="2147" id="E83" modality="PROPOSED" polarity="POS" start="2122" text="his primary care provider" type="OCCURRENCE"/>
+<EVENT end="2171" id="E84" modality="FACTUAL" polarity="POS" start="2152" text="coumadin management" type="TREATMENT"/>
+<EVENT end="2206" id="E85" modality="FACTUAL" polarity="POS" start="2186" text="his coumadin therapy" type="TREATMENT"/>
+<EVENT end="2237" id="E86" modality="FACTUAL" polarity="POS" start="2227" text="hematology" type="OCCURRENCE"/>
+<EVENT end="2299" id="E87" modality="FACTUAL" polarity="POS" start="2292" text="Syncope" type="PROBLEM"/>
+<EVENT end="2318" id="E88" modality="FACTUAL" polarity="POS" start="2316" text="PE" type="PROBLEM"/>
+<EVENT end="2352" id="E89" modality="FACTUAL" polarity="POS" start="2334" text="his cardiac workup" type="TEST"/>
+<EVENT end="2365" id="E90" modality="FACTUAL" polarity="POS" start="2357" text="negative" type="OCCURRENCE"/>
+<EVENT end="2401" id="E91" modality="FACTUAL" polarity="POS" start="2380" text="a small troponin leak" type="PROBLEM"/>
+<EVENT end="2444" id="E92" modality="FACTUAL" polarity="POS" start="2426" text="right heart strain" type="PROBLEM"/>
+<EVENT end="255" id="E6" modality="FACTUAL" polarity="POS" start="244" text="lightheaded" type="PROBLEM"/>
+<EVENT end="2474" id="E93" modality="FACTUAL" polarity="POS" start="2463" text="P-pulmonale" type="PROBLEM"/>
+<EVENT end="2497" id="E94" modality="FACTUAL" polarity="POS" start="2486" text="clot burden" type="PROBLEM"/>
+<EVENT end="2513" id="E95" modality="FACTUAL" polarity="POS" start="2500" text="His tronponin" type="TEST"/>
+<EVENT end="2534" id="E96" modality="FACTUAL" polarity="POS" start="2522" text="trended down" type="OCCURRENCE"/>
+<EVENT end="2558" id="E97" modality="FACTUAL" polarity="POS" start="2555" text="EKG" type="TEST"/>
+<EVENT end="2567" id="E98" modality="FACTUAL" polarity="NEG" start="2559" text="evidence" type="EVIDENTIAL"/>
+<EVENT end="263" id="E7" modality="FACTUAL" polarity="POS" start="258" text="faint" type="PROBLEM"/>
+<EVENT end="2579" id="E99" modality="FACTUAL" polarity="NEG" start="2571" text="ischemia" type="PROBLEM"/>
+<EVENT end="2589" id="E100" modality="FACTUAL" polarity="POS" start="2582" text="An ECHO" type="TEST"/>
+<EVENT end="2604" id="E101" modality="FACTUAL" polarity="POS" start="2598" text="reveal" type="EVIDENTIAL"/>
+<EVENT end="2634" id="E102" modality="FACTUAL" polarity="NEG" start="2605" text="any wall motion abnormalities" type="PROBLEM"/>
+<EVENT end="2654" id="E103" modality="FACTUAL" polarity="NEG" start="2646" text="ischemia" type="PROBLEM"/>
+<EVENT end="2670" id="E104" modality="FACTUAL" polarity="POS" start="2660" text="Hematocrit" type="TEST"/>
+<EVENT end="2680" id="E105" modality="FACTUAL" polarity="POS" start="2673" text="Dropped" type="OCCURRENCE"/>
+<EVENT end="305" id="E8" modality="FACTUAL" polarity="POS" start="268" text="immediately fell to the kitchen floor" type="OCCURRENCE"/>
+<EVENT end="2726" id="E106" modality="FACTUAL" polarity="POS" start="2711" text="anticoagulation" type="TREATMENT"/>
+<EVENT end="2740" id="E107" modality="FACTUAL" polarity="POS" start="2731" text="saddle PE" type="PROBLEM"/>
+<EVENT end="2754" id="E108" modality="FACTUAL" polarity="POS" start="2745" text="IV fluids" type="TREATMENT"/>
+<EVENT end="2775" id="E109" modality="FACTUAL" polarity="NEG" start="2760" text="active bleeding" type="PROBLEM"/>
+<EVENT end="2781" id="E110" modality="FACTUAL" polarity="POS" start="2776" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2799" id="E111" modality="FACTUAL" polarity="POS" start="2787" text="asymptomatic" type="OCCURRENCE"/>
+<EVENT end="2818" id="E112" modality="FACTUAL" polarity="POS" start="2805" text="L knee injury" type="PROBLEM"/>
+<EVENT end="2856" id="E113" modality="FACTUAL" polarity="POS" start="2843" text="physical exam" type="TEST"/>
+<EVENT end="2879" id="E114" modality="FACTUAL" polarity="POS" start="2870" text="presented" type="EVIDENTIAL"/>
+<EVENT end="2894" id="E115" modality="FACTUAL" polarity="POS" start="2885" text="an injury" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2929" id="E116" modality="POSSIBLE" polarity="POS" start="2916" text="meniscal tear" type="PROBLEM"/>
+<EVENT end="2962" id="E117" modality="FACTUAL" polarity="POS" start="2955" text="therapy" type="TREATMENT"/>
+<EVENT end="2986" id="E118" modality="FACTUAL" polarity="POS" start="2970" text="promote mobility" type="TREATMENT"/>
+<EVENT end="3007" id="E119" modality="FACTUAL" polarity="POS" start="2989" text="an MRI of the knee" type="TEST"/>
+<EVENT end="3050" id="E120" modality="FACTUAL" polarity="POS" start="3026" text="seen by physical therapy" type="OCCURRENCE"/>
+<EVENT end="3077" id="E121" modality="FACTUAL" polarity="POS" start="3068" text="follow up" type="OCCURRENCE"/>
+<EVENT end="3095" id="E122" modality="PROPOSED" polarity="POS" start="3083" text="orthopaedics" type="OCCURRENCE"/>
+<EVENT end="3110" id="E123" modality="FACTUAL" polarity="POS" start="3101" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3132" id="E124" modality="FACTUAL" polarity="POS" start="3115" text="repeat evaluation" type="TEST"/>
+<EVENT end="3154" id="E125" modality="CONDITIONAL" polarity="POS" start="3145" text="FULL CODE" type="TREATMENT"/>
+<EVENT end="328" id="E52" modality="FACTUAL" polarity="POS" start="322" text="denies" type="EVIDENTIAL"/>
+<EVENT end="332" id="E53" modality="FACTUAL" polarity="NEG" start="329" text="LOC" type="PROBLEM"/>
+<EVENT end="386" id="E10" modality="FACTUAL" polarity="POS" start="366" text="very short of breath" type="PROBLEM"/>
+<EVENT end="405" id="E11" modality="FACTUAL" polarity="POS" start="394" text="lightheaded" type="PROBLEM"/>
+<EVENT end="426" id="E12" modality="FACTUAL" polarity="POS" start="416" text="called 911" type="OCCURRENCE"/>
+<EVENT end="443" id="E13" modality="FACTUAL" polarity="POS" start="432" text="Springfield" type="CLINICAL_DEPT"/>
+<EVENT end="454" id="E14" modality="FACTUAL" polarity="POS" start="446" text="CT chest" type="TEST"/>
+<EVENT end="481" id="E15" modality="FACTUAL" polarity="POS" start="472" text="saddle PE" type="PROBLEM"/>
+<EVENT end="486" id="E16" modality="FACTUAL" polarity="POS" start="484" text="VS" type="TEST"/>
+<EVENT end="507" id="E17" modality="FACTUAL" polarity="POS" start="497" text="stable BPs" type="TEST"/>
+<EVENT end="515" id="E18" modality="FACTUAL" polarity="POS" start="510" text="tachy" type="PROBLEM"/>
+<EVENT end="532" id="E19" modality="FACTUAL" polarity="POS" start="529" text="sat" type="TEST"/>
+<EVENT end="561" id="E20" modality="FACTUAL" polarity="POS" start="554" text="Lovenox" type="TREATMENT"/>
+<EVENT end="589" id="E21" modality="FACTUAL" polarity="POS" start="580" text="transport" type="OCCURRENCE"/>
+<EVENT end="609" id="E22" modality="FACTUAL" polarity="POS" start="598" text="transferred" type="OCCURRENCE"/>
+<EVENT end="628" id="E23" modality="FACTUAL" polarity="POS" start="613" text="Arbour Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="645" id="E24" modality="FACTUAL" polarity="POS" start="633" text="further care" type="TREATMENT"/>
+<EVENT end="665" id="E25" modality="FACTUAL" polarity="POS" start="659" text="states" type="EVIDENTIAL"/>
+<EVENT end="704" id="E26" modality="FACTUAL" polarity="POS" start="692" text="presentation" type="EVIDENTIAL"/>
+<EVENT end="726" id="E27" modality="FACTUAL" polarity="POS" start="708" text="hurt his left knee" type="PROBLEM"/>
+<EVENT end="782" id="E28" modality="FACTUAL" polarity="POS" start="774" text="stood up" type="OCCURRENCE"/>
+<EVENT end="805" id="E30" modality="FACTUAL" polarity="POS" start="791" text="heard his knee" type="OCCURRENCE"/>
+<EVENT end="814" id="E31" modality="FACTUAL" polarity="POS" start="806" text="CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="883" id="E32" modality="FACTUAL" polarity="POS" start="859" text="from sitting to standing" type="OCCURRENCE"/>
+<EVENT end="898" id="E33" modality="FACTUAL" polarity="POS" start="884" text="heard his knee" type="OCCURRENCE"/>
+<EVENT end="907" id="E34" modality="FACTUAL" polarity="POS" start="899" text="CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="938" id="E35" modality="FACTUAL" polarity="POS" start="917" text="essentially bed bound" type="PROBLEM"/>
+<EVENT end="968" id="E36" modality="FACTUAL" polarity="POS" start="959" text="admission" type="OCCURRENCE"/>
+<EVENT end="989" id="E37" modality="FACTUAL" polarity="NEG" start="971" text="unable to ambulate" type="PROBLEM"/>
+
+
+<RTIMEX3 end="199" id="T2" mod="APPROX" start="175" text="the morning of admission" type="TIME" val="2019-01-09T08:00"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2019-01-09" type="DATE" val="2019-01-09"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2019-01-15" type="DATE" val="2019-01-15"/>
+
+<RTIMEX3 end="837" id="T4" mod="APPROX" start="831" text="Sunday" type="DATE" val="2019-01-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2019-01-09" end="28" id="S0" start="18" text="2019-01-09" type="ADMISSION"/>
+<SECTIME dvalue="2019-01-15" end="56" id="S1" start="46" text="2019-01-15" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

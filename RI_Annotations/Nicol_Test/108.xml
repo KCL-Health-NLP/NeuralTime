@@ -1,0 +1,502 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2020-03-11
+Discharge Date :
+2020-03-23
+Service :
+MEDICINE
+History of Present Illness :
+73 yo M transferred from Newton-Wellesley Hospital hospital for epidural abscess .
+Pt has h/o colon can to liver , s/p resxn with serosal implants in 9/03 .
+Pt states he has been receiving chemotherapy up until 1 week ago .
+States he first developed back pain 5 weeks ago but was still able to ambulate with his cane .
+Last week it was worse and he was seen in clinic .
+An MRI was done and this showed a signal abno in L3 L4 ? disciitis vs osteo without a definitive epidural abscess .
+Initially on Vanc and Cipro on Friday but then seen by ID who reccommended no abx but a bone biopsy , blood cx .
+He was also seen by spine who repeated the MRI and this showed L3-4 osteomyelitis and discitis and an epidural abscess , 5cm .
+He was subsequently restared on Vancomycin for Corynebacterium in blood cx from Fri ; Followup cx has been NGTD .
+CXR also showed small pleural effusion and attempt was made to tap it , but pt did not tolerate the procedure and asked that it be deferred .
+He did undergo a CT-guided aspiration / biopsy at the L3-4 disc space on 2020-03-11 and the pt was transferred to Mediplex Rehab Hospital immediately following this .
+No results from this were sent .
+Currently pt denies sensory deficits or weakness .
+States he is not able to walk because of severe pain .
+States pain is worst when he sits up or twists his back .
+No bowel or bladder incontinence .
+Brief Hospital Course :
+73 yo M transferred from Youville Hospital with h/o colon cancer with known liver mets now with epidural abscess and corynebacterium bacteremia :
+# Epidural abscess : The patient was evaluated by orthopedic spine consult service and ID .
+He was continued on IV vancomycin throughout his course and had therapeutic troughs .
+The patient was taken to the OR twice with orthopaedics .
+Please see the operation notes for details about the surgeries .
+The patient was briefly admitted to the ICU for low hematocrit and hyponatremia immediately following the surgery but was then transferred back to the floor in stable condition .
+The patient had a PICC line placed and will continue a 8 week course of antibiotics .
+The patient will also wear a back brace at all times while out of bed .
+# Candidemia :: The patient was noted to have a positive blood culture from 03-12 .
+The patient was started on Diflucan .
+Ophthalmology was consulted and ruled out ocular spread .
+The patient 's portocath was removed .
+The tip was culture negative .
+The patient will get a total of a two week course of Diflucan .
+# Corynebacterium bacteremia : presumably Corynebacterium in epidural abscess as well .
+The patient had no blood cultures to grow corynebacterium while hospitalized .
+# Pleural effusion : The patient was noted have an effusion on CXR .
+IP was consulted and did a thoracentesis .
+The tap was negative for malignant cells .
+A repeat CT was done showing nodular thickening along the right major and minor fissure , concerning for intrapleural tumor implants .
+IP reviewed the films and recommended continue oncologic care according to 
+outpatient course and pleurodesis if the pt becomes symptomatic 02-07 fluid accumulation .
+The patient will follow up with his oncologist .
+# Foot ulcer : diabetic ulcer s/p surgery but never healed .
+Wound care was consulted and made recommendations for ulcer care .
+His dressings were changed by the nursing staff accordingly .
+# Anemia : His HCT remained stable post-surgery .
+The patient was continued on his iron supplements .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E45" modality="FACTUAL" polarity="POS" start="1008" text="tap" type="TREATMENT"/>
+<EVENT end="1040" id="E46" modality="FACTUAL" polarity="POS" start="1032" text="tolerate" type="OCCURRENCE"/>
+<EVENT end="1054" id="E47" modality="FACTUAL" polarity="POS" start="1041" text="the procedure" type="TREATMENT"/>
+<EVENT end="1064" id="E48" modality="FACTUAL" polarity="POS" start="1059" text="asked" type="EVIDENTIAL"/>
+<EVENT end="1084" id="E49" modality="PROPOSED" polarity="POS" start="1076" text="deferred" type="OCCURRENCE"/>
+<EVENT end="1156" id="E50" modality="FACTUAL" polarity="POS" start="1102" text="a CT-guided aspiration / biopsy at the L3-4 disc space" type="TEST"/>
+<EVENT end="124" id="E3" modality="FACTUAL" polarity="POS" start="113" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1197" id="E51" modality="FACTUAL" polarity="POS" start="1186" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1224" id="E52" modality="FACTUAL" polarity="POS" start="1201" text="Mediplex Rehab Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1264" id="E53" modality="FACTUAL" polarity="NEG" start="1257" text="results" type="EVIDENTIAL"/>
+<EVENT end="164" id="E4" modality="FACTUAL" polarity="POS" start="130" text="Newton-Wellesley Hospital hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1306" id="E55" modality="FACTUAL" polarity="POS" start="1300" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1323" id="E56" modality="FACTUAL" polarity="NEG" start="1307" text="sensory deficits" type="PROBLEM"/>
+<EVENT end="1335" id="E57" modality="FACTUAL" polarity="NEG" start="1327" text="weakness" type="PROBLEM"/>
+<EVENT end="1344" id="E58" modality="FACTUAL" polarity="POS" start="1338" text="States" type="EVIDENTIAL"/>
+<EVENT end="1367" id="E59" modality="FACTUAL" polarity="POS" start="1351" text="not able to walk" type="OCCURRENCE"/>
+<EVENT end="1390" id="E60" modality="FACTUAL" polarity="POS" start="1379" text="severe pain" type="PROBLEM"/>
+<EVENT end="1399" id="E61" modality="FACTUAL" polarity="POS" start="1393" text="States" type="EVIDENTIAL"/>
+<EVENT end="1404" id="E62" modality="CONDITIONAL" polarity="POS" start="1400" text="pain" type="PROBLEM"/>
+<EVENT end="1429" id="E63" modality="CONDITIONAL" polarity="POS" start="1422" text="sits up" type="OCCURRENCE"/>
+<EVENT end="1448" id="E64" modality="CONDITIONAL" polarity="POS" start="1433" text="twists his back" type="OCCURRENCE"/>
+<EVENT end="1483" id="E65" modality="FACTUAL" polarity="NEG" start="1454" text="bowel or bladder incontinence" type="PROBLEM"/>
+<EVENT end="1529" id="E66" modality="FACTUAL" polarity="POS" start="1518" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1552" id="E67" modality="FACTUAL" polarity="POS" start="1535" text="Youville Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1574" id="E68" modality="FACTUAL" polarity="POS" start="1562" text="colon cancer" type="PROBLEM"/>
+<EVENT end="1596" id="E69" modality="FACTUAL" polarity="POS" start="1580" text="known liver mets" type="PROBLEM"/>
+<EVENT end="1622" id="E70" modality="FACTUAL" polarity="POS" start="1606" text="epidural abscess" type="PROBLEM"/>
+<EVENT end="1653" id="E71" modality="FACTUAL" polarity="POS" start="1627" text="corynebacterium bacteremia" type="PROBLEM"/>
+<EVENT end="1674" id="E72" modality="FACTUAL" polarity="POS" start="1658" text="Epidural abscess" type="PROBLEM"/>
+<EVENT end="185" id="E5" modality="POSSIBLE" polarity="POS" start="169" text="epidural abscess" type="PROBLEM"/>
+<EVENT end="1702" id="E73" modality="FACTUAL" polarity="POS" start="1693" text="evaluated" type="TEST"/>
+<EVENT end="1738" id="E74" modality="FACTUAL" polarity="POS" start="1706" text="orthopedic spine consult service" type="CLINICAL_DEPT"/>
+<EVENT end="1745" id="E75" modality="FACTUAL" polarity="POS" start="1743" text="ID" type="CLINICAL_DEPT"/>
+<EVENT end="1781" id="E76" modality="FACTUAL" polarity="POS" start="1768" text="IV vancomycin" type="TREATMENT"/>
+<EVENT end="1831" id="E77" modality="FACTUAL" polarity="POS" start="1824" text="troughs" type="TEST"/>
+<EVENT end="1865" id="E78" modality="FACTUAL" polarity="POS" start="1859" text="the OR" type="CLINICAL_DEPT"/>
+<EVENT end="1889" id="E79" modality="FACTUAL" polarity="POS" start="1877" text="orthopaedics" type="PROBLEM"/>
+<EVENT end="217" id="E6" modality="FACTUAL" polarity="POS" start="199" text="colon can to liver" type="PROBLEM"/>
+<EVENT end="1989" id="E80" modality="FACTUAL" polarity="POS" start="1981" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2000" id="E81" modality="FACTUAL" polarity="POS" start="1993" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2019" id="E82" modality="FACTUAL" polarity="POS" start="2005" text="low hematocrit" type="PROBLEM"/>
+<EVENT end="2036" id="E83" modality="FACTUAL" polarity="POS" start="2024" text="hyponatremia" type="PROBLEM"/>
+<EVENT end="2070" id="E84" modality="FACTUAL" polarity="POS" start="2059" text="the surgery" type="TREATMENT"/>
+<EVENT end="2095" id="E85" modality="FACTUAL" polarity="POS" start="2084" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2113" id="E86" modality="FACTUAL" polarity="POS" start="2104" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2133" id="E87" modality="FACTUAL" polarity="POS" start="2117" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="2163" id="E88" modality="FACTUAL" polarity="POS" start="2152" text="a PICC line" type="TREATMENT"/>
+<EVENT end="2219" id="E89" modality="FACTUAL" polarity="POS" start="2208" text="antibiotics" type="TREATMENT"/>
+<EVENT end="229" id="E7" modality="FACTUAL" polarity="POS" start="224" text="resxn" type="TREATMENT"/>
+<EVENT end="2261" id="E90" modality="CONDITIONAL" polarity="POS" start="2249" text="a back brace" type="TREATMENT"/>
+<EVENT end="2291" id="E91" modality="CONDITIONAL" polarity="POS" start="2281" text="out of bed" type="OCCURRENCE"/>
+<EVENT end="2306" id="E92" modality="FACTUAL" polarity="POS" start="2296" text="Candidemia" type="PROBLEM"/>
+<EVENT end="2331" id="E93" modality="FACTUAL" polarity="POS" start="2326" text="noted" type="EVIDENTIAL"/>
+<EVENT end="251" id="E8" modality="FACTUAL" polarity="POS" start="235" text="serosal implants" type="TREATMENT"/>
+<EVENT end="2364" id="E94" modality="FACTUAL" polarity="POS" start="2351" text="blood culture" type="TEST"/>
+<EVENT end="2413" id="E95" modality="FACTUAL" polarity="POS" start="2405" text="Diflucan" type="TREATMENT"/>
+<EVENT end="2429" id="E96" modality="FACTUAL" polarity="POS" start="2416" text="Ophthalmology" type="CLINICAL_DEPT"/>
+<EVENT end="2443" id="E99" modality="FACTUAL" polarity="POS" start="2434" text="consulted" type="EVIDENTIAL"/>
+<EVENT end="2457" id="E97" modality="FACTUAL" polarity="POS" start="2448" text="ruled out" type="EVIDENTIAL"/>
+<EVENT end="2471" id="E98" modality="FACTUAL" polarity="NEG" start="2458" text="ocular spread" type="PROBLEM"/>
+<EVENT end="2498" id="E100" modality="FACTUAL" polarity="POS" start="2489" text="portocath" type="TREATMENT"/>
+<EVENT end="2532" id="E101" modality="FACTUAL" polarity="NEG" start="2525" text="culture" type="TEST"/>
+<EVENT end="2605" id="E102" modality="FACTUAL" polarity="POS" start="2597" text="Diflucan" type="TREATMENT"/>
+<EVENT end="2636" id="E103" modality="FACTUAL" polarity="POS" start="2610" text="Corynebacterium bacteremia" type="PROBLEM"/>
+<EVENT end="271" id="E9" modality="FACTUAL" polarity="POS" start="265" text="states" type="EVIDENTIAL"/>
+<EVENT end="2665" id="E104" modality="POSSIBLE" polarity="POS" start="2650" text="Corynebacterium" type="PROBLEM"/>
+<EVENT end="2685" id="E105" modality="FACTUAL" polarity="POS" start="2669" text="epidural abscess" type="PROBLEM"/>
+<EVENT end="2729" id="E106" modality="FACTUAL" polarity="NEG" start="2715" text="blood cultures" type="TEST"/>
+<EVENT end="2753" id="E107" modality="FACTUAL" polarity="POS" start="2738" text="corynebacterium" type="PROBLEM"/>
+<EVENT end="2772" id="E108" modality="FACTUAL" polarity="POS" start="2760" text="hospitalized" type="OCCURRENCE"/>
+<EVENT end="2793" id="E109" modality="FACTUAL" polarity="POS" start="2777" text="Pleural effusion" type="PROBLEM"/>
+<EVENT end="2817" id="E110" modality="FACTUAL" polarity="POS" start="2812" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2834" id="E111" modality="FACTUAL" polarity="POS" start="2823" text="an effusion" type="PROBLEM"/>
+<EVENT end="2841" id="E112" modality="FACTUAL" polarity="POS" start="2838" text="CXR" type="TEST"/>
+<EVENT end="2846" id="E115" modality="FACTUAL" polarity="POS" start="2844" text="IP" type="CLINICAL_DEPT"/>
+<EVENT end="2860" id="E113" modality="FACTUAL" polarity="POS" start="2851" text="consulted" type="OCCURRENCE"/>
+<EVENT end="2884" id="E114" modality="FACTUAL" polarity="POS" start="2869" text="a thoracentesis" type="TEST"/>
+<EVENT end="2894" id="E116" modality="FACTUAL" polarity="POS" start="2887" text="The tap" type="TEST"/>
+<EVENT end="38" id="E2" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2927" id="E117" modality="FACTUAL" polarity="NEG" start="2912" text="malignant cells" type="PROBLEM"/>
+<EVENT end="2941" id="E118" modality="FACTUAL" polarity="POS" start="2930" text="A repeat CT" type="TEST"/>
+<EVENT end="306" id="E10" modality="FACTUAL" polarity="POS" start="294" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="2958" id="E119" modality="FACTUAL" polarity="POS" start="2951" text="showing" type="EVIDENTIAL"/>
+<EVENT end="2977" id="E120" modality="FACTUAL" polarity="POS" start="2959" text="nodular thickening" type="PROBLEM"/>
+<EVENT end="3062" id="E121" modality="POSSIBLE" polarity="POS" start="3035" text="intrapleural tumor implants" type="PROBLEM"/>
+<EVENT end="3067" id="E122" modality="FACTUAL" polarity="POS" start="3065" text="IP" type="CLINICAL_DEPT"/>
+<EVENT end="3086" id="E123" modality="FACTUAL" polarity="POS" start="3077" text="the films" type="TEST"/>
+<EVENT end="3102" id="E124" modality="FACTUAL" polarity="POS" start="3091" text="recommended" type="EVIDENTIAL"/>
+<EVENT end="3126" id="E125" modality="PROPOSED" polarity="POS" start="3112" text="oncologic care" type="TREATMENT"/>
+<EVENT end="3158" id="E126" modality="FACTUAL" polarity="POS" start="3141" text="outpatient course" type="OCCURRENCE"/>
+<EVENT end="3174" id="E127" modality="FACTUAL" polarity="POS" start="3163" text="pleurodesis" type="TREATMENT"/>
+<EVENT end="3204" id="E128" modality="CONDITIONAL" polarity="POS" start="3193" text="symptomatic" type="PROBLEM"/>
+<EVENT end="3229" id="E129" modality="CONDITIONAL" polarity="POS" start="3211" text="fluid accumulation" type="PROBLEM"/>
+<EVENT end="3258" id="E130" modality="FACTUAL" polarity="POS" start="3249" text="follow up" type="OCCURRENCE"/>
+<EVENT end="3278" id="E131" modality="FACTUAL" polarity="POS" start="3264" text="his oncologist" type="CLINICAL_DEPT"/>
+<EVENT end="3293" id="E132" modality="FACTUAL" polarity="POS" start="3283" text="Foot ulcer" type="PROBLEM"/>
+<EVENT end="335" id="E11" modality="FACTUAL" polarity="POS" start="329" text="States" type="EVIDENTIAL"/>
+<EVENT end="3310" id="E133" modality="FACTUAL" polarity="POS" start="3296" text="diabetic ulcer" type="PROBLEM"/>
+<EVENT end="3322" id="E134" modality="FACTUAL" polarity="POS" start="3315" text="surgery" type="TREATMENT"/>
+<EVENT end="3339" id="E135" modality="FACTUAL" polarity="NEG" start="3333" text="healed" type="OCCURRENCE"/>
+<EVENT end="3352" id="E142" modality="FACTUAL" polarity="POS" start="3342" text="Wound care" type="CLINICAL_DEPT"/>
+<EVENT end="3366" id="E143" modality="FACTUAL" polarity="POS" start="3357" text="consulted" type="EVIDENTIAL"/>
+<EVENT end="3391" id="E144" modality="FACTUAL" polarity="POS" start="3376" text="recommendations" type="OCCURRENCE"/>
+<EVENT end="3406" id="E145" modality="PROPOSED" polarity="POS" start="3396" text="ulcer care" type="TREATMENT"/>
+<EVENT end="3422" id="E136" modality="FACTUAL" polarity="POS" start="3409" text="His dressings" type="TREATMENT"/>
+<EVENT end="3435" id="E137" modality="FACTUAL" polarity="POS" start="3428" text="changed" type="OCCURRENCE"/>
+<EVENT end="3479" id="E138" modality="FACTUAL" polarity="POS" start="3473" text="Anemia" type="PROBLEM"/>
+<EVENT end="3489" id="E139" modality="FACTUAL" polarity="POS" start="3482" text="His HCT" type="TEST"/>
+<EVENT end="3505" id="E140" modality="FACTUAL" polarity="POS" start="3499" text="stable" type="OCCURRENCE"/>
+<EVENT end="364" id="E12" modality="FACTUAL" polarity="POS" start="355" text="back pain" type="PROBLEM"/>
+<EVENT end="3570" id="E141" modality="FACTUAL" polarity="POS" start="3550" text="his iron supplements" type="TREATMENT"/>
+<EVENT end="407" id="E13" modality="FACTUAL" polarity="POS" start="399" text="ambulate" type="OCCURRENCE"/>
+<EVENT end="446" id="E14" modality="FACTUAL" polarity="POS" start="441" text="worse" type="OCCURRENCE"/>
+<EVENT end="462" id="E15" modality="FACTUAL" polarity="POS" start="458" text="seen" type="EVIDENTIAL"/>
+<EVENT end="472" id="E16" modality="FACTUAL" polarity="POS" start="466" text="clinic" type="CLINICAL_DEPT"/>
+<EVENT end="481" id="E17" modality="FACTUAL" polarity="POS" start="475" text="An MRI" type="TEST"/>
+<EVENT end="506" id="E18" modality="FACTUAL" polarity="POS" start="500" text="showed" type="EVIDENTIAL"/>
+<EVENT end="529" id="E19" modality="FACTUAL" polarity="POS" start="507" text="a signal abno in L3 L4" type="PROBLEM"/>
+<EVENT end="541" id="E20" modality="POSSIBLE" polarity="POS" start="532" text="disciitis" type="PROBLEM"/>
+<EVENT end="550" id="E21" modality="FACTUAL" polarity="POS" start="545" text="osteo" type="PROBLEM"/>
+<EVENT end="588" id="E22" modality="FACTUAL" polarity="NEG" start="559" text="a definitive epidural abscess" type="PROBLEM"/>
+<EVENT end="608" id="E23" modality="FACTUAL" polarity="POS" start="604" text="Vanc" type="TREATMENT"/>
+<EVENT end="618" id="E24" modality="FACTUAL" polarity="POS" start="613" text="Cipro" type="TREATMENT"/>
+<EVENT end="648" id="E31" modality="FACTUAL" polarity="POS" start="646" text="ID" type="CLINICAL_DEPT"/>
+<EVENT end="665" id="E26" modality="FACTUAL" polarity="POS" start="653" text="reccommended" type="EVIDENTIAL"/>
+<EVENT end="672" id="E27" modality="PROPOSED" polarity="NEG" start="669" text="abx" type="TREATMENT"/>
+<EVENT end="690" id="E28" modality="PROPOSED" polarity="POS" start="677" text="a bone biopsy" type="TEST"/>
+<EVENT end="701" id="E29" modality="PROPOSED" polarity="POS" start="693" text="blood cx" type="TEST"/>
+<EVENT end="729" id="E30" modality="FACTUAL" polarity="POS" start="724" text="spine" type="CLINICAL_DEPT"/>
+<EVENT end="742" id="E32" modality="FACTUAL" polarity="POS" start="734" text="repeated" type="EVIDENTIAL"/>
+<EVENT end="750" id="E33" modality="FACTUAL" polarity="POS" start="743" text="the MRI" type="TEST"/>
+<EVENT end="766" id="E34" modality="FACTUAL" polarity="POS" start="760" text="showed" type="EVIDENTIAL"/>
+<EVENT end="785" id="E35" modality="FACTUAL" polarity="POS" start="767" text="L3-4 osteomyelitis" type="PROBLEM"/>
+<EVENT end="798" id="E36" modality="FACTUAL" polarity="POS" start="790" text="discitis" type="PROBLEM"/>
+<EVENT end="822" id="E37" modality="FACTUAL" polarity="POS" start="803" text="an epidural abscess" type="PROBLEM"/>
+<EVENT end="873" id="E38" modality="FACTUAL" polarity="POS" start="863" text="Vancomycin" type="TREATMENT"/>
+<EVENT end="893" id="E39" modality="FACTUAL" polarity="POS" start="878" text="Corynebacterium" type="PROBLEM"/>
+<EVENT end="905" id="E40" modality="FACTUAL" polarity="POS" start="897" text="blood cx" type="TEST"/>
+<EVENT end="928" id="E41" modality="FACTUAL" polarity="POS" start="917" text="Followup cx" type="TEST"/>
+<EVENT end="948" id="E42" modality="FACTUAL" polarity="POS" start="945" text="CXR" type="TEST"/>
+<EVENT end="960" id="E43" modality="FACTUAL" polarity="POS" start="954" text="showed" type="EVIDENTIAL"/>
+<EVENT end="983" id="E44" modality="FACTUAL" polarity="POS" start="961" text="small pleural effusion" type="PROBLEM"/>
+<ATIMEX3 end="1170" id="T9" mod="NA" start="1160" text="2020-03-11" type="DATE" val="2020-03-11"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2020-03-11" type="DATE" val="2020-03-06"/>
+
+
+<ATIMEX3 end="2375" id="T12" mod="NA" start="2370" text="03-12" type="DATE" val="2020-03-12"/>
+<ATIMEX3 end="259" id="T2" mod="NA" start="255" text="9/03" type="DATE" val="2003-09"/>
+
+
+
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2020-03-23" type="DATE" val="2020-03-23"/>
+<RTIMEX3 end="628" id="T7" mod="NA" start="622" text="Friday" type="DATE" val="2020-03-06"/>
+<RTIMEX3 end="914" id="T8" mod="NA" start="911" text="Fri" type="DATE" val="2020-03-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2020-03-11" end="28" id="S0" start="18" text="2020-03-11" type="ADMISSION"/>
+<SECTIME dvalue="2020-03-23" end="56" id="S1" start="46" text="2020-03-23" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

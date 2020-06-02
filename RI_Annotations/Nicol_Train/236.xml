@@ -1,0 +1,508 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+08/15/1998
+DISCHARGE DATE :
+08/22/1998
+DISCHARGE DATE :
+08/22/1998
+HISTORY OF PRESENT ILLNESS :
+Breunlinke is a 70-year-old patient of Dr. Brendniungand Asilbekote in California .
+She is referred for progressive angina .
+She had rheumatoid fever as a child and a heart murmur noted but no further testing .
+She has used antibiotic prophylaxis since 1980 .
+In 1980 she had quadruple coronary artery bypass graft surgery by Dr. Elks at Feargunwake Otacaa Community Hospital and did well until 1988 when she had exertional angina and a positive stress test and found that three or four grafts were occluded .
+In October , 1989 , Dr. No re-did her bypass operation .
+She had a left internal mammary artery graft to the left anterior descending , saphenous vein graft to the obtuse marginal 1 and a saphenous vein graft to the obtuse marginal 2 .
+In 1993 she had a DDD pacemaker for complete heart block .
+She had exertional angina at that time .
+In November , 1997 she had a small myocardial infarction as was transferred to Ona Hospital where a cardiac catheterization showed a tight left internal mammary artery to left anterior descending stenosis , high grade saphenous vein graft to obtuse marginal 1 stenosis and patent obtuse marginal 2 graft .
+She had normal left ventricular function with apical tip akinesis .
+Since that time she has continued to have exertional left chest burning , radiating to the left neck and arm , relieved by nitroglycerin .
+She was turned down for re-do surgery at that time and did not have a percutaneous transluminal coronary angioplasty .
+Because these symptoms have been increasing , particularly at cardiac rehabilitation , she was referred here .
+In May , 1998 she had an exercise tolerance test in which her heart rate went to 112 and her blood pressure fell to 95 systolic .
+She had diffuse ischemic ST segment changes and increased lung uptake and a reversible anterior and lateral defect .
+She has had no syncope .
+Her cardiac risk factors are hypertension and elevated cholesterol .
+She has a very strong family history of coronary artery disease with a mother , sister and brother dying of myocardial infarction .
+She is a remote cigarette smoker .
+She also has a history of lactose intolerance , peptic ulcer disease , with a remote gastrointestinal bleed and multiple ectopic pregnancies and mid term miscarriages .
+She has had a total abdominal hysterectomy .
+SOCIAL HISTORY :
+She is a widow for 20 years and retired 18 years from Palmci
+She lives alone .
+Her son , Nertland is nearby and he works at the Em Nysonken Medical Center on Verville .
+They live in Ohio .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted to the Cardiac Catheterization Laboratory .
+There , her pulmonary wedge pressure was 12 and her right atrial pressure was 4 and pulmonary artery pressure 44/17 .
+Her left ventricular contraction showed akinesis of the anterior wall with dyskinesis of the apex .
+She had preserved inferior contraction and basal contraction .
+Her native right and left anterior descending vessels were occluded as was an obtuse marginal branch .
+The saphenous vein to the high diagonal or high obtuse marginal was occluded .
+The left internal mammary artery to the left anterior descending was also occluded .
+The saphenous vein graft to the second obtuse marginal was open with no significant stenosis , but there was an outflow lesion in the obtuse marginal 2 as well as severe distal lesion as the obtuse marginal 2 fed the posterior descending artery .
+This was considered her culprit lesion .
+This was considered too high risk for angioplasty because of the severe disease in the graft .
+In addition , it was noted that she had saphenous vein harvested from both thighs .
+Her left internal mammary artery was also unused .
+It was also noted that she had failure to sense with the atrial lead .
+She would not sense the atrial contraction and the fire and this occasionally led to competition of firing .
+This was intermittent .
+The P wave amplitude was .6 and this could not be totally sensed .
+The patient was admitted for management of her coronary artery disease and evaluation of her pacemaker .
+It was noted that she became very symptomatic when she was not on a beta blocker but that on a beta blocker she had significant pacemaker failure .
+Her pacemaker was set to a VVI mode which sensed appropriately .
+She was in sinus rhythm with most of the time .
+When her pacemaker was in a sinus rhythm without a beta blocker , she had significant angina .
+Carotid non-invasive testing was unremarkable .
+The situation was reviewed with Dr. Niste Graft .
+He felt the patient was not a coronary artery bypass graft candidate because of the lack of conduit and because of the presence of a large anterior myocardial infarction .
+For this reason , it was decided to maximize her beta blockers and nitrates .
+The situation was reviewed with Dr. No of the Pacemaker Service .
+On August 20 , under local anesthesia the right pectoral region was explored and the leads disconnected and the pulse generator changed to a CPI unit in which the sensitivity could be adjusted to .15 mm. , which permitted appropriate atrial sensing .
+There was nothing wrong with the prior generator and nothing wrong with the leads .
+It just needed a unit that could have more sensitivity in the atrial mode .
+She tolerated this well .
+Her medications were resumed .
+She ambulated without difficulty and was discharged to home to be followed medically for her coronary artery disease following two failed bypass graft procedure by Dr. Brendniungand Asilbekote in Bi Masase , KS .
+ACHASTHA N. GRAFT , M.D.
+TR :
+hfr
+DD :
+08/22/1998
+TD :
+08/27/1998 3:56 P
+cc :
+ACHASTHA NICEMAEN GRAFT , M.D. GITTETUMN DARNNAMAN NO , M.D.
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E75" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1035" id="E84" modality="FACTUAL" polarity="POS" start="1024" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1051" id="E85" modality="FACTUAL" polarity="POS" start="1039" text="Ona Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1083" id="E17" modality="FACTUAL" polarity="POS" start="1058" text="a cardiac catheterization" type="TEST"/>
+<EVENT end="1090" id="E86" modality="FACTUAL" polarity="POS" start="1084" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1127" id="E18" modality="FACTUAL" polarity="POS" start="1091" text="a tight left internal mammary artery" type="PROBLEM"/>
+<EVENT end="1164" id="E19" modality="FACTUAL" polarity="POS" start="1131" text="left anterior descending stenosis" type="PROBLEM"/>
+<EVENT end="1198" id="E87" modality="FACTUAL" polarity="POS" start="1167" text="high grade saphenous vein graft" type="TREATMENT"/>
+<EVENT end="1228" id="E20" modality="FACTUAL" polarity="POS" start="1202" text="obtuse marginal 1 stenosis" type="PROBLEM"/>
+<EVENT end="1263" id="E88" modality="FACTUAL" polarity="POS" start="1233" text="patent obtuse marginal 2 graft" type="TREATMENT"/>
+<EVENT end="1306" id="E89" modality="FACTUAL" polarity="POS" start="1274" text="normal left ventricular function" type="OCCURRENCE"/>
+<EVENT end="1331" id="E21" modality="FACTUAL" polarity="POS" start="1312" text="apical tip akinesis" type="PROBLEM"/>
+<EVENT end="1405" id="E22" modality="FACTUAL" polarity="POS" start="1376" text="exertional left chest burning" type="PROBLEM"/>
+<EVENT end="1442" id="E90" modality="FACTUAL" polarity="POS" start="1408" text="radiating to the left neck and arm" type="PROBLEM"/>
+<EVENT end="1470" id="E23" modality="FACTUAL" polarity="POS" start="1457" text="nitroglycerin" type="TREATMENT"/>
+<EVENT end="1510" id="E24" modality="FACTUAL" polarity="NEG" start="1497" text="re-do surgery" type="TREATMENT"/>
+<EVENT end="1589" id="E25" modality="FACTUAL" polarity="NEG" start="1541" text="a percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="1614" id="E91" modality="FACTUAL" polarity="POS" start="1600" text="these symptoms" type="PROBLEM"/>
+<EVENT end="1635" id="E92" modality="FACTUAL" polarity="POS" start="1625" text="increasing" type="OCCURRENCE"/>
+<EVENT end="1676" id="E93" modality="FACTUAL" polarity="POS" start="1654" text="cardiac rehabilitation" type="TREATMENT"/>
+<EVENT end="1695" id="E94" modality="FACTUAL" polarity="POS" start="1687" text="referred" type="OCCURRENCE"/>
+<EVENT end="1751" id="E26" modality="FACTUAL" polarity="POS" start="1725" text="an exercise tolerance test" type="TEST"/>
+<EVENT end="1775" id="E27" modality="FACTUAL" polarity="POS" start="1761" text="her heart rate" type="TEST"/>
+<EVENT end="1810" id="E28" modality="FACTUAL" polarity="POS" start="1792" text="her blood pressure" type="TEST"/>
+<EVENT end="1876" id="E29" modality="FACTUAL" polarity="POS" start="1841" text="diffuse ischemic ST segment changes" type="PROBLEM"/>
+<EVENT end="1902" id="E30" modality="FACTUAL" polarity="POS" start="1881" text="increased lung uptake" type="PROBLEM"/>
+<EVENT end="1947" id="E31" modality="FACTUAL" polarity="POS" start="1907" text="a reversible anterior and lateral defect" type="PROBLEM"/>
+<EVENT end="1972" id="E32" modality="FACTUAL" polarity="NEG" start="1965" text="syncope" type="PROBLEM"/>
+<EVENT end="1999" id="E95" modality="FACTUAL" polarity="POS" start="1975" text="Her cardiac risk factors" type="PROBLEM"/>
+<EVENT end="2016" id="E96" modality="FACTUAL" polarity="POS" start="2004" text="hypertension" type="PROBLEM"/>
+<EVENT end="2041" id="E97" modality="FACTUAL" polarity="POS" start="2021" text="elevated cholesterol" type="PROBLEM"/>
+<EVENT end="213" id="E80" modality="FACTUAL" polarity="POS" start="205" text="referred" type="OCCURRENCE"/>
+<EVENT end="2107" id="E98" modality="FACTUAL" polarity="POS" start="2084" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="2173" id="E99" modality="FACTUAL" polarity="POS" start="2152" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="236" id="E81" modality="FACTUAL" polarity="POS" start="218" text="progressive angina" type="PROBLEM"/>
+<EVENT end="2208" id="E100" modality="FACTUAL" polarity="POS" start="2192" text="cigarette smoker" type="OCCURRENCE"/>
+<EVENT end="2256" id="E101" modality="FACTUAL" polarity="POS" start="2237" text="lactose intolerance" type="PROBLEM"/>
+<EVENT end="2279" id="E102" modality="FACTUAL" polarity="POS" start="2259" text="peptic ulcer disease" type="PROBLEM"/>
+<EVENT end="2318" id="E33" modality="FACTUAL" polarity="POS" start="2287" text="a remote gastrointestinal bleed" type="PROBLEM"/>
+<EVENT end="2351" id="E34" modality="FACTUAL" polarity="POS" start="2323" text="multiple ectopic pregnancies" type="PROBLEM"/>
+<EVENT end="2377" id="E35" modality="FACTUAL" polarity="POS" start="2356" text="mid term miscarriages" type="PROBLEM"/>
+<EVENT end="2422" id="E103" modality="FACTUAL" polarity="POS" start="2392" text="a total abdominal hysterectomy" type="TREATMENT"/>
+<EVENT end="2456" id="E104" modality="FACTUAL" polarity="POS" start="2449" text="a widow" type="OCCURRENCE"/>
+<EVENT end="263" id="E1" modality="FACTUAL" polarity="POS" start="247" text="rheumatoid fever" type="PROBLEM"/>
+<EVENT end="2481" id="E105" modality="FACTUAL" polarity="POS" start="2474" text="retired" type="OCCURRENCE"/>
+<EVENT end="2687" id="E77" modality="FACTUAL" polarity="POS" start="2679" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2729" id="E106" modality="FACTUAL" polarity="POS" start="2691" text="the Cardiac Catheterization Laboratory" type="CLINICAL_DEPT"/>
+<EVENT end="2768" id="E36" modality="FACTUAL" polarity="POS" start="2740" text="her pulmonary wedge pressure" type="TEST"/>
+<EVENT end="2805" id="E37" modality="FACTUAL" polarity="POS" start="2780" text="her right atrial pressure" type="TEST"/>
+<EVENT end="293" id="E2" modality="FACTUAL" polarity="POS" start="279" text="a heart murmur" type="PROBLEM"/>
+<EVENT end="2841" id="E38" modality="FACTUAL" polarity="POS" start="2816" text="pulmonary artery pressure" type="TEST"/>
+<EVENT end="2882" id="E39" modality="FACTUAL" polarity="POS" start="2850" text="Her left ventricular contraction" type="TEST"/>
+<EVENT end="2889" id="E107" modality="FACTUAL" polarity="POS" start="2883" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2919" id="E40" modality="FACTUAL" polarity="POS" start="2890" text="akinesis of the anterior wall" type="PROBLEM"/>
+<EVENT end="38" id="E76" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2947" id="E41" modality="FACTUAL" polarity="POS" start="2925" text="dyskinesis of the apex" type="PROBLEM"/>
+<EVENT end="3010" id="E108" modality="FACTUAL" polarity="POS" start="2958" text="preserved inferior contraction and basal contraction" type="OCCURRENCE"/>
+<EVENT end="322" id="E3" modality="FACTUAL" polarity="NEG" start="307" text="further testing" type="TEST"/>
+<EVENT end="3080" id="E42" modality="FACTUAL" polarity="POS" start="3072" text="occluded" type="PROBLEM"/>
+<EVENT end="3179" id="E109" modality="FACTUAL" polarity="POS" start="3116" text="The saphenous vein to the high diagonal or high obtuse marginal" type="TREATMENT"/>
+<EVENT end="3192" id="E43" modality="FACTUAL" polarity="POS" start="3184" text="occluded" type="PROBLEM"/>
+<EVENT end="3259" id="E110" modality="FACTUAL" polarity="POS" start="3195" text="The left internal mammary artery to the left anterior descending" type="TREATMENT"/>
+<EVENT end="3277" id="E44" modality="FACTUAL" polarity="POS" start="3269" text="occluded" type="PROBLEM"/>
+<EVENT end="3334" id="E45" modality="FACTUAL" polarity="POS" start="3280" text="The saphenous vein graft to the second obtuse marginal" type="TREATMENT"/>
+<EVENT end="3372" id="E111" modality="FACTUAL" polarity="NEG" start="3352" text="significant stenosis" type="PROBLEM"/>
+<EVENT end="360" id="E82" modality="FACTUAL" polarity="POS" start="338" text="antibiotic prophylaxis" type="TREATMENT"/>
+<EVENT end="3431" id="E46" modality="FACTUAL" polarity="POS" start="3389" text="an outflow lesion in the obtuse marginal 2" type="PROBLEM"/>
+<EVENT end="3463" id="E47" modality="FACTUAL" polarity="POS" start="3443" text="severe distal lesion" type="PROBLEM"/>
+<EVENT end="3565" id="E48" modality="FACTUAL" polarity="POS" start="3547" text="her culprit lesion" type="PROBLEM"/>
+<EVENT end="3601" id="E112" modality="FACTUAL" polarity="POS" start="3588" text="too high risk" type="OCCURRENCE"/>
+<EVENT end="3617" id="E113" modality="FACTUAL" polarity="NEG" start="3606" text="angioplasty" type="TREATMENT"/>
+<EVENT end="3647" id="E49" modality="FACTUAL" polarity="POS" start="3629" text="the severe disease" type="PROBLEM"/>
+<EVENT end="3660" id="E50" modality="FACTUAL" polarity="POS" start="3651" text="the graft" type="TREATMENT"/>
+<EVENT end="3727" id="E114" modality="FACTUAL" polarity="POS" start="3703" text="saphenous vein harvested" type="TREATMENT"/>
+<EVENT end="3845" id="E115" modality="FACTUAL" polarity="POS" start="3829" text="failure to sense" type="PROBLEM"/>
+<EVENT end="3911" id="E116" modality="FACTUAL" polarity="POS" start="3879" text="not sense the atrial contraction" type="PROBLEM"/>
+<EVENT end="436" id="E4" modality="FACTUAL" polarity="POS" start="390" text="quadruple coronary artery bypass graft surgery" type="TREATMENT"/>
+<EVENT end="3975" id="E51" modality="FACTUAL" polarity="POS" start="3954" text="competition of firing" type="PROBLEM"/>
+<EVENT end="4022" id="E52" modality="FACTUAL" polarity="POS" start="4002" text="The P wave amplitude" type="TEST"/>
+<EVENT end="4093" id="E117" modality="FACTUAL" polarity="POS" start="4085" text="admitted" type="OCCURRENCE"/>
+<EVENT end="4108" id="E53" modality="FACTUAL" polarity="POS" start="4098" text="management" type="TREATMENT"/>
+<EVENT end="4139" id="E54" modality="FACTUAL" polarity="POS" start="4112" text="her coronary artery disease" type="PROBLEM"/>
+<EVENT end="4154" id="E55" modality="FACTUAL" polarity="POS" start="4144" text="evaluation" type="TEST"/>
+<EVENT end="4171" id="E56" modality="FACTUAL" polarity="POS" start="4158" text="her pacemaker" type="TREATMENT"/>
+<EVENT end="4219" id="E57" modality="FACTUAL" polarity="POS" start="4203" text="very symptomatic" type="PROBLEM"/>
+<EVENT end="4254" id="E118" modality="FACTUAL" polarity="NEG" start="4240" text="a beta blocker" type="TREATMENT"/>
+<EVENT end="4281" id="E119" modality="FACTUAL" polarity="POS" start="4267" text="a beta blocker" type="TREATMENT"/>
+<EVENT end="4319" id="E58" modality="FACTUAL" polarity="POS" start="4290" text="significant pacemaker failure" type="PROBLEM"/>
+<EVENT end="4335" id="E59" modality="FACTUAL" polarity="POS" start="4322" text="Her pacemaker" type="TREATMENT"/>
+<EVENT end="4357" id="E120" modality="FACTUAL" polarity="POS" start="4340" text="set to a VVI mode" type="TREATMENT"/>
+<EVENT end="4384" id="E121" modality="FACTUAL" polarity="POS" start="4364" text="sensed appropriately" type="OCCURRENCE"/>
+<EVENT end="4410" id="E122" modality="FACTUAL" polarity="POS" start="4398" text="sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="4453" id="E60" modality="FACTUAL" polarity="POS" start="4440" text="her pacemaker" type="TREATMENT"/>
+<EVENT end="4475" id="E123" modality="FACTUAL" polarity="POS" start="4461" text="a sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="4498" id="E61" modality="FACTUAL" polarity="NEG" start="4484" text="a beta blocker" type="TREATMENT"/>
+<EVENT end="4527" id="E62" modality="FACTUAL" polarity="POS" start="4509" text="significant angina" type="PROBLEM"/>
+<EVENT end="489" id="E83" modality="FACTUAL" polarity="POS" start="452" text="Feargunwake Otacaa Community Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="4558" id="E63" modality="FACTUAL" polarity="POS" start="4530" text="Carotid non-invasive testing" type="TEST"/>
+<EVENT end="4604" id="E124" modality="FACTUAL" polarity="POS" start="4596" text="reviewed" type="OCCURRENCE"/>
+<EVENT end="4686" id="E125" modality="FACTUAL" polarity="NEG" start="4656" text="a coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="4727" id="E64" modality="FACTUAL" polarity="POS" start="4708" text="the lack of conduit" type="PROBLEM"/>
+<EVENT end="4797" id="E65" modality="FACTUAL" polarity="POS" start="4759" text="a large anterior myocardial infarction" type="PROBLEM"/>
+<EVENT end="4862" id="E66" modality="FACTUAL" polarity="POS" start="4845" text="her beta blockers" type="TREATMENT"/>
+<EVENT end="4875" id="E67" modality="FACTUAL" polarity="POS" start="4867" text="nitrates" type="TREATMENT"/>
+<EVENT end="4904" id="E126" modality="FACTUAL" polarity="POS" start="4896" text="reviewed" type="OCCURRENCE"/>
+<EVENT end="502" id="E79" modality="FACTUAL" polarity="POS" start="494" text="did well" type="OCCURRENCE"/>
+<EVENT end="4981" id="E68" modality="FACTUAL" polarity="POS" start="4965" text="local anesthesia" type="TREATMENT"/>
+<EVENT end="5020" id="E127" modality="FACTUAL" polarity="POS" start="5012" text="explored" type="TREATMENT"/>
+<EVENT end="5047" id="E128" modality="FACTUAL" polarity="POS" start="5025" text="the leads disconnected" type="TREATMENT"/>
+<EVENT end="5071" id="E69" modality="FACTUAL" polarity="POS" start="5052" text="the pulse generator" type="TREATMENT"/>
+<EVENT end="5093" id="E70" modality="FACTUAL" polarity="POS" start="5083" text="a CPI unit" type="TREATMENT"/>
+<EVENT end="5192" id="E129" modality="FACTUAL" polarity="POS" start="5166" text="appropriate atrial sensing" type="TREATMENT"/>
+<EVENT end="5243" id="E71" modality="FACTUAL" polarity="POS" start="5224" text="the prior generator" type="TREATMENT"/>
+<EVENT end="544" id="E5" modality="FACTUAL" polarity="POS" start="527" text="exertional angina" type="PROBLEM"/>
+<EVENT end="5276" id="E72" modality="FACTUAL" polarity="POS" start="5267" text="the leads" type="TREATMENT"/>
+<EVENT end="5378" id="E130" modality="FACTUAL" polarity="POS" start="5359" text="tolerated this well" type="OCCURRENCE"/>
+<EVENT end="5396" id="E73" modality="FACTUAL" polarity="POS" start="5381" text="Her medications" type="TREATMENT"/>
+<EVENT end="5425" id="E131" modality="FACTUAL" polarity="POS" start="5416" text="ambulated" type="OCCURRENCE"/>
+<EVENT end="5444" id="E132" modality="FACTUAL" polarity="NEG" start="5434" text="difficulty" type="OCCURRENCE"/>
+<EVENT end="5463" id="E78" modality="FACTUAL" polarity="POS" start="5453" text="discharged" type="OCCURRENCE"/>
+<EVENT end="5496" id="E133" modality="PROPOSED" polarity="POS" start="5478" text="followed medically" type="TREATMENT"/>
+<EVENT end="571" id="E6" modality="FACTUAL" polarity="POS" start="549" text="a positive stress test" type="PROBLEM"/>
+<EVENT end="5528" id="E134" modality="FACTUAL" polarity="POS" start="5501" text="her coronary artery disease" type="PROBLEM"/>
+<EVENT end="5572" id="E74" modality="FACTUAL" polarity="POS" start="5539" text="two failed bypass graft procedure" type="TREATMENT"/>
+<EVENT end="66" id="E0" modality="FACTUAL" polarity="POS" start="57" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="607" id="E7" modality="FACTUAL" polarity="POS" start="587" text="three or four grafts" type="TREATMENT"/>
+<EVENT end="621" id="E8" modality="FACTUAL" polarity="POS" start="613" text="occluded" type="PROBLEM"/>
+<EVENT end="678" id="E9" modality="FACTUAL" polarity="POS" start="658" text="her bypass operation" type="TREATMENT"/>
+<EVENT end="757" id="E10" modality="FACTUAL" polarity="POS" start="689" text="a left internal mammary artery graft to the left anterior descending" type="TREATMENT"/>
+<EVENT end="805" id="E11" modality="FACTUAL" polarity="POS" start="760" text="saphenous vein graft to the obtuse marginal 1" type="TREATMENT"/>
+<EVENT end="857" id="E12" modality="FACTUAL" polarity="POS" start="810" text="a saphenous vein graft to the obtuse marginal 2" type="TREATMENT"/>
+<EVENT end="891" id="E13" modality="FACTUAL" polarity="POS" start="876" text="a DDD pacemaker" type="TREATMENT"/>
+<EVENT end="916" id="E14" modality="FACTUAL" polarity="POS" start="896" text="complete heart block" type="PROBLEM"/>
+<EVENT end="944" id="E15" modality="FACTUAL" polarity="POS" start="927" text="exertional angina" type="PROBLEM"/>
+<EVENT end="1016" id="E16" modality="FACTUAL" polarity="POS" start="987" text="a small myocardial infarction" type="PROBLEM"/>
+<RTIMEX3 end="1716" id="T9" mod="NA" start="1706" text="May , 1998" type="DATE" val="1998-05"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="08/15/1998" type="DATE" val="1998-08-15"/>
+
+
+<ATIMEX3 end="371" id="T4" mod="NA" start="367" text="1980" type="DATE" val="1980"/>
+<ATIMEX3 end="381" id="T5" mod="NA" start="377" text="1980" type="DATE" val="1980"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="08/22/1998" type="DATE" val="1998-08-22"/>
+<RTIMEX3 end="4956" id="T12" mod="NA" start="4947" text="August 20" type="DATE" val="1998-08-20"/>
+<ATIMEX3 end="513" id="T6" mod="NA" start="509" text="1988" type="DATE" val="1988"/>
+<RTIMEX3 end="641" id="T7" mod="NA" start="627" text="October , 1989" type="DATE" val="1989-10"/>
+<ATIMEX3 end="84" id="T3" mod="NA" start="74" text="08/22/1998" type="DATE" val="1998-08-22"/>
+<ATIMEX3 end="867" id="T8" mod="NA" start="863" text="1993" type="DATE" val="1993"/>
+<RTIMEX3 end="978" id="T0" mod="NA" start="963" text="November , 1997" type="DATE" val="1997-11"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1998-08-15" end="28" id="S0" start="18" text="08/15/1998" type="ADMISSION"/>
+<SECTIME dvalue="1998-08-22" end="56" id="S1" start="46" text="08/22/1998" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

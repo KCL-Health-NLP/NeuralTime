@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-02-12
+Discharge Date :
+2013-02-16
+Service :
+CARDIOTHORACIC
+HISTORY OF PRESENT ILLNESS :
+The patient was referred from an outside hospital with a chief complaint of increasing shortness of breath and tires easily with exertion .
+Admitted to Bay State Medical Center Hospital in 2012-10-22 in congestive heart failure at that time .
+Via echocardiogram , found to have aortic stenosis .
+Referred to Memorial Hospital ( Worcester ) for cardiac catheterization to further evaluate her aortic stenosis .
+Cardiac catheterization done on 01-07 showed an aortic valve area of .38 cm.sq. , with a mean gradient of 62 , and a peak gradient of 85 .
+Moderate pulmonary hypertension , PA pressure 48/24 , 1+ mitral regurgitation , severe aortic stenosis with an LVEDP of 19 and an ejection fraction of 43% .
+She was then referred to Cardiothoracic Surgery for aortic valve replacement .
+HOSPITAL COURSE :
+The patient was a direct admission to the operating room on 02-12 , at which time she underwent an
+aortic valve replacement .
+Please see the operative report for full details .
+In summary , she had an aortic valve replacement with a #21 mosaic porcine valve .
+She tolerated the operation well , and was transferred from the operating room to the Cardiothoracic Intensive Care Unit .
+The patient did well in the immediate postoperative period , however , her blood pressure remained somewhat labile .
+Therefore , she was continued on a Neo-Synephrine drip to maintain a systolic blood pressure greater than 110 .
+In addition , she was slow to awaken after her anesthesia was reversed , and in several attempts to wean from the ventilator , she developed a respiratory acidosis .
+She therefore remained on the ventilator throughout the day of postoperative day one .
+On postoperative day two , the patient remained hemodynamically stable .
+Her Neo-Synephrine drip was weaned to off .
+She was again weaned from the ventilator , and successfully extubated .
+Her chest tubes were discontinued and , at the end of the day , she was transferred from the Cardiothoracic Intensive Care Unit to the floor for continuing postoperative care and cardiac rehabilitation .
+After being transferred to the floor , the patient did well .
+Over the next several days , her activity level was increased with the assistance of Physical Therapy and the nursing staff .
+She remained hemodynamically stable .
+Her respiratory condition remained stable and , on postoperative day four , she was deemed stable and ready to be transferred to rehabilitation for continuing postoperative care and physical therapy .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1782" end="1803" text="postoperative day two" type="DATE" relative="TRUE" val="2012-02-14" mod="NA" />
+<RTIMEX3 id="T7" start="2011" end="2029" text="the end of the day" type="TIME" relative="TRUE" val="2012-02-14" mod="END" />
+<RTIMEX3 id="T9" start="2449" end="2471" text="postoperative day four" type="DATE" relative="TRUE" val="2012-02-16" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="2013-02-12" type="DATE" val="2013-02-12" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="300" end="310" text="2012-10-22" type="DATE" val="2012-10-22" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="2013-02-16" type="DATE" val="2013-02-16" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="553" end="558" text="01-07" type="DATE" val="2013-01-07" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="974" end="979" text="02-12" type="DATE" val="2013-02-12" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2013-02-12" type="ADMISSION" dvalue="2013-02-12" />
+<SECTIME id="S1" start="46" end="56" text="2013-02-16" type="DISCHARGE" dvalue="2013-02-16" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="postoperative day two" toID="T4" toText="02-12" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T7" fromText="the end of the day" toID="T6" toText="postoperative day two" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T9" fromText="postoperative day four" toID="T4" toText="02-12" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

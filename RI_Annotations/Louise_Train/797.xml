@@ -1,0 +1,324 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-11-06
+Discharge Date :
+2012-11-11
+Service :
+CCU
+HISTORY OF PRESENT ILLNESS :
+The patient is a 47 - year-old male with a past medical history of coronary artery disease , status post 2-vessel percutaneous transluminal coronary angioplasty in 2005 , 3-vessel percutaneous transluminal coronary angioplasty in 2009 , hypertension , new onset type 2 diabetes , and hypercholesterolemia who presents with the sudden onset of substernal chest pain status post exercise .
+The patient presented to Bournewood Hospital on the morning of admission with a chief complaint of substernal burning without radiation which developed while doing exercise .
+Of note , this is the second time the patient has exercised in many months .
+The pain became worse over the next few minutes to 07-12 and increased to 10-12 while he was in the ambulance .
+His nitroglycerin patch did not help , and he only had slight relief with sublingual nitroglycerin times three .
+In addition , he had slight shortness of breath but denies headache , change in vision , dizziness , nausea , vomiting , abdominal pain , change in bowel or urinary habits , or fevers , chills , and sweats .
+Of note , he had a negative stress test in 2012-07-03 .
+He was sent to Bournewood Hospital via ambulance .
+In the Emergency Department he received aspirin , nitroglycerin drip , heparin drip , Dilaudid , and TNK with decreased in his pain but without resolution of symptoms .
+Electrocardiogram at that time showed ST elevations and J point elevations in V2 through V4 .
+The patient was transferred to Sturdy Memorial where he underwent catheterization .
+Catheterization results showed 100% occlusion of the proximal left anterior descending artery and 50% stenosis of first diagonal .
+Angio-Jet percutaneous transluminal coronary angioplasty and stenting was performed on proximal left anterior descending artery and the percutaneous transluminal coronary angioplasty was performed on first diagonal with good results .
+An intra-aortic balloon pump was placed at this time as well .
+HOSPITAL COURSE :
+The Mass. Mental Health Center hospital course was unremarkable .
+Dopamine was discontinued on day one .
+The intra-aortic balloon pump was discontinued on day two .
+The patient was continued on heparin throughout his hospital course and transitioned to Coumadin on hospital day four .
+The patient was continued on Lipitor and aspirin , and Plavix was added and will be continued for 30 days post catheterization .
+The patient was continued on Lopressor and captopril throughout his hospital course , and changed to
+Zestril 10 mg q.d. and atenolol 25 mg q.d. at discharge .
+The patient was discharged to the medical floor on hospital day three and discharged from the hospital once his INR was within the 2 to 2.5 range .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1023" id="E63" modality="FACTUAL" polarity="POS" start="1017" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1032" id="E9" modality="FACTUAL" polarity="NEG" start="1024" text="headache" type="PROBLEM"/>
+<EVENT end="1051" id="E10" modality="FACTUAL" polarity="NEG" start="1035" text="change in vision" type="PROBLEM"/>
+<EVENT end="1063" id="E11" modality="FACTUAL" polarity="NEG" start="1054" text="dizziness" type="PROBLEM"/>
+<EVENT end="1072" id="E12" modality="FACTUAL" polarity="NEG" start="1066" text="nausea" type="PROBLEM"/>
+<EVENT end="1083" id="E13" modality="FACTUAL" polarity="NEG" start="1075" text="vomiting" type="PROBLEM"/>
+<EVENT end="1100" id="E14" modality="FACTUAL" polarity="NEG" start="1086" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1136" id="E15" modality="FACTUAL" polarity="NEG" start="1103" text="change in bowel or urinary habits" type="PROBLEM"/>
+<EVENT end="1148" id="E16" modality="FACTUAL" polarity="NEG" start="1142" text="fevers" type="PROBLEM"/>
+<EVENT end="1157" id="E17" modality="FACTUAL" polarity="NEG" start="1151" text="chills" type="PROBLEM"/>
+<EVENT end="1170" id="E18" modality="FACTUAL" polarity="NEG" start="1164" text="sweats" type="PROBLEM"/>
+<EVENT end="1212" id="E64" modality="FACTUAL" polarity="POS" start="1190" text="a negative stress test" type="OCCURRENCE"/>
+<EVENT end="1263" id="E65" modality="FACTUAL" polarity="POS" start="1244" text="Bournewood Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1277" id="E66" modality="FACTUAL" polarity="POS" start="1268" text="ambulance" type="OCCURRENCE"/>
+<EVENT end="1307" id="E67" modality="FACTUAL" polarity="POS" start="1283" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1327" id="E19" modality="FACTUAL" polarity="POS" start="1320" text="aspirin" type="TREATMENT"/>
+<EVENT end="1348" id="E20" modality="FACTUAL" polarity="POS" start="1330" text="nitroglycerin drip" type="TREATMENT"/>
+<EVENT end="1363" id="E21" modality="FACTUAL" polarity="POS" start="1351" text="heparin drip" type="TREATMENT"/>
+<EVENT end="1374" id="E22" modality="FACTUAL" polarity="POS" start="1366" text="Dilaudid" type="TREATMENT"/>
+<EVENT end="1384" id="E23" modality="FACTUAL" polarity="POS" start="1381" text="TNK" type="TREATMENT"/>
+<EVENT end="1411" id="E84" modality="FACTUAL" polarity="POS" start="1403" text="his pain" type="PROBLEM"/>
+<EVENT end="1446" id="E24" modality="FACTUAL" polarity="POS" start="1438" text="symptoms" type="PROBLEM"/>
+<EVENT end="1466" id="E25" modality="FACTUAL" polarity="POS" start="1449" text="Electrocardiogram" type="TEST"/>
+<EVENT end="1486" id="E68" modality="FACTUAL" polarity="POS" start="1480" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1500" id="E26" modality="FACTUAL" polarity="POS" start="1487" text="ST elevations" type="PROBLEM"/>
+<EVENT end="1540" id="E27" modality="FACTUAL" polarity="POS" start="1505" text="J point elevations in V2 through V4" type="PROBLEM"/>
+<EVENT end="1570" id="E49" modality="FACTUAL" polarity="POS" start="1559" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1589" id="E69" modality="FACTUAL" polarity="POS" start="1574" text="Sturdy Memorial" type="OCCURRENCE"/>
+<EVENT end="1624" id="E28" modality="FACTUAL" polarity="POS" start="1609" text="catheterization" type="TEST"/>
+<EVENT end="1650" id="E29" modality="FACTUAL" polarity="POS" start="1627" text="Catheterization results" type="TEST"/>
+<EVENT end="1657" id="E70" modality="FACTUAL" polarity="POS" start="1651" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1720" id="E30" modality="FACTUAL" polarity="POS" start="1658" text="100% occlusion of the proximal left anterior descending artery" type="PROBLEM"/>
+<EVENT end="190" id="E51" modality="FACTUAL" polarity="POS" start="167" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1755" id="E31" modality="FACTUAL" polarity="POS" start="1725" text="50% stenosis of first diagonal" type="PROBLEM"/>
+<EVENT end="1814" id="E32" modality="FACTUAL" polarity="POS" start="1758" text="Angio-Jet percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="1827" id="E33" modality="FACTUAL" polarity="POS" start="1819" text="stenting" type="TREATMENT"/>
+<EVENT end="1940" id="E34" modality="FACTUAL" polarity="POS" start="1890" text="the percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="260" id="E1" modality="FACTUAL" polarity="POS" start="193" text="status post 2-vessel percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="1990" id="E71" modality="FACTUAL" polarity="POS" start="1978" text="good results" type="OCCURRENCE"/>
+<EVENT end="2021" id="E35" modality="FACTUAL" polarity="POS" start="1993" text="An intra-aortic balloon pump" type="TREATMENT"/>
+<EVENT end="2120" id="E73" modality="FACTUAL" polarity="POS" start="2074" text="The Mass. Mental Health Center hospital course" type="OCCURRENCE"/>
+<EVENT end="2137" id="E74" modality="FACTUAL" polarity="POS" start="2125" text="unremarkable" type="OCCURRENCE"/>
+<EVENT end="2148" id="E36" modality="FACTUAL" polarity="POS" start="2140" text="Dopamine" type="TREATMENT"/>
+<EVENT end="2208" id="E37" modality="FACTUAL" polarity="POS" start="2179" text="The intra-aortic balloon pump" type="TREATMENT"/>
+<EVENT end="2275" id="E38" modality="FACTUAL" polarity="POS" start="2268" text="heparin" type="TREATMENT"/>
+<EVENT end="2306" id="E75" modality="FACTUAL" polarity="POS" start="2287" text="his hospital course" type="OCCURRENCE"/>
+<EVENT end="2335" id="E39" modality="FACTUAL" polarity="POS" start="2327" text="Coumadin" type="TREATMENT"/>
+<EVENT end="2395" id="E76" modality="FACTUAL" polarity="POS" start="2388" text="Lipitor" type="TREATMENT"/>
+<EVENT end="2407" id="E77" modality="FACTUAL" polarity="POS" start="2400" text="aspirin" type="TREATMENT"/>
+<EVENT end="2420" id="E78" modality="FACTUAL" polarity="POS" start="2414" text="Plavix" type="TREATMENT"/>
+<EVENT end="2485" id="E40" modality="FACTUAL" polarity="POS" start="2470" text="catheterization" type="TEST"/>
+<EVENT end="2526" id="E41" modality="FACTUAL" polarity="POS" start="2517" text="Lopressor" type="TREATMENT"/>
+<EVENT end="2540" id="E42" modality="FACTUAL" polarity="POS" start="2531" text="captopril" type="TREATMENT"/>
+<EVENT end="2571" id="E79" modality="FACTUAL" polarity="POS" start="2552" text="his hospital course" type="OCCURRENCE"/>
+<EVENT end="2596" id="E43" modality="FACTUAL" polarity="POS" start="2589" text="Zestril" type="TREATMENT"/>
+<EVENT end="2620" id="E44" modality="FACTUAL" polarity="POS" start="2612" text="atenolol" type="TREATMENT"/>
+<EVENT end="2644" id="E80" modality="FACTUAL" polarity="POS" start="2635" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2673" id="E48" modality="FACTUAL" polarity="POS" start="2663" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2694" id="E81" modality="FACTUAL" polarity="POS" start="2677" text="the medical floor" type="CLINICAL_DEPT"/>
+<EVENT end="326" id="E2" modality="FACTUAL" polarity="POS" start="271" text="3-vessel percutaneous transluminal coronary angioplasty" type="TREATMENT"/>
+<EVENT end="2731" id="E82" modality="FACTUAL" polarity="POS" start="2721" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2749" id="E83" modality="FACTUAL" polarity="POS" start="2737" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2762" id="E45" modality="FACTUAL" polarity="POS" start="2755" text="his INR" type="TEST"/>
+<EVENT end="38" id="E50" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="349" id="E3" modality="FACTUAL" polarity="POS" start="337" text="hypertension" type="PROBLEM"/>
+<EVENT end="377" id="E52" modality="FACTUAL" polarity="POS" start="352" text="new onset type 2 diabetes" type="PROBLEM"/>
+<EVENT end="404" id="E4" modality="FACTUAL" polarity="POS" start="384" text="hypercholesterolemia" type="PROBLEM"/>
+<EVENT end="417" id="E53" modality="FACTUAL" polarity="POS" start="409" text="presents" type="OCCURRENCE"/>
+<EVENT end="464" id="E5" modality="FACTUAL" polarity="POS" start="443" text="substernal chest pain" type="PROBLEM"/>
+<EVENT end="485" id="E46" modality="FACTUAL" polarity="POS" start="477" text="exercise" type="OCCURRENCE"/>
+<EVENT end="509" id="E54" modality="FACTUAL" polarity="POS" start="500" text="presented" type="OCCURRENCE"/>
+<EVENT end="532" id="E55" modality="FACTUAL" polarity="POS" start="513" text="Bournewood Hospital" type="OCCURRENCE"/>
+<EVENT end="560" id="E85" modality="FACTUAL" polarity="POS" start="551" text="admission" type="OCCURRENCE"/>
+<EVENT end="605" id="E6" modality="FACTUAL" polarity="POS" start="587" text="substernal burning" type="PROBLEM"/>
+<EVENT end="623" id="E56" modality="FACTUAL" polarity="NEG" start="614" text="radiation" type="OCCURRENCE"/>
+<EVENT end="660" id="E47" modality="FACTUAL" polarity="POS" start="652" text="exercise" type="OCCURRENCE"/>
+<EVENT end="722" id="E57" modality="FACTUAL" polarity="POS" start="713" text="exercised" type="OCCURRENCE"/>
+<EVENT end="748" id="E58" modality="FACTUAL" polarity="POS" start="740" text="The pain" type="PROBLEM"/>
+<EVENT end="761" id="E59" modality="FACTUAL" polarity="POS" start="756" text="worse" type="OCCURRENCE"/>
+<EVENT end="810" id="E86" modality="FACTUAL" polarity="POS" start="801" text="increased" type="OCCURRENCE"/>
+<EVENT end="849" id="E60" modality="FACTUAL" polarity="POS" start="836" text="the ambulance" type="OCCURRENCE"/>
+<EVENT end="875" id="E7" modality="FACTUAL" polarity="POS" start="852" text="His nitroglycerin patch" type="TREATMENT"/>
+<EVENT end="920" id="E61" modality="FACTUAL" polarity="POS" start="914" text="relief" type="OCCURRENCE"/>
+<EVENT end="950" id="E8" modality="FACTUAL" polarity="POS" start="926" text="sublingual nitroglycerin" type="TREATMENT"/>
+<EVENT end="1012" id="E62" modality="FACTUAL" polarity="POS" start="986" text="slight shortness of breath" type="PROBLEM"/>
+<ATIMEX3 end="1226" id="T4" mod="NA" start="1216" text="2012-07-03" type="DATE" val="2012-07-03"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2012-11-06" type="DATE" val="2012-11-06"/>
+<RTIMEX3 end="2176" id="T5" mod="NA" start="2169" text="day one" type="DATE" val="2012-11-06"/>
+<RTIMEX3 end="2236" id="T6" mod="NA" start="2229" text="day two" type="DATE" val="2012-11-07"/>
+<RTIMEX3 end="2356" id="T7" mod="NA" start="2339" text="hospital day four" type="DATE" val="2012-11-09"/>
+
+
+
+<ATIMEX3 end="268" id="T2" mod="NA" start="264" text="2005" type="DATE" val="2005"/>
+<RTIMEX3 end="2716" id="T15" mod="NA" start="2698" text="hospital day three" type="DATE" val="2012-11-08"/>
+<ATIMEX3 end="334" id="T3" mod="NA" start="330" text="2009" type="DATE" val="2009"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2012-11-11" type="DATE" val="2012-11-11"/>
+<RTIMEX3 end="547" id="T8" mod="START" start="536" text="the morning" type="DATE" val="2012-11-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-11-06" end="28" id="S0" start="18" text="2012-11-06" type="ADMISSION"/>
+<SECTIME dvalue="2012-11-11" end="56" id="S1" start="46" text="2012-11-11" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

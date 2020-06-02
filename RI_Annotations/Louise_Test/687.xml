@@ -1,0 +1,274 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-03-18
+Discharge Date :
+2016-04-01
+Service : 
+SURGERY
+History of Present Illness :
+_Mr. Morton is a 86 yo male transferred from Kindred Park View Specialty Hospital of Springfield-Sample .
+He developed right foot pain the Sunday prior to admission and was seen by his Podiatrist , who diagnosed him with gout .
+He was given colchicine and prednisone .
+Mr. Morton then developed more pain and warmth to his right foot later in the week and presented to the Youville Hospital - Woody Monica .
+At this hospital he underwent an I&D ( 03-17 ) of a right foot infection and subsequently underwent 
+re-exploration ( 03-18 ) for developing necrotizing fascitis .
+He was transferred to Hallmark Health System for further care .
+Brief Hospital Course :
+Mr. Morton was admitted to the TSICU .
+He was placed on Penicillin G , Clindamycin , for empiric coverage of his wound , with Group A strep growth from the New England Baptist Hospital-Bryce cultures .
+He was transferred to the floor on HD#2 .
+He continued to undergo BID dressing changes .
+Plastic surgery was asked to evaluate the patient .
+Per their recommendations , silvadine was applied to the tendons to prevent dessication .
+Vascular surgery was also asked to evaluate the patient 's right lower extremity blood flow .
+An angiogram on HD#4 showed severe tibial disease and moderate SFA disease , no DP artery was seen .
+The vascular team recommended a femoral-peroneal bypass for revascularization and performed this operation on HD#5 .
+He tolerated the procedure well , please see Dr. Allgood Operative Note for detail .
+On POD#1 , Mr. Morton received 2 units of pRBCs for post-op anemia ( Hct 25 ).
+Mr. Morton continued to be followed by Infectious Disease , whose recommendations were to complete a 01-28 week course of Penicillin G and Clindamycin after the foot was completely debrided and the skin flaps completed .
+His wound continued to heal well and by POD #6 a VAC dressing was placed .
+He received a PICC on POD#7 for his long-term antibiotic therapy .
+At the time of discharge , Mr. Morton had good pain control , was tolerating a regular diet , had a well-healing wound treated with a VAC dressing , and was to continue his IV PCN G and Clindamycin .
+He was discharged to a rehab facility in fair condition .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1053" id="E32" modality="FACTUAL" polarity="POS" start="1037" text="dressing changes" type="TREATMENT"/>
+<EVENT end="1071" id="E33" modality="FACTUAL" polarity="POS" start="1056" text="Plastic surgery" type="CLINICAL_DEPT"/>
+<EVENT end="1145" id="E34" modality="FACTUAL" polarity="POS" start="1136" text="silvadine" type="TREATMENT"/>
+<EVENT end="1195" id="E35" modality="CONDITIONAL" polarity="POS" start="1184" text="dessication" type="PROBLEM"/>
+<EVENT end="1214" id="E36" modality="FACTUAL" polarity="POS" start="1198" text="Vascular surgery" type="CLINICAL_DEPT"/>
+<EVENT end="1304" id="E37" modality="FACTUAL" polarity="POS" start="1292" text="An angiogram" type="TEST"/>
+<EVENT end="1319" id="E38" modality="FACTUAL" polarity="POS" start="1313" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1341" id="E39" modality="FACTUAL" polarity="POS" start="1320" text="severe tibial disease" type="PROBLEM"/>
+<EVENT end="144" id="E2" modality="FACTUAL" polarity="POS" start="133" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1366" id="E40" modality="FACTUAL" polarity="POS" start="1346" text="moderate SFA disease" type="PROBLEM"/>
+<EVENT end="1448" id="E42" modality="PROPOSED" polarity="POS" start="1423" text="a femoral-peroneal bypass" type="TREATMENT"/>
+<EVENT end="1499" id="E43" modality="FACTUAL" polarity="POS" start="1485" text="this operation" type="TREATMENT"/>
+<EVENT end="208" id="E3" modality="FACTUAL" polarity="POS" start="150" text="Kindred Park View Specialty Hospital of Springfield-Sample" type="CLINICAL_DEPT"/>
+<EVENT end="1536" id="E44" modality="FACTUAL" polarity="POS" start="1523" text="the procedure" type="TREATMENT"/>
+<EVENT end="1642" id="E45" modality="FACTUAL" polarity="POS" start="1637" text="pRBCs" type="TREATMENT"/>
+<EVENT end="1661" id="E46" modality="FACTUAL" polarity="POS" start="1647" text="post-op anemia" type="PROBLEM"/>
+<EVENT end="1667" id="E47" modality="FACTUAL" polarity="POS" start="1664" text="Hct" type="TEST"/>
+<EVENT end="1731" id="E48" modality="FACTUAL" polarity="POS" start="1713" text="Infectious Disease" type="CLINICAL_DEPT"/>
+<EVENT end="1808" id="E49" modality="PROPOSED" polarity="POS" start="1796" text="Penicillin G" type="TREATMENT"/>
+<EVENT end="1824" id="E50" modality="PROPOSED" polarity="POS" start="1813" text="Clindamycin" type="TREATMENT"/>
+<EVENT end="1863" id="E51" modality="FACTUAL" polarity="POS" start="1855" text="debrided" type="TREATMENT"/>
+<EVENT end="1882" id="E53" modality="FACTUAL" polarity="POS" start="1868" text="the skin flaps" type="TREATMENT"/>
+<EVENT end="1904" id="E54" modality="FACTUAL" polarity="POS" start="1895" text="His wound" type="PROBLEM"/>
+<EVENT end="1927" id="E55" modality="FACTUAL" polarity="POS" start="1918" text="heal well" type="OCCURRENCE"/>
+<EVENT end="1956" id="E56" modality="FACTUAL" polarity="POS" start="1942" text="a VAC dressing" type="TREATMENT"/>
+<EVENT end="1988" id="E57" modality="FACTUAL" polarity="POS" start="1982" text="a PICC" type="TREATMENT"/>
+<EVENT end="2034" id="E58" modality="FACTUAL" polarity="POS" start="2002" text="his long-term antibiotic therapy" type="TREATMENT"/>
+<EVENT end="2061" id="E59" modality="FACTUAL" polarity="POS" start="2052" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2096" id="E60" modality="FACTUAL" polarity="POS" start="2079" text="good pain control" type="OCCURRENCE"/>
+<EVENT end="2128" id="E61" modality="FACTUAL" polarity="POS" start="2114" text="a regular diet" type="TREATMENT"/>
+<EVENT end="2155" id="E62" modality="FACTUAL" polarity="POS" start="2135" text="a well-healing wound" type="TEST"/>
+<EVENT end="2183" id="E63" modality="FACTUAL" polarity="POS" start="2169" text="a VAC dressing" type="TREATMENT"/>
+<EVENT end="2218" id="E64" modality="FACTUAL" polarity="POS" start="2206" text="his IV PCN G" type="TREATMENT"/>
+<EVENT end="2234" id="E65" modality="FACTUAL" polarity="POS" start="2223" text="Clindamycin" type="TREATMENT"/>
+<EVENT end="2254" id="E66" modality="FACTUAL" polarity="POS" start="2244" text="discharged" type="OCCURRENCE"/>
+<EVENT end="239" id="E4" modality="FACTUAL" polarity="POS" start="224" text="right foot pain" type="PROBLEM"/>
+<EVENT end="2274" id="E67" modality="FACTUAL" polarity="POS" start="2258" text="a rehab facility" type="CLINICAL_DEPT"/>
+<EVENT end="2292" id="E68" modality="FACTUAL" polarity="POS" start="2278" text="fair condition" type="OCCURRENCE"/>
+<EVENT end="269" id="E5" modality="FACTUAL" polarity="POS" start="260" text="admission" type="OCCURRENCE"/>
+<EVENT end="300" id="E6" modality="FACTUAL" polarity="POS" start="286" text="his Podiatrist" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="330" id="E7" modality="FACTUAL" polarity="POS" start="326" text="gout" type="PROBLEM"/>
+<EVENT end="356" id="E8" modality="FACTUAL" polarity="POS" start="346" text="colchicine" type="TREATMENT"/>
+<EVENT end="371" id="E9" modality="FACTUAL" polarity="POS" start="361" text="prednisone" type="TREATMENT"/>
+<EVENT end="409" id="E10" modality="FACTUAL" polarity="POS" start="400" text="more pain" type="PROBLEM"/>
+<EVENT end="420" id="E12" modality="FACTUAL" polarity="POS" start="414" text="warmth" type="PROBLEM"/>
+<EVENT end="470" id="E13" modality="FACTUAL" polarity="POS" start="461" text="presented" type="OCCURRENCE"/>
+<EVENT end="510" id="E14" modality="FACTUAL" polarity="POS" start="474" text="the Youville Hospital - Woody Monica" type="CLINICAL_DEPT"/>
+<EVENT end="529" id="E15" modality="FACTUAL" polarity="POS" start="516" text="this hospital" type="CLINICAL_DEPT"/>
+<EVENT end="549" id="E16" modality="FACTUAL" polarity="POS" start="543" text="an I&amp;D" type="TREATMENT"/>
+<EVENT end="585" id="E17" modality="FACTUAL" polarity="POS" start="563" text="a right foot infection" type="PROBLEM"/>
+<EVENT end="628" id="E18" modality="FACTUAL" polarity="POS" start="614" text="re-exploration" type="TEST"/>
+<EVENT end="674" id="E19" modality="FACTUAL" polarity="POS" start="654" text="necrotizing fascitis" type="PROBLEM"/>
+<EVENT end="695" id="E20" modality="FACTUAL" polarity="POS" start="684" text="transferred" type="OCCURRENCE"/>
+<EVENT end="721" id="E21" modality="FACTUAL" polarity="POS" start="699" text="Hallmark Health System" type="CLINICAL_DEPT"/>
+<EVENT end="788" id="E22" modality="FACTUAL" polarity="POS" start="780" text="admitted" type="OCCURRENCE"/>
+<EVENT end="801" id="E23" modality="FACTUAL" polarity="POS" start="792" text="the TSICU" type="CLINICAL_DEPT"/>
+<EVENT end="833" id="E24" modality="FACTUAL" polarity="POS" start="821" text="Penicillin G" type="TREATMENT"/>
+<EVENT end="847" id="E25" modality="FACTUAL" polarity="POS" start="836" text="Clindamycin" type="TREATMENT"/>
+<EVENT end="883" id="E26" modality="FACTUAL" polarity="POS" start="874" text="his wound" type="PROBLEM"/>
+<EVENT end="911" id="E27" modality="FACTUAL" polarity="POS" start="891" text="Group A strep growth" type="PROBLEM"/>
+<EVENT end="955" id="E28" modality="FACTUAL" polarity="POS" start="917" text="the New England Baptist Hospital-Bryce" type="CLINICAL_DEPT"/>
+<EVENT end="964" id="E29" modality="FACTUAL" polarity="POS" start="956" text="cultures" type="TEST"/>
+<EVENT end="985" id="E30" modality="FACTUAL" polarity="POS" start="974" text="transferred" type="OCCURRENCE"/>
+<EVENT end="998" id="E31" modality="FACTUAL" polarity="POS" start="989" text="the floor" type="CLINICAL_DEPT"/>
+<RTIMEX3 end="1006" id="T6" mod="NA" start="1002" text="HD#2" type="DATE" val="2016-03-19"/>
+
+<RTIMEX3 end="1312" id="T8" mod="NA" start="1308" text="HD#4" type="DATE" val="2016-03-21"/>
+<RTIMEX3 end="1507" id="T9" mod="NA" start="1503" text="HD#5" type="DATE" val="2016-03-22"/>
+<RTIMEX3 end="1603" id="T10" mod="NA" start="1598" text="POD#1" type="DATE" val="2016-03-23"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2016-03-18" type="DATE" val="2016-03-18"/>
+<RTIMEX3 end="1941" id="T12" mod="NA" start="1935" text="POD #6" type="DATE" val="2016-03-28"/>
+<RTIMEX3 end="1997" id="T13" mod="NA" start="1992" text="POD#7" type="DATE" val="2016-03-29"/>
+<RTIMEX3 end="2048" id="T14" mod="NA" start="2040" text="the time" type="DATE" val="2016-04-01"/>
+<RTIMEX3 end="250" id="T2" mod="NA" start="240" text="the Sunday" type="DATE" val="2016-03-13"/>
+<RTIMEX3 end="456" id="T3" mod="APPROX" start="448" text="the week" type="DATE" val="2016-03-16"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2016-04-01" type="DATE" val="2016-04-01"/>
+<ATIMEX3 end="557" id="T4" mod="NA" start="552" text="03-17" type="DATE" val="2016-03-17"/>
+<ATIMEX3 end="636" id="T5" mod="NA" start="631" text="03-18" type="DATE" val="2016-03-18"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2016-03-18" end="28" id="S0" start="18" text="2016-03-18" type="ADMISSION"/>
+<SECTIME dvalue="2016-04-01" end="56" id="S1" start="46" text="2016-04-01" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

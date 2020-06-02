@@ -1,0 +1,233 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-04-27
+Discharge Date :
+2012-04-30
+Service :
+Neurosurgery
+HISTORY OF PRESENT ILLNESS :
+Patient is a 79 - year-old female with a history of cataracts , glaucoma , and diabetes , who fell and tripped over a wheelchair of a friend with no loss of consciousness , no dizziness , no chest pain , and no shortness of breath .
+PHYSICAL EXAM :
+She was afebrile .
+Heart rate was 77 .
+Blood pressure 132/48 .
+Respiratory rate was 17 .
+Sats 96% on room air .
+Her temperature was 97.6 .
+She neurologically , she had a nonfocal neurologic examination .
+Her cardiovascular was regular rate and rhythm .
+Her pulmonary :
+Chest was clear to auscultation bilaterally .
+Extremities :
+No cyanosis , clubbing , or edema .
+Head CT showed a front focal hemorrhage in the left occipital lobe adjacent to the falx with intraparenchymal hemorrhage or epidural or subdural hemorrhage near the falx with no shift .
+CT of the C spine was negative and her cervical spine was cleared .
+HOSPITAL COURSE :
+She was admitted to the ICU for close neurosurgical and neurological observation .
+She remained neurologically stable .
+Repeat head CT showed stable bleed .
+The patient was transferred to the regular floor .
+She was out of bed ambulating , tolerating a regular diet , voiding spontaneously .
+She will be discharged to home with followup with Dr. Wilson in two weeks with a repeat head CT .
+MEDICATIONS ON DISCHARGE :
+1. Levofloxacin 250 mg p.o. q.24h. x3 days .
+2. Dilantin 100 mg p.o. t.i.d.
+3. Colace 100 mg p.o. b.i.d.
+4. Timoptic 0.25 one drop O.U. b.i.d.
+5. Lantoprost 0.005 ophthalmic solution one drop O.U. q.h.s.
+6. Zantac 150 mg p.o. b.i.d.
+7. Insulin-sliding scale as well as 40 units of Humalog in the a.m. and 20 at night .
+CONDITION ON DISCHARGE :
+Stable .
+FOLLOW-UP INSTRUCTIONS :
+She will follow up with Dr. Perez in two weeks with repeat head CT .
+Danvers T Sharp , M.D.
+16-530
+Dictated By : David GA Crane , M.D.
+MEDQUIST36
+D : 2012-04-30 11:30
+T : 2012-05-01 08:13
+JOB #: 10027
+Signed electronically by : DR. Margarita Martin on : TUE 2012-06-05 8:08 AM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E9" modality="FACTUAL" polarity="POS" start="1003" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1022" id="E10" modality="FACTUAL" polarity="POS" start="1015" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="1075" id="E35" modality="FACTUAL" polarity="POS" start="1027" text="close neurosurgical and neurological observation" type="TEST"/>
+<EVENT end="1112" id="E53" modality="FACTUAL" polarity="POS" start="1082" text="remained neurologically stable" type="OCCURRENCE"/>
+<EVENT end="1129" id="E5" modality="FACTUAL" polarity="POS" start="1115" text="Repeat head CT" type="TEST"/>
+<EVENT end="1136" id="E36" modality="FACTUAL" polarity="POS" start="1130" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1149" id="E6" modality="FACTUAL" polarity="POS" start="1137" text="stable bleed" type="PROBLEM"/>
+<EVENT end="1179" id="E11" modality="FACTUAL" polarity="POS" start="1168" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1200" id="E37" modality="FACTUAL" polarity="POS" start="1183" text="the regular floor" type="CLINICAL_DEPT"/>
+<EVENT end="1232" id="E38" modality="FACTUAL" polarity="POS" start="1222" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="1260" id="E39" modality="FACTUAL" polarity="POS" start="1235" text="tolerating a regular diet" type="OCCURRENCE"/>
+<EVENT end="1284" id="E40" modality="FACTUAL" polarity="POS" start="1263" text="voiding spontaneously" type="OCCURRENCE"/>
+<EVENT end="1309" id="E12" modality="FACTUAL" polarity="POS" start="1299" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1331" id="E41" modality="FACTUAL" polarity="POS" start="1323" text="followup" type="OCCURRENCE"/>
+<EVENT end="1382" id="E7" modality="FACTUAL" polarity="POS" start="1366" text="a repeat head CT" type="TEST"/>
+<EVENT end="1427" id="E42" modality="FACTUAL" polarity="POS" start="1415" text="Levofloxacin" type="TREATMENT"/>
+<EVENT end="1468" id="E43" modality="FACTUAL" polarity="POS" start="1460" text="Dilantin" type="TREATMENT"/>
+<EVENT end="1497" id="E44" modality="FACTUAL" polarity="POS" start="1491" text="Colace" type="TREATMENT"/>
+<EVENT end="1528" id="E45" modality="FACTUAL" polarity="POS" start="1520" text="Timoptic" type="TREATMENT"/>
+<EVENT end="1568" id="E46" modality="FACTUAL" polarity="POS" start="1558" text="Lantoprost" type="TREATMENT"/>
+<EVENT end="170" id="E13" modality="FACTUAL" polarity="POS" start="161" text="cataracts" type="PROBLEM"/>
+<EVENT end="1625" id="E47" modality="FACTUAL" polarity="POS" start="1619" text="Zantac" type="TREATMENT"/>
+<EVENT end="1669" id="E48" modality="FACTUAL" polarity="POS" start="1648" text="Insulin-sliding scale" type="TREATMENT"/>
+<EVENT end="1669" id="E54" modality="FACTUAL" polarity="POS" start="1648" text="Insulin-sliding scale" type="TREATMENT"/>
+<EVENT end="1700" id="E49" modality="FACTUAL" polarity="POS" start="1693" text="Humalog" type="TREATMENT"/>
+<EVENT end="1700" id="E55" modality="FACTUAL" polarity="POS" start="1693" text="Humalog" type="TREATMENT"/>
+<EVENT end="181" id="E14" modality="FACTUAL" polarity="POS" start="173" text="glaucoma" type="PROBLEM"/>
+<EVENT end="1762" id="E50" modality="FACTUAL" polarity="POS" start="1756" text="Stable" type="OCCURRENCE"/>
+<EVENT end="1808" id="E51" modality="FACTUAL" polarity="POS" start="1799" text="follow up" type="OCCURRENCE"/>
+<EVENT end="1856" id="E52" modality="FACTUAL" polarity="POS" start="1842" text="repeat head CT" type="TEST"/>
+<EVENT end="196" id="E15" modality="FACTUAL" polarity="POS" start="188" text="diabetes" type="PROBLEM"/>
+<EVENT end="219" id="E16" modality="FACTUAL" polarity="POS" start="203" text="fell and tripped" type="OCCURRENCE"/>
+<EVENT end="279" id="E1" modality="FACTUAL" polarity="NEG" start="258" text="loss of consciousness" type="PROBLEM"/>
+<EVENT end="294" id="E2" modality="FACTUAL" polarity="NEG" start="285" text="dizziness" type="PROBLEM"/>
+<EVENT end="38" id="E8" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="310" id="E3" modality="FACTUAL" polarity="NEG" start="300" text="chest pain" type="PROBLEM"/>
+<EVENT end="339" id="E4" modality="FACTUAL" polarity="NEG" start="320" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="374" id="E17" modality="FACTUAL" polarity="POS" start="366" text="afebrile" type="PROBLEM"/>
+<EVENT end="387" id="E18" modality="FACTUAL" polarity="POS" start="377" text="Heart rate" type="TEST"/>
+<EVENT end="411" id="E19" modality="FACTUAL" polarity="POS" start="397" text="Blood pressure" type="TEST"/>
+<EVENT end="437" id="E20" modality="FACTUAL" polarity="POS" start="421" text="Respiratory rate" type="TEST"/>
+<EVENT end="451" id="E21" modality="FACTUAL" polarity="POS" start="447" text="Sats" type="TEST"/>
+<EVENT end="485" id="E22" modality="FACTUAL" polarity="POS" start="470" text="Her temperature" type="TEST"/>
+<EVENT end="559" id="E23" modality="FACTUAL" polarity="POS" start="537" text="neurologic examination" type="TEST"/>
+<EVENT end="658" id="E24" modality="FACTUAL" polarity="NEG" start="646" text="auscultation" type="TEST"/>
+<EVENT end="698" id="E25" modality="FACTUAL" polarity="NEG" start="690" text="cyanosis" type="PROBLEM"/>
+<EVENT end="709" id="E26" modality="FACTUAL" polarity="NEG" start="701" text="clubbing" type="PROBLEM"/>
+<EVENT end="720" id="E27" modality="FACTUAL" polarity="NEG" start="715" text="edema" type="PROBLEM"/>
+<EVENT end="730" id="E28" modality="FACTUAL" polarity="POS" start="723" text="Head CT" type="TEST"/>
+<EVENT end="737" id="E29" modality="FACTUAL" polarity="POS" start="731" text="showed" type="EVIDENTIAL"/>
+<EVENT end="789" id="E30" modality="FACTUAL" polarity="POS" start="738" text="a front focal hemorrhage in the left occipital lobe" type="PROBLEM"/>
+<EVENT end="843" id="E31" modality="POSSIBLE" polarity="POS" start="816" text="intraparenchymal hemorrhage" type="PROBLEM"/>
+<EVENT end="892" id="E32" modality="POSSIBLE" polarity="POS" start="847" text="epidural or subdural hemorrhage near the falx" type="PROBLEM"/>
+<EVENT end="906" id="E33" modality="FACTUAL" polarity="NEG" start="901" text="shift" type="PROBLEM"/>
+<EVENT end="926" id="E34" modality="FACTUAL" polarity="POS" start="909" text="CT of the C spine" type="TEST"/>
+<RTIMEX3 end="1360" id="T0" mod="APPROX" start="1351" text="two weeks" type="DATE" val="2012-05-14"/>
+
+
+
+
+
+
+
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2012-04-27" type="DATE" val="2012-04-27"/>
+<RTIMEX3 end="1836" id="T11" mod="NA" start="1827" text="two weeks" type="DATE" val="2012-05-14"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2012-04-30" type="DATE" val="2012-04-30"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-04-27" end="28" id="S0" start="18" text="2012-04-27" type="ADMISSION"/>
+<SECTIME dvalue="2012-04-30" end="56" id="S1" start="46" text="2012-04-30" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

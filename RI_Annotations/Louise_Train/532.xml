@@ -1,0 +1,409 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-03-01
+Discharge Date :
+2012-03-13
+Service :
+CMED CCU
+HISTORY OF PRESENT ILLNESS :
+Patient is a 26 - year-old female with a past medical history significant for nonischemic dilated cardiomyopathy with an ejection fraction of 15-20% , who presents with a one-week history of progressive shortness of breath .
+She reports orthopnea with an increasing pillow requirement of 2-4 with paroxysmal nocturnal dyspnea .
+Patient also reports a 6-pound weight gain over the last four days with associated lower extremity edema .
+She also reports positional chest pain , which is worse with lying down and relieved with sitting up .
+She denies any pain with activity .
+She also reports a cough productive of green sputum for approximately one week .
+She does report chills , but no fevers .
+In the Emergency Department , she was started on a nesiritide drip and responded well with 2000 cc urine output .
+HOSPITAL COURSE :
+1. Congestive heart failure :
+Patient was diuresed effectively with nesiritide and Lasix .
+Patient 's weight on admission was 250 pounds , and on the day of discharge was 244 pounds which was back to her dry weight .
+She had lost the 6 pounds that she reported gaining in the four days prior to her hospitalization .
+Patient was continued on her Toprol , her lisinopril , and her digoxin .
+Patient 's Coumadin was held for right heart catheterization and biopsy , and then EP study with ICD placement .
+Patient did have Woodrow Betty , SPEP , and anticardiolipin antibody sent for further workup of the etiology of her cardiomyopathy .
+The Courtney , SPEP , and anticardiolipin antibody were all negative .
+Her CKs did trend down over the course of her hospital stay , and in the setting of her known clean coronaries on cardiac catheterization in 2011-11-19 , it was believed that a myocarditis might be the cause of her elevated cardiac enzymes and also could have exacerbated her congestive heart failure .
+Patient did receive a right heart catheterization , which showed elevated wedge pressures and biopsy specimens were obtained of the right ventricle .
+The results of these biopsies are still pending in pathology .
+Post right heart catheterization and right ventricular biopsy , the patient was sent to the CCU for a Swan - guided therapy in the setting of her elevated wedge pressures and low cardiac output .
+In the CCU , she was put on milrinone with good results .
+Patient was also seen by the Pulmonary service here and had pulmonary function tests done as part of a pretransplant workup .
+There is no pulmonary process to exclude her from the transplant list as noted by the Pulmonary service .
+Patient did receive an ICD during this hospital admission without complication .
+Patient was in bigeminy during the course of her hospital stay , and did have frequent runs of ectopy as noted on telemetry .
+2. Her right lower lobe infiltrate :
+Patient did report a cough productive of green sputum on admission .
+She received a full course of azithromycin for this with resolution of her cough and sputum production .
+On discharge , the patient was restarted on her Coumadin , which was held for her right heart catheterization , and her biopsy , and her ICD placement .
+She was also continued on all her heart failure medications including her Toprol , her lisinopril , her digoxin , and her Lasix .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E28" modality="FACTUAL" polarity="POS" start="1001" text="nesiritide" type="TREATMENT"/>
+<EVENT end="1021" id="E29" modality="FACTUAL" polarity="POS" start="1016" text="Lasix" type="TREATMENT"/>
+<EVENT end="1041" id="E30" modality="FACTUAL" polarity="POS" start="1024" text="Patient 's weight" type="TEST"/>
+<EVENT end="1054" id="E31" modality="FACTUAL" polarity="POS" start="1045" text="admission" type="OCCURRENCE"/>
+<EVENT end="1099" id="E32" modality="FACTUAL" polarity="POS" start="1090" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1147" id="E33" modality="FACTUAL" polarity="POS" start="1133" text="her dry weight" type="TEST"/>
+<EVENT end="1175" id="E34" modality="FACTUAL" polarity="POS" start="1158" text="lost the 6 pounds" type="OCCURRENCE"/>
+<EVENT end="1193" id="E35" modality="FACTUAL" polarity="POS" start="1185" text="reported" type="EVIDENTIAL"/>
+<EVENT end="1201" id="E36" modality="FACTUAL" polarity="POS" start="1194" text="gaining" type="PROBLEM"/>
+<EVENT end="1247" id="E38" modality="FACTUAL" polarity="POS" start="1228" text="her hospitalization" type="OCCURRENCE"/>
+<EVENT end="1285" id="E39" modality="FACTUAL" polarity="POS" start="1275" text="her Toprol" type="TREATMENT"/>
+<EVENT end="1302" id="E40" modality="FACTUAL" polarity="POS" start="1288" text="her lisinopril" type="TREATMENT"/>
+<EVENT end="1320" id="E41" modality="FACTUAL" polarity="POS" start="1309" text="her digoxin" type="TREATMENT"/>
+<EVENT end="1342" id="E42" modality="FACTUAL" polarity="POS" start="1323" text="Patient 's Coumadin" type="TREATMENT"/>
+<EVENT end="1383" id="E43" modality="FACTUAL" polarity="POS" start="1356" text="right heart catheterization" type="TEST"/>
+<EVENT end="1394" id="E44" modality="FACTUAL" polarity="POS" start="1388" text="biopsy" type="TEST"/>
+<EVENT end="1414" id="E45" modality="FACTUAL" polarity="POS" start="1406" text="EP study" type="TEST"/>
+<EVENT end="1433" id="E46" modality="FACTUAL" polarity="POS" start="1420" text="ICD placement" type="TREATMENT"/>
+<EVENT end="1466" id="E47" modality="FACTUAL" polarity="POS" start="1453" text="Woodrow Betty" type="TEST"/>
+<EVENT end="1473" id="E48" modality="FACTUAL" polarity="POS" start="1469" text="SPEP" type="TEST"/>
+<EVENT end="1504" id="E49" modality="FACTUAL" polarity="POS" start="1480" text="anticardiolipin antibody" type="TEST"/>
+<EVENT end="1528" id="E50" modality="FACTUAL" polarity="POS" start="1514" text="further workup" type="TEST"/>
+<EVENT end="1566" id="E51" modality="FACTUAL" polarity="POS" start="1548" text="her cardiomyopathy" type="PROBLEM"/>
+<EVENT end="1581" id="E52" modality="FACTUAL" polarity="POS" start="1569" text="The Courtney" type="TEST"/>
+<EVENT end="1588" id="E53" modality="FACTUAL" polarity="POS" start="1584" text="SPEP" type="TEST"/>
+<EVENT end="1619" id="E54" modality="FACTUAL" polarity="POS" start="1595" text="anticardiolipin antibody" type="TEST"/>
+<EVENT end="1647" id="E55" modality="FACTUAL" polarity="POS" start="1640" text="Her CKs" type="TEST"/>
+<EVENT end="1662" id="E56" modality="FACTUAL" polarity="POS" start="1652" text="trend down" type="OCCURRENCE"/>
+<EVENT end="1699" id="E57" modality="FACTUAL" polarity="POS" start="1682" text="her hospital stay" type="OCCURRENCE"/>
+<EVENT end="1777" id="E58" modality="FACTUAL" polarity="POS" start="1754" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1828" id="E59" modality="POSSIBLE" polarity="POS" start="1815" text="a myocarditis" type="PROBLEM"/>
+<EVENT end="217" id="E2" modality="FACTUAL" polarity="POS" start="183" text="nonischemic dilated cardiomyopathy" type="PROBLEM"/>
+<EVENT end="1879" id="E60" modality="FACTUAL" polarity="POS" start="1851" text="her elevated cardiac enzymes" type="PROBLEM"/>
+<EVENT end="1940" id="E61" modality="FACTUAL" polarity="POS" start="1912" text="her congestive heart failure" type="PROBLEM"/>
+<EVENT end="1992" id="E62" modality="FACTUAL" polarity="POS" start="1963" text="a right heart catheterization" type="TEST"/>
+<EVENT end="2000" id="E63" modality="FACTUAL" polarity="POS" start="1995" text="which" type="TEST"/>
+<EVENT end="2007" id="E64" modality="FACTUAL" polarity="POS" start="2001" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2032" id="E65" modality="FACTUAL" polarity="POS" start="2008" text="elevated wedge pressures" type="PROBLEM"/>
+<EVENT end="2053" id="E66" modality="FACTUAL" polarity="POS" start="2037" text="biopsy specimens" type="TEST"/>
+<EVENT end="2104" id="E67" modality="FACTUAL" polarity="POS" start="2093" text="The results" type="TEST"/>
+<EVENT end="2122" id="E68" modality="FACTUAL" polarity="POS" start="2108" text="these biopsies" type="TEST"/>
+<EVENT end="2188" id="E69" modality="FACTUAL" polarity="POS" start="2161" text="right heart catheterization" type="TEST"/>
+<EVENT end="2217" id="E70" modality="FACTUAL" polarity="POS" start="2193" text="right ventricular biopsy" type="TEST"/>
+<EVENT end="243" id="E3" modality="FACTUAL" polarity="POS" start="223" text="an ejection fraction" type="TEST"/>
+<EVENT end="2251" id="E71" modality="FACTUAL" polarity="POS" start="2244" text="the CCU" type="CLINICAL_DEPT"/>
+<EVENT end="2279" id="E72" modality="FACTUAL" polarity="POS" start="2256" text="a Swan - guided therapy" type="TREATMENT"/>
+<EVENT end="2326" id="E73" modality="FACTUAL" polarity="POS" start="2298" text="her elevated wedge pressures" type="PROBLEM"/>
+<EVENT end="2349" id="E74" modality="FACTUAL" polarity="POS" start="2331" text="low cardiac output" type="PROBLEM"/>
+<EVENT end="2362" id="E75" modality="FACTUAL" polarity="POS" start="2355" text="the CCU" type="CLINICAL_DEPT"/>
+<EVENT end="2389" id="E76" modality="FACTUAL" polarity="POS" start="2380" text="milrinone" type="TREATMENT"/>
+<EVENT end="2407" id="E77" modality="FACTUAL" polarity="POS" start="2395" text="good results" type="OCCURRENCE"/>
+<EVENT end="2456" id="E78" modality="FACTUAL" polarity="POS" start="2435" text="the Pulmonary service" type="CLINICAL_DEPT"/>
+<EVENT end="2461" id="E79" modality="FACTUAL" polarity="POS" start="2457" text="here" type="CLINICAL_DEPT"/>
+<EVENT end="2494" id="E80" modality="FACTUAL" polarity="POS" start="2470" text="pulmonary function tests" type="TEST"/>
+<EVENT end="2533" id="E81" modality="FACTUAL" polarity="POS" start="2511" text="a pretransplant workup" type="TEST"/>
+<EVENT end="2565" id="E82" modality="FACTUAL" polarity="NEG" start="2548" text="pulmonary process" type="PROBLEM"/>
+<EVENT end="268" id="E4" modality="FACTUAL" polarity="POS" start="260" text="presents" type="OCCURRENCE"/>
+<EVENT end="2614" id="E83" modality="FACTUAL" polarity="POS" start="2609" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2639" id="E84" modality="FACTUAL" polarity="POS" start="2618" text="the Pulmonary service" type="CLINICAL_DEPT"/>
+<EVENT end="2668" id="E85" modality="FACTUAL" polarity="POS" start="2662" text="an ICD" type="TREATMENT"/>
+<EVENT end="2699" id="E86" modality="FACTUAL" polarity="POS" start="2676" text="this hospital admission" type="OCCURRENCE"/>
+<EVENT end="2720" id="E87" modality="FACTUAL" polarity="NEG" start="2708" text="complication" type="PROBLEM"/>
+<EVENT end="2746" id="E88" modality="FACTUAL" polarity="POS" start="2738" text="bigeminy" type="PROBLEM"/>
+<EVENT end="2785" id="E89" modality="FACTUAL" polarity="POS" start="2768" text="her hospital stay" type="OCCURRENCE"/>
+<EVENT end="2824" id="E90" modality="FACTUAL" polarity="POS" start="2818" text="ectopy" type="PROBLEM"/>
+<EVENT end="2833" id="E91" modality="FACTUAL" polarity="POS" start="2828" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2846" id="E92" modality="FACTUAL" polarity="POS" start="2837" text="telemetry" type="TEST"/>
+<EVENT end="2883" id="E93" modality="FACTUAL" polarity="POS" start="2852" text="Her right lower lobe infiltrate" type="PROBLEM"/>
+<EVENT end="2904" id="E94" modality="FACTUAL" polarity="POS" start="2898" text="report" type="EVIDENTIAL"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2912" id="E95" modality="FACTUAL" polarity="POS" start="2905" text="a cough" type="PROBLEM"/>
+<EVENT end="2939" id="E96" modality="FACTUAL" polarity="POS" start="2927" text="green sputum" type="PROBLEM"/>
+<EVENT end="2952" id="E97" modality="FACTUAL" polarity="POS" start="2943" text="admission" type="OCCURRENCE"/>
+<EVENT end="327" id="E5" modality="FACTUAL" polarity="POS" start="296" text="progressive shortness of breath" type="PROBLEM"/>
+<EVENT end="2997" id="E98" modality="FACTUAL" polarity="POS" start="2985" text="azithromycin" type="TREATMENT"/>
+<EVENT end="3006" id="E99" modality="FACTUAL" polarity="POS" start="3002" text="this" type="PROBLEM"/>
+<EVENT end="3035" id="E100" modality="FACTUAL" polarity="NEG" start="3026" text="her cough" type="PROBLEM"/>
+<EVENT end="3057" id="E101" modality="FACTUAL" polarity="NEG" start="3040" text="sputum production" type="PROBLEM"/>
+<EVENT end="3072" id="E102" modality="FACTUAL" polarity="POS" start="3063" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3116" id="E103" modality="FACTUAL" polarity="POS" start="3104" text="her Coumadin" type="TREATMENT"/>
+<EVENT end="3124" id="E104" modality="FACTUAL" polarity="POS" start="3119" text="which" type="TREATMENT"/>
+<EVENT end="3169" id="E105" modality="FACTUAL" polarity="POS" start="3138" text="her right heart catheterization" type="TEST"/>
+<EVENT end="3186" id="E106" modality="FACTUAL" polarity="POS" start="3176" text="her biopsy" type="TEST"/>
+<EVENT end="3210" id="E107" modality="FACTUAL" polarity="POS" start="3193" text="her ICD placement" type="TREATMENT"/>
+<EVENT end="3272" id="E108" modality="FACTUAL" polarity="POS" start="3239" text="all her heart failure medications" type="TREATMENT"/>
+<EVENT end="3293" id="E109" modality="FACTUAL" polarity="POS" start="3283" text="her Toprol" type="TREATMENT"/>
+<EVENT end="3310" id="E110" modality="FACTUAL" polarity="POS" start="3296" text="her lisinopril" type="TREATMENT"/>
+<EVENT end="3324" id="E111" modality="FACTUAL" polarity="POS" start="3313" text="her digoxin" type="TREATMENT"/>
+<EVENT end="3340" id="E112" modality="FACTUAL" polarity="POS" start="3331" text="her Lasix" type="TREATMENT"/>
+<EVENT end="341" id="E6" modality="FACTUAL" polarity="POS" start="334" text="reports" type="EVIDENTIAL"/>
+<EVENT end="351" id="E7" modality="FACTUAL" polarity="POS" start="342" text="orthopnea" type="PROBLEM"/>
+<EVENT end="389" id="E8" modality="FACTUAL" polarity="POS" start="357" text="an increasing pillow requirement" type="PROBLEM"/>
+<EVENT end="430" id="E9" modality="FACTUAL" polarity="POS" start="402" text="paroxysmal nocturnal dyspnea" type="PROBLEM"/>
+<EVENT end="453" id="E10" modality="FACTUAL" polarity="POS" start="446" text="reports" type="EVIDENTIAL"/>
+<EVENT end="475" id="E11" modality="FACTUAL" polarity="POS" start="454" text="a 6-pound weight gain" type="PROBLEM"/>
+<EVENT end="537" id="E12" modality="FACTUAL" polarity="POS" start="516" text="lower extremity edema" type="PROBLEM"/>
+<EVENT end="556" id="E13" modality="FACTUAL" polarity="POS" start="549" text="reports" type="EVIDENTIAL"/>
+<EVENT end="578" id="E14" modality="FACTUAL" polarity="POS" start="557" text="positional chest pain" type="PROBLEM"/>
+<EVENT end="653" id="E15" modality="FACTUAL" polarity="POS" start="647" text="denies" type="EVIDENTIAL"/>
+<EVENT end="662" id="E16" modality="FACTUAL" polarity="NEG" start="654" text="any pain" type="PROBLEM"/>
+<EVENT end="695" id="E17" modality="FACTUAL" polarity="POS" start="688" text="reports" type="EVIDENTIAL"/>
+<EVENT end="703" id="E18" modality="FACTUAL" polarity="POS" start="696" text="a cough" type="PROBLEM"/>
+<EVENT end="730" id="E19" modality="FACTUAL" polarity="POS" start="718" text="green sputum" type="PROBLEM"/>
+<EVENT end="775" id="E20" modality="FACTUAL" polarity="POS" start="769" text="report" type="EVIDENTIAL"/>
+<EVENT end="782" id="E21" modality="FACTUAL" polarity="POS" start="776" text="chills" type="PROBLEM"/>
+<EVENT end="798" id="E22" modality="FACTUAL" polarity="NEG" start="792" text="fevers" type="PROBLEM"/>
+<EVENT end="828" id="E23" modality="FACTUAL" polarity="POS" start="804" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="867" id="E24" modality="FACTUAL" polarity="POS" start="850" text="a nesiritide drip" type="TREATMENT"/>
+<EVENT end="886" id="E25" modality="FACTUAL" polarity="POS" start="872" text="responded well" type="OCCURRENCE"/>
+<EVENT end="960" id="E26" modality="FACTUAL" polarity="POS" start="936" text="Congestive heart failure" type="PROBLEM"/>
+<EVENT end="983" id="E27" modality="FACTUAL" polarity="POS" start="975" text="diuresed" type="TREATMENT"/>
+<RTIMEX3 end="1099" id="T5" mod="NA" start="1079" text="the day of discharge" type="DATE" val="2012-03-13"/>
+
+<ATIMEX3 end="1791" id="T7" mod="NA" start="1781" text="2011-11-19" type="DATE" val="2011-11-19"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2012-03-01" type="DATE" val="2012-03-01"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2012-03-13" type="DATE" val="2012-03-13"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-03-01" end="28" id="S0" start="18" text="2012-03-01" type="ADMISSION"/>
+<SECTIME dvalue="2012-03-13" end="56" id="S1" start="46" text="2012-03-13" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

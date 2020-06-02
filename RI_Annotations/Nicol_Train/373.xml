@@ -1,0 +1,305 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+06/29/92
+DISCHARGE DATE :
+07/27/92
+HISTORY OF PRESENT ILLNESS :
+Mr. Villesatelkscurb is a fifty year old black gentleman with a long history of hepatitis C , believed to be contracted during transfusions in a previous trauma .
+The patient had recently prior to this admission , had a rise in his alpha feta protein and a biopsy of his liver had shown hepatocellular carcinoma .
+The patient was admitted for liver transplant workup and to await liver transplant .
+PAST MEDICAL and
+SURGICAL HISTORY :
+Significant for motor vehicle accident in 1966 , requiring exploratory laparotomy and splenectomy , tonsillectomy as a child , pneumonia in the past , hepatitis C and recent diagnosis of hepatocellular carcinoma .
+ADVERSE DRUG REACTIONS :
+no known drug allergies .
+MEDICATIONS ON ADMISSION :
+On admission medications included Lasix and iron .
+HOSPITAL COURSE :
+Preoperatively , the patient underwent chemo-embolization for his hepatocellular carcinoma .
+The remainder of his preoperative course was benign .
+On July 15 , 1992 , a liver became available , and the patient underwent hepatectomy and orthotopic liver transplant .
+His operation was complicated by severe coagulopathy requiring fifty-nine units of packed red blood cells , 64 units of FFP and 34 units of platelets .
+Postoperatively , the patient continued to have a coagulopathy requiring re-exploration on postoperatively day 2 , with findings only of hematoma and no active bleeding .
+Initially , the patient did well in the Intensive Care Unit , mentally alert , and oriented , however , he continued to be coagulopathic and was requiring large amounts of blood and FFP transfusions , with a resultant pulmonary edema .
+He developed renal failure felt to be ATN secondary to ischemia of his kidneys .
+The patient remained intubated in the Intensive Care Unit for twelve days prior to his death .
+He had daily transfusions of FFP and blood , and continued coagulopathy .
+He also developed thrombocytopenia , requiring persistent platelet transfusions on a daily basis .
+His immunosuppression was OKT3 and Solu Medrol , and he underwent hemodialysis and ultra filtration to remove fluid .
+While in the ICU he developed seizures , requiring large amounts of intravenous Valium to break his seizures , and he was maintained on Tegretol and Dilantin .
+However , he became progressively more mentally obtunded .
+During the seizure , he bit his tongue , resulting in a large bleed from his tongue , which was sutured by the ENT Service , however , his continued coagulopathy resulted in bleeding from his nasopharynx , which could never be identified , and also upper gastrointestinal bleeding .
+Endoscopy never revealed specific sources of bleeding , although he appeared to have a diffuse duodenitis .
+He was started on Pitressin to try to control the gastrointestinal bleeding , but he continued to have severe bleeding , and became progressively hypotensive , with eventual bradycardia and cardiac arrest .
+He was pronounced dead at 3:49 PM on July 27 , 1992 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1109" id="E11" modality="FACTUAL" polarity="POS" start="1098" text="hepatectomy" type="TREATMENT"/>
+<EVENT end="1141" id="E12" modality="FACTUAL" polarity="POS" start="1114" text="orthotopic liver transplant" type="TREATMENT"/>
+<EVENT end="1157" id="E13" modality="FACTUAL" polarity="POS" start="1144" text="His operation" type="TREATMENT"/>
+<EVENT end="1196" id="E14" modality="FACTUAL" polarity="POS" start="1177" text="severe coagulopathy" type="PROBLEM"/>
+<EVENT end="1249" id="E15" modality="FACTUAL" polarity="POS" start="1227" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="1267" id="E16" modality="FACTUAL" polarity="POS" start="1264" text="FFP" type="TREATMENT"/>
+<EVENT end="1293" id="E17" modality="FACTUAL" polarity="POS" start="1284" text="platelets" type="TREATMENT"/>
+<EVENT end="1358" id="E18" modality="FACTUAL" polarity="POS" start="1344" text="a coagulopathy" type="PROBLEM"/>
+<EVENT end="1383" id="E19" modality="FACTUAL" polarity="POS" start="1369" text="re-exploration" type="TEST"/>
+<EVENT end="1441" id="E20" modality="FACTUAL" polarity="POS" start="1433" text="hematoma" type="PROBLEM"/>
+<EVENT end="1464" id="E79" modality="FACTUAL" polarity="NEG" start="1449" text="active bleeding" type="PROBLEM"/>
+<EVENT end="1526" id="E61" modality="FACTUAL" polarity="POS" start="1503" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1558" id="E80" modality="FACTUAL" polarity="POS" start="1529" text="mentally alert , and oriented" type="OCCURRENCE"/>
+<EVENT end="1603" id="E21" modality="FACTUAL" polarity="POS" start="1590" text="coagulopathic" type="PROBLEM"/>
+<EVENT end="173" id="E66" modality="FACTUAL" polarity="POS" start="162" text="hepatitis C" type="PROBLEM"/>
+<EVENT end="1644" id="E22" modality="FACTUAL" polarity="POS" start="1622" text="large amounts of blood" type="TREATMENT"/>
+<EVENT end="1665" id="E23" modality="FACTUAL" polarity="POS" start="1649" text="FFP transfusions" type="TREATMENT"/>
+<EVENT end="1700" id="E24" modality="FACTUAL" polarity="POS" start="1673" text="a resultant pulmonary edema" type="PROBLEM"/>
+<EVENT end="1729" id="E25" modality="FACTUAL" polarity="POS" start="1716" text="renal failure" type="PROBLEM"/>
+<EVENT end="1744" id="E81" modality="POSSIBLE" polarity="POS" start="1741" text="ATN" type="PROBLEM"/>
+<EVENT end="1781" id="E82" modality="FACTUAL" polarity="POS" start="1758" text="ischemia of his kidneys" type="PROBLEM"/>
+<EVENT end="1814" id="E26" modality="FACTUAL" polarity="POS" start="1805" text="intubated" type="TREATMENT"/>
+<EVENT end="1841" id="E62" modality="FACTUAL" polarity="POS" start="1818" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1876" id="E63" modality="FACTUAL" polarity="POS" start="1867" text="his death" type="OCCURRENCE"/>
+<EVENT end="1904" id="E27" modality="FACTUAL" polarity="POS" start="1886" text="daily transfusions" type="TREATMENT"/>
+<EVENT end="1911" id="E28" modality="FACTUAL" polarity="POS" start="1908" text="FFP" type="TREATMENT"/>
+<EVENT end="1921" id="E29" modality="FACTUAL" polarity="POS" start="1916" text="blood" type="TREATMENT"/>
+<EVENT end="1950" id="E30" modality="FACTUAL" polarity="POS" start="1938" text="coagulopathy" type="PROBLEM"/>
+<EVENT end="1987" id="E31" modality="FACTUAL" polarity="POS" start="1971" text="thrombocytopenia" type="PROBLEM"/>
+<EVENT end="2032" id="E32" modality="FACTUAL" polarity="POS" start="2000" text="persistent platelet transfusions" type="TREATMENT"/>
+<EVENT end="2073" id="E33" modality="FACTUAL" polarity="POS" start="2052" text="His immunosuppression" type="TREATMENT"/>
+<EVENT end="2082" id="E34" modality="FACTUAL" polarity="POS" start="2078" text="OKT3" type="TREATMENT"/>
+<EVENT end="221" id="E1" modality="FACTUAL" polarity="POS" start="209" text="transfusions" type="TREATMENT"/>
+<EVENT end="2098" id="E35" modality="FACTUAL" polarity="POS" start="2087" text="Solu Medrol" type="TREATMENT"/>
+<EVENT end="2130" id="E36" modality="FACTUAL" polarity="POS" start="2118" text="hemodialysis" type="TREATMENT"/>
+<EVENT end="2151" id="E37" modality="FACTUAL" polarity="POS" start="2135" text="ultra filtration" type="TREATMENT"/>
+<EVENT end="2186" id="E64" modality="FACTUAL" polarity="POS" start="2179" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2208" id="E38" modality="FACTUAL" polarity="POS" start="2200" text="seizures" type="PROBLEM"/>
+<EVENT end="2256" id="E39" modality="FACTUAL" polarity="POS" start="2221" text="large amounts of intravenous Valium" type="TREATMENT"/>
+<EVENT end="242" id="E2" modality="FACTUAL" polarity="POS" start="225" text="a previous trauma" type="PROBLEM"/>
+<EVENT end="2278" id="E40" modality="FACTUAL" polarity="POS" start="2266" text="his seizures" type="PROBLEM"/>
+<EVENT end="2314" id="E41" modality="FACTUAL" polarity="POS" start="2306" text="Tegretol" type="TREATMENT"/>
+<EVENT end="2327" id="E42" modality="FACTUAL" polarity="POS" start="2319" text="Dilantin" type="TREATMENT"/>
+<EVENT end="2386" id="E43" modality="FACTUAL" polarity="POS" start="2369" text="mentally obtunded" type="PROBLEM"/>
+<EVENT end="2407" id="E44" modality="FACTUAL" polarity="POS" start="2396" text="the seizure" type="PROBLEM"/>
+<EVENT end="2427" id="E65" modality="FACTUAL" polarity="POS" start="2413" text="bit his tongue" type="PROBLEM"/>
+<EVENT end="2472" id="E45" modality="FACTUAL" polarity="POS" start="2443" text="a large bleed from his tongue" type="PROBLEM"/>
+<EVENT end="2492" id="E46" modality="FACTUAL" polarity="POS" start="2485" text="sutured" type="TREATMENT"/>
+<EVENT end="2511" id="E83" modality="FACTUAL" polarity="POS" start="2496" text="the ENT Service" type="CLINICAL_DEPT"/>
+<EVENT end="2550" id="E47" modality="FACTUAL" polarity="POS" start="2524" text="his continued coagulopathy" type="PROBLEM"/>
+<EVENT end="2592" id="E48" modality="FACTUAL" polarity="POS" start="2563" text="bleeding from his nasopharynx" type="PROBLEM"/>
+<EVENT end="2669" id="E49" modality="FACTUAL" polarity="POS" start="2638" text="upper gastrointestinal bleeding" type="PROBLEM"/>
+<EVENT end="2681" id="E50" modality="FACTUAL" polarity="POS" start="2672" text="Endoscopy" type="TEST"/>
+<EVENT end="36" id="E59" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2725" id="E51" modality="FACTUAL" polarity="POS" start="2717" text="bleeding" type="PROBLEM"/>
+<EVENT end="2777" id="E52" modality="POSSIBLE" polarity="POS" start="2757" text="a diffuse duodenitis" type="PROBLEM"/>
+<EVENT end="2807" id="E53" modality="FACTUAL" polarity="POS" start="2798" text="Pitressin" type="TREATMENT"/>
+<EVENT end="2855" id="E54" modality="FACTUAL" polarity="POS" start="2826" text="the gastrointestinal bleeding" type="PROBLEM"/>
+<EVENT end="293" id="E67" modality="FACTUAL" polarity="POS" start="279" text="this admission" type="OCCURRENCE"/>
+<EVENT end="2898" id="E55" modality="FACTUAL" polarity="POS" start="2883" text="severe bleeding" type="PROBLEM"/>
+<EVENT end="2937" id="E56" modality="FACTUAL" polarity="POS" start="2912" text="progressively hypotensive" type="PROBLEM"/>
+<EVENT end="2965" id="E57" modality="FACTUAL" polarity="POS" start="2945" text="eventual bradycardia" type="PROBLEM"/>
+<EVENT end="2984" id="E58" modality="FACTUAL" polarity="POS" start="2970" text="cardiac arrest" type="PROBLEM"/>
+<EVENT end="332" id="E3" modality="FACTUAL" polarity="POS" start="300" text="a rise in his alpha feta protein" type="PROBLEM"/>
+<EVENT end="3009" id="E84" modality="FACTUAL" polarity="POS" start="3005" text="dead" type="OCCURRENCE"/>
+<EVENT end="358" id="E4" modality="FACTUAL" polarity="POS" start="337" text="a biopsy of his liver" type="TEST"/>
+<EVENT end="393" id="E68" modality="FACTUAL" polarity="POS" start="369" text="hepatocellular carcinoma" type="PROBLEM"/>
+<EVENT end="420" id="E69" modality="FACTUAL" polarity="POS" start="412" text="admitted" type="OCCURRENCE"/>
+<EVENT end="448" id="E70" modality="FACTUAL" polarity="POS" start="425" text="liver transplant workup" type="TEST"/>
+<EVENT end="478" id="E71" modality="FACTUAL" polarity="POS" start="462" text="liver transplant" type="TREATMENT"/>
+<EVENT end="555" id="E60" modality="FACTUAL" polarity="POS" start="533" text="motor vehicle accident" type="OCCURRENCE"/>
+<EVENT end="598" id="E5" modality="FACTUAL" polarity="POS" start="576" text="exploratory laparotomy" type="TEST"/>
+<EVENT end="614" id="E6" modality="FACTUAL" polarity="POS" start="603" text="splenectomy" type="TREATMENT"/>
+<EVENT end="630" id="E7" modality="FACTUAL" polarity="POS" start="617" text="tonsillectomy" type="TREATMENT"/>
+<EVENT end="653" id="E8" modality="FACTUAL" polarity="POS" start="644" text="pneumonia" type="PROBLEM"/>
+<EVENT end="679" id="E72" modality="FACTUAL" polarity="POS" start="668" text="hepatitis C" type="PROBLEM"/>
+<EVENT end="728" id="E73" modality="FACTUAL" polarity="POS" start="704" text="hepatocellular carcinoma" type="PROBLEM"/>
+<EVENT end="779" id="E74" modality="FACTUAL" polarity="NEG" start="759" text="known drug allergies" type="PROBLEM"/>
+<EVENT end="821" id="E76" modality="FACTUAL" polarity="POS" start="812" text="admission" type="OCCURRENCE"/>
+<EVENT end="833" id="E75" modality="FACTUAL" polarity="POS" start="822" text="medications" type="TREATMENT"/>
+<EVENT end="848" id="E77" modality="FACTUAL" polarity="POS" start="843" text="Lasix" type="TREATMENT"/>
+<EVENT end="857" id="E78" modality="FACTUAL" polarity="POS" start="853" text="iron" type="TREATMENT"/>
+<EVENT end="935" id="E9" modality="FACTUAL" polarity="POS" start="917" text="chemo-embolization" type="TREATMENT"/>
+<EVENT end="968" id="E10" modality="FACTUAL" polarity="POS" start="940" text="his hepatocellular carcinoma" type="PROBLEM"/>
+<RTIMEX3 end="1042" id="T4" mod="NA" start="1028" text="July 15 , 1992" type="DATE" val="1992-07-15"/>
+<RTIMEX3 end="1408" id="T5" mod="NA" start="1387" text="postoperatively day 2" type="DATE" val="1992-07-17"/>
+<ATIMEX3 end="26" id="T1" mod="NA" start="18" text="06/29/92" type="DATE" val="1992-06-29"/>
+
+
+<ATIMEX3 end="3020" id="T7" mod="NA" start="3013" text="3:49 PM" type="TIME" val="T15:49"/>
+<RTIMEX3 end="3038" id="T8" mod="NA" start="3024" text="July 27 , 1992" type="DATE" val="1992-07-27"/>
+<ATIMEX3 end="52" id="T2" mod="NA" start="44" text="07/27/92" type="DATE" val="1992-07-27"/>
+<ATIMEX3 end="563" id="T3" mod="NA" start="559" text="1966" type="DATE" val="1966"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-06-29" end="26" id="S0" start="18" text="06/29/92" type="ADMISSION"/>
+<SECTIME dvalue="1992-07-27" end="52" id="S1" start="44" text="07/27/92" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

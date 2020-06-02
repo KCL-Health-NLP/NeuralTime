@@ -2,6 +2,8 @@ import pandas as pd
 from Normalization.xml_utilities import escape_invalid_characters
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import os
+import numpy as np
 
 
 def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks = None):
@@ -18,11 +20,15 @@ def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks =
     :return: saves the updated xml file in output path
     """
 
-    doc = minidom.parse(xml_path)
+    try:
+        doc = minidom.parse(xml_path)
+    except Exception as e:
+        print(e)
+        return None
+        """string = escape_invalid_characters(xml_path)
+        doc = minidom.parseString(string)
+"""
     tags = doc.getElementsByTagName("TAGS")[0]
-
-    print(tags)
-    print(doc.getElementsByTagName('TIMEX3'))
 
 
     # removing all timelinks and events :
@@ -38,8 +44,6 @@ def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks =
 
     for ann in doc.getElementsByTagName('TIMEX3'):
 
-        print(ann)
-
         # delete non date/tume timexes
         type = ann.getAttribute('type')
         if type not in ['DATE', 'TIME']:
@@ -48,8 +52,6 @@ def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks =
         else:
             # convert timexes into absolute/relative
             id = ann.getAttribute('id')
-            print(id)
-            print(date_and_time_ann[date_and_time_ann.id == id])
             absolute = date_and_time_ann[date_and_time_ann.id == id]['absolute'].to_numpy()[0]
             if absolute:
                 ann.tagName = 'ATIMEX3'
@@ -61,10 +63,97 @@ def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks =
 
 
 
-date_and_time = pd.read_excel('../Normalization/date_and_time.xlsx')
-docname = '311.xml'
+## preparing the files to be annotated
 
-change_annotations(docname, '311_new.xml', date_and_time[date_and_time.docname == docname])
+
+def prepare_batch(batch, name, date_and_time = pd.read_excel('../Normalization/date_and_time.xlsx'), local_path = '../TimeDatasets/i2b2 Data/Train-2012-07-15'):
+    """
+    this function creates a directory for annotating, with the xml files and an output folder
+
+    :param batch: list of document names
+    :param name: name for the repository to be created
+    :param local_path : path to the xml documents
+    :return: creates a repository, saves the modified xml files and creates an output folder for the annotated documents
+    """
+    os.mkdir(name)
+    os.mkdir(name + '/annotated_files')
+
+    for docname in batch:
+        print(docname)
+
+        docpath = local_path+ '/' + docname
+        newpath = name + '/' + docname
+        change_annotations(docpath, newpath, date_and_time[date_and_time.docname == docname])
+
+    return None
+
+
+# Original batches for testing the guidelines
+
+date_and_time = pd.read_excel('../Normalization/date_and_time.xlsx')
+original_gs = pd.read_excel('../TimeDatasets/i2b2 Data/ritimexes_original_gs.xlsx')
+original_gs.columns = original_gs.iloc[0]
+original_gs = original_gs.drop([0])
+print(original_gs)
+
+docnames = date_and_time[date_and_time['test'] == False]['docname'].unique()
+test_docname = date_and_time[date_and_time['test'] == True]['docname'].unique()
+test_gs_docnames = original_gs['docname'].unique()
+
+
+batch1 = docnames[:10]
+batch2 = docnames[10:20]
+batch3 = docnames[20:30]
+
+nicol = np.concatenate([batch1, batch2])
+sumithra = np.concatenate([batch2, batch3])
+louise = np.concatenate([batch1, batch3])
+
+# Preparing batches for annotating the test document
+
+batch_test_1 = test_gs_docnames[:10]
+batch_test_2 = test_gs_docnames[10:20]
+batch_test_3 = test_gs_docnames[20:30]
+
+nicol_test = np.concatenate([batch_test_1, batch_test_2])
+sumithra_test = np.concatenate([batch_test_2, batch_test_3])
+louise_test = np.concatenate([batch_test_1, batch_test_3])
+
+## final batches
+
+train_batch_nicol = docnames[30:110]  # 80 train documents
+train_batch_louise = docnames[110:]
+
+
+remaining_test_docs = [doc for doc in test_docname if doc not in np.concatenate([batch_test_1, batch_test_2, batch_test_3])]
+print(len(remaining_test_docs))
+
+nicol_test_batch = remaining_test_docs[:50]
+louise_test_batch = remaining_test_docs[45:]
+
+
+
+#prepare_batch(train_batch_nicol, 'Nicol_Train', local_path='../TimeDatasets/i2b2 Data/Train-2012-07-15')
+#prepare_batch(train_batch_louise, 'Louise_Train', local_path='../TimeDatasets/i2b2 Data/Train-2012-07-15')
+prepare_batch(louise_test_batch, 'Louise_Test', local_path='../TimeDatasets/i2b2 Data/Test_data/merged_xml' )
+prepare_batch(nicol_test_batch, 'Nicol_Test', local_path='../TimeDatasets/i2b2 Data/Test_data/merged_xml' )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

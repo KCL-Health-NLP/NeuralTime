@@ -1,0 +1,222 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2017-04-26
+Discharge Date :
+2017-05-01
+Service :
+CARD CMED
+HISTORY OF PRESENT ILLNESS :
+This is a 62 year old gentleman who underwent an exercise treadmill test for screening through the Beth Israel Deaconess Hospital-Needham Clinic .
+The test was positive for EKG changes and shortness of breath .
+The patient has no history of chest pain; no history of myocardial infarction .
+The patient was referred to Cambridge Health Alliance for cardiac catheterization .
+Cardiac catheterization showed an ejection fraction of 50% , left ventricular end diastolic pressure of 20 , 90% left anterior descending lesion , 80% left circumflex lesion , 80% mid right coronary artery lesion and 80% distal right coronary artery lesion .
+The patient was referred to Dr. Rota for coronary artery bypass grafting .
+HOSPITAL COURSE :
+The patient was admitted to Saint Vincent Hospital on 2017-04-26 and underwent a coronary artery bypass graft times four with left internal mammary artery to left anterior descending , saphenous vein graft to right coronary artery , saphenous vein graft to PDA and saphenous vein graft to obtuse marginal with Dr. Rota .
+Please see the Operative Note for further details .
+The patient was transferred to the Intensive Care Unit in stable condition on Neo-Synephrine infusion .
+The patient was weaned the next day from mechanical ventilation on his first postoperative night .
+Postoperative days one and two , the patient continued to require Neo-Synephrine to maintain systolic blood pressures greater than 100 .
+On postoperative day two , the patient 's hematocrit was noted to be 23.1 ; he was transfused one unit of packed red blood cells as well as given a dose of Lasix .
+The Neo-Synephrine was weaned off by postoperative day number three .
+The patient 's chest tubes were removed on postoperative day three without incident .
+The patient was started on low dose Lasix and Lopressor which he tolerated well .
+On postoperative day number four , the patient was transferred from the Intensive Care Unit to the regular part of the hospital where he began working with Physical Therapy and on his first session he was able to ambulate 500 feet and climb one flight of stairs while remaining hemodynamically stable without requiring any oxygen .
+On postoperative day number five , the patient continued to remain hemodynamically stable .
+The patient 's epicardial pacing wires were removed without incident and the patient was cleared for discharge to home .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1063" id="E12" modality="FACTUAL" polarity="POS" start="1018" text="saphenous vein graft to right coronary artery" type="TREATMENT"/>
+<EVENT end="1093" id="E13" modality="FACTUAL" polarity="POS" start="1066" text="saphenous vein graft to PDA" type="TREATMENT"/>
+<EVENT end="1137" id="E14" modality="FACTUAL" polarity="POS" start="1098" text="saphenous vein graft to obtuse marginal" type="TREATMENT"/>
+<EVENT end="1233" id="E40" modality="FACTUAL" polarity="POS" start="1222" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1260" id="E41" modality="FACTUAL" polarity="POS" start="1237" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1280" id="E42" modality="FACTUAL" polarity="POS" start="1264" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="1307" id="E15" modality="FACTUAL" polarity="POS" start="1284" text="Neo-Synephrine infusion" type="TREATMENT"/>
+<EVENT end="1332" id="E43" modality="FACTUAL" polarity="POS" start="1326" text="weaned" type="OCCURRENCE"/>
+<EVENT end="1373" id="E16" modality="FACTUAL" polarity="POS" start="1351" text="mechanical ventilation" type="TREATMENT"/>
+<EVENT end="1489" id="E17" modality="FACTUAL" polarity="POS" start="1475" text="Neo-Synephrine" type="TREATMENT"/>
+<EVENT end="1526" id="E18" modality="FACTUAL" polarity="POS" start="1502" text="systolic blood pressures" type="TEST"/>
+<EVENT end="178" id="E1" modality="FACTUAL" polarity="POS" start="152" text="an exercise treadmill test" type="TEST"/>
+<EVENT end="1598" id="E19" modality="FACTUAL" polarity="POS" start="1573" text="the patient 's hematocrit" type="TEST"/>
+<EVENT end="1639" id="E44" modality="FACTUAL" polarity="POS" start="1629" text="transfused" type="TREATMENT"/>
+<EVENT end="1674" id="E20" modality="FACTUAL" polarity="POS" start="1652" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="1707" id="E21" modality="FACTUAL" polarity="POS" start="1702" text="Lasix" type="TREATMENT"/>
+<EVENT end="1728" id="E22" modality="FACTUAL" polarity="POS" start="1710" text="The Neo-Synephrine" type="TREATMENT"/>
+<EVENT end="1739" id="E45" modality="FACTUAL" polarity="POS" start="1733" text="weaned" type="OCCURRENCE"/>
+<EVENT end="1806" id="E23" modality="FACTUAL" polarity="POS" start="1780" text="The patient 's chest tubes" type="TREATMENT"/>
+<EVENT end="1863" id="E24" modality="FACTUAL" polarity="NEG" start="1855" text="incident" type="PROBLEM"/>
+<EVENT end="1907" id="E25" modality="FACTUAL" polarity="POS" start="1893" text="low dose Lasix" type="TREATMENT"/>
+<EVENT end="1921" id="E26" modality="FACTUAL" polarity="POS" start="1912" text="Lopressor" type="TREATMENT"/>
+<EVENT end="2010" id="E46" modality="FACTUAL" polarity="POS" start="1999" text="transferred" type="OCCURRENCE"/>
+<EVENT end="250" id="E30" modality="FACTUAL" polarity="POS" start="201" text="the Beth Israel Deaconess Hospital-Needham Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="2039" id="E47" modality="FACTUAL" polarity="POS" start="2016" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2075" id="E48" modality="FACTUAL" polarity="POS" start="2043" text="the regular part of the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2120" id="E49" modality="FACTUAL" polarity="POS" start="2104" text="Physical Therapy" type="CLINICAL_DEPT"/>
+<EVENT end="2145" id="E50" modality="FACTUAL" polarity="POS" start="2128" text="his first session" type="TREATMENT"/>
+<EVENT end="2169" id="E51" modality="FACTUAL" polarity="POS" start="2161" text="ambulate" type="OCCURRENCE"/>
+<EVENT end="2209" id="E52" modality="FACTUAL" polarity="POS" start="2183" text="climb one flight of stairs" type="OCCURRENCE"/>
+<EVENT end="2248" id="E53" modality="FACTUAL" polarity="POS" start="2226" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="2277" id="E54" modality="FACTUAL" polarity="NEG" start="2267" text="any oxygen" type="TREATMENT"/>
+<EVENT end="2369" id="E55" modality="FACTUAL" polarity="POS" start="2347" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="2410" id="E56" modality="FACTUAL" polarity="NEG" start="2372" text="The patient 's epicardial pacing wires" type="TREATMENT"/>
+<EVENT end="2423" id="E57" modality="FACTUAL" polarity="POS" start="2416" text="removed" type="OCCURRENCE"/>
+<EVENT end="2440" id="E58" modality="FACTUAL" polarity="NEG" start="2432" text="incident" type="PROBLEM"/>
+<EVENT end="2490" id="E59" modality="FACTUAL" polarity="POS" start="2473" text="discharge to home" type="OCCURRENCE"/>
+<EVENT end="261" id="E3" modality="FACTUAL" polarity="POS" start="253" text="The test" type="TEST"/>
+<EVENT end="290" id="E31" modality="FACTUAL" polarity="POS" start="279" text="EKG changes" type="PROBLEM"/>
+<EVENT end="38" id="E29" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="314" id="E32" modality="FACTUAL" polarity="POS" start="295" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="358" id="E4" modality="FACTUAL" polarity="NEG" start="347" text="chest pain;" type="PROBLEM"/>
+<EVENT end="394" id="E5" modality="FACTUAL" polarity="NEG" start="373" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="450" id="E27" modality="FACTUAL" polarity="POS" start="425" text="Cambridge Health Alliance" type="CLINICAL_DEPT"/>
+<EVENT end="478" id="E6" modality="FACTUAL" polarity="POS" start="455" text="cardiac catheterization" type="TEST"/>
+<EVENT end="504" id="E7" modality="FACTUAL" polarity="POS" start="481" text="Cardiac catheterization" type="TEST"/>
+<EVENT end="511" id="E28" modality="FACTUAL" polarity="POS" start="505" text="showed" type="EVIDENTIAL"/>
+<EVENT end="532" id="E8" modality="FACTUAL" polarity="POS" start="512" text="an ejection fraction" type="TEST"/>
+<EVENT end="581" id="E9" modality="FACTUAL" polarity="POS" start="542" text="left ventricular end diastolic pressure" type="TEST"/>
+<EVENT end="625" id="E33" modality="FACTUAL" polarity="POS" start="590" text="90% left anterior descending lesion" type="PROBLEM"/>
+<EVENT end="654" id="E34" modality="FACTUAL" polarity="POS" start="628" text="80% left circumflex lesion" type="PROBLEM"/>
+<EVENT end="693" id="E35" modality="FACTUAL" polarity="POS" start="657" text="80% mid right coronary artery lesion" type="PROBLEM"/>
+<EVENT end="737" id="E36" modality="FACTUAL" polarity="POS" start="698" text="80% distal right coronary artery lesion" type="PROBLEM"/>
+<EVENT end="812" id="E37" modality="FACTUAL" polarity="POS" start="781" text="coronary artery bypass grafting" type="TREATMENT"/>
+<EVENT end="857" id="E38" modality="FACTUAL" polarity="POS" start="849" text="admitted" type="OCCURRENCE"/>
+<EVENT end="883" id="E39" modality="FACTUAL" polarity="POS" start="861" text="Saint Vincent Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="942" id="E10" modality="FACTUAL" polarity="POS" start="912" text="a coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="1015" id="E11" modality="FACTUAL" polarity="POS" start="959" text="left internal mammary artery to left anterior descending" type="TREATMENT"/>
+<RTIMEX3 end="1345" id="T1" mod="NA" start="1333" text="the next day" type="DATE" val="2017-04-27"/>
+<RTIMEX3 end="1406" id="T6" mod="END" start="1377" text="his first postoperative night" type="DATE" val="2017-04-27"/>
+
+<RTIMEX3 end="1570" id="T2" mod="NA" start="1549" text="postoperative day two" type="DATE" val="2017-04-28"/>
+<RTIMEX3 end="1777" id="T8" mod="NA" start="1747" text="postoperative day number three" type="DATE" val="2017-04-29"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2017-04-26" type="DATE" val="2017-04-26"/>
+<RTIMEX3 end="1846" id="T9" mod="NA" start="1823" text="postoperative day three" type="DATE" val="2017-04-29"/>
+<RTIMEX3 end="1980" id="T10" mod="NA" start="1951" text="postoperative day number four" type="DATE" val="2017-04-30"/>
+<RTIMEX3 end="2312" id="T11" mod="NA" start="2283" text="postoperative day number five" type="DATE" val="2017-05-01"/>
+<ATIMEX3 end="56" id="T3" mod="NA" start="46" text="2017-05-01" type="DATE" val="2017-05-01"/>
+<ATIMEX3 end="897" id="T4" mod="NA" start="887" text="2017-04-26" type="DATE" val="2017-04-26"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2017-04-26" end="28" id="S0" start="18" text="2017-04-26" type="ADMISSION"/>
+<SECTIME dvalue="2017-05-01" end="56" id="S1" start="46" text="2017-05-01" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,245 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+01/03/1997
+Discharge Date :
+01/07/1997
+Discharge Date :
+01/07/1997
+HISTORY OF PRESENT ILLNESS :
+The patient is a 59 year old gentleman who experienced a flash burn from grease while working on a stove on the night prior to admission .
+The patient at that time treated himself symptomatically at home but presented to Roing Hospital on the day after the event and was transferred to the Nimaconwood Valley Hospital immediately for evaluation because of his extensive burns .
+The patient was walking , talking , and was breathing without difficulty on arrival .
+PAST SURGICAL HISTORY :
+No significant history .
+HOSPITAL COURSE :
+The patient was taken from the emergency room and transferred to the Surgical Intensive Care Unit for airway observation .
+He was given three liters of IV hydration with good urine output response .
+His wounds were dressed with antiointment and Xeroform with the plan to take him to the operating room for debridement under general anesthesia and application of artificial skin .
+The patient remained hemodynamically stable with good urine output .
+While in the Intensive Care Unit the patient was put on delirium tremons prophylaxis with Serax around the clock .
+There was no evidence while in the hospital .
+The patient was taken to the operating room on 1/5/97 .
+At that time the patient underwent debridement of his facial wounds and debridement of his right hand and forearm with application of artificial skin which is the dermagraft TC .
+The patient tolerated the procedure well .
+There were no complications .
+Postoperatively the patient was transferred out of the Intensive Care Unit to the burn floor where he received dressing changes p.r.n.
+The patient remained afebrile and other vital signs were within normal limits .
+On the day of discharge the patient &apos;s dressing was taken down completely and evaluation of the derma graft was made .
+At that time it appeared well adhered to the underlying skin .
+There was no evidence of infection .
+The patient was screened by the rehabilitation facility and felt to be an acceptable candidate .
+The patient and his family agreed to transfer from Nimaconwood Valley Hospital to Ianehutche Medical Center .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1068" id="E53" modality="FACTUAL" polarity="POS" start="1046" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1091" id="E52" modality="FACTUAL" polarity="POS" start="1074" text="good urine output" type="OCCURRENCE"/>
+<EVENT end="1126" id="E54" modality="FACTUAL" polarity="POS" start="1103" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1178" id="E10" modality="FACTUAL" polarity="POS" start="1150" text="delirium tremons prophylaxis" type="TREATMENT"/>
+<EVENT end="1189" id="E11" modality="FACTUAL" polarity="POS" start="1184" text="Serax" type="TREATMENT"/>
+<EVENT end="1230" id="E56" modality="FACTUAL" polarity="NEG" start="1222" text="evidence" type="PROBLEM"/>
+<EVENT end="1252" id="E55" modality="FACTUAL" polarity="POS" start="1240" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1298" id="E57" modality="FACTUAL" polarity="POS" start="1280" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1357" id="E12" modality="FACTUAL" polarity="POS" start="1346" text="debridement" type="TREATMENT"/>
+<EVENT end="1378" id="E13" modality="FACTUAL" polarity="POS" start="1361" text="his facial wounds" type="PROBLEM"/>
+<EVENT end="1424" id="E14" modality="FACTUAL" polarity="POS" start="1383" text="debridement of his right hand and forearm" type="TREATMENT"/>
+<EVENT end="1460" id="E15" modality="FACTUAL" polarity="POS" start="1430" text="application of artificial skin" type="TREATMENT"/>
+<EVENT end="1487" id="E73" modality="FACTUAL" polarity="POS" start="1470" text="the dermagraft TC" type="TREATMENT"/>
+<EVENT end="1511" id="E58" modality="FACTUAL" polarity="POS" start="1502" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1525" id="E17" modality="FACTUAL" polarity="POS" start="1512" text="the procedure" type="TREATMENT"/>
+<EVENT end="1530" id="E59" modality="FACTUAL" polarity="POS" start="1526" text="well" type="OCCURRENCE"/>
+<EVENT end="1560" id="E18" modality="FACTUAL" polarity="NEG" start="1547" text="complications" type="PROBLEM"/>
+<EVENT end="1606" id="E30" modality="FACTUAL" polarity="POS" start="1595" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1637" id="E60" modality="FACTUAL" polarity="POS" start="1614" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1655" id="E61" modality="FACTUAL" polarity="POS" start="1641" text="the burn floor" type="CLINICAL_DEPT"/>
+<EVENT end="1690" id="E19" modality="FACTUAL" polarity="POS" start="1674" text="dressing changes" type="TREATMENT"/>
+<EVENT end="181" id="E1" modality="FACTUAL" polarity="POS" start="169" text="a flash burn" type="PROBLEM"/>
+<EVENT end="1727" id="E20" modality="FACTUAL" polarity="POS" start="1719" text="afebrile" type="PROBLEM"/>
+<EVENT end="1749" id="E21" modality="FACTUAL" polarity="POS" start="1732" text="other vital signs" type="TEST"/>
+<EVENT end="1801" id="E33" modality="FACTUAL" polarity="POS" start="1792" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1830" id="E62" modality="FACTUAL" polarity="POS" start="1802" text="the patient 's dressing" type="TREATMENT"/>
+<EVENT end="1871" id="E63" modality="FACTUAL" polarity="POS" start="1861" text="evaluation" type="TEST"/>
+<EVENT end="1890" id="E64" modality="FACTUAL" polarity="POS" start="1875" text="the derma graft" type="TREATMENT"/>
+<EVENT end="1917" id="E65" modality="FACTUAL" polarity="POS" start="1915" text="it" type="TREATMENT"/>
+<EVENT end="1939" id="E66" modality="FACTUAL" polarity="POS" start="1927" text="well adhered" type="OCCURRENCE"/>
+<EVENT end="1999" id="E67" modality="FACTUAL" polarity="NEG" start="1990" text="infection" type="PROBLEM"/>
+<EVENT end="2026" id="E68" modality="FACTUAL" polarity="POS" start="2018" text="screened" type="TEST"/>
+<EVENT end="2144" id="E70" modality="FACTUAL" polarity="POS" start="2136" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2177" id="E71" modality="FACTUAL" polarity="POS" start="2150" text="Nimaconwood Valley Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2206" id="E72" modality="FACTUAL" polarity="POS" start="2181" text="Ianehutche Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="250" id="E34" modality="FACTUAL" polarity="POS" start="241" text="admission" type="OCCURRENCE"/>
+<EVENT end="285" id="E24" modality="FACTUAL" polarity="POS" start="278" text="treated" type="TREATMENT"/>
+<EVENT end="38" id="E22" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="331" id="E35" modality="FACTUAL" polarity="POS" start="322" text="presented" type="OCCURRENCE"/>
+<EVENT end="349" id="E36" modality="FACTUAL" polarity="POS" start="335" text="Roing Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="376" id="E37" modality="FACTUAL" polarity="POS" start="367" text="the event" type="PROBLEM"/>
+<EVENT end="396" id="E38" modality="FACTUAL" polarity="POS" start="385" text="transferred" type="OCCURRENCE"/>
+<EVENT end="431" id="E39" modality="FACTUAL" polarity="POS" start="400" text="the Nimaconwood Valley Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="458" id="E40" modality="FACTUAL" polarity="POS" start="448" text="evaluation" type="TEST"/>
+<EVENT end="489" id="E41" modality="FACTUAL" polarity="POS" start="470" text="his extensive burns" type="PROBLEM"/>
+<EVENT end="515" id="E42" modality="FACTUAL" polarity="POS" start="508" text="walking" type="OCCURRENCE"/>
+<EVENT end="525" id="E43" modality="FACTUAL" polarity="POS" start="518" text="talking" type="OCCURRENCE"/>
+<EVENT end="545" id="E44" modality="FACTUAL" polarity="NEG" start="536" text="breathing" type="OCCURRENCE"/>
+<EVENT end="564" id="E45" modality="FACTUAL" polarity="NEG" start="554" text="difficulty" type="PROBLEM"/>
+<EVENT end="575" id="E46" modality="FACTUAL" polarity="POS" start="568" text="arrival" type="OCCURRENCE"/>
+<EVENT end="66" id="E23" modality="FACTUAL" polarity="POS" start="57" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="690" id="E47" modality="FACTUAL" polarity="POS" start="672" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="706" id="E25" modality="FACTUAL" polarity="POS" start="695" text="transferred" type="OCCURRENCE"/>
+<EVENT end="742" id="E48" modality="FACTUAL" polarity="POS" start="710" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="765" id="E2" modality="FACTUAL" polarity="POS" start="747" text="airway observation" type="TEST"/>
+<EVENT end="809" id="E3" modality="FACTUAL" polarity="POS" start="797" text="IV hydration" type="TREATMENT"/>
+<EVENT end="841" id="E49" modality="FACTUAL" polarity="POS" start="815" text="good urine output response" type="OCCURRENCE"/>
+<EVENT end="854" id="E4" modality="FACTUAL" polarity="POS" start="844" text="His wounds" type="PROBLEM"/>
+<EVENT end="885" id="E5" modality="FACTUAL" polarity="POS" start="873" text="antiointment" type="TREATMENT"/>
+<EVENT end="898" id="E6" modality="FACTUAL" polarity="POS" start="890" text="Xeroform" type="TREATMENT"/>
+<EVENT end="946" id="E50" modality="FACTUAL" polarity="POS" start="928" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="962" id="E7" modality="FACTUAL" polarity="POS" start="951" text="debridement" type="TREATMENT"/>
+<EVENT end="987" id="E8" modality="FACTUAL" polarity="POS" start="969" text="general anesthesia" type="TREATMENT"/>
+<EVENT end="1022" id="E9" modality="FACTUAL" polarity="POS" start="992" text="application of artificial skin" type="TREATMENT"/>
+<ATIMEX3 end="1308" id="T4" mod="NA" start="1302" text="1/5/97" type="DATE" val="1997-01-05"/>
+
+<RTIMEX3 end="1788" id="T6" mod="NA" start="1781" text="the day" type="DATE" val="1997-01-07"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="01/03/1997" type="DATE" val="1997-01-03"/>
+<RTIMEX3 end="231" id="T0" mod="END" start="222" text="the night" type="DATE" val="1997-01-02"/>
+<RTIMEX3 end="360" id="T5" mod="NA" start="353" text="the day" type="DATE" val="1997-01-03"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="01/07/1997" type="DATE" val="1997-01-07"/>
+<ATIMEX3 end="84" id="T3" mod="NA" start="74" text="01/07/1997" type="DATE" val="1997-01-07"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1997-01-03" end="28" id="S0" start="18" text="01/03/1997" type="ADMISSION"/>
+<SECTIME dvalue="1997-01-07" end="56" id="S1" start="46" text="01/07/1997" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

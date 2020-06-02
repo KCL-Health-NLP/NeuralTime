@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-12-04
+Discharge Date :
+2018-12-12
+Service :
+OBSTETRICS/GYNECOLOGY
+History of Present Illness :
+34 yo G3P3 with pelvic organ prolapse after her second delivery; after her third delivery it became much worse .
+She feels like_ everything is falling out. 
+She urinates frequently , but occasionally the urine is very slow to start .
+She is unable to run without losing urine .
+The prolapse is especailly large and uncomfotable when she tries to move her bowels and it is easier for her to do sowhile standing rather than sitting .
+She has deep pain in intercourse .
+Brief Hospital Course :
+The patient was taken to the operating room on 2018-12-04 for TVH , sacrospinous fixation , SPARC , anterior and posterior repair with mesh , cystoscopy; for pelvic organ prolapse .
+There were no intraoperative complications and the surgical field was hemostatic at the conclusion of the case ( see operative report for full description ) .
+The patient tolerated the procedure well and was stable in the PACU and admitted to the CMED CCU floor for routine care .
+At 1645 12-04 , the patient was noted to be hypotensive to 70/40
+HR 84 with symptoms of lightheadedness while lying supine .
+There was no active bleeding noted at the surgical site on examination .
+A STAT HCT drawn at this time was 31.2 .
+The patient was re-evalutated at 2000 and was found to be tacchycardic to 115 with BP 104/50 using a manual cuff .
+Urine output during the prior two hours had been 50cc and 24cc .
+A STAT HCT drawn at this time was 19.5 .
+The clinical picture was concerning for a post-operative hematoma .
+The ICU was alerted to the patient 's disposition and the operating room was activated for urgent re-exploration .
+The patient was taken to the OR on POD#0 for re-exploration with incision at 2243 .
+Exploratory laparotomy revealed hemoperitonium and approximately 1 L of blood was evacuated .
+There was approximately 500cc of retroperitoneal clot .
+Despite laparotomy and re-exploration through the vaginal cuff , no source for the bleeding could be found .
+At the conclusion of the case , the patient continued to bleed , allbeit at a less brisk pace .
+The endotracheal tube was left in place .
+Intraoperatively , the patient recieved 5u PRBC .
+IR was consulted to identify the bleeding vessel with angiography , then perform embolization .
+Tagged cell and angiographic studies performed immediately after re-exploration on 12-05 did not indetify active bleeding and no emobolization was indicated .
+THe patient was stable and remained intubated .
+The patient was admitted to the ICU for further care .
+The patient 's ICU course was uneventful .
+There was no evidence of continued bleeding and her HCT remained stable around 30 .
+The pt self-extubated on POD #1 .
+The patient developed a low grade fever to 100.1 on POD#1 which persisted to POD#2 and imperic treatment with gent/clinda was started .
+The patient was stable for transfer to the CMED floor on POD#3 .
+Antibiotics were discontinued on POD#8 and pt remained afebrile thereafter .
+On POD#9 , the patient was afebrile , tolerating a regular diet , ambultating without difficulty and voiding spontaneously .
+She was discharged home with follow-up in two weeks .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1750" end="1755" text="POD#0" type="DATE" relative="TRUE" val="2018-12-04" mod="NA" />
+<RTIMEX3 id="T9" start="2756" end="2762" text="POD #1" type="DATE" relative="TRUE" val="2018-12-05" mod="NA" />
+<RTIMEX3 id="T10" start="2817" end="2822" text="POD#1" type="DATE" relative="TRUE" val="2018-12-05" mod="NA" />
+<RTIMEX3 id="T11" start="2842" end="2847" text="POD#2" type="DATE" relative="TRUE" val="2018-12-06" mod="NA" />
+<RTIMEX3 id="T12" start="2958" end="2963" text="POD#3" type="DATE" relative="TRUE" val="2018-12-07" mod="NA" />
+<RTIMEX3 id="T13" start="2999" end="3004" text="POD#8" type="DATE" relative="TRUE" val="2018-12-11" mod="NA" />
+<RTIMEX3 id="T14" start="3046" end="3051" text="POD#9" type="DATE" relative="TRUE" val="2018-12-12" mod="NA" />
+<ATIMEX3 id="T3" start="1075" end="1085" text="1645 12-04" type="TIME" val="2018-12-04T16:45" mod="NA" />
+<ATIMEX3 id="T4" start="1344" end="1348" text="2000" type="TIME" val="2018-12-04T20:00" mod="NA" />
+<ATIMEX3 id="T7" start="1792" end="1796" text="2243" type="DATE" val="2018-12-04T22:43" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="2018-12-04" type="DATE" val="2018-12-04" mod="NA" />
+<ATIMEX3 id="T8" start="2425" end="2430" text="12-05" type="DATE" val="2018-12-05" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="2018-12-12" type="DATE" val="2018-12-12" mod="NA" />
+<ATIMEX3 id="T2" start="656" end="666" text="2018-12-04" type="DATE" val="2018-12-04" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2018-12-04" type="ADMISSION" dvalue="2018-12-04" />
+<SECTIME id="S1" start="46" end="56" text="2018-12-12" type="DISCHARGE" dvalue="2018-12-12" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="POD#0" toID="S0" toText="2018-12-04" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T9" fromText="POD #1" toID="S0" toText="2018-12-04" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T10" fromText="POD#1" toID="S0" toText="2018-12-04" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T11" fromText="POD#2" toID="S0" toText="2018-12-04" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T12" fromText="POD#3" toID="S0" toText="2018-12-04" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T13" fromText="POD#8" toID="S0" toText="2018-12-04" relation="AFTER" />
+<ANCHORLINK id="AN6" fromID="T14" fromText="POD#9" toID="S0" toText="2018-12-04" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

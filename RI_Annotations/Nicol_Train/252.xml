@@ -1,0 +1,585 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2015-05-13
+Discharge Date :
+2015-05-20
+Service :
+CME
+HISTORY OF PRESENT ILLNESS :
+This is a 104 year old female patient with a history of chronic obstructive pulmonary disease , coronary artery disease , hypertension and cerebrovascular accident who presents with shortness of breath and cough .
+The patient states that she has no idea why she was brought to the Emergency Department and denies any symptoms .
+She reports an occasional nonproductive cough that she has had_ for years _and feels that she has been experiencing alternating chills and feeling hot .
+A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and cough for one day with chills but no fever .
+She has been recently evaluated as an outpatient for bradycardia .
+She was seen by her cardiologist , Dr. Clements and had a Holter monitor on 2015-05-01 , that showed first degree AV block with a rate that ranged between 35 to 53 beats per minute .
+In the Emergency Department , the patient was given nebulizer treatment , started on antibiotics for presumed chronic obstructive pulmonary disease exacerbation .
+She was noted to have lateral ST depressions and given Aspirin .
+She continues to deny chest pain , palpitations , shortness of breath , fevers , nausea , vomiting , abdominal pain , bright red blood per rectum , melena , dysuria , urinary frequency and urgency .
+HOSPITAL COURSE :
+Shortness of breath - Though the patient denied shortness of breath on admission , a progress note from
+Norwood nursing facility suggested that the patient had been having shortness of breath and cough for approximately one day with difficulty ambulating , needing to travel in a wheelchair .
+The patient was afebrile on admission with a normal white blood cell count but had significant wheezing and rales on physical examination with a possible left lower lobe opacity seen on chest x-ray .
+The etiology of the patient 's shortness of breath was considered a likely chronic obstructive pulmonary disease exacerbation and the patient was started on Albuterol and Atrovent nebulizers .
+The patient was also started on Doxycycline given the concern for pneumonia on chest x-ray .
+She was also continued on steroids given evidence of severe airway obstruction .
+The patient 's shortness of breath was also considered possibly related to a coronary event and she was admitted for rule out myocardial infarction .
+The patient 's enzymes were cycled and were negative .
+The patient 's electrocardiogram performed on hospital day number two was concerning for 2:1 heart block and the cardiology consult service was contacted for evaluation .
+The patient was taken to the Coronary Care Unit late on hospital day number two and received a temporary wire .
+The following day the patient received a permanent dual chamber rate responsive pacemaker .
+The patient was transferred back to the general medicine service where she continued to exhibit signs of chronic obstructive pulmonary disease exacerbation and nebulizers , steroids and antibiotics were continued .
+The patient 's respiratory status improved throughout the remainder of her hospitalization and oxygen was eventually weaned .
+Once the patient was transferred out of the Coronary Care Unit , she appeared to have an element of heart failure in addition to her chronic obstructive pulmonary disease .
+She was given 20 mg of intravenous Lasix with impressive urine output and improvement in her overall fluid status .
+The patient was eventually restarted on her outpatient dose of Lasix once her renal function improved to baseline and remained hemodynamically stable throughout the remainder of her hospitalization .
+Heart block - As noted previously , the patient 's electrocardiogram was significant for a 2:1 heart block and cardiology consult service was contacted for evaluation .
+The patient received a temporary pacing wire on the evening of hospital day number two and on hospital day number three received a dual chamber pacemaker .
+Renal - The patient was admitted with a creatinine of 1.8 , considered likely secondary to hypovolemia .
+Her calculated fractional excretion of sodium was 0.13 percent suggesting a prerenal cause .
+The patient 's creatinine improved to 1.1 with hydration .
+Once the patient 's creatinine had improved to baseline , her Lasix and ace inhibitor were restarted and the patient 's creatinine was noted to be stable .
+Gastrointestinal - The patient was admitted with a history of gastrointestinal bleed with guaiac positive stools on admission .
+Her hematocrit was noted to trend down after transfusion of one unit of packed red blood cells on admission .
+Given guaiac positive stools and her history of gastrointestinal bleed in addition to use of steroids for chronic obstructive pulmonary disease exacerbation , the gastroenterology consult service was contacted .
+The results of that consultation and potential esophagogastroduodenoscopy are pending at the time of dictation .
+Hypertension - The patient had moderate control of her blood pressure throughout her admission .
+Her calcium channel blocker and ace inhibitor were continued .
+Hematology - As noted previously , the patient 's hematocrit was noted to drop after transfusion with one unit of packed red blood cells on admission .
+Given guaiac positive stools and the patient 's history of gastrointestinal bleed , gastroenterology consult service was contacted for possible esophagogastroduodenoscopy and/or colonoscopy .
+The results of this consultation are pending at the time of dictation .
+The remainder of the Hubbard Regional Hospital hospital course , discharge diagnoses , medications and follow-up will be dictated at the time of discharge .
+Justin Q. Yagi , M.D. 12AKK
+Dictated By:Miriam H Hines , M.D.
+MEDQUIST36
+D :
+2015-05-18 11:24:17
+T :
+2015-05-18 14:58:16
+Job# :
+21080
+Signed electronically by :
+DR. Jose M. Rosales on :
+MON 2015-07-27 9:58 AM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1036" id="E99" modality="FACTUAL" polarity="POS" start="1012" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="1080" id="E100" modality="FACTUAL" polarity="POS" start="1061" text="nebulizer treatment" type="TREATMENT"/>
+<EVENT end="1105" id="E101" modality="FACTUAL" polarity="POS" start="1094" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1169" id="E102" modality="POSSIBLE" polarity="POS" start="1119" text="chronic obstructive pulmonary disease exacerbation" type="PROBLEM"/>
+<EVENT end="1216" id="E103" modality="FACTUAL" polarity="POS" start="1194" text="lateral ST depressions" type="PROBLEM"/>
+<EVENT end="1234" id="E104" modality="FACTUAL" polarity="POS" start="1227" text="Aspirin" type="TREATMENT"/>
+<EVENT end="1258" id="E105" modality="FACTUAL" polarity="POS" start="1254" text="deny" type="EVIDENTIAL"/>
+<EVENT end="1269" id="E106" modality="FACTUAL" polarity="NEG" start="1259" text="chest pain" type="PROBLEM"/>
+<EVENT end="1284" id="E107" modality="FACTUAL" polarity="NEG" start="1272" text="palpitations" type="PROBLEM"/>
+<EVENT end="1306" id="E108" modality="FACTUAL" polarity="NEG" start="1287" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="1315" id="E109" modality="FACTUAL" polarity="NEG" start="1309" text="fevers" type="PROBLEM"/>
+<EVENT end="1324" id="E110" modality="FACTUAL" polarity="NEG" start="1318" text="nausea" type="PROBLEM"/>
+<EVENT end="1335" id="E111" modality="FACTUAL" polarity="NEG" start="1327" text="vomiting" type="PROBLEM"/>
+<EVENT end="1352" id="E112" modality="FACTUAL" polarity="NEG" start="1338" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1382" id="E113" modality="FACTUAL" polarity="NEG" start="1355" text="bright red blood per rectum" type="PROBLEM"/>
+<EVENT end="1391" id="E114" modality="FACTUAL" polarity="NEG" start="1385" text="melena" type="PROBLEM"/>
+<EVENT end="1401" id="E115" modality="FACTUAL" polarity="NEG" start="1394" text="dysuria" type="PROBLEM"/>
+<EVENT end="1433" id="E116" modality="FACTUAL" polarity="NEG" start="1404" text="urinary frequency and urgency" type="PROBLEM"/>
+<EVENT end="1473" id="E5" modality="FACTUAL" polarity="POS" start="1454" text="Shortness of breath" type="PROBLEM"/>
+<EVENT end="1501" id="E117" modality="FACTUAL" polarity="POS" start="1495" text="denied" type="EVIDENTIAL"/>
+<EVENT end="1521" id="E6" modality="FACTUAL" polarity="NEG" start="1502" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="1534" id="E65" modality="FACTUAL" polarity="POS" start="1525" text="admission" type="OCCURRENCE"/>
+<EVENT end="193" id="E77" modality="FACTUAL" polarity="POS" start="156" text="chronic obstructive pulmonary disease" type="PROBLEM"/>
+<EVENT end="1582" id="E118" modality="FACTUAL" polarity="POS" start="1558" text="Norwood nursing facility" type="CLINICAL_DEPT"/>
+<EVENT end="1645" id="E119" modality="FACTUAL" polarity="POS" start="1626" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="1655" id="E120" modality="FACTUAL" polarity="POS" start="1650" text="cough" type="PROBLEM"/>
+<EVENT end="1708" id="E121" modality="FACTUAL" polarity="POS" start="1687" text="difficulty ambulating" type="PROBLEM"/>
+<EVENT end="1744" id="E122" modality="FACTUAL" polarity="POS" start="1732" text="a wheelchair" type="TREATMENT"/>
+<EVENT end="1771" id="E7" modality="FACTUAL" polarity="POS" start="1763" text="afebrile" type="PROBLEM"/>
+<EVENT end="1784" id="E66" modality="FACTUAL" polarity="POS" start="1775" text="admission" type="OCCURRENCE"/>
+<EVENT end="1821" id="E123" modality="FACTUAL" polarity="POS" start="1790" text="a normal white blood cell count" type="OCCURRENCE"/>
+<EVENT end="1850" id="E8" modality="FACTUAL" polarity="POS" start="1830" text="significant wheezing" type="PROBLEM"/>
+<EVENT end="1860" id="E9" modality="FACTUAL" polarity="POS" start="1855" text="rales" type="PROBLEM"/>
+<EVENT end="1884" id="E10" modality="FACTUAL" polarity="POS" start="1864" text="physical examination" type="TEST"/>
+<EVENT end="1924" id="E124" modality="POSSIBLE" polarity="POS" start="1901" text="left lower lobe opacity" type="PROBLEM"/>
+<EVENT end="1944" id="E11" modality="FACTUAL" polarity="POS" start="1933" text="chest x-ray" type="TEST"/>
+<EVENT end="219" id="E78" modality="FACTUAL" polarity="POS" start="196" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1997" id="E12" modality="FACTUAL" polarity="POS" start="1963" text="the patient 's shortness of breath" type="PROBLEM"/>
+<EVENT end="2072" id="E13" modality="POSSIBLE" polarity="POS" start="2022" text="chronic obstructive pulmonary disease exacerbation" type="PROBLEM"/>
+<EVENT end="2113" id="E14" modality="FACTUAL" polarity="POS" start="2104" text="Albuterol" type="TREATMENT"/>
+<EVENT end="2137" id="E15" modality="FACTUAL" polarity="POS" start="2118" text="Atrovent nebulizers" type="TREATMENT"/>
+<EVENT end="2183" id="E16" modality="FACTUAL" polarity="POS" start="2172" text="Doxycycline" type="TREATMENT"/>
+<EVENT end="2215" id="E125" modality="POSSIBLE" polarity="POS" start="2206" text="pneumonia" type="PROBLEM"/>
+<EVENT end="234" id="E79" modality="FACTUAL" polarity="POS" start="222" text="hypertension" type="PROBLEM"/>
+<EVENT end="2230" id="E17" modality="FACTUAL" polarity="POS" start="2219" text="chest x-ray" type="TEST"/>
+<EVENT end="2267" id="E18" modality="FACTUAL" polarity="POS" start="2259" text="steroids" type="TREATMENT"/>
+<EVENT end="2311" id="E19" modality="FACTUAL" polarity="POS" start="2286" text="severe airway obstruction" type="PROBLEM"/>
+<EVENT end="2348" id="E20" modality="FACTUAL" polarity="POS" start="2314" text="The patient 's shortness of breath" type="PROBLEM"/>
+<EVENT end="263" id="E1" modality="FACTUAL" polarity="POS" start="239" text="cerebrovascular accident" type="PROBLEM"/>
+<EVENT end="2405" id="E21" modality="POSSIBLE" polarity="POS" start="2389" text="a coronary event" type="PROBLEM"/>
+<EVENT end="2426" id="E67" modality="FACTUAL" polarity="POS" start="2418" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2461" id="E126" modality="POSSIBLE" polarity="POS" start="2440" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="2486" id="E22" modality="FACTUAL" polarity="POS" start="2464" text="The patient 's enzymes" type="TEST"/>
+<EVENT end="2551" id="E23" modality="FACTUAL" polarity="POS" start="2519" text="The patient 's electrocardiogram" type="TEST"/>
+<EVENT end="2623" id="E127" modality="POSSIBLE" polarity="POS" start="2608" text="2:1 heart block" type="PROBLEM"/>
+<EVENT end="2687" id="E24" modality="FACTUAL" polarity="POS" start="2677" text="evaluation" type="TEST"/>
+<EVENT end="276" id="E80" modality="FACTUAL" polarity="POS" start="268" text="presents" type="EVIDENTIAL"/>
+<EVENT end="2737" id="E128" modality="FACTUAL" polarity="POS" start="2715" text="the Coronary Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2799" id="E25" modality="FACTUAL" polarity="POS" start="2783" text="a temporary wire" type="TREATMENT"/>
+<EVENT end="301" id="E81" modality="FACTUAL" polarity="POS" start="282" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="2891" id="E129" modality="FACTUAL" polarity="POS" start="2841" text="a permanent dual chamber rate responsive pacemaker" type="TREATMENT"/>
+<EVENT end="38" id="E76" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2921" id="E130" modality="FACTUAL" polarity="POS" start="2910" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2958" id="E131" modality="FACTUAL" polarity="POS" start="2930" text="the general medicine service" type="CLINICAL_DEPT"/>
+<EVENT end="3049" id="E132" modality="FACTUAL" polarity="POS" start="2999" text="chronic obstructive pulmonary disease exacerbation" type="PROBLEM"/>
+<EVENT end="311" id="E82" modality="FACTUAL" polarity="POS" start="306" text="cough" type="PROBLEM"/>
+<EVENT end="3064" id="E26" modality="FACTUAL" polarity="POS" start="3054" text="nebulizers" type="TREATMENT"/>
+<EVENT end="3075" id="E27" modality="FACTUAL" polarity="POS" start="3067" text="steroids" type="TREATMENT"/>
+<EVENT end="3091" id="E28" modality="FACTUAL" polarity="POS" start="3080" text="antibiotics" type="TREATMENT"/>
+<EVENT end="3151" id="E133" modality="FACTUAL" polarity="POS" start="3109" text="The patient 's respiratory status improved" type="OCCURRENCE"/>
+<EVENT end="3199" id="E134" modality="FACTUAL" polarity="POS" start="3180" text="her hospitalization" type="OCCURRENCE"/>
+<EVENT end="3210" id="E135" modality="FACTUAL" polarity="POS" start="3204" text="oxygen" type="TREATMENT"/>
+<EVENT end="3232" id="E136" modality="FACTUAL" polarity="POS" start="3226" text="weaned" type="TREATMENT"/>
+<EVENT end="3267" id="E137" modality="FACTUAL" polarity="POS" start="3256" text="transferred" type="OCCURRENCE"/>
+<EVENT end="332" id="E83" modality="FACTUAL" polarity="POS" start="326" text="states" type="EVIDENTIAL"/>
+<EVENT end="3297" id="E138" modality="FACTUAL" polarity="POS" start="3275" text="the Coronary Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3348" id="E139" modality="FACTUAL" polarity="POS" start="3321" text="an element of heart failure" type="PROBLEM"/>
+<EVENT end="3405" id="E140" modality="FACTUAL" polarity="POS" start="3364" text="her chronic obstructive pulmonary disease" type="PROBLEM"/>
+<EVENT end="3448" id="E29" modality="FACTUAL" polarity="POS" start="3431" text="intravenous Lasix" type="TREATMENT"/>
+<EVENT end="373" id="E84" modality="FACTUAL" polarity="POS" start="346" text="no idea why she was brought" type="OCCURRENCE"/>
+<EVENT end="3477" id="E141" modality="FACTUAL" polarity="POS" start="3465" text="urine output" type="OCCURRENCE"/>
+<EVENT end="3493" id="E68" modality="FACTUAL" polarity="POS" start="3482" text="improvement" type="OCCURRENCE"/>
+<EVENT end="3521" id="E30" modality="FACTUAL" polarity="POS" start="3497" text="her overall fluid status" type="TEST"/>
+<EVENT end="3592" id="E31" modality="FACTUAL" polarity="POS" start="3587" text="Lasix" type="TREATMENT"/>
+<EVENT end="3616" id="E32" modality="FACTUAL" polarity="POS" start="3598" text="her renal function" type="TEST"/>
+<EVENT end="3637" id="E142" modality="FACTUAL" polarity="POS" start="3617" text="improved to baseline" type="OCCURRENCE"/>
+<EVENT end="3673" id="E143" modality="FACTUAL" polarity="POS" start="3651" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="3721" id="E33" modality="FACTUAL" polarity="POS" start="3702" text="her hospitalization" type="TREATMENT"/>
+<EVENT end="3735" id="E34" modality="FACTUAL" polarity="POS" start="3724" text="Heart block" type="PROBLEM"/>
+<EVENT end="3792" id="E35" modality="FACTUAL" polarity="POS" start="3760" text="the patient 's electrocardiogram" type="TEST"/>
+<EVENT end="401" id="E85" modality="FACTUAL" polarity="POS" start="377" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="3830" id="E144" modality="FACTUAL" polarity="POS" start="3813" text="a 2:1 heart block" type="PROBLEM"/>
+<EVENT end="3890" id="E36" modality="FACTUAL" polarity="POS" start="3880" text="evaluation" type="TEST"/>
+<EVENT end="3937" id="E37" modality="FACTUAL" polarity="POS" start="3914" text="a temporary pacing wire" type="TREATMENT"/>
+<EVENT end="4046" id="E145" modality="FACTUAL" polarity="POS" start="4022" text="a dual chamber pacemaker" type="TREATMENT"/>
+<EVENT end="412" id="E86" modality="FACTUAL" polarity="POS" start="406" text="denies" type="EVIDENTIAL"/>
+<EVENT end="4081" id="E69" modality="FACTUAL" polarity="POS" start="4073" text="admitted" type="OCCURRENCE"/>
+<EVENT end="4099" id="E38" modality="FACTUAL" polarity="POS" start="4087" text="a creatinine" type="TEST"/>
+<EVENT end="425" id="E87" modality="FACTUAL" polarity="NEG" start="413" text="any symptoms" type="PROBLEM"/>
+<EVENT end="4151" id="E39" modality="POSSIBLE" polarity="POS" start="4140" text="hypovolemia" type="PROBLEM"/>
+<EVENT end="4199" id="E40" modality="FACTUAL" polarity="POS" start="4154" text="Her calculated fractional excretion of sodium" type="TEST"/>
+<EVENT end="4244" id="E41" modality="POSSIBLE" polarity="POS" start="4228" text="a prerenal cause" type="PROBLEM"/>
+<EVENT end="4272" id="E146" modality="FACTUAL" polarity="POS" start="4247" text="The patient 's creatinine" type="TEST"/>
+<EVENT end="4281" id="E70" modality="FACTUAL" polarity="POS" start="4273" text="improved" type="OCCURRENCE"/>
+<EVENT end="4303" id="E42" modality="FACTUAL" polarity="POS" start="4294" text="hydration" type="TREATMENT"/>
+<EVENT end="4336" id="E46" modality="FACTUAL" polarity="POS" start="4311" text="the patient 's creatinine" type="TEST"/>
+<EVENT end="439" id="E88" modality="FACTUAL" polarity="POS" start="432" text="reports" type="EVIDENTIAL"/>
+<EVENT end="4361" id="E147" modality="FACTUAL" polarity="POS" start="4341" text="improved to baseline" type="OCCURRENCE"/>
+<EVENT end="4373" id="E44" modality="FACTUAL" polarity="POS" start="4364" text="her Lasix" type="TREATMENT"/>
+<EVENT end="4391" id="E45" modality="FACTUAL" polarity="POS" start="4378" text="ace inhibitor" type="TREATMENT"/>
+<EVENT end="473" id="E89" modality="FACTUAL" polarity="POS" start="440" text="an occasional nonproductive cough" type="PROBLEM"/>
+<EVENT end="4436" id="E148" modality="FACTUAL" polarity="POS" start="4411" text="the patient 's creatinine" type="TEST"/>
+<EVENT end="4459" id="E71" modality="FACTUAL" polarity="POS" start="4453" text="stable" type="OCCURRENCE"/>
+<EVENT end="4505" id="E72" modality="FACTUAL" polarity="POS" start="4497" text="admitted" type="OCCURRENCE"/>
+<EVENT end="4546" id="E47" modality="FACTUAL" polarity="POS" start="4524" text="gastrointestinal bleed" type="PROBLEM"/>
+<EVENT end="4574" id="E48" modality="FACTUAL" polarity="POS" start="4552" text="guaiac positive stools" type="PROBLEM"/>
+<EVENT end="4587" id="E73" modality="FACTUAL" polarity="POS" start="4578" text="admission" type="OCCURRENCE"/>
+<EVENT end="4604" id="E49" modality="FACTUAL" polarity="POS" start="4590" text="Her hematocrit" type="TEST"/>
+<EVENT end="4628" id="E149" modality="FACTUAL" polarity="POS" start="4618" text="trend down" type="PROBLEM"/>
+<EVENT end="4646" id="E50" modality="FACTUAL" polarity="POS" start="4635" text="transfusion" type="TREATMENT"/>
+<EVENT end="4684" id="E51" modality="FACTUAL" polarity="POS" start="4662" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="4697" id="E74" modality="FACTUAL" polarity="POS" start="4688" text="admission" type="OCCURRENCE"/>
+<EVENT end="4728" id="E52" modality="FACTUAL" polarity="POS" start="4706" text="guaiac positive stools" type="PROBLEM"/>
+<EVENT end="4770" id="E53" modality="FACTUAL" polarity="POS" start="4748" text="gastrointestinal bleed" type="PROBLEM"/>
+<EVENT end="4801" id="E54" modality="FACTUAL" polarity="POS" start="4793" text="steroids" type="TREATMENT"/>
+<EVENT end="4856" id="E55" modality="FACTUAL" polarity="POS" start="4806" text="chronic obstructive pulmonary disease exacerbation" type="PROBLEM"/>
+<EVENT end="4909" id="E150" modality="FACTUAL" polarity="POS" start="4900" text="contacted" type="OCCURRENCE"/>
+<EVENT end="4944" id="E151" modality="FACTUAL" polarity="POS" start="4932" text="consultation" type="OCCURRENCE"/>
+<EVENT end="4985" id="E152" modality="PROPOSED" polarity="POS" start="4959" text="esophagogastroduodenoscopy" type="TEST"/>
+<EVENT end="5037" id="E56" modality="FACTUAL" polarity="POS" start="5025" text="Hypertension" type="PROBLEM"/>
+<EVENT end="5072" id="E153" modality="FACTUAL" polarity="POS" start="5056" text="moderate control" type="OCCURRENCE"/>
+<EVENT end="512" id="E90" modality="FACTUAL" polarity="POS" start="507" text="feels" type="EVIDENTIAL"/>
+<EVENT end="5094" id="E57" modality="FACTUAL" polarity="POS" start="5076" text="her blood pressure" type="TEST"/>
+<EVENT end="5119" id="E154" modality="FACTUAL" polarity="POS" start="5106" text="her admission" type="OCCURRENCE"/>
+<EVENT end="5149" id="E58" modality="FACTUAL" polarity="POS" start="5122" text="Her calcium channel blocker" type="TREATMENT"/>
+<EVENT end="5167" id="E59" modality="FACTUAL" polarity="POS" start="5154" text="ace inhibitor" type="TREATMENT"/>
+<EVENT end="5245" id="E60" modality="FACTUAL" polarity="POS" start="5220" text="the patient 's hematocrit" type="TEST"/>
+<EVENT end="5263" id="E155" modality="FACTUAL" polarity="POS" start="5259" text="drop" type="PROBLEM"/>
+<EVENT end="5281" id="E61" modality="FACTUAL" polarity="POS" start="5270" text="transfusion" type="TREATMENT"/>
+<EVENT end="5321" id="E62" modality="FACTUAL" polarity="POS" start="5299" text="packed red blood cells" type="TREATMENT"/>
+<EVENT end="5334" id="E75" modality="FACTUAL" polarity="POS" start="5325" text="admission" type="OCCURRENCE"/>
+<EVENT end="5365" id="E63" modality="FACTUAL" polarity="POS" start="5343" text="guaiac positive stools" type="PROBLEM"/>
+<EVENT end="5418" id="E64" modality="FACTUAL" polarity="POS" start="5396" text="gastrointestinal bleed" type="PROBLEM"/>
+<EVENT end="578" id="E91" modality="FACTUAL" polarity="POS" start="544" text="alternating chills and feeling hot" type="PROBLEM"/>
+<EVENT end="5467" id="E156" modality="FACTUAL" polarity="POS" start="5458" text="contacted" type="OCCURRENCE"/>
+<EVENT end="5507" id="E157" modality="PROPOSED" polarity="POS" start="5481" text="esophagogastroduodenoscopy" type="TEST"/>
+<EVENT end="5526" id="E158" modality="PROPOSED" polarity="POS" start="5515" text="colonoscopy" type="TEST"/>
+<EVENT end="5561" id="E159" modality="FACTUAL" polarity="POS" start="5544" text="this consultation" type="OCCURRENCE"/>
+<EVENT end="5663" id="E161" modality="FACTUAL" polarity="POS" start="5648" text="hospital course" type="OCCURRENCE"/>
+<EVENT end="5647" id="E162" modality="FACTUAL" polarity="POS" start="5618" text="the Hubbard Regional Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="5685" id="E164" modality="FACTUAL" polarity="POS" start="5666" text="discharge diagnoses" type="OCCURRENCE"/>
+<EVENT end="5699" id="E165" modality="FACTUAL" polarity="POS" start="5688" text="medications" type="TREATMENT"/>
+<EVENT end="5713" id="E166" modality="FACTUAL" polarity="POS" start="5704" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="5755" id="E167" modality="FACTUAL" polarity="POS" start="5746" text="discharge" type="OCCURRENCE"/>
+<EVENT end="654" id="E168" modality="FACTUAL" polarity="POS" start="626" text="her assisted living facility" type="CLINICAL_DEPT"/>
+<EVENT end="709" id="E92" modality="FACTUAL" polarity="POS" start="690" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="719" id="E93" modality="FACTUAL" polarity="POS" start="714" text="cough" type="PROBLEM"/>
+<EVENT end="743" id="E94" modality="FACTUAL" polarity="POS" start="737" text="chills" type="PROBLEM"/>
+<EVENT end="756" id="E2" modality="FACTUAL" polarity="NEG" start="751" text="fever" type="PROBLEM"/>
+<EVENT end="790" id="E95" modality="FACTUAL" polarity="POS" start="781" text="evaluated" type="TEST"/>
+<EVENT end="823" id="E96" modality="FACTUAL" polarity="POS" start="812" text="bradycardia" type="PROBLEM"/>
+<EVENT end="898" id="E3" modality="FACTUAL" polarity="POS" start="882" text="a Holter monitor" type="TEST"/>
+<EVENT end="926" id="E97" modality="FACTUAL" polarity="POS" start="920" text="showed" type="EVIDENTIAL"/>
+<EVENT end="948" id="E98" modality="FACTUAL" polarity="POS" start="927" text="first degree AV block" type="PROBLEM"/>
+<EVENT end="960" id="E4" modality="FACTUAL" polarity="POS" start="954" text="a rate" type="TEST"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2015-05-13" type="DATE" val="2015-05-13"/>
+<RTIMEX3 end="2588" id="T8" mod="NA" start="2565" text="hospital day number two" type="DATE" val="2015-05-14"/>
+<RTIMEX3 end="2769" id="T9" mod="END" start="2746" text="hospital day number two" type="DATE" val="2015-05-14"/>
+<RTIMEX3 end="2819" id="T2" mod="NA" start="2802" text="The following day" type="DATE" val="2015-05-15"/>
+<RTIMEX3 end="3979" id="T10" mod="END" start="3956" text="hospital day number two" type="DATE" val="2015-05-14"/>
+<RTIMEX3 end="4012" id="T3" mod="NA" start="3987" text="hospital day number three" type="DATE" val="2015-05-15"/>
+<ATIMEX3 end="56" id="T4" mod="NA" start="46" text="2015-05-20" type="DATE" val="2015-05-20"/>
+
+
+<ATIMEX3 end="912" id="T1" mod="NA" start="902" text="2015-05-01" type="DATE" val="2015-05-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2015-05-13" end="28" id="S0" start="18" text="2015-05-13" type="ADMISSION"/>
+<SECTIME dvalue="2015-05-20" end="56" id="S1" start="46" text="2015-05-20" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

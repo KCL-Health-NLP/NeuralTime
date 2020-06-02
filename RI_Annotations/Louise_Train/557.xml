@@ -1,0 +1,201 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-09-06
+Discharge Date :
+2013-09-18
+Service :
+NEUROLOGIC MEDICINE
+HISTORY OF PRESENT ILLNESS :
+This is an 86 year old woman who has a history of atrial fibrillation , peripheral vascular disease , and a history of atrial emboli who was admitted on 2013-09-06 , to the Neurologic Intensive Care Unit service after collapsing at home at 8:30 p.m .
+She was found to have right sided weakness and was noted by her husband to have vomited .
+She was found comatose at home by EMS and was brought to the Emergency Department .
+On arrival to the Emergency Department , she was noted to have a temperature of 98.2 , blood pressure 164/110 , respiratory rate 28 , and heart rate of 74 .
+She was found to be responsive only to painful stimuli at this time .
+She was intubated for airway protection and received multiple medications prior to her initial neurologic examination .
+She was also noted to have a cold distal left upper extremity which was operated on and she is now status post left brachial artery embolectomy .
+Throughout her course on the Intensive Care Unit service , she has remained unresponsive with imaging studies consistent with a large left middle cerebral artery and posterior cerebral artery distribution cerebral infarction with mass effect and midline shift .
+There is evidence of bilateral occipital and cerebellar infarctions as well .
+Discussion with the patient 's family by the Intensive Care Unit service has resulted in focusing on her comfort care .
+This decision was made after an extensive discussion with her husband and family as the likelihood of significant meaningful recovery is extremely low .
+Based on this , she is transferred to the Neurology service for focus on comfort care .
+HOSPITAL COURSE :
+The patient 's course up to the date of transfer to Neurology has been outlined above .
+Briefly , she is an 86 year old woman who has suffered multiple cardioembolic cerebral infarctions in multiple arterial territories .
+She has remained unresponsive throughout the hospitalization and currently only withdraws to pain .
+After extensive discussion with her family , her care was focused on comfort .
+A low dose Morphine drip was initiated after further serious discussion with her husband and nieces and nephews .
+The patient passed away peacefully on 2013-09-18 .
+The family did not want postmortem examination .
+Michael P Galuszka , M.D.
+46-348
+Dictated By : Melissa U Sangi , M.D.
+MEDQUIST36
+D : 2013-11-11 18:47
+T : 2013-11-11 19:46
+JOB #:
+93375
+Signed electronically by : DR. Ryann W. U. Galuszka on : TUE 2013-11-19 12:45 PM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1082" id="E27" modality="FACTUAL" polarity="POS" start="1059" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1122" id="E28" modality="FACTUAL" polarity="POS" start="1110" text="unresponsive" type="PROBLEM"/>
+<EVENT end="1143" id="E29" modality="FACTUAL" polarity="POS" start="1128" text="imaging studies" type="TEST"/>
+<EVENT end="1258" id="E30" modality="FACTUAL" polarity="POS" start="1200" text="posterior cerebral artery distribution cerebral infarction" type="PROBLEM"/>
+<EVENT end="1275" id="E31" modality="FACTUAL" polarity="POS" start="1264" text="mass effect" type="PROBLEM"/>
+<EVENT end="1293" id="E32" modality="FACTUAL" polarity="POS" start="1280" text="midline shift" type="PROBLEM"/>
+<EVENT end="1363" id="E33" modality="FACTUAL" polarity="POS" start="1317" text="bilateral occipital and cerebellar infarctions" type="PROBLEM"/>
+<EVENT end="1438" id="E34" modality="FACTUAL" polarity="POS" start="1415" text="the Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1491" id="E35" modality="FACTUAL" polarity="POS" start="1475" text="her comfort care" type="TREATMENT"/>
+<EVENT end="185" id="E2" modality="FACTUAL" polarity="POS" start="166" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1681" id="E36" modality="FACTUAL" polarity="POS" start="1670" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1698" id="E37" modality="FACTUAL" polarity="POS" start="1685" text="the Neurology" type="CLINICAL_DEPT"/>
+<EVENT end="1732" id="E38" modality="FACTUAL" polarity="POS" start="1720" text="comfort care" type="TREATMENT"/>
+<EVENT end="1801" id="E39" modality="FACTUAL" polarity="POS" start="1793" text="transfer" type="OCCURRENCE"/>
+<EVENT end="1814" id="E40" modality="FACTUAL" polarity="POS" start="1805" text="Neurology" type="CLINICAL_DEPT"/>
+<EVENT end="215" id="E3" modality="FACTUAL" polarity="POS" start="188" text="peripheral vascular disease" type="PROBLEM"/>
+<EVENT end="1972" id="E41" modality="FACTUAL" polarity="POS" start="1896" text="multiple cardioembolic cerebral infarctions in multiple arterial territories" type="PROBLEM"/>
+<EVENT end="2004" id="E42" modality="FACTUAL" polarity="POS" start="1992" text="unresponsive" type="PROBLEM"/>
+<EVENT end="2035" id="E43" modality="FACTUAL" polarity="POS" start="2016" text="the hospitalization" type="OCCURRENCE"/>
+<EVENT end="2072" id="E44" modality="FACTUAL" polarity="POS" start="2068" text="pain" type="PROBLEM"/>
+<EVENT end="2151" id="E45" modality="FACTUAL" polarity="POS" start="2144" text="comfort" type="TREATMENT"/>
+<EVENT end="2178" id="E46" modality="FACTUAL" polarity="POS" start="2154" text="A low dose Morphine drip" type="TREATMENT"/>
+<EVENT end="2291" id="E47" modality="FACTUAL" polarity="POS" start="2280" text="passed away" type="OCCURRENCE"/>
+<EVENT end="248" id="E4" modality="FACTUAL" polarity="POS" start="235" text="atrial emboli" type="PROBLEM"/>
+<EVENT end="2365" id="E48" modality="FACTUAL" polarity="POS" start="2343" text="postmortem examination" type="TEST"/>
+<EVENT end="265" id="E5" modality="FACTUAL" polarity="POS" start="257" text="admitted" type="OCCURRENCE"/>
+<EVENT end="319" id="E6" modality="FACTUAL" polarity="POS" start="285" text="the Neurologic Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="344" id="E7" modality="FACTUAL" polarity="POS" start="334" text="collapsing" type="OCCURRENCE"/>
+<EVENT end="409" id="E8" modality="FACTUAL" polarity="POS" start="389" text="right sided weakness" type="PROBLEM"/>
+<EVENT end="454" id="E9" modality="FACTUAL" polarity="POS" start="447" text="vomited" type="PROBLEM"/>
+<EVENT end="479" id="E10" modality="FACTUAL" polarity="POS" start="471" text="comatose" type="PROBLEM"/>
+<EVENT end="494" id="E11" modality="FACTUAL" polarity="POS" start="491" text="EMS" type="CLINICAL_DEPT"/>
+<EVENT end="538" id="E12" modality="FACTUAL" polarity="POS" start="514" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="551" id="E13" modality="FACTUAL" polarity="POS" start="544" text="arrival" type="OCCURRENCE"/>
+<EVENT end="579" id="E14" modality="FACTUAL" polarity="POS" start="555" text="the Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="617" id="E15" modality="FACTUAL" polarity="POS" start="604" text="a temperature" type="TEST"/>
+<EVENT end="642" id="E16" modality="FACTUAL" polarity="POS" start="628" text="blood pressure" type="TEST"/>
+<EVENT end="669" id="E17" modality="FACTUAL" polarity="POS" start="653" text="respiratory rate" type="TEST"/>
+<EVENT end="689" id="E18" modality="FACTUAL" polarity="POS" start="679" text="heart rate" type="TEST"/>
+<EVENT end="752" id="E19" modality="FACTUAL" polarity="POS" start="718" text="responsive only to painful stimuli" type="PROBLEM"/>
+<EVENT end="785" id="E20" modality="FACTUAL" polarity="POS" start="776" text="intubated" type="TREATMENT"/>
+<EVENT end="807" id="E21" modality="FACTUAL" polarity="POS" start="790" text="airway protection" type="TREATMENT"/>
+<EVENT end="841" id="E22" modality="FACTUAL" polarity="POS" start="821" text="multiple medications" type="TREATMENT"/>
+<EVENT end="885" id="E23" modality="FACTUAL" polarity="POS" start="851" text="her initial neurologic examination" type="TEST"/>
+<EVENT end="949" id="E24" modality="FACTUAL" polarity="POS" start="915" text="a cold distal left upper extremity" type="PROBLEM"/>
+<EVENT end="968" id="E25" modality="FACTUAL" polarity="POS" start="960" text="operated" type="TREATMENT"/>
+<EVENT end="1031" id="E26" modality="FACTUAL" polarity="POS" start="999" text="left brachial artery embolectomy" type="TREATMENT"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2013-09-06" type="DATE" val="2013-09-06"/>
+<ATIMEX3 end="2316" id="T5" mod="NA" start="2306" text="2013-09-18" type="DATE" val="2013-09-18"/>
+<ATIMEX3 end="279" id="T2" mod="NA" start="269" text="2013-09-06" type="DATE" val="2013-09-06"/>
+<ATIMEX3 end="364" id="T3" mod="NA" start="356" text="8:30 p.m" type="TIME" val="2013-09-06T20:30"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2013-09-18" type="DATE" val="2013-09-18"/>
+<RTIMEX3 end="765" id="T4" mod="NA" start="756" text="this time" type="DATE" val="2013-09-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-09-06" end="28" id="S0" start="18" text="2013-09-06" type="ADMISSION"/>
+<SECTIME dvalue="2013-09-18" end="56" id="S1" start="46" text="2013-09-18" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

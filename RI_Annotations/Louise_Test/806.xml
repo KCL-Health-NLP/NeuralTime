@@ -1,0 +1,118 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+20041012
+DISCHARGE DATE :
+20041015
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+OTHER POSTPARTUM THERAPIES :
+Antimicrobial Therapy
+HISTORY AND REASON FOR HOSPITALIZATION :
+Srom In Labor
+HOSPITAL COURSE ( include complications if any ) :
+This 21 year old Gravida 2 Para 0010 was admitted to the Life Valley Medical Center Obstetrical service on 10/12/2004 at 08:41 am for the indication ( s ) :
+srom in labor .
+She delivered a 3680 gram male infant on 10/12/2004 at 10:17 pm with apgar scores of 9 and 9 at one and five minutes respectively at 40.0 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+srom .
+During her delivery she encountered the following complication ( s ) :
+none .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 10/15/2004 at 01:52 pm in good condition .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="181" id="E10" modality="FACTUAL" polarity="POS" start="160" text="Antimicrobial Therapy" type="TREATMENT"/>
+<EVENT end="227" id="E12" modality="FACTUAL" polarity="POS" start="223" text="Srom" type="PROBLEM"/>
+<EVENT end="236" id="E11" modality="FACTUAL" polarity="POS" start="231" text="Labor" type="PROBLEM"/>
+<EVENT end="36" id="E9" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="337" id="E8" modality="FACTUAL" polarity="POS" start="329" text="admitted" type="OCCURRENCE"/>
+<EVENT end="391" id="E13" modality="FACTUAL" polarity="POS" start="341" text="the Life Valley Medical Center Obstetrical service" type="OCCURRENCE"/>
+<EVENT end="449" id="E1" modality="FACTUAL" polarity="POS" start="445" text="srom" type="PROBLEM"/>
+<EVENT end="458" id="E2" modality="FACTUAL" polarity="POS" start="453" text="labor" type="PROBLEM"/>
+<EVENT end="474" id="E14" modality="FACTUAL" polarity="POS" start="465" text="delivered" type="OCCURRENCE"/>
+<EVENT end="542" id="E3" modality="FACTUAL" polarity="POS" start="530" text="apgar scores" type="TEST"/>
+<EVENT end="614" id="E15" modality="FACTUAL" polarity="POS" start="605" text="gestation" type="OCCURRENCE"/>
+<EVENT end="654" id="E4" modality="FACTUAL" polarity="POS" start="619" text="spontaneous vertex vaginal delivery" type="OCCURRENCE"/>
+<EVENT end="673" id="E5" modality="FACTUAL" polarity="POS" start="664" text="her labor" type="PROBLEM"/>
+<EVENT end="716" id="E16" modality="FACTUAL" polarity="POS" start="704" text="complication" type="PROBLEM"/>
+<EVENT end="729" id="E6" modality="FACTUAL" polarity="POS" start="725" text="srom" type="PROBLEM"/>
+<EVENT end="751" id="E7" modality="FACTUAL" polarity="POS" start="739" text="her delivery" type="TREATMENT"/>
+<EVENT end="794" id="E24" modality="FACTUAL" polarity="POS" start="782" text="complication" type="PROBLEM"/>
+<EVENT end="809" id="E18" modality="FACTUAL" polarity="NEG" start="803" text="none ." type="PROBLEM"/>
+<EVENT end="820" id="E19" modality="FACTUAL" polarity="POS" start="810" text="Postpartum" type="OCCURRENCE"/>
+<EVENT end="863" id="E20" modality="FACTUAL" polarity="POS" start="851" text="complication" type="PROBLEM"/>
+<EVENT end="878" id="E21" modality="FACTUAL" polarity="NEG" start="872" text="none ." type="PROBLEM"/>
+<EVENT end="897" id="E22" modality="FACTUAL" polarity="POS" start="887" text="discharged" type="OCCURRENCE"/>
+<EVENT end="941" id="E23" modality="FACTUAL" polarity="POS" start="927" text="good condition" type="OCCURRENCE"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="20041012" type="DATE" val="2004-10-12"/>
+<ATIMEX3 end="417" id="T2" mod="NA" start="395" text="10/12/2004 at 08:41 am" type="TIME" val="2004-10-12T08:41"/>
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="20041015" type="DATE" val="2004-10-15"/>
+<ATIMEX3 end="524" id="T3" mod="NA" start="502" text="10/12/2004 at 10:17 pm" type="TIME" val="2004-10-12T22:17"/>
+
+
+
+<ATIMEX3 end="923" id="T7" mod="NA" start="901" text="10/15/2004 at 01:52 pm" type="TIME" val="2004-10-15T13:52"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2004-10-12" end="28" id="S0" start="18" text="20041012" type="ADMISSION"/>
+<SECTIME dvalue="2004-10-15" end="56" id="S1" start="46" text="20041015" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

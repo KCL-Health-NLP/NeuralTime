@@ -1,0 +1,201 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+10/14/2004
+Discharge Date :
+10/17/2004
+HISTORY OF PRESENT ILLNESS :
+This is a 56-year-old menopausal female G3 , P3 who presented initially for evaluation of a pelvic mass while recently vacationing in An Saintcafield Terland .
+She had a physical over there , and the evaluation included an ultrasound which showed an ovarian mass .
+She was seen in the emergency room here on 08/31/04 where they performed an abdominal CT that showed a 14 x 14 x 10 cm pelvic mass with multiple enlarged lymph nodes .
+The patient was thus sent to GYN for further workup and is now here for surgical management of pelvic mass .
+Her CA-125 is 9 .
+HOSPITAL COURSE :
+The patient was taken to the operating room on hospital day # 1 where she underwent an uncomplicated total abdominal hysterectomy , bilateral salpingo-oophorectomy , right lymph node dissection , appendectomy , omental biopsy , pelvic washings , and Pap of the diaphragm .
+An estimated blood loss was 100 cc .
+At the time of surgery , frozen section revealed benign mucinous cystadenoma .
+By postoperative day #3 , the patient was tolerating p.o.&apos; s , tolerating oral pain medications , ambulating , passing flatus , and having a bowel movement .
+She was voiding without difficulty .
+Her hematocrit preoperatively was 36 and postoperatively was 33 and then 32 .
+The patient did have some tachycardia postoperatively ; however , her hematocrit remained stable .
+She was asymptomatic , and her EKG was within normal limits .
+Her tachycardia improved .
+Throughout this time , she had normal vital signs with a normal O2 saturation .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1022" id="E29" modality="FACTUAL" polarity="POS" start="1014" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1050" id="E18" modality="FACTUAL" polarity="POS" start="1023" text="benign mucinous cystadenoma" type="PROBLEM"/>
+<EVENT end="1118" id="E44" modality="FACTUAL" polarity="POS" start="1095" text="tolerating p.o.' s" type="OCCURRENCE"/>
+<EVENT end="1153" id="E19" modality="FACTUAL" polarity="POS" start="1132" text="oral pain medications" type="TREATMENT"/>
+<EVENT end="1166" id="E45" modality="FACTUAL" polarity="POS" start="1156" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="1183" id="E46" modality="FACTUAL" polarity="POS" start="1169" text="passing flatus" type="OCCURRENCE"/>
+<EVENT end="1213" id="E47" modality="FACTUAL" polarity="POS" start="1190" text="having a bowel movement" type="OCCURRENCE"/>
+<EVENT end="1231" id="E48" modality="FACTUAL" polarity="POS" start="1224" text="voiding" type="OCCURRENCE"/>
+<EVENT end="1250" id="E49" modality="FACTUAL" polarity="NEG" start="1240" text="difficulty" type="PROBLEM"/>
+<EVENT end="1267" id="E20" modality="FACTUAL" polarity="POS" start="1253" text="Her hematocrit" type="TEST"/>
+<EVENT end="1267" id="E55" modality="FACTUAL" polarity="POS" start="1253" text="Her hematocrit" type="TEST"/>
+<EVENT end="133" id="E31" modality="FACTUAL" polarity="POS" start="126" text="G3 , P3" type="OCCURRENCE"/>
+<EVENT end="1384" id="E21" modality="FACTUAL" polarity="POS" start="1352" text="some tachycardia postoperatively" type="PROBLEM"/>
+<EVENT end="1368" id="E50" modality="FACTUAL" polarity="POS" start="1357" text="tachycardia" type="PROBLEM"/>
+<EVENT end="147" id="E33" modality="FACTUAL" polarity="POS" start="138" text="presented" type="EVIDENTIAL"/>
+<EVENT end="1411" id="E22" modality="FACTUAL" polarity="POS" start="1397" text="her hematocrit" type="TEST"/>
+<EVENT end="1427" id="E51" modality="FACTUAL" polarity="POS" start="1421" text="stable" type="OCCURRENCE"/>
+<EVENT end="1450" id="E23" modality="FACTUAL" polarity="POS" start="1438" text="asymptomatic" type="PROBLEM"/>
+<EVENT end="1464" id="E24" modality="FACTUAL" polarity="POS" start="1457" text="her EKG" type="TEST"/>
+<EVENT end="1507" id="E25" modality="FACTUAL" polarity="POS" start="1492" text="Her tachycardia" type="PROBLEM"/>
+<EVENT end="1516" id="E52" modality="FACTUAL" polarity="POS" start="1508" text="improved" type="OCCURRENCE"/>
+<EVENT end="1568" id="E53" modality="FACTUAL" polarity="POS" start="1550" text="normal vital signs" type="TEST"/>
+<EVENT end="1596" id="E54" modality="FACTUAL" polarity="POS" start="1574" text="a normal O2 saturation" type="TEST"/>
+<EVENT end="172" id="E1" modality="FACTUAL" polarity="POS" start="162" text="evaluation" type="TEST"/>
+<EVENT end="189" id="E34" modality="FACTUAL" polarity="POS" start="176" text="a pelvic mass" type="PROBLEM"/>
+<EVENT end="216" id="E35" modality="FACTUAL" polarity="POS" start="205" text="vacationing" type="OCCURRENCE"/>
+<EVENT end="264" id="E2" modality="FACTUAL" polarity="POS" start="254" text="a physical" type="TEST"/>
+<EVENT end="296" id="E3" modality="FACTUAL" polarity="POS" start="282" text="the evaluation" type="TEST"/>
+<EVENT end="38" id="E30" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="319" id="E4" modality="FACTUAL" polarity="POS" start="306" text="an ultrasound" type="TEST"/>
+<EVENT end="332" id="E26" modality="FACTUAL" polarity="POS" start="326" text="showed" type="EVIDENTIAL"/>
+<EVENT end="348" id="E36" modality="FACTUAL" polarity="POS" start="333" text="an ovarian mass" type="PROBLEM"/>
+<EVENT end="385" id="E37" modality="FACTUAL" polarity="POS" start="367" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="439" id="E5" modality="FACTUAL" polarity="POS" start="424" text="an abdominal CT" type="TEST"/>
+<EVENT end="451" id="E27" modality="FACTUAL" polarity="POS" start="445" text="showed" type="EVIDENTIAL"/>
+<EVENT end="481" id="E38" modality="FACTUAL" polarity="POS" start="452" text="a 14 x 14 x 10 cm pelvic mass" type="PROBLEM"/>
+<EVENT end="516" id="E39" modality="FACTUAL" polarity="POS" start="487" text="multiple enlarged lymph nodes" type="PROBLEM"/>
+<EVENT end="551" id="E40" modality="FACTUAL" polarity="POS" start="540" text="sent to GYN" type="OCCURRENCE"/>
+<EVENT end="570" id="E6" modality="FACTUAL" polarity="POS" start="556" text="further workup" type="TEST"/>
+<EVENT end="610" id="E41" modality="FACTUAL" polarity="POS" start="591" text="surgical management" type="TREATMENT"/>
+<EVENT end="625" id="E42" modality="FACTUAL" polarity="POS" start="614" text="pelvic mass" type="PROBLEM"/>
+<EVENT end="638" id="E7" modality="FACTUAL" polarity="POS" start="628" text="Her CA-125" type="TEST"/>
+<EVENT end="707" id="E43" modality="FACTUAL" polarity="POS" start="689" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="707" id="E28" modality="FACTUAL" polarity="POS" start="689" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="793" id="E8" modality="FACTUAL" polarity="POS" start="748" text="an uncomplicated total abdominal hysterectomy" type="TREATMENT"/>
+<EVENT end="827" id="E9" modality="FACTUAL" polarity="POS" start="796" text="bilateral salpingo-oophorectomy" type="TREATMENT"/>
+<EVENT end="857" id="E10" modality="FACTUAL" polarity="POS" start="830" text="right lymph node dissection" type="TREATMENT"/>
+<EVENT end="872" id="E11" modality="FACTUAL" polarity="POS" start="860" text="appendectomy" type="TREATMENT"/>
+<EVENT end="889" id="E12" modality="FACTUAL" polarity="POS" start="875" text="omental biopsy" type="TEST"/>
+<EVENT end="907" id="E13" modality="FACTUAL" polarity="POS" start="892" text="pelvic washings" type="TREATMENT"/>
+<EVENT end="934" id="E14" modality="FACTUAL" polarity="POS" start="914" text="Pap of the diaphragm" type="TREATMENT"/>
+<EVENT end="960" id="E15" modality="FACTUAL" polarity="POS" start="937" text="An estimated blood loss" type="PROBLEM"/>
+<EVENT end="996" id="E16" modality="FACTUAL" polarity="POS" start="989" text="surgery" type="TREATMENT"/>
+<EVENT end="1013" id="E17" modality="FACTUAL" polarity="POS" start="999" text="frozen section" type="TEST"/>
+<RTIMEX3 end="1076" id="T4" mod="NA" start="1056" text="postoperative day #3" type="DATE" val="2004-10-17"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="10/14/2004" type="DATE" val="2004-10-14"/>
+<ATIMEX3 end="402" id="T3" mod="NA" start="394" text="08/31/04" type="DATE" val="2004-08-31"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="10/17/2004" type="DATE" val="2004-10-17"/>
+<RTIMEX3 end="727" id="T1" mod="NA" start="711" text="hospital day # 1" type="DATE" val="2004-10-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2004-10-14" end="28" id="S0" start="18" text="10/14/2004" type="ADMISSION"/>
+<SECTIME dvalue="2004-10-17" end="56" id="S1" start="46" text="10/17/2004" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

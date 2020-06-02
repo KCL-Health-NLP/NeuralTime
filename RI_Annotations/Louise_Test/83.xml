@@ -1,0 +1,652 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2014-02-21
+Discharge Date :
+2014-03-25
+Service :
+SURGERY
+History of Present Illness :
+Ms Crossman is an 84 year old female with complaints of abdominal pain , diarrhea , nausea and vomiting x 1 week , who presented to an outside hospital .
+She was transferred to Arbour Hospital on 2015-02-21 for bowel obstruction , ischemia and worsening abdominal distention and pain .
+Brief Hospital Course :
+Ms Crossman was admitted on 2015-02-21 from an outside hospital to the ICU .
+Neuro : Developed confusion during her first 5 days in the ICU .
+Post-operatively mental status improved .
+Intermitent delirium throughout admission .
+Required restraints to prevent DC of pertinent therapies while in the ICU .
+Currently AAOx3 .
+Cardiovascular : Complained of chest pain during first few days of admission , a cardiology consult was obtained .
+She recieved serial enzymes and EKGs .
+Troponins remained mildly elevated as high as 0.6 throughout her admission , and most recent result now 0.1 .
+She was treated in IUC for unstable angina with nitroglycerin .
+It was recommended to maximize her medical treatment with Beta blockers , aspirin , a statin and an ACE Inhibitor .
+Required diuresis of > 9 L while in the ICU , after 2nd surgery .
+Continues to have trace lower extremity edema , and recieves lasix po .
+Respiratory : She was intubated briefly post-op subtotal colectomy and again for several days after second surgery .
+Recieved nebulizer treatments post-op in the ICU , after successfully extubated .
+Gastrointestinal : Her initial CT scan showed dilated Turner colon , wall thickening and pneumatosis see pertinent results .
+She was initially treated nonoperatively with IV fluids , antibiotics , serial exams and NGT decompression .
+On HD#5 flexible sigmoidoscopy was performed for colonic decompression .
+On HD#6 , colonscopy was performed for decompression , and revealed pseudomembrane and friable colonic tissue .
+Her abdomen remained tender and distended despite attempted decompression .
+She was taken to the OR for Subtotal Colectomy , G tube and ileostomy due to unresponsiveness to non-operative treatment .
+Ileostomy remains pink and intact , draining green-brown soft stool .
+Her post-operative course continued uneventfully in the ICU , and she was transferred to the floor POD#6 .
+She developed additional abdominal tenderness and distention .
+Her HCT dropped and she recieved 1 unit PRBCs .
+Geriatric consult was obtained to assist with management .
+On POD#8 a CT scan was obtained which revealed an abcess with a colovesicular fistula .
+She was taken to the OR for exploration and drainage .
+She recieved further resection of remaining colon , repair of a leak from Relaford pouch and repair of colovesicular fistula .
+After her 2nd surgery she returned to the ICU and improved steadily .
+Abdomen remained soft and nontender .
+She remained on IV antibiotics x 14 days and required pressors for the first few days post-op .
+Her incision has remained clean , dry , intact , with staples removed on POD# 27/18 .
+Genitourinary : She had a foley catheter from the time of admission .
+POD# 23/14 she recieved a cystoscopy which revealed no leak .
+Her foley was subsequently dc 'd .
+Musculoskeletal : Has suffered significant deconditioning since admission , but has consisitently recieved PT .
+See PT note for further assessment and discussion .
+Nutrition : She was held NPO at admission , and initiated on TPN by HD#3 .
+Post-operatively she began on TF s, and the TPN was weaned down .
+By POD# 05-29 she was having high residuals on TF s, so TPN was reinitiated .
+Tf 's were dc 'ed prior to second surgery .
+POD# 15/6 , she resumed TF 's and TPN was tapered again .
+TF goals were achieved and TPN dc 'ed.
+A diet by mouth was initiated .
+At time of discharge she is tolerating a regular diet with TF 's at goal .
+Patient is an insulin dependent diabetic .
+She was followed by Cape Cod Hospital Clinic for treatment of persistent hyperglycemia .
+Pain : Her pain was controlled with IV pain medicines while in ICU .
+She has been adequately controlled with Tylenol , Motrin & Oxycodone by mouth , per recommendations by Geriatrics .
+POD# 22/15 Ms Crossman was transferred to 3 North where she continued to progress well with PT , increasing PO intake , tolerating TF s, and weaning from nasal cannula oxygen .
+She has remained stable with no acute events .
+She is discharged to rehab on POD# 27/18 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1022" id="E133" modality="FACTUAL" polarity="POS" start="1019" text="IUC" type="CLINICAL_DEPT"/>
+<EVENT end="1042" id="E17" modality="FACTUAL" polarity="POS" start="1027" text="unstable angina" type="PROBLEM"/>
+<EVENT end="1061" id="E18" modality="FACTUAL" polarity="POS" start="1048" text="nitroglycerin" type="TREATMENT"/>
+<EVENT end="1116" id="E134" modality="FACTUAL" polarity="POS" start="1095" text="her medical treatment" type="TREATMENT"/>
+<EVENT end="1135" id="E19" modality="PROPOSED" polarity="POS" start="1122" text="Beta blockers" type="TREATMENT"/>
+<EVENT end="1145" id="E20" modality="PROPOSED" polarity="POS" start="1138" text="aspirin" type="TREATMENT"/>
+<EVENT end="1156" id="E21" modality="FACTUAL" polarity="POS" start="1148" text="a statin" type="TREATMENT"/>
+<EVENT end="1177" id="E22" modality="PROPOSED" polarity="POS" start="1161" text="an ACE Inhibitor" type="TREATMENT"/>
+<EVENT end="1197" id="E23" modality="FACTUAL" polarity="POS" start="1189" text="diuresis" type="TREATMENT"/>
+<EVENT end="1223" id="E135" modality="FACTUAL" polarity="POS" start="1216" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="1243" id="E24" modality="FACTUAL" polarity="POS" start="1232" text="2nd surgery" type="TREATMENT"/>
+<EVENT end="1291" id="E25" modality="FACTUAL" polarity="POS" start="1264" text="trace lower extremity edema" type="PROBLEM"/>
+<EVENT end="1315" id="E26" modality="FACTUAL" polarity="POS" start="1307" text="lasix po" type="TREATMENT"/>
+<EVENT end="1349" id="E27" modality="FACTUAL" polarity="POS" start="1340" text="intubated" type="TREATMENT"/>
+<EVENT end="1384" id="E28" modality="FACTUAL" polarity="POS" start="1366" text="subtotal colectomy" type="TREATMENT"/>
+<EVENT end="1432" id="E29" modality="FACTUAL" polarity="POS" start="1418" text="second surgery" type="TREATMENT"/>
+<EVENT end="1464" id="E30" modality="FACTUAL" polarity="POS" start="1444" text="nebulizer treatments" type="TREATMENT"/>
+<EVENT end="1483" id="E136" modality="FACTUAL" polarity="POS" start="1476" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="1514" id="E105" modality="FACTUAL" polarity="POS" start="1505" text="extubated" type="TREATMENT"/>
+<EVENT end="1555" id="E31" modality="FACTUAL" polarity="POS" start="1536" text="Her initial CT scan" type="TEST"/>
+<EVENT end="1562" id="E137" modality="FACTUAL" polarity="POS" start="1556" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1583" id="E32" modality="FACTUAL" polarity="POS" start="1563" text="dilated Turner colon" type="PROBLEM"/>
+<EVENT end="1601" id="E33" modality="FACTUAL" polarity="POS" start="1586" text="wall thickening" type="PROBLEM"/>
+<EVENT end="174" id="E1" modality="FACTUAL" polarity="POS" start="160" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1617" id="E34" modality="FACTUAL" polarity="POS" start="1606" text="pneumatosis" type="PROBLEM"/>
+<EVENT end="1697" id="E35" modality="FACTUAL" polarity="POS" start="1688" text="IV fluids" type="TREATMENT"/>
+<EVENT end="1711" id="E36" modality="FACTUAL" polarity="POS" start="1700" text="antibiotics" type="TREATMENT"/>
+<EVENT end="1726" id="E37" modality="FACTUAL" polarity="POS" start="1714" text="serial exams" type="TEST"/>
+<EVENT end="1748" id="E38" modality="FACTUAL" polarity="POS" start="1731" text="NGT decompression" type="TREATMENT"/>
+<EVENT end="1781" id="E39" modality="FACTUAL" polarity="POS" start="1759" text="flexible sigmoidoscopy" type="TEST"/>
+<EVENT end="185" id="E2" modality="FACTUAL" polarity="POS" start="177" text="diarrhea" type="PROBLEM"/>
+<EVENT end="1821" id="E40" modality="FACTUAL" polarity="POS" start="1800" text="colonic decompression" type="TREATMENT"/>
+<EVENT end="1844" id="E41" modality="FACTUAL" polarity="POS" start="1834" text="colonscopy" type="TEST"/>
+<EVENT end="1876" id="E42" modality="FACTUAL" polarity="POS" start="1863" text="decompression" type="TREATMENT"/>
+<EVENT end="194" id="E3" modality="FACTUAL" polarity="POS" start="188" text="nausea" type="PROBLEM"/>
+<EVENT end="1891" id="E138" modality="FACTUAL" polarity="POS" start="1883" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1906" id="E43" modality="FACTUAL" polarity="POS" start="1892" text="pseudomembrane" type="PROBLEM"/>
+<EVENT end="1933" id="E44" modality="FACTUAL" polarity="POS" start="1911" text="friable colonic tissue" type="PROBLEM"/>
+<EVENT end="1963" id="E45" modality="FACTUAL" polarity="POS" start="1957" text="tender" type="PROBLEM"/>
+<EVENT end="1977" id="E46" modality="FACTUAL" polarity="POS" start="1968" text="distended" type="PROBLEM"/>
+<EVENT end="207" id="E4" modality="FACTUAL" polarity="POS" start="199" text="vomiting" type="PROBLEM"/>
+<EVENT end="2009" id="E47" modality="FACTUAL" polarity="POS" start="1996" text="decompression" type="TREATMENT"/>
+<EVENT end="2058" id="E48" modality="FACTUAL" polarity="POS" start="2040" text="Subtotal Colectomy" type="TREATMENT"/>
+<EVENT end="2067" id="E49" modality="FACTUAL" polarity="POS" start="2061" text="G tube" type="TREATMENT"/>
+<EVENT end="2081" id="E50" modality="FACTUAL" polarity="POS" start="2072" text="ileostomy" type="TREATMENT"/>
+<EVENT end="2105" id="E51" modality="FACTUAL" polarity="POS" start="2089" text="unresponsiveness" type="PROBLEM"/>
+<EVENT end="2132" id="E52" modality="FACTUAL" polarity="POS" start="2109" text="non-operative treatment" type="TREATMENT"/>
+<EVENT end="2144" id="E53" modality="FACTUAL" polarity="POS" start="2135" text="Ileostomy" type="TREATMENT"/>
+<EVENT end="2168" id="E139" modality="FACTUAL" polarity="POS" start="2153" text="pink and intact" type="OCCURRENCE"/>
+<EVENT end="2202" id="E140" modality="FACTUAL" polarity="POS" start="2180" text="green-brown soft stool" type="OCCURRENCE"/>
+<EVENT end="2230" id="E141" modality="FACTUAL" polarity="POS" start="2205" text="Her post-operative course" type="OCCURRENCE"/>
+<EVENT end="232" id="E115" modality="FACTUAL" polarity="POS" start="223" text="presented" type="EVIDENTIAL"/>
+<EVENT end="2253" id="E142" modality="FACTUAL" polarity="POS" start="2241" text="uneventfully" type="OCCURRENCE"/>
+<EVENT end="2264" id="E143" modality="FACTUAL" polarity="POS" start="2257" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2290" id="E144" modality="FACTUAL" polarity="POS" start="2279" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2303" id="E145" modality="FACTUAL" polarity="POS" start="2294" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2357" id="E54" modality="FACTUAL" polarity="POS" start="2326" text="additional abdominal tenderness" type="PROBLEM"/>
+<EVENT end="255" id="E116" modality="FACTUAL" polarity="POS" start="236" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2372" id="E55" modality="FACTUAL" polarity="POS" start="2362" text="distention" type="PROBLEM"/>
+<EVENT end="2382" id="E56" modality="FACTUAL" polarity="POS" start="2375" text="Her HCT" type="TEST"/>
+<EVENT end="2390" id="E146" modality="FACTUAL" polarity="POS" start="2383" text="dropped" type="PROBLEM"/>
+<EVENT end="2420" id="E57" modality="FACTUAL" polarity="POS" start="2408" text="1 unit PRBCs" type="TREATMENT"/>
+<EVENT end="2500" id="E58" modality="FACTUAL" polarity="POS" start="2491" text="a CT scan" type="TEST"/>
+<EVENT end="2528" id="E148" modality="FACTUAL" polarity="POS" start="2520" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2538" id="E59" modality="FACTUAL" polarity="POS" start="2529" text="an abcess" type="PROBLEM"/>
+<EVENT end="2567" id="E60" modality="FACTUAL" polarity="POS" start="2544" text="a colovesicular fistula" type="PROBLEM"/>
+<EVENT end="2593" id="E149" modality="FACTUAL" polarity="POS" start="2587" text="the OR" type="CLINICAL_DEPT"/>
+<EVENT end="2609" id="E61" modality="FACTUAL" polarity="POS" start="2598" text="exploration" type="TEST"/>
+<EVENT end="2622" id="E62" modality="FACTUAL" polarity="POS" start="2614" text="drainage" type="TREATMENT"/>
+<EVENT end="2674" id="E63" modality="FACTUAL" polarity="POS" start="2638" text="further resection of remaining colon" type="TREATMENT"/>
+<EVENT end="277" id="E117" modality="FACTUAL" polarity="POS" start="266" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2683" id="E66" modality="FACTUAL" polarity="POS" start="2677" text="repair" type="TREATMENT"/>
+<EVENT end="2713" id="E65" modality="FACTUAL" polarity="POS" start="2687" text="a leak from Relaford pouch" type="PROBLEM"/>
+<EVENT end="2724" id="E16" modality="FACTUAL" polarity="POS" start="2718" text="repair" type="TREATMENT"/>
+<EVENT end="2749" id="E67" modality="FACTUAL" polarity="POS" start="2728" text="colovesicular fistula" type="PROBLEM"/>
+<EVENT end="2773" id="E68" modality="FACTUAL" polarity="POS" start="2758" text="her 2nd surgery" type="TREATMENT"/>
+<EVENT end="2797" id="E150" modality="FACTUAL" polarity="POS" start="2790" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2819" id="E151" modality="FACTUAL" polarity="POS" start="2802" text="improved steadily" type="OCCURRENCE"/>
+<EVENT end="296" id="E118" modality="FACTUAL" polarity="POS" start="281" text="Arbour Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2843" id="E152" modality="FACTUAL" polarity="POS" start="2839" text="soft" type="OCCURRENCE"/>
+<EVENT end="2857" id="E69" modality="FACTUAL" polarity="POS" start="2848" text="nontender" type="OCCURRENCE"/>
+<EVENT end="2890" id="E70" modality="FACTUAL" polarity="POS" start="2876" text="IV antibiotics" type="TREATMENT"/>
+<EVENT end="38" id="E114" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2922" id="E71" modality="FACTUAL" polarity="POS" start="2914" text="pressors" type="TREATMENT"/>
+<EVENT end="2968" id="E72" modality="FACTUAL" polarity="POS" start="2956" text="Her incision" type="PROBLEM"/>
+<EVENT end="3002" id="E153" modality="FACTUAL" polarity="POS" start="2982" text="clean , dry , intact" type="OCCURRENCE"/>
+<EVENT end="3017" id="E73" modality="FACTUAL" polarity="POS" start="3010" text="staples" type="TREATMENT"/>
+<EVENT end="3082" id="E74" modality="FACTUAL" polarity="POS" start="3066" text="a foley catheter" type="TREATMENT"/>
+<EVENT end="3109" id="E154" modality="FACTUAL" polarity="POS" start="3100" text="admission" type="OCCURRENCE"/>
+<EVENT end="3148" id="E75" modality="FACTUAL" polarity="POS" start="3136" text="a cystoscopy" type="TEST"/>
+<EVENT end="332" id="E5" modality="FACTUAL" polarity="POS" start="315" text="bowel obstruction" type="PROBLEM"/>
+<EVENT end="3163" id="E155" modality="FACTUAL" polarity="POS" start="3155" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3171" id="E76" modality="FACTUAL" polarity="NEG" start="3167" text="leak" type="PROBLEM"/>
+<EVENT end="3183" id="E77" modality="FACTUAL" polarity="POS" start="3174" text="Her foley" type="TREATMENT"/>
+<EVENT end="3206" id="E156" modality="FACTUAL" polarity="POS" start="3201" text="dc 'd" type="OCCURRENCE"/>
+<EVENT end="3266" id="E78" modality="FACTUAL" polarity="POS" start="3240" text="significant deconditioning" type="PROBLEM"/>
+<EVENT end="3282" id="E106" modality="FACTUAL" polarity="POS" start="3273" text="admission" type="OCCURRENCE"/>
+<EVENT end="3318" id="E79" modality="FACTUAL" polarity="POS" start="3316" text="PT" type="TREATMENT"/>
+<EVENT end="3355" id="E157" modality="FACTUAL" polarity="POS" start="3337" text="further assessment" type="TEST"/>
+<EVENT end="343" id="E6" modality="FACTUAL" polarity="POS" start="335" text="ischemia" type="PROBLEM"/>
+<EVENT end="3370" id="E158" modality="FACTUAL" polarity="POS" start="3360" text="discussion" type="OCCURRENCE"/>
+<EVENT end="3401" id="E80" modality="FACTUAL" polarity="POS" start="3398" text="NPO" type="TREATMENT"/>
+<EVENT end="3414" id="E107" modality="FACTUAL" polarity="POS" start="3405" text="admission" type="OCCURRENCE"/>
+<EVENT end="3437" id="E81" modality="FACTUAL" polarity="POS" start="3434" text="TPN" type="TREATMENT"/>
+<EVENT end="378" id="E7" modality="FACTUAL" polarity="POS" start="348" text="worsening abdominal distention" type="PROBLEM"/>
+<EVENT end="3480" id="E82" modality="FACTUAL" polarity="POS" start="3478" text="TF" type="TREATMENT"/>
+<EVENT end="3495" id="E83" modality="FACTUAL" polarity="POS" start="3488" text="the TPN" type="TREATMENT"/>
+<EVENT end="3511" id="E159" modality="FACTUAL" polarity="POS" start="3500" text="weaned down" type="OCCURRENCE"/>
+<EVENT end="3557" id="E84" modality="FACTUAL" polarity="POS" start="3543" text="high residuals" type="PROBLEM"/>
+<EVENT end="3563" id="E85" modality="FACTUAL" polarity="POS" start="3561" text="TF" type="TREATMENT"/>
+<EVENT end="3573" id="E86" modality="FACTUAL" polarity="POS" start="3570" text="TPN" type="TREATMENT"/>
+<EVENT end="3589" id="E160" modality="FACTUAL" polarity="POS" start="3578" text="reinitiated" type="OCCURRENCE"/>
+<EVENT end="3594" id="E87" modality="FACTUAL" polarity="POS" start="3592" text="Tf" type="TREATMENT"/>
+<EVENT end="3609" id="E108" modality="FACTUAL" polarity="POS" start="3603" text="dc 'ed" type="TREATMENT"/>
+<EVENT end="3633" id="E88" modality="FACTUAL" polarity="POS" start="3619" text="second surgery" type="TREATMENT"/>
+<EVENT end="3662" id="E89" modality="FACTUAL" polarity="POS" start="3660" text="TF" type="TREATMENT"/>
+<EVENT end="3673" id="E90" modality="FACTUAL" polarity="POS" start="3670" text="TPN" type="TREATMENT"/>
+<EVENT end="3685" id="E161" modality="FACTUAL" polarity="POS" start="3678" text="tapered" type="OCCURRENCE"/>
+<EVENT end="3702" id="E162" modality="FACTUAL" polarity="POS" start="3694" text="TF goals" type="OCCURRENCE"/>
+<EVENT end="3724" id="E91" modality="FACTUAL" polarity="POS" start="3721" text="TPN" type="TREATMENT"/>
+<EVENT end="3732" id="E163" modality="FACTUAL" polarity="POS" start="3725" text="dc 'ed." type="OCCURRENCE"/>
+<EVENT end="3748" id="E164" modality="FACTUAL" polarity="POS" start="3733" text="A diet by mouth" type="TREATMENT"/>
+<EVENT end="3762" id="E165" modality="FACTUAL" polarity="POS" start="3753" text="initiated" type="OCCURRENCE"/>
+<EVENT end="3785" id="E166" modality="FACTUAL" polarity="POS" start="3776" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3803" id="E167" modality="FACTUAL" polarity="POS" start="3793" text="tolerating" type="OCCURRENCE"/>
+<EVENT end="3818" id="E168" modality="FACTUAL" polarity="POS" start="3804" text="a regular diet" type="TREATMENT"/>
+<EVENT end="387" id="E8" modality="FACTUAL" polarity="POS" start="383" text="pain" type="PROBLEM"/>
+<EVENT end="3826" id="E92" modality="FACTUAL" polarity="POS" start="3824" text="TF" type="TREATMENT"/>
+<EVENT end="3880" id="E169" modality="FACTUAL" polarity="POS" start="3851" text="an insulin dependent diabetic" type="PROBLEM"/>
+<EVENT end="3927" id="E109" modality="FACTUAL" polarity="POS" start="3903" text="Cape Cod Hospital Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="3941" id="E93" modality="FACTUAL" polarity="POS" start="3932" text="treatment" type="TREATMENT"/>
+<EVENT end="3969" id="E94" modality="FACTUAL" polarity="POS" start="3945" text="persistent hyperglycemia" type="PROBLEM"/>
+<EVENT end="3976" id="E170" modality="FACTUAL" polarity="POS" start="3972" text="Pain" type="PROBLEM"/>
+<EVENT end="3987" id="E95" modality="FACTUAL" polarity="POS" start="3979" text="Her pain" type="PROBLEM"/>
+<EVENT end="4025" id="E96" modality="FACTUAL" polarity="POS" start="4008" text="IV pain medicines" type="TREATMENT"/>
+<EVENT end="4038" id="E110" modality="FACTUAL" polarity="POS" start="4035" text="ICU" type="CLINICAL_DEPT"/>
+<EVENT end="4088" id="E97" modality="FACTUAL" polarity="POS" start="4081" text="Tylenol" type="TREATMENT"/>
+<EVENT end="4097" id="E98" modality="FACTUAL" polarity="POS" start="4091" text="Motrin" type="TREATMENT"/>
+<EVENT end="4109" id="E99" modality="FACTUAL" polarity="POS" start="4100" text="Oxycodone" type="TREATMENT"/>
+<EVENT end="4195" id="E111" modality="FACTUAL" polarity="POS" start="4184" text="transferred" type="OCCURRENCE"/>
+<EVENT end="4206" id="E112" modality="FACTUAL" polarity="POS" start="4199" text="3 North" type="CLINICAL_DEPT"/>
+<EVENT end="4243" id="E171" modality="FACTUAL" polarity="POS" start="4230" text="progress well" type="OCCURRENCE"/>
+<EVENT end="4251" id="E100" modality="FACTUAL" polarity="POS" start="4249" text="PT" type="TREATMENT"/>
+<EVENT end="4274" id="E172" modality="FACTUAL" polarity="POS" start="4265" text="PO intake" type="PROBLEM"/>
+<EVENT end="4290" id="E101" modality="FACTUAL" polarity="POS" start="4288" text="TF" type="TREATMENT"/>
+<EVENT end="438" id="E103" modality="FACTUAL" polarity="POS" start="430" text="admitted" type="OCCURRENCE"/>
+<EVENT end="4331" id="E102" modality="FACTUAL" polarity="POS" start="4311" text="nasal cannula oxygen" type="TREATMENT"/>
+<EVENT end="4357" id="E173" modality="FACTUAL" polarity="POS" start="4342" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="4378" id="E174" modality="FACTUAL" polarity="NEG" start="4366" text="acute events" type="PROBLEM"/>
+<EVENT end="4398" id="E175" modality="FACTUAL" polarity="POS" start="4388" text="discharged" type="OCCURRENCE"/>
+<EVENT end="4407" id="E176" modality="FACTUAL" polarity="POS" start="4402" text="rehab" type="CLINICAL_DEPT"/>
+<EVENT end="477" id="E119" modality="FACTUAL" polarity="POS" start="458" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="488" id="E120" modality="FACTUAL" polarity="POS" start="481" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="518" id="E9" modality="FACTUAL" polarity="POS" start="509" text="confusion" type="PROBLEM"/>
+<EVENT end="553" id="E121" modality="FACTUAL" polarity="POS" start="546" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="586" id="E123" modality="FACTUAL" polarity="POS" start="573" text="mental status" type="TEST"/>
+<EVENT end="595" id="E124" modality="FACTUAL" polarity="POS" start="587" text="improved" type="OCCURRENCE"/>
+<EVENT end="618" id="E125" modality="FACTUAL" polarity="POS" start="610" text="delirium" type="OCCURRENCE"/>
+<EVENT end="639" id="E104" modality="FACTUAL" polarity="POS" start="630" text="admission" type="OCCURRENCE"/>
+<EVENT end="661" id="E10" modality="FACTUAL" polarity="POS" start="651" text="restraints" type="TREATMENT"/>
+<EVENT end="698" id="E11" modality="FACTUAL" polarity="POS" start="679" text="pertinent therapies" type="TREATMENT"/>
+<EVENT end="715" id="E126" modality="FACTUAL" polarity="POS" start="708" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="733" id="E127" modality="FACTUAL" polarity="POS" start="728" text="AAOx3" type="OCCURRENCE"/>
+<EVENT end="763" id="E128" modality="FACTUAL" polarity="POS" start="753" text="Complained" type="EVIDENTIAL"/>
+<EVENT end="777" id="E12" modality="FACTUAL" polarity="POS" start="767" text="chest pain" type="PROBLEM"/>
+<EVENT end="812" id="E129" modality="FACTUAL" polarity="POS" start="803" text="admission" type="OCCURRENCE"/>
+<EVENT end="835" id="E130" modality="FACTUAL" polarity="POS" start="815" text="a cardiology consult" type="OCCURRENCE"/>
+<EVENT end="878" id="E13" modality="FACTUAL" polarity="POS" start="864" text="serial enzymes" type="TEST"/>
+<EVENT end="887" id="E14" modality="FACTUAL" polarity="POS" start="883" text="EKGs" type="TEST"/>
+<EVENT end="899" id="E15" modality="FACTUAL" polarity="POS" start="890" text="Troponins" type="TEST"/>
+<EVENT end="924" id="E131" modality="FACTUAL" polarity="POS" start="916" text="elevated" type="PROBLEM"/>
+<EVENT end="964" id="E132" modality="FACTUAL" polarity="POS" start="951" text="her admission" type="OCCURRENCE"/>
+
+<RTIMEX3 end="1758" id="T8" mod="NA" start="1754" text="HD#5" type="DATE" val="2015-02-25"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2014-02-21" type="DATE" val="2015-02-21"/>
+<RTIMEX3 end="1831" id="T9" mod="NA" start="1827" text="HD#6" type="DATE" val="2015-02-26"/>
+
+<RTIMEX3 end="2309" id="T11" mod="NA" start="2304" text="POD#6" type="DATE" val="2015-03-04"/>
+<RTIMEX3 end="2490" id="T12" mod="NA" start="2485" text="POD#8" type="DATE" val="2015-03-06"/>
+
+
+<ATIMEX3 end="310" id="T3" mod="NA" start="300" text="2015-02-21" type="DATE" val="2015-02-21"/>
+<RTIMEX3 end="3039" id="T10" mod="NA" start="3029" text="POD# 27/18" type="DATE" val="2015-03-25"/>
+<RTIMEX3 end="3096" id="T15" mod="NA" start="3088" text="the time" type="DATE" val="2015-02-21"/>
+<RTIMEX3 end="3122" id="T20" mod="NA" start="3112" text="POD# 23/14" type="DATE" val="2015-03-21"/>
+<RTIMEX3 end="3445" id="T16" mod="NA" start="3441" text="HD#3" type="DATE" val="2014-02-23"/>
+<RTIMEX3 end="3527" id="T21" mod="NA" start="3517" text="POD# 05-29" type="DATE" val="2015-03-03"/>
+<RTIMEX3 end="3645" id="T22" mod="NA" start="3636" text="POD# 15/6" type="DATE" val="2015-03-13"/>
+<RTIMEX3 end="3772" id="T17" mod="NA" start="3768" text="time" type="DATE" val="2015-03-25"/>
+<RTIMEX3 end="4167" id="T19" mod="NA" start="4157" text="POD# 22/15" type="DATE" val="2015-03-20"/>
+<RTIMEX3 end="4421" id="T18" mod="NA" start="4411" text="POD# 27/18" type="DATE" val="2015-03-25"/>
+<ATIMEX3 end="452" id="T4" mod="NA" start="442" text="2015-02-21" type="DATE" val="2015-02-21"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2014-03-25" type="DATE" val="2015-03-25"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2014-02-21" end="28" id="S0" start="18" text="2014-02-21" type="ADMISSION"/>
+<SECTIME dvalue="2014-03-25" end="56" id="S1" start="46" text="2014-03-25" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,107 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+03/25/2001
+DISCHARGE DATE :
+03/26/2001
+HISTORY OF PRESENT ILLNESS :
+This is a 30-year-old right hand dominant gentleman who pleasant Software Engineer .
+In 1989 the patient was dunking a basketball and injured his right shoulder with abduction external rotation injury .
+He has had persistent pain over the years which has worsened in the past several months including inability to sleep .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted to the Hospital and was taken to the operating room for an open Bankart procedure with biceps tenodesis ( Please see the operative note for full details ) .
+Postoperatively , the patient did very well and was neurovascularly intact .
+His wound was intact , clean and dry and it was covered with perioperative antibiotics .
+He was discharged to home on Percocet .
+He was given strict instructions to limit his external rotation no more than 30 degrees .
+He was seen by physical therapy prior to discharge .
+FOLLOW UP :
+He is to follow up with Dr. Rach Breutznedeaisscarvwierst in Clinic .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1050" id="E24" modality="FACTUAL" polarity="POS" start="1044" text="Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="215" id="E12" modality="FACTUAL" polarity="POS" start="195" text="dunking a basketball" type="OCCURRENCE"/>
+<EVENT end="246" id="E13" modality="FACTUAL" polarity="POS" start="220" text="injured his right shoulder" type="PROBLEM"/>
+<EVENT end="286" id="E1" modality="FACTUAL" polarity="POS" start="252" text="abduction external rotation injury" type="PROBLEM"/>
+<EVENT end="38" id="E11" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="315" id="E14" modality="FACTUAL" polarity="POS" start="300" text="persistent pain" type="PROBLEM"/>
+<EVENT end="349" id="E15" modality="FACTUAL" polarity="POS" start="341" text="worsened" type="PROBLEM"/>
+<EVENT end="405" id="E2" modality="FACTUAL" polarity="POS" start="387" text="inability to sleep" type="PROBLEM"/>
+<EVENT end="464" id="E8" modality="FACTUAL" polarity="POS" start="456" text="admitted" type="OCCURRENCE"/>
+<EVENT end="480" id="E16" modality="FACTUAL" polarity="POS" start="468" text="the Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="516" id="E17" modality="FACTUAL" polarity="POS" start="498" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="546" id="E3" modality="FACTUAL" polarity="POS" start="521" text="an open Bankart procedure" type="TREATMENT"/>
+<EVENT end="568" id="E4" modality="FACTUAL" polarity="POS" start="552" text="biceps tenodesis" type="TREATMENT"/>
+<EVENT end="665" id="E18" modality="FACTUAL" polarity="POS" start="652" text="did very well" type="OCCURRENCE"/>
+<EVENT end="696" id="E19" modality="FACTUAL" polarity="POS" start="674" text="neurovascularly intact" type="OCCURRENCE"/>
+<EVENT end="708" id="E5" modality="FACTUAL" polarity="POS" start="699" text="His wound" type="PROBLEM"/>
+<EVENT end="735" id="E20" modality="FACTUAL" polarity="POS" start="713" text="intact , clean and dry" type="OCCURRENCE"/>
+<EVENT end="785" id="E6" modality="FACTUAL" polarity="POS" start="760" text="perioperative antibiotics" type="TREATMENT"/>
+<EVENT end="805" id="E9" modality="FACTUAL" polarity="POS" start="795" text="discharged" type="OCCURRENCE"/>
+<EVENT end="825" id="E7" modality="FACTUAL" polarity="POS" start="817" text="Percocet" type="TREATMENT"/>
+<EVENT end="891" id="E21" modality="FACTUAL" polarity="POS" start="864" text="limit his external rotation" type="OCCURRENCE"/>
+<EVENT end="929" id="E22" modality="FACTUAL" polarity="POS" start="925" text="seen" type="OCCURRENCE"/>
+<EVENT end="968" id="E10" modality="FACTUAL" polarity="POS" start="959" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1001" id="E23" modality="PROPOSED" polarity="POS" start="992" text="follow up" type="OCCURRENCE"/>
+<ATIMEX3 end="178" id="T4" mod="NA" start="174" text="1989" type="DATE" val="1989"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="03/25/2001" type="DATE" val="2001-03-25"/>
+
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="03/26/2001" type="DATE" val="2001-03-26"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2001-03-25" end="28" id="S0" start="18" text="03/25/2001" type="ADMISSION"/>
+<SECTIME dvalue="2001-03-26" end="56" id="S1" start="46" text="03/26/2001" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,263 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+03/17/1998
+Discharge Date :
+04/12/1998
+HISTORY OF PRESENT ILLNESS :
+The patient is a 68 year old with acute leukemia .
+The patient was in her usual state of health until about three weeks prior to admission when she began to notice increased weakness and bruising .
+She presented to a Wood Emergency Department six days prior to admission .
+Platelets were 9,000 , hemoglobin 9.5 , temperature was 100.4 .
+The patient had a smear there consistent with ALL .
+The patient was transferred to Norri Hospital .
+REVIEW OF SYSTEMS :
+No headache , no nausea , vomiting or diarrhea .
+Some shortness of breath with allergies , particularly cats .
+No chest pain .
+The patient had been doing aerobics three times a week until a couple of weeks before admission .
+HOSPITAL COURSE :
+A Hickman catheter was placed and the patient was begun on chemotherapy .
+The regimen included cyclophosphamide , daunorubicin , prednisone , Vincristine and PEG-asparaginase .
+The patient tolerated the chemotherapy regimen well .
+The patient began neutropenic on day five of induction .
+The patient &apos;s liver function tests began to rise and she began to experience pulmonary symptoms including increased crackles .
+The patient began to spike and a blood culture grew out Staphylococcusaureus .
+The patient was begun on Gentamicin , Vancomycin and Piperacillin , which was changed to Gentamicin and Ceftazidime .
+The patient continued to spike and was enrolled in a randomized trial , the patient was randomized to AmBisome antifungal treatment .
+An abdominal MRI was performed to assess continued elevated liver enzymes ; however , the MRI was negative .
+The patient was begun on Nafcillin due to continued spiking .
+The patient began to experience urinary retention and was straight catheterized .
+Thepatient developed a possible drug rash and Nafcillin was changed to Ancef .
+The patient became constipated ; this resolved with laxatives .
+The patient improved significantly and was thought to be ready for discharge by the 11th of April .
+She will follow up with her primary oncologists , Dr A and Dr Dark , at IVMC , after her discharge .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1014" id="E36" modality="FACTUAL" polarity="POS" start="1010" text="well" type="OCCURRENCE"/>
+<EVENT end="1046" id="E37" modality="FACTUAL" polarity="POS" start="1035" text="neutropenic" type="PROBLEM"/>
+<EVENT end="1071" id="E38" modality="FACTUAL" polarity="POS" start="1062" text="induction" type="TREATMENT"/>
+<EVENT end="1114" id="E39" modality="FACTUAL" polarity="POS" start="1074" text="The patient 's liver function tests" type="TEST"/>
+<EVENT end="1128" id="E40" modality="FACTUAL" polarity="POS" start="1115" text="began to rise" type="OCCURRENCE"/>
+<EVENT end="1175" id="E41" modality="FACTUAL" polarity="POS" start="1157" text="pulmonary symptoms" type="PROBLEM"/>
+<EVENT end="1204" id="E42" modality="FACTUAL" polarity="POS" start="1186" text="increased crackles" type="PROBLEM"/>
+<EVENT end="134" id="E2" modality="FACTUAL" polarity="POS" start="120" text="acute leukemia" type="PROBLEM"/>
+<EVENT end="1233" id="E43" modality="FACTUAL" polarity="POS" start="1228" text="spike" type="PROBLEM"/>
+<EVENT end="1253" id="E44" modality="FACTUAL" polarity="POS" start="1238" text="a blood culture" type="TEST"/>
+<EVENT end="1283" id="E45" modality="FACTUAL" polarity="POS" start="1263" text="Staphylococcusaureus" type="PROBLEM"/>
+<EVENT end="1321" id="E46" modality="FACTUAL" polarity="POS" start="1311" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="1334" id="E47" modality="FACTUAL" polarity="POS" start="1324" text="Vancomycin" type="TREATMENT"/>
+<EVENT end="1351" id="E48" modality="FACTUAL" polarity="POS" start="1339" text="Piperacillin" type="TREATMENT"/>
+<EVENT end="1385" id="E49" modality="FACTUAL" polarity="POS" start="1375" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="1401" id="E50" modality="FACTUAL" polarity="POS" start="1390" text="Ceftazidime" type="TREATMENT"/>
+<EVENT end="1434" id="E51" modality="FACTUAL" polarity="POS" start="1429" text="spike" type="PROBLEM"/>
+<EVENT end="1473" id="E52" modality="FACTUAL" polarity="POS" start="1455" text="a randomized trial" type="TREATMENT"/>
+<EVENT end="1535" id="E53" modality="FACTUAL" polarity="POS" start="1506" text="AmBisome antifungal treatment" type="TREATMENT"/>
+<EVENT end="1554" id="E54" modality="FACTUAL" polarity="POS" start="1538" text="An abdominal MRI" type="TEST"/>
+<EVENT end="181" id="E3" modality="FACTUAL" polarity="POS" start="156" text="her usual state of health" type="OCCURRENCE"/>
+<EVENT end="1611" id="E55" modality="FACTUAL" polarity="POS" start="1589" text="elevated liver enzymes" type="PROBLEM"/>
+<EVENT end="1631" id="E56" modality="FACTUAL" polarity="POS" start="1624" text="the MRI" type="TEST"/>
+<EVENT end="1644" id="E57" modality="FACTUAL" polarity="POS" start="1636" text="negative" type="OCCURRENCE"/>
+<EVENT end="1681" id="E58" modality="FACTUAL" polarity="POS" start="1672" text="Nafcillin" type="TREATMENT"/>
+<EVENT end="1706" id="E59" modality="FACTUAL" polarity="POS" start="1699" text="spiking" type="PROBLEM"/>
+<EVENT end="1758" id="E60" modality="FACTUAL" polarity="POS" start="1741" text="urinary retention" type="PROBLEM"/>
+<EVENT end="1788" id="E61" modality="FACTUAL" polarity="POS" start="1767" text="straight catheterized" type="TREATMENT"/>
+<EVENT end="1832" id="E62" modality="POSSIBLE" polarity="POS" start="1823" text="drug rash" type="PROBLEM"/>
+<EVENT end="1846" id="E63" modality="FACTUAL" polarity="POS" start="1837" text="Nafcillin" type="TREATMENT"/>
+<EVENT end="1867" id="E64" modality="FACTUAL" polarity="POS" start="1862" text="Ancef" type="TREATMENT"/>
+<EVENT end="1900" id="E65" modality="FACTUAL" polarity="POS" start="1889" text="constipated" type="PROBLEM"/>
+<EVENT end="1931" id="E66" modality="FACTUAL" polarity="POS" start="1922" text="laxatives" type="TREATMENT"/>
+<EVENT end="1954" id="E67" modality="FACTUAL" polarity="POS" start="1946" text="improved" type="OCCURRENCE"/>
+<EVENT end="2010" id="E68" modality="FACTUAL" polarity="POS" start="2001" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2052" id="E69" modality="FACTUAL" polarity="POS" start="2043" text="follow up" type="OCCURRENCE"/>
+<EVENT end="2132" id="E70" modality="FACTUAL" polarity="POS" start="2119" text="her discharge" type="OCCURRENCE"/>
+<EVENT end="224" id="E4" modality="FACTUAL" polarity="POS" start="215" text="admission" type="OCCURRENCE"/>
+<EVENT end="268" id="E5" modality="FACTUAL" polarity="POS" start="250" text="increased weakness" type="PROBLEM"/>
+<EVENT end="281" id="E6" modality="FACTUAL" polarity="POS" start="273" text="bruising" type="PROBLEM"/>
+<EVENT end="297" id="E7" modality="FACTUAL" polarity="POS" start="288" text="presented" type="EVIDENTIAL"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="328" id="E8" modality="FACTUAL" polarity="POS" start="301" text="a Wood Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="356" id="E9" modality="FACTUAL" polarity="POS" start="347" text="admission" type="OCCURRENCE"/>
+<EVENT end="368" id="E10" modality="FACTUAL" polarity="POS" start="359" text="Platelets" type="TEST"/>
+<EVENT end="392" id="E11" modality="FACTUAL" polarity="POS" start="382" text="hemoglobin" type="TEST"/>
+<EVENT end="410" id="E12" modality="FACTUAL" polarity="POS" start="399" text="temperature" type="TEST"/>
+<EVENT end="446" id="E14" modality="FACTUAL" polarity="POS" start="439" text="a smear" type="TEST"/>
+<EVENT end="472" id="E15" modality="FACTUAL" polarity="POS" start="469" text="ALL" type="PROBLEM"/>
+<EVENT end="502" id="E16" modality="FACTUAL" polarity="POS" start="491" text="transferred" type="OCCURRENCE"/>
+<EVENT end="520" id="E17" modality="FACTUAL" polarity="POS" start="506" text="Norri Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="554" id="E18" modality="FACTUAL" polarity="NEG" start="546" text="headache" type="PROBLEM"/>
+<EVENT end="566" id="E19" modality="FACTUAL" polarity="NEG" start="560" text="nausea" type="PROBLEM"/>
+<EVENT end="577" id="E20" modality="FACTUAL" polarity="NEG" start="569" text="vomiting" type="PROBLEM"/>
+<EVENT end="589" id="E21" modality="FACTUAL" polarity="NEG" start="581" text="diarrhea" type="PROBLEM"/>
+<EVENT end="616" id="E71" modality="FACTUAL" polarity="POS" start="597" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="631" id="E23" modality="FACTUAL" polarity="POS" start="622" text="allergies" type="PROBLEM"/>
+<EVENT end="667" id="E24" modality="FACTUAL" polarity="NEG" start="657" text="chest pain" type="PROBLEM"/>
+<EVENT end="705" id="E25" modality="FACTUAL" polarity="POS" start="697" text="aerobics" type="OCCURRENCE"/>
+<EVENT end="765" id="E26" modality="FACTUAL" polarity="POS" start="756" text="admission" type="OCCURRENCE"/>
+<EVENT end="804" id="E27" modality="FACTUAL" polarity="POS" start="786" text="A Hickman catheter" type="TREATMENT"/>
+<EVENT end="857" id="E28" modality="FACTUAL" polarity="POS" start="845" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="871" id="E29" modality="FACTUAL" polarity="POS" start="860" text="The regimen" type="TREATMENT"/>
+<EVENT end="897" id="E30" modality="FACTUAL" polarity="POS" start="881" text="cyclophosphamide" type="TREATMENT"/>
+<EVENT end="912" id="E31" modality="FACTUAL" polarity="POS" start="900" text="daunorubicin" type="TREATMENT"/>
+<EVENT end="925" id="E32" modality="FACTUAL" polarity="POS" start="915" text="prednisone" type="TREATMENT"/>
+<EVENT end="939" id="E33" modality="FACTUAL" polarity="POS" start="928" text="Vincristine" type="TREATMENT"/>
+<EVENT end="960" id="E34" modality="FACTUAL" polarity="POS" start="944" text="PEG-asparaginase" type="TREATMENT"/>
+<EVENT end="1009" id="E35" modality="FACTUAL" polarity="POS" start="985" text="the chemotherapy regimen" type="TREATMENT"/>
+<RTIMEX3 end="1058" id="T7" mod="NA" start="1050" text="day five" type="DATE" val="1998-03-22"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="03/17/1998" type="DATE" val="1998-03-17"/>
+<RTIMEX3 end="211" id="T9" mod="APPROX" start="194" text="three weeks prior" type="DATE" val="1998-02-24"/>
+<RTIMEX3 end="2031" id="T8" mod="NA" start="2014" text="the 11th of April" type="DATE" val="1998-04-11"/>
+<RTIMEX3 end="337" id="T3" mod="NA" start="329" text="six days" type="DATE" val="1998-03-11"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="04/12/1998" type="DATE" val="1998-04-12"/>
+
+<RTIMEX3 end="765" id="T5" mod="APPROX" start="731" text="a couple of weeks before admission" type="DATE" val="1998-03-03"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1998-03-17" end="28" id="S0" start="18" text="03/17/1998" type="ADMISSION"/>
+<SECTIME dvalue="1998-04-12" end="56" id="S1" start="46" text="04/12/1998" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

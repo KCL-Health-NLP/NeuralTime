@@ -1,0 +1,608 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+01/12/1991
+Discharge Date :
+01/20/1991
+HISTORY OF PRESENT ILLNESS :
+The patient was in her usual state of excellent health until July of 1991 when she first noted a left clavicular mass .
+Subsequently , the mass continued to increase in size .
+On 12/23 , she was seen by Dr. Stonge at Bri Health where a 3 x 7 cm left mid clavicular mass was noted .
+A fine needle aspirate of this mass reportedly revealed giant cell tumor .
+The patient was initially told that this was a benign tumor and that it could simply be watched and definitively treated after the delivery of her baby .
+Subsequently , the mass progressively increased in size and the patient had developed significant discomfort in this region .
+On 1/5 , the patient underwent a local tumor debulking at Bri Health under local anesthesia .
+The pathology , unfortunately , revealed an aggressive adenocarcinoma ( micropapillary type ; mucin producing ) .
+This prompted further staging work-up .
+The patient subsequently had a limited chest CT at Bri Health which showed diffuse bilateral pulmonary metastases , metastases to the sternum , rib , multiple spinal levels ; internal mammary lymphadenopathy .
+The poor prognosis for the patient and child were discussed and after the patient decided to have an elective abortion , an abdominal CT scan was obtained which revealed diffuse metastatic lesions of the liverspine , ribs and most of the lymph nodes .
+There was no obvious GIor pancreatic tumor identified .
+The patient had a very firm nodule at the vertex of her calvarium .
+A specimen was obtained by fine needle aspiration and the pathology of this was consistent with adenocarcinoma .
+The patient was transferred to Nimaconwood Valley Hospital for management of her cancer and termination of the pregnancy .
+Over the past four weeks , the patient reported progressive shortness of breath and mid thoracic back pain .
+She has had no motor weakness , abnormal sensation , numbness , tingling or incontinence of bowel or bladder .
+She denied fevers , chills or sweats .
+There has been no GI or GU symptoms except for constipation .
+HOSPITAL COURSE :
+The patient had an elective termination of her pregnancy on 1/13/91 .
+The work-up for the extent of the patient &apos;s disease included MRI scan of the cervical and thoracic spine which revealed multiple metastatic lesions in the vertebral bodies ; a T3 lesion extending from the body to the right neural for amina with foraminal obstruction .
+An epidural mass was present at T10 which was extending from the lamina or spinous process anteriorly and almost compressing the spinal cord .
+An abdominal and pelvic CT scan with IV contrast revealed bilateral pulmonary nodules and bilateral pleural effusions , extensive liver metastases , narrowing of the intra hepatic IVC and distention of the azygous system suggestive of IVC obstruction by liver metastases ; ascites ; multiple bony metastases ; and an isolated splenic metastases .
+A bone scan revealed increased uptake in the left chest wall , left anterior ribs four to six , and increased uptake in the left and right lateral skull in the area of the parotids .
+Ahead CT scan revealed a metastatic lesion in the right vertex of the calvarium but no intracranial abnormalities .
+Work-up for the source of the primary tumor which is still unknown included a mammogram which identified no suspicious microcalcifications and no dominant masses .
+The abdominal and pelvic CT scans showed no suspicious GI masses , no pancreatic mass ; a 2 cm ovarian cyst .
+The review of the pathology from Bri Health confirmed a high grade adenocarcinoma .
+Erica and basic cystic protein stains are still pending .
+Serum markers were normal .
+The CEA was less than 0.7 .
+The hCG on admission was 30,710 and on 1/19 was 805 .
+The CA-125 was still pending and alphafeto protein is still pending .
+Hypercalcemia :
+The patient presented with a serum calcium of 11.8 and an albumin of 2.3 on admission .
+She received three days of intravenous etidronate with normal saline diuresis and the serum calcium subsequently decreased to 9.0 .
+The patient was then switched to po etidronate .
+IVC obstruction :
+The patient has extensive hepatic metastases and by CT scan there is obstruction of the intrahepatic IVC .
+This has resulted in marked bilateral lower extremity and presacral edema with ascites .
+The patient &apos;s low serum albumin is also contributing to her extensive edema .
+Hypoxia and shortness of breath :
+Although the patient &apos;s room air saturation was 96% during this admission , she subjectively complained of increased shortness of breath .
+It was felt that the patient &apos;s extensive pulmonary metastases and bilateral pleural effusions resulted in increased work of respiration and a sensation of shortness of breath .
+Impending spinal cord compression :
+The patient had back pain on admission without any focal neurological signs .
+The MRI scan on admission revealed an impending cord compression at the level of T10 .
+She was started on Decadron and on 1/17 began the first of ten radiation treatments to two fields ( T2 to T5 and T9 to T11 ) .
+Per the patient &apos;s wishes , Dr. Dalywoo Droreite the Windgo Hospital was consulted for a second opinion regarding the management of her malignancy .
+Dr. Linke recommended chemotherapy with PFL .
+Per the patient &apos;s wishes , she was transferred to the Windgo Hospital for chemotherapy .
+ALT was 53 .
+AST was 89 .
+Her LDH was 394 .
+Her alkaline phosphatase was 1514 .
+Total bilirubin was 2.1 .
+Direct bilirubin was 1.4 .
+Albumin was 2.3 .
+Calcium 9.1 .
+Hematocrit was 32.5 .
+White blood cell count was 16.89 .
+PT was 12.9 .
+PTT was 27.3 .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E101" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1032" id="E124" modality="FACTUAL" polarity="POS" start="1022" text="Bri Health" type="CLINICAL_DEPT"/>
+<EVENT end="1045" id="E125" modality="FACTUAL" polarity="POS" start="1039" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1084" id="E13" modality="FACTUAL" polarity="POS" start="1046" text="diffuse bilateral pulmonary metastases" type="PROBLEM"/>
+<EVENT end="1143" id="E14" modality="FACTUAL" polarity="POS" start="1087" text="metastases to the sternum , rib , multiple spinal levels" type="PROBLEM"/>
+<EVENT end="1178" id="E15" modality="FACTUAL" polarity="POS" start="1146" text="internal mammary lymphadenopathy" type="PROBLEM"/>
+<EVENT end="140" id="E0" modality="FACTUAL" polarity="POS" start="124" text="excellent health" type="OCCURRENCE"/>
+<EVENT end="1299" id="E16" modality="FACTUAL" polarity="POS" start="1279" text="an elective abortion" type="TREATMENT"/>
+<EVENT end="1322" id="E17" modality="FACTUAL" polarity="POS" start="1302" text="an abdominal CT scan" type="TEST"/>
+<EVENT end="1350" id="E135" modality="FACTUAL" polarity="POS" start="1342" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1430" id="E18" modality="FACTUAL" polarity="POS" start="1351" text="diffuse metastatic lesions of the liverspine , ribs and most of the lymph nodes" type="PROBLEM"/>
+<EVENT end="1475" id="E19" modality="FACTUAL" polarity="NEG" start="1446" text="obvious GIor pancreatic tumor" type="PROBLEM"/>
+<EVENT end="1523" id="E136" modality="FACTUAL" polarity="POS" start="1505" text="a very firm nodule" type="PROBLEM"/>
+<EVENT end="1606" id="E20" modality="FACTUAL" polarity="POS" start="1584" text="fine needle aspiration" type="TEST"/>
+<EVENT end="1624" id="E21" modality="FACTUAL" polarity="POS" start="1611" text="the pathology" type="TEST"/>
+<EVENT end="1667" id="E22" modality="FACTUAL" polarity="POS" start="1653" text="adenocarcinoma" type="PROBLEM"/>
+<EVENT end="1697" id="E123" modality="FACTUAL" polarity="POS" start="1686" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1728" id="E106" modality="FACTUAL" polarity="POS" start="1701" text="Nimaconwood Valley Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1743" id="E23" modality="FACTUAL" polarity="POS" start="1733" text="management" type="TREATMENT"/>
+<EVENT end="1757" id="E24" modality="FACTUAL" polarity="POS" start="1747" text="her cancer" type="PROBLEM"/>
+<EVENT end="1773" id="E25" modality="FACTUAL" polarity="POS" start="1762" text="termination" type="TREATMENT"/>
+<EVENT end="1790" id="E26" modality="FACTUAL" polarity="POS" start="1777" text="the pregnancy" type="PROBLEM"/>
+<EVENT end="203" id="E1" modality="FACTUAL" polarity="POS" start="181" text="a left clavicular mass" type="PROBLEM"/>
+<EVENT end="1840" id="E121" modality="FACTUAL" polarity="POS" start="1832" text="reported" type="EVIDENTIAL"/>
+<EVENT end="1872" id="E27" modality="FACTUAL" polarity="POS" start="1841" text="progressive shortness of breath" type="PROBLEM"/>
+<EVENT end="1899" id="E28" modality="FACTUAL" polarity="POS" start="1877" text="mid thoracic back pain" type="PROBLEM"/>
+<EVENT end="1931" id="E116" modality="FACTUAL" polarity="NEG" start="1917" text="motor weakness" type="PROBLEM"/>
+<EVENT end="1952" id="E117" modality="FACTUAL" polarity="NEG" start="1934" text="abnormal sensation" type="PROBLEM"/>
+<EVENT end="1963" id="E118" modality="FACTUAL" polarity="NEG" start="1955" text="numbness" type="PROBLEM"/>
+<EVENT end="1974" id="E119" modality="FACTUAL" polarity="NEG" start="1966" text="tingling" type="PROBLEM"/>
+<EVENT end="2010" id="E120" modality="FACTUAL" polarity="NEG" start="1978" text="incontinence of bowel or bladder" type="PROBLEM"/>
+<EVENT end="2023" id="E112" modality="FACTUAL" polarity="POS" start="2017" text="denied" type="EVIDENTIAL"/>
+<EVENT end="2030" id="E113" modality="FACTUAL" polarity="NEG" start="2024" text="fevers" type="PROBLEM"/>
+<EVENT end="2039" id="E114" modality="FACTUAL" polarity="NEG" start="2033" text="chills" type="PROBLEM"/>
+<EVENT end="2049" id="E115" modality="FACTUAL" polarity="NEG" start="2043" text="sweats" type="PROBLEM"/>
+<EVENT end="2087" id="E111" modality="FACTUAL" polarity="NEG" start="2070" text="GI or GU symptoms" type="PROBLEM"/>
+<EVENT end="2111" id="E29" modality="FACTUAL" polarity="POS" start="2099" text="constipation" type="PROBLEM"/>
+<EVENT end="2171" id="E30" modality="FACTUAL" polarity="POS" start="2148" text="an elective termination" type="TREATMENT"/>
+<EVENT end="2188" id="E31" modality="FACTUAL" polarity="POS" start="2175" text="her pregnancy" type="OCCURRENCE"/>
+<EVENT end="229" id="E2" modality="FACTUAL" polarity="POS" start="221" text="the mass" type="PROBLEM"/>
+<EVENT end="2213" id="E32" modality="FACTUAL" polarity="POS" start="2202" text="The work-up" type="TEST"/>
+<EVENT end="2259" id="E33" modality="FACTUAL" polarity="POS" start="2232" text="the patient 's disease" type="PROBLEM"/>
+<EVENT end="2312" id="E34" modality="FACTUAL" polarity="POS" start="2269" text="MRI scan of the cervical and thoracic spine" type="TEST"/>
+<EVENT end="2327" id="E137" modality="FACTUAL" polarity="POS" start="2319" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2379" id="E35" modality="FACTUAL" polarity="POS" start="2328" text="multiple metastatic lesions in the vertebral bodies" type="PROBLEM"/>
+<EVENT end="2393" id="E36" modality="FACTUAL" polarity="POS" start="2382" text="a T3 lesion" type="PROBLEM"/>
+<EVENT end="259" id="E107" modality="FACTUAL" polarity="POS" start="243" text="increase in size" type="OCCURRENCE"/>
+<EVENT end="2474" id="E37" modality="FACTUAL" polarity="POS" start="2453" text="foraminal obstruction" type="PROBLEM"/>
+<EVENT end="2493" id="E38" modality="FACTUAL" polarity="POS" start="2477" text="An epidural mass" type="PROBLEM"/>
+<EVENT end="2617" id="E147" modality="CONDITIONAL" polarity="POS" start="2590" text="compressing the spinal cord" type="PROBLEM"/>
+<EVENT end="2668" id="E39" modality="FACTUAL" polarity="POS" start="2620" text="An abdominal and pelvic CT scan with IV contrast" type="TEST"/>
+<EVENT end="2677" id="E148" modality="FACTUAL" polarity="POS" start="2669" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2705" id="E40" modality="FACTUAL" polarity="POS" start="2678" text="bilateral pulmonary nodules" type="PROBLEM"/>
+<EVENT end="2737" id="E41" modality="FACTUAL" polarity="POS" start="2710" text="bilateral pleural effusions" type="PROBLEM"/>
+<EVENT end="2766" id="E149" modality="FACTUAL" polarity="POS" start="2740" text="extensive liver metastases" type="PROBLEM"/>
+<EVENT end="2803" id="E42" modality="FACTUAL" polarity="POS" start="2769" text="narrowing of the intra hepatic IVC" type="PROBLEM"/>
+<EVENT end="2840" id="E43" modality="FACTUAL" polarity="POS" start="2808" text="distention of the azygous system" type="PROBLEM"/>
+<EVENT end="2870" id="E150" modality="POSSIBLE" polarity="POS" start="2855" text="IVC obstruction" type="PROBLEM"/>
+<EVENT end="2890" id="E151" modality="FACTUAL" polarity="POS" start="2874" text="liver metastases" type="PROBLEM"/>
+<EVENT end="2900" id="E44" modality="FACTUAL" polarity="POS" start="2893" text="ascites" type="PROBLEM"/>
+<EVENT end="38" id="E102" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2927" id="E45" modality="FACTUAL" polarity="POS" start="2903" text="multiple bony metastases" type="PROBLEM"/>
+<EVENT end="2964" id="E46" modality="FACTUAL" polarity="POS" start="2934" text="an isolated splenic metastases" type="PROBLEM"/>
+<EVENT end="2978" id="E47" modality="FACTUAL" polarity="POS" start="2967" text="A bone scan" type="TEST"/>
+<EVENT end="2987" id="E152" modality="FACTUAL" polarity="POS" start="2979" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3060" id="E48" modality="FACTUAL" polarity="POS" start="2988" text="increased uptake in the left chest wall , left anterior ribs four to six" type="PROBLEM"/>
+<EVENT end="313" id="E108" modality="FACTUAL" polarity="POS" start="303" text="Bri Health" type="CLINICAL_DEPT"/>
+<EVENT end="3119" id="E49" modality="FACTUAL" polarity="POS" start="3067" text="increased uptake in the left and right lateral skull" type="PROBLEM"/>
+<EVENT end="3163" id="E50" modality="FACTUAL" polarity="POS" start="3150" text="Ahead CT scan" type="TEST"/>
+<EVENT end="3172" id="E153" modality="FACTUAL" polarity="POS" start="3164" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3192" id="E51" modality="FACTUAL" polarity="POS" start="3173" text="a metastatic lesion" type="PROBLEM"/>
+<EVENT end="355" id="E3" modality="FACTUAL" polarity="POS" start="320" text="a 3 x 7 cm left mid clavicular mass" type="PROBLEM"/>
+<EVENT end="3263" id="E154" modality="FACTUAL" polarity="NEG" start="3237" text="intracranial abnormalities" type="PROBLEM"/>
+<EVENT end="3273" id="E52" modality="FACTUAL" polarity="POS" start="3266" text="Work-up" type="TEST"/>
+<EVENT end="3309" id="E53" modality="FACTUAL" polarity="POS" start="3292" text="the primary tumor" type="PROBLEM"/>
+<EVENT end="3353" id="E54" modality="FACTUAL" polarity="POS" start="3342" text="a mammogram" type="TEST"/>
+<EVENT end="3404" id="E55" modality="FACTUAL" polarity="NEG" start="3374" text="suspicious microcalcifications" type="PROBLEM"/>
+<EVENT end="3427" id="E56" modality="FACTUAL" polarity="NEG" start="3412" text="dominant masses" type="PROBLEM"/>
+<EVENT end="3463" id="E57" modality="FACTUAL" polarity="POS" start="3430" text="The abdominal and pelvic CT scans" type="TEST"/>
+<EVENT end="3470" id="E155" modality="FACTUAL" polarity="POS" start="3464" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3494" id="E58" modality="FACTUAL" polarity="NEG" start="3474" text="suspicious GI masses" type="PROBLEM"/>
+<EVENT end="3515" id="E59" modality="FACTUAL" polarity="NEG" start="3500" text="pancreatic mass" type="PROBLEM"/>
+<EVENT end="3537" id="E60" modality="FACTUAL" polarity="POS" start="3518" text="a 2 cm ovarian cyst" type="PROBLEM"/>
+<EVENT end="3567" id="E61" modality="FACTUAL" polarity="POS" start="3554" text="the pathology" type="TEST"/>
+<EVENT end="3583" id="E156" modality="FACTUAL" polarity="POS" start="3573" text="Bri Health" type="CLINICAL_DEPT"/>
+<EVENT end="3621" id="E62" modality="FACTUAL" polarity="POS" start="3594" text="a high grade adenocarcinoma" type="PROBLEM"/>
+<EVENT end="3661" id="E157" modality="FACTUAL" polarity="POS" start="3624" text="Erica and basic cystic protein stains" type="TEST"/>
+<EVENT end="390" id="E4" modality="FACTUAL" polarity="POS" start="368" text="A fine needle aspirate" type="TEST"/>
+<EVENT end="3695" id="E63" modality="FACTUAL" polarity="POS" start="3682" text="Serum markers" type="TEST"/>
+<EVENT end="3717" id="E64" modality="FACTUAL" polarity="POS" start="3710" text="The CEA" type="TEST"/>
+<EVENT end="3745" id="E159" modality="FACTUAL" polarity="POS" start="3738" text="The hCG" type="TEST"/>
+<EVENT end="3758" id="E160" modality="FACTUAL" polarity="POS" start="3749" text="admission" type="OCCURRENCE"/>
+<EVENT end="3802" id="E161" modality="FACTUAL" polarity="POS" start="3792" text="The CA-125" type="TEST"/>
+<EVENT end="3842" id="E162" modality="FACTUAL" polarity="POS" start="3825" text="alphafeto protein" type="TEST"/>
+<EVENT end="3875" id="E163" modality="FACTUAL" polarity="POS" start="3862" text="Hypercalcemia" type="PROBLEM"/>
+<EVENT end="3899" id="E164" modality="FACTUAL" polarity="POS" start="3890" text="presented" type="OCCURRENCE"/>
+<EVENT end="3920" id="E65" modality="FACTUAL" polarity="POS" start="3905" text="a serum calcium" type="TEST"/>
+<EVENT end="403" id="E5" modality="FACTUAL" polarity="POS" start="394" text="this mass" type="PROBLEM"/>
+<EVENT end="3943" id="E66" modality="FACTUAL" polarity="POS" start="3933" text="an albumin" type="TEST"/>
+<EVENT end="3963" id="E105" modality="FACTUAL" polarity="POS" start="3954" text="admission" type="OCCURRENCE"/>
+<EVENT end="4015" id="E67" modality="FACTUAL" polarity="POS" start="3993" text="intravenous etidronate" type="TREATMENT"/>
+<EVENT end="4043" id="E68" modality="FACTUAL" polarity="POS" start="4021" text="normal saline diuresis" type="TREATMENT"/>
+<EVENT end="4065" id="E69" modality="FACTUAL" polarity="POS" start="4048" text="the serum calcium" type="TEST"/>
+<EVENT end="4144" id="E70" modality="FACTUAL" polarity="POS" start="4131" text="po etidronate" type="TREATMENT"/>
+<EVENT end="4162" id="E165" modality="FACTUAL" polarity="POS" start="4147" text="IVC obstruction" type="PROBLEM"/>
+<EVENT end="423" id="E109" modality="FACTUAL" polarity="POS" start="415" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="4209" id="E71" modality="FACTUAL" polarity="POS" start="4181" text="extensive hepatic metastases" type="PROBLEM"/>
+<EVENT end="4224" id="E72" modality="FACTUAL" polarity="POS" start="4217" text="CT scan" type="TEST"/>
+<EVENT end="440" id="E110" modality="FACTUAL" polarity="POS" start="424" text="giant cell tumor" type="PROBLEM"/>
+<EVENT end="4269" id="E73" modality="FACTUAL" polarity="POS" start="4234" text="obstruction of the intrahepatic IVC" type="PROBLEM"/>
+<EVENT end="4345" id="E74" modality="FACTUAL" polarity="POS" start="4293" text="marked bilateral lower extremity and presacral edema" type="PROBLEM"/>
+<EVENT end="4358" id="E75" modality="FACTUAL" polarity="POS" start="4351" text="ascites" type="PROBLEM"/>
+<EVENT end="4398" id="E76" modality="FACTUAL" polarity="POS" start="4361" text="The patient 's low serum albumin" type="PROBLEM"/>
+<EVENT end="4442" id="E77" modality="FACTUAL" polarity="POS" start="4423" text="her extensive edema" type="PROBLEM"/>
+<EVENT end="4452" id="E166" modality="FACTUAL" polarity="POS" start="4445" text="Hypoxia" type="PROBLEM"/>
+<EVENT end="4476" id="E167" modality="FACTUAL" polarity="POS" start="4457" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="4527" id="E78" modality="FACTUAL" polarity="POS" start="4488" text="the patient 's room air saturation" type="TEST"/>
+<EVENT end="4557" id="E168" modality="FACTUAL" polarity="POS" start="4543" text="this admission" type="OCCURRENCE"/>
+<EVENT end="4587" id="E146" modality="FACTUAL" polarity="POS" start="4577" text="complained" type="EVIDENTIAL"/>
+<EVENT end="4620" id="E79" modality="FACTUAL" polarity="POS" start="4591" text="increased shortness of breath" type="PROBLEM"/>
+<EVENT end="4690" id="E80" modality="FACTUAL" polarity="POS" start="4640" text="the patient 's extensive pulmonary metastases" type="PROBLEM"/>
+<EVENT end="4722" id="E81" modality="FACTUAL" polarity="POS" start="4695" text="bilateral pleural effusions" type="PROBLEM"/>
+<EVENT end="4764" id="E82" modality="FACTUAL" polarity="POS" start="4735" text="increased work of respiration" type="PROBLEM"/>
+<EVENT end="4803" id="E83" modality="FACTUAL" polarity="POS" start="4784" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="4839" id="E84" modality="FACTUAL" polarity="POS" start="4806" text="Impending spinal cord compression" type="PROBLEM"/>
+<EVENT end="4867" id="E85" modality="FACTUAL" polarity="POS" start="4858" text="back pain" type="PROBLEM"/>
+<EVENT end="502" id="E127" modality="FACTUAL" polarity="POS" start="488" text="a benign tumor" type="PROBLEM"/>
+<EVENT end="4880" id="E103" modality="FACTUAL" polarity="POS" start="4871" text="admission" type="OCCURRENCE"/>
+<EVENT end="4917" id="E145" modality="FACTUAL" polarity="NEG" start="4889" text="any focal neurological signs" type="PROBLEM"/>
+<EVENT end="4932" id="E169" modality="FACTUAL" polarity="POS" start="4920" text="The MRI scan" type="TEST"/>
+<EVENT end="4945" id="E170" modality="FACTUAL" polarity="POS" start="4936" text="admission" type="OCCURRENCE"/>
+<EVENT end="4954" id="E138" modality="FACTUAL" polarity="POS" start="4946" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="4984" id="E87" modality="FACTUAL" polarity="POS" start="4955" text="an impending cord compression" type="PROBLEM"/>
+<EVENT end="5034" id="E88" modality="FACTUAL" polarity="POS" start="5026" text="Decadron" type="TREATMENT"/>
+<EVENT end="5090" id="E139" modality="FACTUAL" polarity="POS" start="5070" text="radiation treatments" type="TREATMENT"/>
+<EVENT end="5267" id="E140" modality="FACTUAL" polarity="POS" start="5253" text="the management" type="TREATMENT"/>
+<EVENT end="5285" id="E141" modality="FACTUAL" polarity="POS" start="5271" text="her malignancy" type="PROBLEM"/>
+<EVENT end="5331" id="E142" modality="PROPOSED" polarity="POS" start="5310" text="chemotherapy with PFL" type="TREATMENT"/>
+<EVENT end="538" id="E128" modality="FACTUAL" polarity="POS" start="531" text="watched" type="OCCURRENCE"/>
+<EVENT end="5386" id="E104" modality="FACTUAL" polarity="POS" start="5375" text="transferred" type="OCCURRENCE"/>
+<EVENT end="5409" id="E143" modality="FACTUAL" polarity="POS" start="5390" text="the Windgo Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="5426" id="E144" modality="PROPOSED" polarity="POS" start="5414" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="5432" id="E89" modality="FACTUAL" polarity="POS" start="5429" text="ALT" type="TEST"/>
+<EVENT end="563" id="E129" modality="PROPOSED" polarity="POS" start="543" text="definitively treated" type="TREATMENT"/>
+<EVENT end="5445" id="E90" modality="FACTUAL" polarity="POS" start="5442" text="AST" type="TEST"/>
+<EVENT end="5462" id="E91" modality="FACTUAL" polarity="POS" start="5455" text="Her LDH" type="TEST"/>
+<EVENT end="5497" id="E92" modality="FACTUAL" polarity="POS" start="5473" text="Her alkaline phosphatase" type="TEST"/>
+<EVENT end="5524" id="E93" modality="FACTUAL" polarity="POS" start="5509" text="Total bilirubin" type="TEST"/>
+<EVENT end="5551" id="E94" modality="FACTUAL" polarity="POS" start="5535" text="Direct bilirubin" type="TEST"/>
+<EVENT end="5569" id="E95" modality="FACTUAL" polarity="POS" start="5562" text="Albumin" type="TEST"/>
+<EVENT end="5587" id="E96" modality="FACTUAL" polarity="POS" start="5580" text="Calcium" type="TEST"/>
+<EVENT end="5604" id="E97" modality="FACTUAL" polarity="POS" start="5594" text="Hematocrit" type="TEST"/>
+<EVENT end="5638" id="E98" modality="FACTUAL" polarity="POS" start="5616" text="White blood cell count" type="TEST"/>
+<EVENT end="5653" id="E99" modality="FACTUAL" polarity="POS" start="5651" text="PT" type="TEST"/>
+<EVENT end="5668" id="E100" modality="FACTUAL" polarity="POS" start="5665" text="PTT" type="TEST"/>
+<EVENT end="594" id="E130" modality="CONDITIONAL" polarity="POS" start="570" text="the delivery of her baby" type="OCCURRENCE"/>
+<EVENT end="620" id="E6" modality="FACTUAL" polarity="POS" start="612" text="the mass" type="PROBLEM"/>
+<EVENT end="652" id="E131" modality="FACTUAL" polarity="POS" start="635" text="increased in size" type="OCCURRENCE"/>
+<EVENT end="720" id="E132" modality="FACTUAL" polarity="POS" start="683" text="significant discomfort in this region" type="PROBLEM"/>
+<EVENT end="777" id="E7" modality="FACTUAL" polarity="POS" start="754" text="a local tumor debulking" type="TREATMENT"/>
+<EVENT end="791" id="E133" modality="FACTUAL" polarity="POS" start="781" text="Bri Health" type="CLINICAL_DEPT"/>
+<EVENT end="814" id="E8" modality="FACTUAL" polarity="POS" start="798" text="local anesthesia" type="TREATMENT"/>
+<EVENT end="830" id="E9" modality="FACTUAL" polarity="POS" start="817" text="The pathology" type="TEST"/>
+<EVENT end="857" id="E126" modality="FACTUAL" polarity="POS" start="849" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="886" id="E10" modality="FACTUAL" polarity="POS" start="858" text="an aggressive adenocarcinoma" type="PROBLEM"/>
+<EVENT end="968" id="E11" modality="FACTUAL" polarity="POS" start="945" text="further staging work-up" type="TEST"/>
+<EVENT end="1018" id="E12" modality="FACTUAL" polarity="POS" start="1000" text="a limited chest CT" type="TEST"/>
+<RTIMEX3 end="159" id="T0" mod="NA" start="147" text="July of 1991" type="DATE" val="1991-07"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="01/12/1991" type="DATE" val="1991-01-12"/>
+<ATIMEX3 end="2199" id="T3" mod="NA" start="2192" text="1/13/91" type="DATE" val="1991-01-13"/>
+<ATIMEX3 end="270" id="T5" mod="NA" start="265" text="12/23" type="DATE" val="1990-12-23"/>
+<ATIMEX3 end="3781" id="T4" mod="NA" start="3777" text="1/19" type="DATE" val="1991-01-19"/>
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="01/20/1991" type="DATE" val="1991-01-20"/>
+<ATIMEX3 end="5046" id="T9" mod="NA" start="5042" text="1/17" type="DATE" val="1991-01-17"/>
+
+<ATIMEX3 end="729" id="T6" mod="NA" start="726" text="1/5" type="DATE" val="1991-01-05"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1991-01-12" end="28" id="S0" start="18" text="01/12/1991" type="ADMISSION"/>
+<SECTIME dvalue="1991-01-20" end="56" id="S1" start="46" text="01/20/1991" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

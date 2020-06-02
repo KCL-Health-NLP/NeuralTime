@@ -1,0 +1,364 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2010-08-30
+Discharge Date :
+2010-09-06
+Service :
+Cardiothoracic
+HISTORY OF PRESENT ILLNESS :
+This is a 64-year-old man with a history of coronary artery disease , endocarditis status post coronary artery bypass grafting and mitral valve replacement on 2010-08-13 .
+He was transferred to Erich Lindemann Mental Health Center from the rehabilitation center where he had been discharged to on 2010-08-25 following his CABG/MVR .
+At the rehabilitation center the patient developed shortness of breath .
+A chest x-ray done at that time revealed a left-sided infiltrate versus effusion .
+He was transferred to Mass. Eye & Ear Infirmary for treatment .
+At the time he complained of no chest pain , weakness or cough , although he is intermittently short of breath .
+He had been anticoagulated during his stay at rehabilitation for atrial fibrillation .
+HOSPITAL COURSE :
+The patient was admitted to Vencor Hospital .
+He was given fresh frozen plasma to correct his INR and a left chest tube was placed .
+Over the first 12 hours the chest tube drained 2,500 cc .
+On hospital day two the patient was transferred from the cardiac surgery recovery unit to 07-02 for continuing care .
+He remained hemodynamically stable .
+His chest tube drainage reduced significantly after the first 24 hours and on hospital day three his chest tube was discontinued .
+Over the next several days the patient remained in the hospital to reassess for recurrent pleural effusion .
+On 09-02 it was decided that the patient was stable and ready to be transferred back to rehabilitation , however case management was unable to get authorization from the patient 's insurance company and he remained in the hospital throughout the holiday weekend awaiting insurance authorization for transfer back to rehabilitation .
+At this time the patient 's physical examination is as follows :
+Vital signs were temperature 97.8 , heart rate 80 and sinus rhythm , blood pressure 140/82 , respiratory rate 18 ,
+O2 saturation 96% on room air .
+Weight on admission was 64 kg , at discharge was 51.6 kg .
+Laboratory data showed an hematocrit of 31.6 , PT 13 , INR 1.2 , potassium 4.5 , BUN 18 , creatinine 0.9 .
+He was alert and oriented x 3 , moved all extremities , followed commands .
+Respiratory examination was clear to auscultation bilaterally .
+Cardiac showed a regular rate and rhythm , S1 and S2 .
+Sternum was stable .
+Incisions had Steri-Strips , open to air , clean and dry .
+Abdomen was soft , nontender , nondistended , with normal active bowel sounds .
+Extremities were warm and well perfused with no edema .
+Right lower extremity incision with Steri-Strips , open to air , clean and dry .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1053" id="E34" modality="FACTUAL" polarity="POS" start="1039" text="the chest tube" type="TREATMENT"/>
+<EVENT end="1061" id="E35" modality="FACTUAL" polarity="POS" start="1054" text="drained" type="OCCURRENCE"/>
+<EVENT end="1120" id="E36" modality="FACTUAL" polarity="POS" start="1109" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1159" id="E37" modality="FACTUAL" polarity="POS" start="1126" text="the cardiac surgery recovery unit" type="CLINICAL_DEPT"/>
+<EVENT end="1168" id="E38" modality="FACTUAL" polarity="POS" start="1163" text="07-02" type="CLINICAL_DEPT"/>
+<EVENT end="1188" id="E39" modality="FACTUAL" polarity="POS" start="1173" text="continuing care" type="OCCURRENCE"/>
+<EVENT end="1225" id="E40" modality="FACTUAL" polarity="POS" start="1203" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1251" id="E41" modality="FACTUAL" polarity="POS" start="1228" text="His chest tube drainage" type="OCCURRENCE"/>
+<EVENT end="1259" id="E42" modality="FACTUAL" polarity="POS" start="1252" text="reduced" type="OCCURRENCE"/>
+<EVENT end="1339" id="E43" modality="FACTUAL" polarity="POS" start="1325" text="his chest tube" type="TREATMENT"/>
+<EVENT end="1422" id="E44" modality="FACTUAL" polarity="POS" start="1410" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1434" id="E104" modality="FACTUAL" polarity="POS" start="1426" text="reassess" type="TEST"/>
+<EVENT end="1465" id="E45" modality="HYPOTHETICAL" polarity="POS" start="1439" text="recurrent pleural effusion" type="PROBLEM"/>
+<EVENT end="1519" id="E46" modality="FACTUAL" polarity="POS" start="1513" text="stable" type="OCCURRENCE"/>
+<EVENT end="1547" id="E47" modality="PROPOSED" polarity="POS" start="1536" text="transferred" type="OCCURRENCE"/>
+<EVENT end="178" id="E2" modality="FACTUAL" polarity="POS" start="155" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1570" id="E48" modality="PROPOSED" polarity="POS" start="1556" text="rehabilitation" type="CLINICAL_DEPT"/>
+<EVENT end="1628" id="E50" modality="FACTUAL" polarity="NEG" start="1615" text="authorization" type="OCCURRENCE"/>
+<EVENT end="1698" id="E49" modality="FACTUAL" polarity="POS" start="1686" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1762" id="E51" modality="FACTUAL" polarity="POS" start="1730" text="awaiting insurance authorization" type="OCCURRENCE"/>
+<EVENT end="1775" id="E52" modality="PROPOSED" polarity="POS" start="1767" text="transfer" type="OCCURRENCE"/>
+<EVENT end="1798" id="E53" modality="PROPOSED" polarity="POS" start="1784" text="rehabilitation" type="CLINICAL_DEPT"/>
+<EVENT end="193" id="E3" modality="FACTUAL" polarity="POS" start="181" text="endocarditis" type="PROBLEM"/>
+<EVENT end="1849" id="E54" modality="FACTUAL" polarity="POS" start="1814" text="the patient 's physical examination" type="TEST"/>
+<EVENT end="1877" id="E55" modality="FACTUAL" polarity="POS" start="1866" text="Vital signs" type="TEST"/>
+<EVENT end="1894" id="E56" modality="FACTUAL" polarity="POS" start="1883" text="temperature" type="TEST"/>
+<EVENT end="1912" id="E57" modality="FACTUAL" polarity="POS" start="1902" text="heart rate" type="TEST"/>
+<EVENT end="1932" id="E58" modality="FACTUAL" polarity="POS" start="1920" text="sinus rhythm" type="OCCURRENCE"/>
+<EVENT end="1949" id="E59" modality="FACTUAL" polarity="POS" start="1935" text="blood pressure" type="TEST"/>
+<EVENT end="1975" id="E60" modality="FACTUAL" polarity="POS" start="1959" text="respiratory rate" type="TEST"/>
+<EVENT end="1994" id="E61" modality="FACTUAL" polarity="POS" start="1981" text="O2 saturation" type="TEST"/>
+<EVENT end="2019" id="E62" modality="FACTUAL" polarity="POS" start="2013" text="Weight" type="TEST"/>
+<EVENT end="2032" id="E63" modality="FACTUAL" polarity="POS" start="2023" text="admission" type="OCCURRENCE"/>
+<EVENT end="2057" id="E64" modality="FACTUAL" polarity="POS" start="2048" text="discharge" type="OCCURRENCE"/>
+<EVENT end="237" id="E4" modality="FACTUAL" polarity="POS" start="206" text="coronary artery bypass grafting" type="TREATMENT"/>
+<EVENT end="2087" id="E65" modality="FACTUAL" polarity="POS" start="2072" text="Laboratory data" type="TEST"/>
+<EVENT end="2094" id="E66" modality="FACTUAL" polarity="POS" start="2088" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2108" id="E67" modality="FACTUAL" polarity="POS" start="2095" text="an hematocrit" type="TEST"/>
+<EVENT end="2121" id="E68" modality="FACTUAL" polarity="POS" start="2119" text="PT" type="TEST"/>
+<EVENT end="2130" id="E69" modality="FACTUAL" polarity="POS" start="2127" text="INR" type="TEST"/>
+<EVENT end="2146" id="E70" modality="FACTUAL" polarity="POS" start="2137" text="potassium" type="TEST"/>
+<EVENT end="2156" id="E71" modality="FACTUAL" polarity="POS" start="2153" text="BUN" type="TEST"/>
+<EVENT end="2172" id="E72" modality="FACTUAL" polarity="POS" start="2162" text="creatinine" type="TEST"/>
+<EVENT end="2191" id="E74" modality="FACTUAL" polarity="POS" start="2186" text="alert" type="OCCURRENCE"/>
+<EVENT end="2208" id="E75" modality="FACTUAL" polarity="POS" start="2196" text="oriented x 3" type="OCCURRENCE"/>
+<EVENT end="2232" id="E76" modality="FACTUAL" polarity="POS" start="2211" text="moved all extremities" type="OCCURRENCE"/>
+<EVENT end="2252" id="E77" modality="FACTUAL" polarity="POS" start="2235" text="followed commands" type="OCCURRENCE"/>
+<EVENT end="2278" id="E78" modality="FACTUAL" polarity="POS" start="2255" text="Respiratory examination" type="TEST"/>
+<EVENT end="2288" id="E80" modality="FACTUAL" polarity="POS" start="2283" text="clear" type="OCCURRENCE"/>
+<EVENT end="2316" id="E79" modality="FACTUAL" polarity="POS" start="2292" text="auscultation bilaterally" type="TEST"/>
+<EVENT end="2348" id="E84" modality="FACTUAL" polarity="POS" start="2334" text="a regular rate" type="OCCURRENCE"/>
+<EVENT end="2359" id="E83" modality="FACTUAL" polarity="POS" start="2353" text="rhythm" type="OCCURRENCE"/>
+<EVENT end="2392" id="E85" modality="FACTUAL" polarity="POS" start="2386" text="stable" type="OCCURRENCE"/>
+<EVENT end="2404" id="E86" modality="FACTUAL" polarity="POS" start="2395" text="Incisions" type="PROBLEM"/>
+<EVENT end="2421" id="E87" modality="FACTUAL" polarity="POS" start="2409" text="Steri-Strips" type="TREATMENT"/>
+<EVENT end="266" id="E5" modality="FACTUAL" polarity="POS" start="242" text="mitral valve replacement" type="TREATMENT"/>
+<EVENT end="2435" id="E88" modality="FACTUAL" polarity="POS" start="2424" text="open to air" type="OCCURRENCE"/>
+<EVENT end="2443" id="E89" modality="FACTUAL" polarity="POS" start="2438" text="clean" type="OCCURRENCE"/>
+<EVENT end="2451" id="E91" modality="FACTUAL" polarity="POS" start="2448" text="dry" type="OCCURRENCE"/>
+<EVENT end="2470" id="E92" modality="FACTUAL" polarity="POS" start="2466" text="soft" type="OCCURRENCE"/>
+<EVENT end="2482" id="E93" modality="FACTUAL" polarity="POS" start="2473" text="nontender" type="PROBLEM"/>
+<EVENT end="2497" id="E94" modality="FACTUAL" polarity="POS" start="2485" text="nondistended" type="PROBLEM"/>
+<EVENT end="2531" id="E95" modality="FACTUAL" polarity="POS" start="2505" text="normal active bowel sounds" type="OCCURRENCE"/>
+<EVENT end="2555" id="E96" modality="FACTUAL" polarity="POS" start="2551" text="warm" type="OCCURRENCE"/>
+<EVENT end="2573" id="E97" modality="FACTUAL" polarity="POS" start="2560" text="well perfused" type="OCCURRENCE"/>
+<EVENT end="2587" id="E98" modality="FACTUAL" polarity="NEG" start="2582" text="edema" type="PROBLEM"/>
+<EVENT end="2620" id="E99" modality="FACTUAL" polarity="POS" start="2590" text="Right lower extremity incision" type="PROBLEM"/>
+<EVENT end="2638" id="E100" modality="FACTUAL" polarity="POS" start="2626" text="Steri-Strips" type="TREATMENT"/>
+<EVENT end="2652" id="E101" modality="FACTUAL" polarity="POS" start="2641" text="open to air" type="OCCURRENCE"/>
+<EVENT end="2660" id="E102" modality="FACTUAL" polarity="POS" start="2655" text="clean" type="OCCURRENCE"/>
+<EVENT end="2668" id="E103" modality="FACTUAL" polarity="POS" start="2665" text="dry" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="301" id="E6" modality="FACTUAL" polarity="POS" start="290" text="transferred" type="OCCURRENCE"/>
+<EVENT end="341" id="E7" modality="FACTUAL" polarity="POS" start="305" text="Erich Lindemann Mental Health Center" type="CLINICAL_DEPT"/>
+<EVENT end="372" id="E8" modality="FACTUAL" polarity="POS" start="347" text="the rehabilitation center" type="CLINICAL_DEPT"/>
+<EVENT end="401" id="E9" modality="FACTUAL" polarity="POS" start="391" text="discharged" type="OCCURRENCE"/>
+<EVENT end="441" id="E10" modality="FACTUAL" polarity="POS" start="429" text="his CABG/MVR" type="TREATMENT"/>
+<EVENT end="472" id="E11" modality="FACTUAL" polarity="POS" start="447" text="the rehabilitation center" type="CLINICAL_DEPT"/>
+<EVENT end="514" id="E12" modality="FACTUAL" polarity="POS" start="495" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="530" id="E13" modality="FACTUAL" polarity="POS" start="517" text="A chest x-ray" type="TEST"/>
+<EVENT end="557" id="E14" modality="FACTUAL" polarity="POS" start="549" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="581" id="E15" modality="POSSIBLE" polarity="POS" start="558" text="a left-sided infiltrate" type="PROBLEM"/>
+<EVENT end="597" id="E16" modality="POSSIBLE" polarity="POS" start="589" text="effusion" type="PROBLEM"/>
+<EVENT end="618" id="E17" modality="FACTUAL" polarity="POS" start="607" text="transferred" type="OCCURRENCE"/>
+<EVENT end="647" id="E18" modality="FACTUAL" polarity="POS" start="622" text="Mass. Eye &amp; Ear Infirmary" type="CLINICAL_DEPT"/>
+<EVENT end="661" id="E19" modality="FACTUAL" polarity="POS" start="652" text="treatment" type="TREATMENT"/>
+<EVENT end="689" id="E20" modality="FACTUAL" polarity="POS" start="679" text="complained" type="EVIDENTIAL"/>
+<EVENT end="706" id="E21" modality="FACTUAL" polarity="NEG" start="696" text="chest pain" type="PROBLEM"/>
+<EVENT end="717" id="E22" modality="FACTUAL" polarity="NEG" start="709" text="weakness" type="PROBLEM"/>
+<EVENT end="726" id="E23" modality="FACTUAL" polarity="NEG" start="721" text="cough" type="PROBLEM"/>
+<EVENT end="774" id="E24" modality="FACTUAL" polarity="POS" start="744" text="intermittently short of breath" type="PROBLEM"/>
+<EVENT end="803" id="E28" modality="FACTUAL" polarity="POS" start="789" text="anticoagulated" type="TREATMENT"/>
+<EVENT end="837" id="E26" modality="FACTUAL" polarity="POS" start="823" text="rehabilitation" type="CLINICAL_DEPT"/>
+<EVENT end="861" id="E27" modality="FACTUAL" polarity="POS" start="842" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="906" id="E29" modality="FACTUAL" polarity="POS" start="898" text="admitted" type="OCCURRENCE"/>
+<EVENT end="925" id="E30" modality="FACTUAL" polarity="POS" start="910" text="Vencor Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="960" id="E31" modality="FACTUAL" polarity="POS" start="941" text="fresh frozen plasma" type="TREATMENT"/>
+<EVENT end="979" id="E32" modality="FACTUAL" polarity="POS" start="972" text="his INR" type="TEST"/>
+<EVENT end="1001" id="E33" modality="FACTUAL" polarity="POS" start="984" text="a left chest tube" type="TREATMENT"/>
+
+<RTIMEX3 end="1092" id="T5" mod="NA" start="1076" text="hospital day two" type="DATE" val="2010-08-31"/>
+
+<RTIMEX3 end="1324" id="T7" mod="NA" start="1306" text="hospital day three" type="DATE" val="2010-09-01"/>
+
+<ATIMEX3 end="1476" id="T9" mod="NA" start="1471" text="09-02" type="DATE" val="2010-09-02"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2010-08-30" type="DATE" val="2010-08-30"/>
+<ATIMEX3 end="280" id="T2" mod="NA" start="270" text="2010-08-13" type="DATE" val="2010-08-13"/>
+<ATIMEX3 end="418" id="T3" mod="NA" start="408" text="2010-08-25" type="DATE" val="2010-08-25"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2010-09-06" type="DATE" val="2010-09-06"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2010-08-30" end="28" id="S0" start="18" text="2010-08-30" type="ADMISSION"/>
+<SECTIME dvalue="2010-09-06" end="56" id="S1" start="46" text="2010-09-06" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

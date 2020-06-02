@@ -1,0 +1,227 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date : 
+04/21/1994 
+Discharge Date : 
+04/29/1994 
+HISTORY OF PRESENT ILLNESS : 
+Patient is an 88 year old female with fatigue and decreased short term memory for the past six months . 
+The past six weeks , she has also been complaining of hot sensation and tingling sensation in the hands bilaterally . 
+For the past five weeks , the patient has experienced dragging of the right leg with weakness throughout that side . 
+Head CT was done which patient reported demonstrated three lesions in the left parietal region of the brain . 
+Bone scan , CT of the abdomen , chest X-Ray , and mammogram were all negative . 
+Patient noted the foot dragging to have worsened over the past few weeks but improved since on Decadron the past week before admission . 
+Patient is now admitted for elective left parietal stereotactic biopsy of the tumor . 
+PAST MEDICAL / SURGICAL HISTORY : 
+Significant for a history of hypertension , basal cell carcinoma of the nose six years ago , cataracts , and a hysterectomy . 
+ALLERGIES : 
+No known drug allergies . 
+CURRENT MEDICATIONS : 
+Hydrochlorothiazide 25 mg q.d. and Decadron 25 mg b.i.d. 
+HOSPITAL COURSE : 
+Patient was taken to the Operating Room on April 21 where patient underwent a left parietal stereotactic guided brain biopsy . 
+Patient tolerated the procedure well without any complications and was taken to the Recovery Room awake and stable then subsequently transferred to the floor . 
+Patient did well post-operatively , continued to have a right sided deficit , and Physical Therapy and Occupational Therapy visited the patient , worked with the patient , and determined that patient needed rehabilitation with Physical Therapy . 
+The patient was evaluated by Doing and was subsequently accepted into that program . 
+Patient is now discharged to Harl Wa Healthcare Network on April 29 , 1994 in stable condition . 
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1048" id="E36" modality="FACTUAL" polarity="NEG" start="1028" text="known drug allergies" type="PROBLEM"/>
+<EVENT end="1094" id="E37" modality="FACTUAL" polarity="POS" start="1075" text="Hydrochlorothiazide" type="TREATMENT"/>
+<EVENT end="1118" id="E38" modality="FACTUAL" polarity="POS" start="1110" text="Decadron" type="TREATMENT"/>
+<EVENT end="1191" id="E39" modality="FACTUAL" polarity="POS" start="1173" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="1276" id="E8" modality="FACTUAL" polarity="POS" start="1228" text="a left parietal stereotactic guided brain biopsy" type="TEST"/>
+<EVENT end="136" id="E16" modality="FACTUAL" polarity="POS" start="129" text="fatigue" type="PROBLEM"/>
+<EVENT end="1297" id="E13" modality="FACTUAL" polarity="POS" start="1288" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1311" id="E9" modality="FACTUAL" polarity="POS" start="1298" text="the procedure" type="TEST"/>
+<EVENT end="1342" id="E10" modality="FACTUAL" polarity="NEG" start="1325" text="any complications" type="PROBLEM"/>
+<EVENT end="1377" id="E40" modality="FACTUAL" polarity="POS" start="1360" text="the Recovery Room" type="CLINICAL_DEPT"/>
+<EVENT end="1394" id="E41" modality="FACTUAL" polarity="POS" start="1378" text="awake and stable" type="OCCURRENCE"/>
+<EVENT end="168" id="E17" modality="FACTUAL" polarity="POS" start="141" text="decreased short term memory" type="PROBLEM"/>
+<EVENT end="1424" id="E14" modality="FACTUAL" polarity="POS" start="1413" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1437" id="E42" modality="FACTUAL" polarity="POS" start="1428" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="1457" id="E44" modality="FACTUAL" polarity="POS" start="1453" text="well" type="OCCURRENCE"/>
+<EVENT end="1516" id="E45" modality="FACTUAL" polarity="POS" start="1495" text="a right sided deficit" type="PROBLEM"/>
+<EVENT end="1539" id="E46" modality="FACTUAL" polarity="POS" start="1523" text="Physical Therapy" type="CLINICAL_DEPT"/>
+<EVENT end="1564" id="E47" modality="FACTUAL" polarity="POS" start="1544" text="Occupational Therapy" type="CLINICAL_DEPT"/>
+<EVENT end="1593" id="E49" modality="FACTUAL" polarity="POS" start="1587" text="worked" type="TREATMENT"/>
+<EVENT end="1627" id="E50" modality="FACTUAL" polarity="POS" start="1617" text="determined" type="OCCURRENCE"/>
+<EVENT end="1662" id="E51" modality="PROPOSED" polarity="POS" start="1648" text="rehabilitation" type="TREATMENT"/>
+<EVENT end="1686" id="E52" modality="FACTUAL" polarity="POS" start="1668" text="Physical Therapy ." type="CLINICAL_DEPT"/>
+<EVENT end="1713" id="E53" modality="FACTUAL" polarity="POS" start="1704" text="evaluated" type="TEST"/>
+<EVENT end="1770" id="E54" modality="FACTUAL" polarity="POS" start="1744" text="accepted into that program" type="OCCURRENCE"/>
+<EVENT end="1799" id="E55" modality="FACTUAL" polarity="POS" start="1789" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1829" id="E56" modality="FACTUAL" polarity="POS" start="1803" text="Harl Wa Healthcare Network" type="CLINICAL_DEPT"/>
+<EVENT end="1868" id="E57" modality="FACTUAL" polarity="POS" start="1852" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="246" id="E18" modality="FACTUAL" polarity="POS" start="235" text="complaining" type="EVIDENTIAL"/>
+<EVENT end="263" id="E19" modality="FACTUAL" polarity="POS" start="250" text="hot sensation" type="PROBLEM"/>
+<EVENT end="311" id="E20" modality="FACTUAL" polarity="POS" start="268" text="tingling sensation in the hands bilaterally" type="PROBLEM"/>
+<EVENT end="40" id="E15" modality="FACTUAL" polarity="POS" start="31" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="394" id="E21" modality="FACTUAL" polarity="POS" start="369" text="dragging of the right leg" type="PROBLEM"/>
+<EVENT end="408" id="E22" modality="FACTUAL" polarity="POS" start="400" text="weakness" type="PROBLEM"/>
+<EVENT end="440" id="E1" modality="FACTUAL" polarity="POS" start="433" text="Head CT" type="TEST"/>
+<EVENT end="472" id="E11" modality="FACTUAL" polarity="POS" start="464" text="reported" type="EVIDENTIAL"/>
+<EVENT end="485" id="E23" modality="FACTUAL" polarity="POS" start="473" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="527" id="E24" modality="FACTUAL" polarity="POS" start="486" text="three lesions in the left parietal region" type="PROBLEM"/>
+<EVENT end="553" id="E2" modality="FACTUAL" polarity="POS" start="544" text="Bone scan" type="TEST"/>
+<EVENT end="573" id="E3" modality="FACTUAL" polarity="POS" start="556" text="CT of the abdomen" type="TEST"/>
+<EVENT end="587" id="E4" modality="FACTUAL" polarity="POS" start="576" text="chest X-Ray" type="TEST"/>
+<EVENT end="603" id="E5" modality="FACTUAL" polarity="POS" start="594" text="mammogram" type="TEST"/>
+<EVENT end="621" id="E25" modality="FACTUAL" polarity="POS" start="613" text="negative" type="EVIDENTIAL"/>
+<EVENT end="638" id="E12" modality="FACTUAL" polarity="POS" start="633" text="noted" type="EVIDENTIAL"/>
+<EVENT end="656" id="E26" modality="FACTUAL" polarity="POS" start="639" text="the foot dragging" type="PROBLEM"/>
+<EVENT end="673" id="E27" modality="FACTUAL" polarity="POS" start="665" text="worsened" type="OCCURRENCE"/>
+<EVENT end="710" id="E28" modality="FACTUAL" polarity="POS" start="702" text="improved" type="OCCURRENCE"/>
+<EVENT end="728" id="E29" modality="FACTUAL" polarity="POS" start="720" text="Decadron" type="TREATMENT"/>
+<EVENT end="759" id="E30" modality="FACTUAL" polarity="POS" start="750" text="admission" type="OCCURRENCE"/>
+<EVENT end="786" id="E31" modality="FACTUAL" polarity="POS" start="778" text="admitted" type="OCCURRENCE"/>
+<EVENT end="833" id="E32" modality="FACTUAL" polarity="POS" start="791" text="elective left parietal stereotactic biopsy" type="TEST"/>
+<EVENT end="846" id="E33" modality="FACTUAL" polarity="POS" start="837" text="the tumor" type="PROBLEM"/>
+<EVENT end="926" id="E34" modality="FACTUAL" polarity="POS" start="914" text="hypertension" type="PROBLEM"/>
+<EVENT end="961" id="E6" modality="FACTUAL" polarity="POS" start="929" text="basal cell carcinoma of the nose" type="PROBLEM"/>
+<EVENT end="987" id="E35" modality="FACTUAL" polarity="POS" start="978" text="cataracts" type="PROBLEM"/>
+<EVENT end="1008" id="E7" modality="FACTUAL" polarity="POS" start="994" text="a hysterectomy" type="TREATMENT"/>
+
+
+<RTIMEX3 end="1203" id="T9" mod="NA" start="1195" text="April 21" type="DATE" val="1994-04-21"/>
+
+<RTIMEX3 end="1848" id="T10" mod="NA" start="1833" text="April 29 , 1994" type="DATE" val="1994-04-29"/>
+<ATIMEX3 end="29" id="T0" mod="NA" start="19" text="04/21/1994" type="DATE" val="1994-04-21"/>
+
+
+<ATIMEX3 end="59" id="T1" mod="NA" start="49" text="04/29/1994" type="DATE" val="1994-04-29"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-04-21" end="29" id="S0" start="19" text="04/21/1994" type="ADMISSION"/>
+<SECTIME dvalue="1994-04-29" end="59" id="S1" start="49" text="04/29/1994" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

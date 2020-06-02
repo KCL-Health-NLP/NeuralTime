@@ -1,0 +1,192 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+5/14/92
+DISCHARGE DATE :
+5/19/92
+DISCHARGE DATE :
+5/19/92
+HISTORY OF PRESENT ILLNESS :
+The patient is a 71 year old white female with metastatic ovarian carcinoma , who recently underwent an exploratory laparotomy on 5/2 by Dr. Korcblinknud .
+She was found to have widely metastatic ovarian carcinoma .
+There was sigmoid narrowing near a large left ovarian mass , and distal ileal narrowing by a right ovarian mass .
+The patient had an ileostomy performed and had had her first course of chemotherapy and later debulking operation by Dr. Median .
+She was well at home until 8:30 p.m. on the day of admission , when she developed acute onset of right foot pain , which was worse with walking .
+She complained of increased numbness of the right foot over time , and was seen at Sephsandpot Center , where she was found to have palpable right femoral and popliteal pulses , and no pedal pulses .
+The patient was transferred to the Fairm of Ijordcompmac Hospital .
+She had previous history of claudication .
+HOSPITAL COURSE :
+ON 5/14/92 , the patient received an arteriogram which demonstrated an embolus in the right profunda / femoral artery .
+There was an occlusion in the proximal calf , of the peroneal and anterior tibial arteries .
+There was an occlusion of posterior tibial artery at the ankle .
+She was taken urgently to the operating room , where she underwent embolectomy of the profunda superficial femoral vessels .
+The estimated blood loss was 200 cc. and she tolerated the procedure well .
+Postoperatively , she was again noted to have a cold right lower extremity with diminished pulses and was again taken to the operating room , where she underwent a right popliteal exploration and thrombectomy .
+She again tolerated the procedure well and did well postoperatively .
+On 5/19 , she had an echocardiogram done which was to be evaluated as an out patient .
+By discharge she was walking and taking PO&apos;s without problem .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1019" id="E25" modality="FACTUAL" polarity="POS" start="1007" text="claudication" type="PROBLEM"/>
+<EVENT end="1088" id="E26" modality="FACTUAL" polarity="POS" start="1074" text="an arteriogram" type="TEST"/>
+<EVENT end="1107" id="E27" modality="FACTUAL" polarity="POS" start="1095" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="1157" id="E28" modality="FACTUAL" polarity="POS" start="1108" text="an embolus in the right profunda / femoral artery" type="PROBLEM"/>
+<EVENT end="1203" id="E29" modality="FACTUAL" polarity="POS" start="1170" text="an occlusion in the proximal calf" type="PROBLEM"/>
+<EVENT end="1302" id="E30" modality="FACTUAL" polarity="POS" start="1263" text="an occlusion of posterior tibial artery" type="PROBLEM"/>
+<EVENT end="1362" id="E31" modality="FACTUAL" polarity="POS" start="1344" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1440" id="E32" modality="FACTUAL" polarity="POS" start="1385" text="embolectomy of the profunda superficial femoral vessels" type="TREATMENT"/>
+<EVENT end="1467" id="E33" modality="FACTUAL" polarity="POS" start="1443" text="The estimated blood loss" type="PROBLEM"/>
+<EVENT end="1497" id="E34" modality="FACTUAL" polarity="POS" start="1488" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1511" id="E35" modality="FACTUAL" polarity="POS" start="1498" text="the procedure" type="TREATMENT"/>
+<EVENT end="180" id="E3" modality="FACTUAL" polarity="POS" start="152" text="metastatic ovarian carcinoma" type="PROBLEM"/>
+<EVENT end="1593" id="E36" modality="FACTUAL" polarity="POS" start="1565" text="a cold right lower extremity" type="PROBLEM"/>
+<EVENT end="1616" id="E37" modality="FACTUAL" polarity="POS" start="1599" text="diminished pulses" type="PROBLEM"/>
+<EVENT end="1658" id="E38" modality="FACTUAL" polarity="POS" start="1640" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1710" id="E39" modality="FACTUAL" polarity="POS" start="1681" text="a right popliteal exploration" type="TEST"/>
+<EVENT end="1727" id="E40" modality="FACTUAL" polarity="POS" start="1715" text="thrombectomy" type="TREATMENT"/>
+<EVENT end="1749" id="E41" modality="FACTUAL" polarity="POS" start="1740" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1763" id="E42" modality="FACTUAL" polarity="POS" start="1750" text="the procedure" type="TREATMENT"/>
+<EVENT end="1781" id="E43" modality="FACTUAL" polarity="POS" start="1773" text="did well" type="OCCURRENCE"/>
+<EVENT end="1835" id="E44" modality="FACTUAL" polarity="POS" start="1818" text="an echocardiogram" type="TEST"/>
+<EVENT end="1866" id="E45" modality="FACTUAL" polarity="POS" start="1857" text="evaluated" type="OCCURRENCE"/>
+<EVENT end="1899" id="E46" modality="FACTUAL" polarity="POS" start="1890" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1915" id="E47" modality="FACTUAL" polarity="POS" start="1908" text="walking" type="OCCURRENCE"/>
+<EVENT end="1936" id="E48" modality="FACTUAL" polarity="POS" start="1927" text="PO's" type="OCCURRENCE"/>
+<EVENT end="1952" id="E49" modality="FACTUAL" polarity="NEG" start="1945" text="problem" type="PROBLEM"/>
+<EVENT end="231" id="E4" modality="FACTUAL" polarity="POS" start="206" text="an exploratory laparotomy" type="TEST"/>
+<EVENT end="35" id="E1" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="318" id="E5" modality="FACTUAL" polarity="POS" start="283" text="widely metastatic ovarian carcinoma" type="PROBLEM"/>
+<EVENT end="348" id="E6" modality="FACTUAL" polarity="POS" start="331" text="sigmoid narrowing" type="PROBLEM"/>
+<EVENT end="379" id="E7" modality="FACTUAL" polarity="POS" start="354" text="a large left ovarian mass" type="PROBLEM"/>
+<EVENT end="408" id="E8" modality="FACTUAL" polarity="POS" start="386" text="distal ileal narrowing" type="PROBLEM"/>
+<EVENT end="432" id="E9" modality="FACTUAL" polarity="POS" start="412" text="a right ovarian mass" type="PROBLEM"/>
+<EVENT end="463" id="E10" modality="FACTUAL" polarity="POS" start="451" text="an ileostomy" type="TREATMENT"/>
+<EVENT end="518" id="E11" modality="FACTUAL" polarity="POS" start="506" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="60" id="E2" modality="FACTUAL" polarity="POS" start="51" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="548" id="E12" modality="FACTUAL" polarity="POS" start="529" text="debulking operation" type="TREATMENT"/>
+<EVENT end="577" id="E13" modality="FACTUAL" polarity="POS" start="573" text="well" type="OCCURRENCE"/>
+<EVENT end="625" id="E14" modality="FACTUAL" polarity="POS" start="616" text="admission" type="OCCURRENCE"/>
+<EVENT end="677" id="E15" modality="FACTUAL" polarity="POS" start="662" text="right foot pain" type="PROBLEM"/>
+<EVENT end="695" id="E16" modality="FACTUAL" polarity="POS" start="690" text="worse" type="OCCURRENCE"/>
+<EVENT end="708" id="E17" modality="FACTUAL" polarity="POS" start="701" text="walking" type="OCCURRENCE"/>
+<EVENT end="725" id="E18" modality="FACTUAL" polarity="POS" start="715" text="complained" type="EVIDENTIAL"/>
+<EVENT end="765" id="E19" modality="FACTUAL" polarity="POS" start="729" text="increased numbness of the right foot" type="PROBLEM"/>
+<EVENT end="812" id="E20" modality="FACTUAL" polarity="POS" start="794" text="Sephsandpot Center" type="CLINICAL_DEPT"/>
+<EVENT end="886" id="E21" modality="FACTUAL" polarity="POS" start="843" text="palpable right femoral and popliteal pulses" type="OCCURRENCE"/>
+<EVENT end="908" id="E22" modality="FACTUAL" polarity="POS" start="893" text="no pedal pulses" type="PROBLEM"/>
+<EVENT end="938" id="E23" modality="FACTUAL" polarity="POS" start="927" text="transferred" type="OCCURRENCE"/>
+<EVENT end="976" id="E24" modality="FACTUAL" polarity="POS" start="942" text="the Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<ATIMEX3 end="1050" id="T5" mod="NA" start="1043" text="5/14/92" type="DATE" val="1992-05-14"/>
+<ATIMEX3 end="25" id="T0" mod="NA" start="18" text="5/14/92" type="DATE" val="1992-05-14"/>
+<ATIMEX3 end="1807" id="T6" mod="NA" start="1803" text="5/19" type="DATE" val="1992-05-19"/>
+<ATIMEX3 end="238" id="T3" mod="NA" start="235" text="5/2" type="DATE" val="1992-05-02"/>
+<ATIMEX3 end="50" id="T1" mod="NA" start="43" text="5/19/92" type="DATE" val="1992-05-19"/>
+<ATIMEX3 end="612" id="T4" mod="NA" start="592" text="8:30 p.m. on the day" type="TIME" val="1992-05-14t20:30"/>
+<ATIMEX3 end="75" id="T2" mod="NA" start="68" text="5/19/92" type="DATE" val="1992-05-19"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-5-14" end="25" id="S0" start="18" text="5/14/92" type="ADMISSION"/>
+<SECTIME dvalue="1992-5-19" end="50" id="S1" start="43" text="5/19/92" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

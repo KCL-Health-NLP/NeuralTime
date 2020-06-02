@@ -1,0 +1,258 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date:
+2014-03-31
+Discharge Date :
+2014-04-01
+Service :
+CMED
+HISTORY :
+Baby Alfonso Carroll is a full term infant born at 3.325 kg to a 35-year-old G2 , P1 , now 2 mother .
+Prenatal screens - blood type O positive , antibody screen negative , hepatitis B surface antigen negative , RPR nonreactive , rubella immune .
+GBS negative .
+Maternal history notable for hypothyroidism on Levoxyl .
+Primary cesarean section with previous pregnancy for arrest of descent .
+Other meds : Paxil .
+This pregnancy is complicated by a cyst noted on the umbilical cord on fetal ultrasound study at 18 weeks gestation .
+Mother presented in spontaneous labor .
+No perineal sepsis risk factors .
+No maternal fever .
+No prolonged rupture of membranes .
+Clear amniotic fluid .
+Anesthesia by epidural .
+Vaginal delivery .
+Apgars were 8 and 9 .
+SUMMARY OF HOSPITAL COURSE BY SYSTEMS :
+RESPIRATORY : He has been stable in room air throughout hospital course .
+CARDIOVASCULAR : No cardiovascular issues .
+FLUIDS , ELECTROLYTES AND NUTRITION : Infant initiated on 60 cc per kg per day of D10W .
+D-sticks have been stable . Infant is allowed to ad lib breast feed which he is doing vigorously .
+GASTROINTESTINAL : Infant is ad lib feeding .
+An abdominal ultrasound was performed .
+Initial impression included omphalocele with further imaging of the bowel to be done .
+Surgery was consulted and Dr. Boston took patient to OR for exploration of cord on 04-01 .
+Urachal duct remnanr found , removed and bladder repaired .
+Post op course unremrakable .
+PAtient began feeding first post op day and has done well .
+HEMATOLOGY : Hematocrit on admission was 52.8 .
+The infant does not require a new blood transfusion .
+INFECTIOUS DISEASE : CBC and blood culture obtained on admission .
+Initial CBC had a white count of 20 , platelet count of 386 , 63 polys , 2 bands , 23 lymphs .
+Blood cultures remained negative at this time .
+Infant has not received any antibiotics .
+NEUROLOGIC : Infant has been appropriate for gestational age .
+SENSORY : Hearing screen has not yet been performed but should be done prior to discharge .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1074" id="E33" modality="FACTUAL" polarity="POS" start="1070" text="D10W" type="TREATMENT"/>
+<EVENT end="1085" id="E34" modality="FACTUAL" polarity="POS" start="1077" text="D-sticks" type="TEST"/>
+<EVENT end="1102" id="E35" modality="FACTUAL" polarity="POS" start="1096" text="stable" type="OCCURRENCE"/>
+<EVENT end="1144" id="E36" modality="FACTUAL" polarity="POS" start="1133" text="breast feed" type="OCCURRENCE"/>
+<EVENT end="1219" id="E37" modality="FACTUAL" polarity="POS" start="1212" text="feeding" type="OCCURRENCE"/>
+<EVENT end="1245" id="E38" modality="FACTUAL" polarity="POS" start="1222" text="An abdominal ultrasound" type="TEST"/>
+<EVENT end="128" id="E2" modality="FACTUAL" polarity="POS" start="124" text="born" type="OCCURRENCE"/>
+<EVENT end="1301" id="E39" modality="FACTUAL" polarity="POS" start="1290" text="omphalocele" type="PROBLEM"/>
+<EVENT end="1335" id="E40" modality="FACTUAL" polarity="POS" start="1307" text="further imaging of the bowel" type="TEST"/>
+<EVENT end="1404" id="E41" modality="FACTUAL" polarity="POS" start="1402" text="OR" type="CLINICAL_DEPT"/>
+<EVENT end="1428" id="E42" modality="FACTUAL" polarity="POS" start="1409" text="exploration of cord" type="TEST"/>
+<EVENT end="1460" id="E43" modality="FACTUAL" polarity="POS" start="1440" text="Urachal duct remnanr" type="PROBLEM"/>
+<EVENT end="1476" id="E44" modality="FACTUAL" polarity="POS" start="1469" text="removed" type="TREATMENT"/>
+<EVENT end="1497" id="E45" modality="FACTUAL" polarity="POS" start="1481" text="bladder repaired" type="TREATMENT"/>
+<EVENT end="1514" id="E46" modality="FACTUAL" polarity="POS" start="1500" text="Post op course" type="OCCURRENCE"/>
+<EVENT end="1527" id="E47" modality="FACTUAL" polarity="POS" start="1515" text="unremrakable" type="OCCURRENCE"/>
+<EVENT end="1551" id="E48" modality="FACTUAL" polarity="POS" start="1544" text="feeding" type="OCCURRENCE"/>
+<EVENT end="1587" id="E49" modality="FACTUAL" polarity="POS" start="1578" text="done well" type="OCCURRENCE"/>
+<EVENT end="1613" id="E50" modality="FACTUAL" polarity="POS" start="1603" text="Hematocrit" type="TEST"/>
+<EVENT end="1626" id="E51" modality="FACTUAL" polarity="POS" start="1617" text="admission" type="OCCURRENCE"/>
+<EVENT end="1689" id="E52" modality="FACTUAL" polarity="NEG" start="1666" text="a new blood transfusion" type="TREATMENT"/>
+<EVENT end="1716" id="E53" modality="FACTUAL" polarity="POS" start="1713" text="CBC" type="TEST"/>
+<EVENT end="1734" id="E54" modality="FACTUAL" polarity="POS" start="1721" text="blood culture" type="TEST"/>
+<EVENT end="1756" id="E55" modality="FACTUAL" polarity="POS" start="1747" text="admission" type="OCCURRENCE"/>
+<EVENT end="1770" id="E56" modality="FACTUAL" polarity="POS" start="1759" text="Initial CBC" type="TEST"/>
+<EVENT end="1788" id="E57" modality="FACTUAL" polarity="POS" start="1775" text="a white count" type="TEST"/>
+<EVENT end="1811" id="E58" modality="FACTUAL" polarity="POS" start="1797" text="platelet count" type="TEST"/>
+<EVENT end="199" id="E3" modality="FACTUAL" polarity="POS" start="183" text="Prenatal screens" type="TEST"/>
+<EVENT end="1829" id="E59" modality="FACTUAL" polarity="POS" start="1824" text="polys" type="TEST"/>
+<EVENT end="1839" id="E60" modality="FACTUAL" polarity="POS" start="1834" text="bands" type="TEST"/>
+<EVENT end="1851" id="E61" modality="FACTUAL" polarity="POS" start="1845" text="lymphs" type="TEST"/>
+<EVENT end="1868" id="E62" modality="FACTUAL" polarity="POS" start="1854" text="Blood cultures" type="TEST"/>
+<EVENT end="1941" id="E63" modality="FACTUAL" polarity="NEG" start="1926" text="any antibiotics" type="TREATMENT"/>
+<EVENT end="2004" id="E64" modality="FACTUAL" polarity="POS" start="1973" text="appropriate for gestational age" type="OCCURRENCE"/>
+<EVENT end="212" id="E4" modality="FACTUAL" polarity="POS" start="202" text="blood type" type="TEST"/>
+<EVENT end="2031" id="E65" modality="PROPOSED" polarity="POS" start="2017" text="Hearing screen" type="TEST"/>
+<EVENT end="2096" id="E66" modality="FACTUAL" polarity="POS" start="2087" text="discharge" type="OCCURRENCE"/>
+<EVENT end="241" id="E5" modality="FACTUAL" polarity="POS" start="226" text="antibody screen" type="TEST"/>
+<EVENT end="280" id="E6" modality="FACTUAL" polarity="POS" start="253" text="hepatitis B surface antigen" type="TEST"/>
+<EVENT end="37" id="E1" modality="FACTUAL" polarity="POS" start="28" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="295" id="E7" modality="FACTUAL" polarity="POS" start="292" text="RPR" type="TEST"/>
+<EVENT end="317" id="E8" modality="FACTUAL" polarity="POS" start="310" text="rubella" type="TEST"/>
+<EVENT end="330" id="E9" modality="FACTUAL" polarity="NEG" start="327" text="GBS" type="PROBLEM"/>
+<EVENT end="385" id="E10" modality="FACTUAL" polarity="POS" start="371" text="hypothyroidism" type="PROBLEM"/>
+<EVENT end="396" id="E11" modality="FACTUAL" polarity="POS" start="389" text="Levoxyl" type="TREATMENT"/>
+<EVENT end="423" id="E12" modality="FACTUAL" polarity="POS" start="399" text="Primary cesarean section" type="TREATMENT"/>
+<EVENT end="447" id="E13" modality="FACTUAL" polarity="POS" start="429" text="previous pregnancy" type="OCCURRENCE"/>
+<EVENT end="469" id="E14" modality="FACTUAL" polarity="POS" start="452" text="arrest of descent" type="PROBLEM"/>
+<EVENT end="482" id="E15" modality="FACTUAL" polarity="POS" start="472" text="Other meds" type="TREATMENT"/>
+<EVENT end="490" id="E16" modality="FACTUAL" polarity="POS" start="485" text="Paxil" type="TREATMENT"/>
+<EVENT end="507" id="E17" modality="FACTUAL" polarity="POS" start="493" text="This pregnancy" type="OCCURRENCE"/>
+<EVENT end="532" id="E18" modality="FACTUAL" polarity="POS" start="526" text="a cyst" type="PROBLEM"/>
+<EVENT end="586" id="E19" modality="FACTUAL" polarity="POS" start="564" text="fetal ultrasound study" type="TEST"/>
+<EVENT end="627" id="E20" modality="FACTUAL" polarity="POS" start="618" text="presented" type="OCCURRENCE"/>
+<EVENT end="650" id="E21" modality="FACTUAL" polarity="POS" start="631" text="spontaneous labor ." type="OCCURRENCE"/>
+<EVENT end="682" id="E22" modality="FACTUAL" polarity="NEG" start="654" text="perineal sepsis risk factors" type="PROBLEM"/>
+<EVENT end="702" id="E23" modality="FACTUAL" polarity="NEG" start="688" text="maternal fever" type="PROBLEM"/>
+<EVENT end="738" id="E24" modality="FACTUAL" polarity="NEG" start="708" text="prolonged rupture of membranes" type="PROBLEM"/>
+<EVENT end="761" id="E25" modality="FACTUAL" polarity="POS" start="741" text="Clear amniotic fluid" type="OCCURRENCE"/>
+<EVENT end="774" id="E26" modality="FACTUAL" polarity="POS" start="764" text="Anesthesia" type="TREATMENT"/>
+<EVENT end="786" id="E27" modality="FACTUAL" polarity="POS" start="778" text="epidural" type="TREATMENT"/>
+<EVENT end="805" id="E28" modality="FACTUAL" polarity="POS" start="789" text="Vaginal delivery" type="OCCURRENCE"/>
+<EVENT end="814" id="E29" modality="FACTUAL" polarity="POS" start="808" text="Apgars" type="TEST"/>
+<EVENT end="902" id="E30" modality="FACTUAL" polarity="POS" start="896" text="stable" type="OCCURRENCE"/>
+<EVENT end="941" id="E31" modality="FACTUAL" polarity="POS" start="926" text="hospital course" type="OCCURRENCE"/>
+<EVENT end="985" id="E32" modality="FACTUAL" polarity="NEG" start="964" text="cardiovascular issues" type="PROBLEM"/>
+
+
+<ATIMEX3 end="1437" id="T5" mod="NA" start="1432" text="04-01" type="DATE" val="2014-04-01"/>
+<RTIMEX3 end="1569" id="T6" mod="NA" start="1552" text="first post op day" type="DATE" val="2014-04-01"/>
+<ATIMEX3 end="27" id="T0" mod="NA" start="17" text="2014-03-31" type="DATE" val="2014-03-31"/>
+<ATIMEX3 end="55" id="T1" mod="NA" start="45" text="2014-04-01" type="DATE" val="2014-04-01"/>
+<ATIMEX3 end="598" id="T2" mod="APPROX" start="590" text="18 weeks" type="DATE" val="2013-10-29"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2014-03-31" end="28" id="S0" start="18" text="2014-03-31" type="ADMISSION"/>
+<SECTIME dvalue="2014-04-01" end="56" id="S1" start="46" text="2014-04-01" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

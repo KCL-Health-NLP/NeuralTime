@@ -1,0 +1,267 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+4/14/94
+DISCHARGE DATE :
+4/20/94
+DISCHARGE DATE :
+4/20/94
+HISTORY OF PRESENT ILLNESS :
+Mr. Le is a seventy three year old male who presents to the Fairm of Ijordcompmac Hospital , following a self inflicted gunshot wound to the head .
+Mr. Le was found in bed with a 32 caliber revolver at his side .
+The patient was apparently alone at home , his neighbors heard a single shot , and the paramedics were called .
+Upon arrival , they found the patient in bed , with notes nearby , listing his funeral home preferences and information on his next of kin .
+The patient indicates that his neighbors were making excessive noise upstairs from his dwelling , and he found it unbearable .
+He therefore decided to take his life with a gun which he had found in the house .
+Apparently , the gun belonged to his father .
+On further questioning , the patient described that his father passed away approximately forty to fifty years prior to his admission , and the gun was found in a box in their home .
+The patient expressed concern that he had several utility bills that he was unable to pay .
+The patient &apos;s sister died eight years prior to the patient &apos;s admission of leukemia , and he otherwise has no next of kin with the exception of one brother in Washington , with whom his relationship is tenuous .
+On initial questioning , however , the patient denies any recent losses .
+On admission , the patient denies any suicidal or homicidal ideation .
+HOSPITAL COURSE :
+The patient was admitted to the Fairm of Ijordcompmac Hospital , on the Neurological Surgery Service of Lupevickette L. Ca , M.D.
+Prior to his admission , the patient &apos;s gunshot wound was sutured close in the emergency room .
+The patient was placed on suicide precautions , and was hydrated with an infusion of intravenous fluid .
+The patient was seen in consultation by the Psychiatry Service , who began a battery of testing , which continues at the time of discharge .
+The Consulting Psychiatrist recommended a minimum of 2 point restraints at all times , and recommended the patient be monitored by a sitter .
+Allowing the patient to ambulate was not recommended .
+From a medical standpoint , the patient did well .
+He was initially admitted to the Neurological Intensive Care Unit where he was closely monitored during the first two days of his hospitalization .
+The chief obstacle was bringing his blood pressure under control and this was ultimately achieved with a combination of Captopril and Nifedipine .
+After his blood pressure had stabilized , the patient was transferred to the Neurology Ward .
+Close monitoring demonstrated his blood pressure to be stable and within an acceptable rang on his dosage regimen .
+The Psychiatry Service followed up extensively with the patient , and his Psychiatric progress is detailed in the Psychiatry transfer note .
+By the 7th hospital day , the patient was medically stable .
+He had undergone full Psychiatric evaluation , and was prepared for transfer to a Psychiatric Hospital .
+Therefore , because of his need for intense psychiatric care , the patient is discharged to the Vo Black Doylestrictshore Ft. Clinics Medical Center on the 7th hospital day .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1038" id="E19" modality="FACTUAL" polarity="POS" start="1021" text="expressed concern" type="EVIDENTIAL"/>
+<EVENT end="1098" id="E20" modality="FACTUAL" polarity="POS" start="1085" text="unable to pay" type="PROBLEM"/>
+<EVENT end="1132" id="E21" modality="FACTUAL" polarity="POS" start="1101" text="The patient 's sister died" type="OCCURRENCE"/>
+<EVENT end="1183" id="E22" modality="FACTUAL" polarity="POS" start="1174" text="admission" type="OCCURRENCE"/>
+<EVENT end="1195" id="E23" modality="FACTUAL" polarity="POS" start="1187" text="leukemia" type="PROBLEM"/>
+<EVENT end="1346" id="E24" modality="FACTUAL" polarity="POS" start="1327" text="initial questioning" type="OCCURRENCE"/>
+<EVENT end="1377" id="E25" modality="FACTUAL" polarity="POS" start="1371" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1395" id="E26" modality="FACTUAL" polarity="NEG" start="1378" text="any recent losses" type="OCCURRENCE"/>
+<EVENT end="1410" id="E27" modality="FACTUAL" polarity="POS" start="1401" text="admission" type="OCCURRENCE"/>
+<EVENT end="1431" id="E28" modality="FACTUAL" polarity="POS" start="1425" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1466" id="E29" modality="FACTUAL" polarity="NEG" start="1432" text="any suicidal or homicidal ideation" type="PROBLEM"/>
+<EVENT end="157" id="E3" modality="FACTUAL" polarity="POS" start="149" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1511" id="E30" modality="FACTUAL" polarity="POS" start="1503" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1549" id="E31" modality="FACTUAL" polarity="POS" start="1515" text="the Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="195" id="E4" modality="FACTUAL" polarity="POS" start="161" text="the Fairm of Ijordcompmac Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1639" id="E32" modality="FACTUAL" polarity="POS" start="1626" text="his admission" type="OCCURRENCE"/>
+<EVENT end="1675" id="E33" modality="FACTUAL" polarity="POS" start="1642" text="the patient 's gunshot wound" type="PROBLEM"/>
+<EVENT end="1693" id="E34" modality="FACTUAL" polarity="POS" start="1680" text="sutured close" type="TREATMENT"/>
+<EVENT end="1715" id="E35" modality="FACTUAL" polarity="POS" start="1697" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="1763" id="E36" modality="FACTUAL" polarity="POS" start="1744" text="suicide precautions" type="TREATMENT"/>
+<EVENT end="1820" id="E37" modality="FACTUAL" polarity="POS" start="1788" text="an infusion of intravenous fluid" type="TREATMENT"/>
+<EVENT end="1859" id="E38" modality="FACTUAL" polarity="POS" start="1839" text="seen in consultation" type="OCCURRENCE"/>
+<EVENT end="1918" id="E39" modality="FACTUAL" polarity="POS" start="1911" text="testing" type="TEST"/>
+<EVENT end="1961" id="E40" modality="FACTUAL" polarity="POS" start="1952" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2035" id="E41" modality="FACTUAL" polarity="POS" start="2017" text="2 point restraints" type="TREATMENT"/>
+<EVENT end="250" id="E5" modality="FACTUAL" polarity="POS" start="208" text="a self inflicted gunshot wound to the head" type="PROBLEM"/>
+<EVENT end="2103" id="E42" modality="FACTUAL" polarity="POS" start="2082" text="monitored by a sitter" type="TREATMENT"/>
+<EVENT end="2138" id="E43" modality="FACTUAL" polarity="NEG" start="2130" text="ambulate" type="OCCURRENCE"/>
+<EVENT end="2209" id="E44" modality="FACTUAL" polarity="POS" start="2205" text="well" type="OCCURRENCE"/>
+<EVENT end="2237" id="E45" modality="FACTUAL" polarity="POS" start="2229" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2277" id="E46" modality="FACTUAL" polarity="POS" start="2241" text="the Neurological Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2308" id="E47" modality="FACTUAL" polarity="POS" start="2291" text="closely monitored" type="TEST"/>
+<EVENT end="2357" id="E48" modality="FACTUAL" polarity="POS" start="2338" text="his hospitalization" type="OCCURRENCE"/>
+<EVENT end="2410" id="E49" modality="FACTUAL" polarity="POS" start="2392" text="his blood pressure" type="TEST"/>
+<EVENT end="2489" id="E50" modality="FACTUAL" polarity="POS" start="2480" text="Captopril" type="TREATMENT"/>
+<EVENT end="2504" id="E51" modality="FACTUAL" polarity="POS" start="2494" text="Nifedipine" type="TREATMENT"/>
+<EVENT end="2531" id="E52" modality="FACTUAL" polarity="POS" start="2513" text="his blood pressure" type="TEST"/>
+<EVENT end="2546" id="E53" modality="FACTUAL" polarity="POS" start="2536" text="stabilized" type="OCCURRENCE"/>
+<EVENT end="2576" id="E54" modality="FACTUAL" polarity="POS" start="2565" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2598" id="E55" modality="FACTUAL" polarity="POS" start="2580" text="the Neurology Ward" type="CLINICAL_DEPT"/>
+<EVENT end="35" id="E1" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2617" id="E56" modality="FACTUAL" polarity="POS" start="2601" text="Close monitoring" type="TEST"/>
+<EVENT end="2630" id="E57" modality="FACTUAL" polarity="POS" start="2618" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="2649" id="E58" modality="FACTUAL" polarity="POS" start="2631" text="his blood pressure" type="TEST"/>
+<EVENT end="276" id="E6" modality="FACTUAL" polarity="POS" start="264" text="found in bed" type="OCCURRENCE"/>
+<EVENT end="2662" id="E59" modality="FACTUAL" polarity="POS" start="2656" text="stable" type="OCCURRENCE"/>
+<EVENT end="2714" id="E60" modality="FACTUAL" polarity="POS" start="2696" text="his dosage regimen" type="TREATMENT"/>
+<EVENT end="2763" id="E61" modality="FACTUAL" polarity="POS" start="2717" text="The Psychiatry Service followed up extensively" type="OCCURRENCE"/>
+<EVENT end="2811" id="E72" modality="FACTUAL" polarity="POS" start="2787" text="his Psychiatric progress" type="OCCURRENCE"/>
+<EVENT end="2916" id="E62" modality="FACTUAL" polarity="POS" start="2900" text="medically stable" type="OCCURRENCE"/>
+<EVENT end="2963" id="E63" modality="FACTUAL" polarity="POS" start="2936" text="full Psychiatric evaluation" type="TEST"/>
+<EVENT end="2995" id="E64" modality="FACTUAL" polarity="POS" start="2974" text="prepared for transfer" type="OCCURRENCE"/>
+<EVENT end="3021" id="E65" modality="FACTUAL" polarity="POS" start="2999" text="a Psychiatric Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="3084" id="E66" modality="FACTUAL" polarity="POS" start="3060" text="intense psychiatric care" type="TREATMENT"/>
+<EVENT end="3112" id="E67" modality="FACTUAL" polarity="POS" start="3102" text="discharged" type="OCCURRENCE"/>
+<EVENT end="3172" id="E68" modality="FACTUAL" polarity="POS" start="3116" text="the Vo Black Doylestrictshore Ft. Clinics Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="358" id="E7" modality="FACTUAL" polarity="POS" start="345" text="alone at home" type="OCCURRENCE"/>
+<EVENT end="394" id="E9" modality="FACTUAL" polarity="POS" start="375" text="heard a single shot" type="OCCURRENCE"/>
+<EVENT end="427" id="E8" modality="FACTUAL" polarity="POS" start="401" text="the paramedics were called" type="OCCURRENCE"/>
+<EVENT end="474" id="E10" modality="FACTUAL" polarity="POS" start="450" text="found the patient in bed" type="OCCURRENCE"/>
+<EVENT end="60" id="E2" modality="FACTUAL" polarity="POS" start="51" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="592" id="E11" modality="FACTUAL" polarity="POS" start="583" text="indicates" type="EVIDENTIAL"/>
+<EVENT end="639" id="E12" modality="FACTUAL" polarity="POS" start="598" text="his neighbors were making excessive noise" type="OCCURRENCE"/>
+<EVENT end="735" id="E13" modality="FACTUAL" polarity="POS" start="711" text="decided to take his life" type="PROBLEM"/>
+<EVENT end="778" id="E17" modality="FACTUAL" polarity="POS" start="760" text="found in the house" type="OCCURRENCE"/>
+<EVENT end="849" id="E69" modality="FACTUAL" polarity="POS" start="830" text="further questioning" type="TEST"/>
+<EVENT end="873" id="E14" modality="FACTUAL" polarity="POS" start="864" text="described" type="EVIDENTIAL"/>
+<EVENT end="901" id="E15" modality="FACTUAL" polarity="POS" start="879" text="his father passed away" type="OCCURRENCE"/>
+<EVENT end="959" id="E16" modality="FACTUAL" polarity="POS" start="946" text="his admission" type="OCCURRENCE"/>
+<EVENT end="983" id="E71" modality="FACTUAL" polarity="POS" start="966" text="the gun was found" type="OCCURRENCE"/>
+
+<ATIMEX3 end="25" id="T0" mod="NA" start="18" text="4/14/94" type="DATE" val="1994-04-14"/>
+<RTIMEX3 end="2334" id="T5" mod="NA" start="2316" text="the first two days" type="DATE" val="P2D"/>
+<RTIMEX3 end="2881" id="T6" mod="NA" start="2861" text="the 7th hospital day" type="DATE" val="1994-04-20"/>
+<RTIMEX3 end="3196" id="T7" mod="NA" start="3176" text="the 7th hospital day" type="DATE" val="1994-04-20"/>
+<ATIMEX3 end="50" id="T1" mod="NA" start="43" text="4/20/94" type="DATE" val="1994-04-20"/>
+<ATIMEX3 end="75" id="T2" mod="NA" start="68" text="4/20/94" type="DATE" val="1994-04-20"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-4-14" end="25" id="S0" start="18" text="4/14/94" type="ADMISSION"/>
+<SECTIME dvalue="1994-4-20" end="50" id="S1" start="43" text="4/20/94" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

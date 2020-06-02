@@ -1,0 +1,199 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+09/15/2000
+DISCHARGE DATE :
+The patient was admitted to the hospital on July 12th for a chole with a principle diagnosis of recurrent biliary colic .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 42 year old with recurrent biliary colic .
+She has had ultrasound proven gallstones for ten years , seen on an earlier obstetric ultrasound .
+The patient has had no symptoms until approximately two years ago when she began having classic biliary colic pain with right upper quadrant epigastric pain radiating to midback with nausea , but without vomiting .
+Onset was an hour to 1 hour after meals , worse with greasy meals , lasting five minutes to two hours .
+Episodes have been increasing in frequency over the last few months .
+She has had no fevers , chills , respiratory symptoms , diarrhea , bright red blood per rectum or melena .
+She has not found any relieve with any over the counter medications .
+She has no family history of gallbladder or pancreatic disease .
+She has had no significant weight loss .
+No anorexia .
+An ultrasound on 1/25/00 showed six gallstones without cholecystitis .
+She has no history of liver disease , hepatitis .
+The patient is from 45 Sidewonly Blvd , Fresa Loharanleah , Maryland .
+Has lived in 896 Lokatspur Pkwy , Ingrich Vepobuffh , Indiana for 25 years and works as a teaching assistant in a second grade in Satlnonew Rollglend Pabridrham .
+HOSPITAL COURSE :
+The patient was admitted for the lap coli with an intraoperative cholangiogram by Dr. Sterp under general anesthesia .
+A separate operative note has been dictated .
+Operative course and recovery were without complication .
+The patient was admitted to floor .
+The patient was afebrile , vital signs were stable .
+She is taking po &apos;s .
+She is ambulatory .
+The patient will be discharged to home in stable condition with a follow up appointment with Dr. Sterp .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1025" id="E5" modality="FACTUAL" polarity="NEG" start="1014" text="weight loss" type="PROBLEM"/>
+<EVENT end="1039" id="E35" modality="FACTUAL" polarity="NEG" start="1031" text="anorexia" type="PROBLEM"/>
+<EVENT end="111" id="E17" modality="FACTUAL" polarity="POS" start="104" text="a chole" type="TREATMENT"/>
+<EVENT end="1055" id="E6" modality="FACTUAL" polarity="POS" start="1042" text="An ultrasound" type="TEST"/>
+<EVENT end="1073" id="E36" modality="FACTUAL" polarity="POS" start="1067" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1088" id="E37" modality="FACTUAL" polarity="POS" start="1074" text="six gallstones" type="PROBLEM"/>
+<EVENT end="1110" id="E38" modality="FACTUAL" polarity="NEG" start="1097" text="cholecystitis" type="PROBLEM"/>
+<EVENT end="1148" id="E39" modality="FACTUAL" polarity="NEG" start="1135" text="liver disease" type="PROBLEM"/>
+<EVENT end="1160" id="E40" modality="FACTUAL" polarity="NEG" start="1151" text="hepatitis" type="PROBLEM"/>
+<EVENT end="165" id="E18" modality="FACTUAL" polarity="POS" start="142" text="recurrent biliary colic" type="PROBLEM"/>
+<EVENT end="1439" id="E11" modality="FACTUAL" polarity="POS" start="1431" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1456" id="E7" modality="FACTUAL" polarity="POS" start="1444" text="the lap coli" type="TREATMENT"/>
+<EVENT end="1493" id="E8" modality="FACTUAL" polarity="POS" start="1462" text="an intraoperative cholangiogram" type="TEST"/>
+<EVENT end="1531" id="E9" modality="FACTUAL" polarity="POS" start="1513" text="general anesthesia" type="TREATMENT"/>
+<EVENT end="1635" id="E10" modality="FACTUAL" polarity="NEG" start="1623" text="complication" type="PROBLEM"/>
+<EVENT end="1662" id="E12" modality="FACTUAL" polarity="POS" start="1654" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1671" id="E41" modality="FACTUAL" polarity="POS" start="1666" text="floor" type="CLINICAL_DEPT"/>
+<EVENT end="1698" id="E42" modality="FACTUAL" polarity="POS" start="1690" text="afebrile" type="PROBLEM"/>
+<EVENT end="1712" id="E43" modality="FACTUAL" polarity="POS" start="1701" text="vital signs" type="TEST"/>
+<EVENT end="1804" id="E44" modality="FACTUAL" polarity="POS" start="1794" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1832" id="E45" modality="FACTUAL" polarity="POS" start="1816" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="1861" id="E46" modality="FACTUAL" polarity="POS" start="1838" text="a follow up appointment" type="OCCURRENCE"/>
+<EVENT end="254" id="E19" modality="FACTUAL" polarity="POS" start="231" text="recurrent biliary colic" type="PROBLEM"/>
+<EVENT end="297" id="E20" modality="FACTUAL" polarity="POS" start="269" text="ultrasound proven gallstones" type="PROBLEM"/>
+<EVENT end="38" id="E13" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="353" id="E1" modality="FACTUAL" polarity="POS" start="322" text="an earlier obstetric ultrasound" type="TEST"/>
+<EVENT end="387" id="E21" modality="FACTUAL" polarity="NEG" start="379" text="symptoms" type="PROBLEM"/>
+<EVENT end="470" id="E22" modality="FACTUAL" polarity="POS" start="444" text="classic biliary colic pain" type="PROBLEM"/>
+<EVENT end="512" id="E23" modality="FACTUAL" polarity="POS" start="476" text="right upper quadrant epigastric pain" type="PROBLEM"/>
+<EVENT end="545" id="E24" modality="FACTUAL" polarity="POS" start="539" text="nausea" type="PROBLEM"/>
+<EVENT end="568" id="E25" modality="FACTUAL" polarity="NEG" start="560" text="vomiting" type="PROBLEM"/>
+<EVENT end="610" id="E47" modality="FACTUAL" polarity="POS" start="605" text="meals" type="OCCURRENCE"/>
+<EVENT end="70" id="E14" modality="FACTUAL" polarity="POS" start="62" text="admitted" type="OCCURRENCE"/>
+<EVENT end="683" id="E26" modality="FACTUAL" polarity="POS" start="675" text="Episodes" type="PROBLEM"/>
+<EVENT end="704" id="E27" modality="FACTUAL" polarity="POS" start="694" text="increasing" type="OCCURRENCE"/>
+<EVENT end="86" id="E15" modality="FACTUAL" polarity="POS" start="74" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="766" id="E28" modality="FACTUAL" polarity="NEG" start="760" text="fevers" type="PROBLEM"/>
+<EVENT end="775" id="E29" modality="FACTUAL" polarity="NEG" start="769" text="chills" type="PROBLEM"/>
+<EVENT end="798" id="E30" modality="FACTUAL" polarity="NEG" start="778" text="respiratory symptoms" type="PROBLEM"/>
+<EVENT end="809" id="E31" modality="FACTUAL" polarity="NEG" start="801" text="diarrhea" type="PROBLEM"/>
+<EVENT end="839" id="E32" modality="FACTUAL" polarity="NEG" start="812" text="bright red blood per rectum" type="PROBLEM"/>
+<EVENT end="849" id="E33" modality="FACTUAL" polarity="NEG" start="843" text="melena" type="PROBLEM"/>
+<EVENT end="881" id="E34" modality="FACTUAL" polarity="NEG" start="870" text="any relieve" type="OCCURRENCE"/>
+<EVENT end="919" id="E2" modality="FACTUAL" polarity="POS" start="896" text="the counter medications" type="TREATMENT"/>
+<EVENT end="962" id="E3" modality="FACTUAL" polarity="NEG" start="951" text="gallbladder" type="PROBLEM"/>
+<EVENT end="984" id="E4" modality="FACTUAL" polarity="NEG" start="966" text="pancreatic disease" type="PROBLEM"/>
+<ATIMEX3 end="1066" id="T2" mod="NA" start="1059" text="1/25/00" type="DATE" val="2000-01-25"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="09/15/2000" type="DATE" val="2000-09-15"/>
+
+<RTIMEX3 end="421" id="T4" mod="APPROX" start="408" text="two years ago" type="DATE" val="1998-09-15"/>
+
+
+
+<RTIMEX3 end="99" id="T1" mod="NA" start="90" text="July 12th" type="DATE" val="2000-07-12"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2000-09-15" end="28" id="S0" start="18" text="09/15/2000" type="ADMISSION"/>
+<SECTIME dvalue="2000-09-15" end="28" id="S0" start="18" text="09/15/2000" type="ADMISSION"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,288 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2009-11-10
+Discharge Date :
+2009-11-12
+Service :
+CCU
+HISTORY OF PRESENT ILLNESS :
+The patient is a 61 - year-old white male with a history of coronary artery disease , status post 5-vessel coronary artery bypass graft on 2009-09-11 , who presents for elective right heart catheterization and pericardiocentesis .
+The patient did well after his coronary artery bypass graft .
+On 10-14 , the patient had a transthoracic echocardiogram which revealed a new , moderate-to-large sized pericardial effusion .
+The patient was asymptomatic at this time , and the decision was made to monitor him and to start him on Lasix .
+The patient had follow-up transthoracic echocardiogram on 11-04 which revealed a slightly large effusion .
+A few days later , on 11-07 , the patient began to develop dyspnea on exertion with normal activity .
+He also noted a new two to three-pillow orthopnea and paroxysmal nocturnal dyspnea .
+On 11-08 , he had an episode of acute shortness of breath with chest pressure which he describes as different from his typical angina with minimal exertion .
+The patient spoke with his cardiologist who referred him for pericardiocentesis for persistent and symptomatic pericardial effusion .
+On right heart catheterization , the patient was noted to have elevated right-sided and left-sided filling pressures with a pulmonary capillary wedge pressure of 19 and a right atrial pressure of 16 .
+After 600 cc of serosanguineous pericardial fluid was removed , the patient was noted to have a pulmonary capillary wedge pressure of 9 and a right atrial pressure of 2 ; indicating resolution of tamponade physiology .
+HOSPITAL COURSE :
+The patient was transferred to the Coronary Care Unit after his therapeutic pericardiocentesis .
+He was hemodynamically stable and without any complaints .
+He was continued on his home cardiac regimen , but was started on indomethacin for post pericardiotomy syndrome .
+Over the course of the night the patient drained an additional 400 cc of serosanguineous fluid from his pericardial drain pouch .
+By the next morning , the degree of drainage had decreased considerably with only 60 cc drained over six hours .
+The patient had a repeat transthoracic echocardiogram prior to drain removal which revealed the following :
+A trivial / physiologic pericardial effusion one day post pericardiocentesis with no change from the study immediately post pericardiocentesis .
+The pericardial drain was removed without any difficulty .
+The pericardial fluid bag was removed without any difficulty with the decision to monitor the patient overnight and repeat the echocardiogram prior to discharge .
+The patient had an enlarged left pleural effusion which was noted to layer on a lateral decubitus film .
+We decided to perform a therapeutic thoracentesis .
+The patient was prepped and draped in a sterile fashion , and 1150 cc of fluid were drained .
+A chest x-ray was obtained post thoracentesis which revealed a significant decrease in the size of the left pleural effusion .
+No evidence of pneumothorax .
+On the morning of admission the patient had a markedly improved lung examination with increased air movement in the left base .
+He denied any shortness of breath and had oxygen saturations in the 90 s on room air .
+He had a repeat echocardiogram which revealed a trivial / physiologic pericardial effusion .
+The patient was without any complaints and remained stable .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1061" id="E53" modality="FACTUAL" polarity="POS" start="1043" text="his typical angina" type="PROBLEM"/>
+<EVENT end="1125" id="E55" modality="FACTUAL" polarity="POS" start="1109" text="his cardiologist" type="CLINICAL_DEPT"/>
+<EVENT end="1165" id="E14" modality="FACTUAL" polarity="POS" start="1147" text="pericardiocentesis" type="TREATMENT"/>
+<EVENT end="1217" id="E15" modality="FACTUAL" polarity="POS" start="1170" text="persistent and symptomatic pericardial effusion" type="PROBLEM"/>
+<EVENT end="1250" id="E16" modality="FACTUAL" polarity="POS" start="1223" text="right heart catheterization" type="TEST"/>
+<EVENT end="1336" id="E17" modality="FACTUAL" polarity="POS" start="1283" text="elevated right-sided and left-sided filling pressures" type="PROBLEM"/>
+<EVENT end="1378" id="E18" modality="FACTUAL" polarity="POS" start="1342" text="a pulmonary capillary wedge pressure" type="TEST"/>
+<EVENT end="1412" id="E19" modality="FACTUAL" polarity="POS" start="1389" text="a right atrial pressure" type="TEST"/>
+<EVENT end="1482" id="E56" modality="FACTUAL" polarity="POS" start="1437" text="serosanguineous pericardial fluid was removed" type="TREATMENT"/>
+<EVENT end="1551" id="E21" modality="FACTUAL" polarity="POS" start="1515" text="a pulmonary capillary wedge pressure" type="TEST"/>
+<EVENT end="1584" id="E22" modality="FACTUAL" polarity="POS" start="1561" text="a right atrial pressure" type="TEST"/>
+<EVENT end="183" id="E48" modality="FACTUAL" polarity="POS" start="160" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1637" id="E57" modality="FACTUAL" polarity="POS" start="1617" text="tamponade physiology" type="PROBLEM"/>
+<EVENT end="1685" id="E58" modality="FACTUAL" polarity="POS" start="1674" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1711" id="E59" modality="FACTUAL" polarity="POS" start="1689" text="the Coronary Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1752" id="E23" modality="FACTUAL" polarity="POS" start="1718" text="his therapeutic pericardiocentesis" type="TREATMENT"/>
+<EVENT end="1784" id="E60" modality="FACTUAL" polarity="POS" start="1762" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1811" id="E61" modality="FACTUAL" polarity="NEG" start="1797" text="any complaints" type="OCCURRENCE"/>
+<EVENT end="1858" id="E62" modality="FACTUAL" polarity="POS" start="1834" text="his home cardiac regimen" type="TREATMENT"/>
+<EVENT end="1892" id="E24" modality="FACTUAL" polarity="POS" start="1880" text="indomethacin" type="TREATMENT"/>
+<EVENT end="1925" id="E25" modality="FACTUAL" polarity="POS" start="1897" text="post pericardiotomy syndrome" type="PROBLEM"/>
+<EVENT end="1976" id="E63" modality="FACTUAL" polarity="POS" start="1969" text="drained" type="TREATMENT"/>
+<EVENT end="235" id="E1" modality="FACTUAL" polarity="POS" start="198" text="5-vessel coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="2022" id="E26" modality="FACTUAL" polarity="POS" start="2001" text="serosanguineous fluid" type="PROBLEM"/>
+<EVENT end="2102" id="E64" modality="FACTUAL" polarity="POS" start="2094" text="drainage" type="TREATMENT"/>
+<EVENT end="2116" id="E65" modality="FACTUAL" polarity="POS" start="2107" text="decreased" type="OCCURRENCE"/>
+<EVENT end="2224" id="E28" modality="FACTUAL" polarity="POS" start="2187" text="a repeat transthoracic echocardiogram" type="TEST"/>
+<EVENT end="2247" id="E29" modality="FACTUAL" polarity="POS" start="2234" text="drain removal" type="TREATMENT"/>
+<EVENT end="2262" id="E66" modality="FACTUAL" polarity="POS" start="2254" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2323" id="E30" modality="FACTUAL" polarity="POS" start="2279" text="A trivial / physiologic pericardial effusion" type="PROBLEM"/>
+<EVENT end="2355" id="E31" modality="FACTUAL" polarity="POS" start="2337" text="pericardiocentesis" type="TREATMENT"/>
+<EVENT end="2385" id="E32" modality="FACTUAL" polarity="POS" start="2376" text="the study" type="TEST"/>
+<EVENT end="2445" id="E33" modality="FACTUAL" polarity="POS" start="2424" text="The pericardial drain" type="TREATMENT"/>
+<EVENT end="2457" id="E68" modality="FACTUAL" polarity="POS" start="2450" text="removed" type="TREATMENT"/>
+<EVENT end="2480" id="E69" modality="FACTUAL" polarity="NEG" start="2466" text="any difficulty" type="PROBLEM"/>
+<EVENT end="2508" id="E34" modality="FACTUAL" polarity="POS" start="2483" text="The pericardial fluid bag" type="TREATMENT"/>
+<EVENT end="2520" id="E70" modality="FACTUAL" polarity="POS" start="2513" text="removed" type="TREATMENT"/>
+<EVENT end="2543" id="E71" modality="FACTUAL" polarity="POS" start="2529" text="any difficulty" type="OCCURRENCE"/>
+<EVENT end="264" id="E83" modality="FACTUAL" polarity="POS" start="256" text="presents" type="OCCURRENCE"/>
+<EVENT end="2572" id="E72" modality="PROPOSED" polarity="POS" start="2565" text="monitor" type="TEST"/>
+<EVENT end="2624" id="E35" modality="PROPOSED" polarity="POS" start="2606" text="the echocardiogram" type="TEST"/>
+<EVENT end="2643" id="E73" modality="FACTUAL" polarity="POS" start="2634" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2695" id="E36" modality="FACTUAL" polarity="POS" start="2662" text="an enlarged left pleural effusion" type="PROBLEM"/>
+<EVENT end="305" id="E2" modality="FACTUAL" polarity="POS" start="269" text="elective right heart catheterization" type="TEST"/>
+<EVENT end="2748" id="E37" modality="FACTUAL" polarity="POS" start="2724" text="a lateral decubitus film" type="TEST"/>
+<EVENT end="2800" id="E38" modality="FACTUAL" polarity="POS" start="2773" text="a therapeutic thoracentesis" type="TREATMENT"/>
+<EVENT end="2837" id="E74" modality="FACTUAL" polarity="POS" start="2819" text="prepped and draped" type="TREATMENT"/>
+<EVENT end="2881" id="E39" modality="FACTUAL" polarity="POS" start="2876" text="fluid" type="PROBLEM"/>
+<EVENT end="2894" id="E40" modality="FACTUAL" polarity="POS" start="2887" text="drained" type="TREATMENT"/>
+<EVENT end="2910" id="E41" modality="FACTUAL" polarity="POS" start="2897" text="A chest x-ray" type="TEST"/>
+<EVENT end="38" id="E47" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2942" id="E42" modality="FACTUAL" polarity="POS" start="2929" text="thoracentesis" type="TREATMENT"/>
+<EVENT end="2957" id="E75" modality="FACTUAL" polarity="POS" start="2949" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3021" id="E76" modality="FACTUAL" polarity="POS" start="2996" text="the left pleural effusion" type="PROBLEM"/>
+<EVENT end="3051" id="E77" modality="FACTUAL" polarity="NEG" start="3039" text="pneumothorax" type="PROBLEM"/>
+<EVENT end="328" id="E3" modality="FACTUAL" polarity="POS" start="310" text="pericardiocentesis" type="TREATMENT"/>
+<EVENT end="3134" id="E43" modality="FACTUAL" polarity="POS" start="3098" text="a markedly improved lung examination" type="TEST"/>
+<EVENT end="3179" id="E78" modality="FACTUAL" polarity="POS" start="3140" text="increased air movement in the left base" type="OCCURRENCE"/>
+<EVENT end="3215" id="E44" modality="FACTUAL" polarity="NEG" start="3192" text="any shortness of breath" type="PROBLEM"/>
+<EVENT end="3242" id="E45" modality="FACTUAL" polarity="POS" start="3224" text="oxygen saturations" type="TEST"/>
+<EVENT end="3299" id="E46" modality="FACTUAL" polarity="POS" start="3276" text="a repeat echocardiogram" type="TEST"/>
+<EVENT end="3314" id="E79" modality="FACTUAL" polarity="POS" start="3306" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="3359" id="E80" modality="FACTUAL" polarity="POS" start="3315" text="a trivial / physiologic pericardial effusion" type="PROBLEM"/>
+<EVENT end="3400" id="E81" modality="FACTUAL" polarity="NEG" start="3390" text="complaints" type="EVIDENTIAL"/>
+<EVENT end="3420" id="E82" modality="FACTUAL" polarity="POS" start="3405" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="351" id="E49" modality="FACTUAL" polarity="POS" start="343" text="did well" type="OCCURRENCE"/>
+<EVENT end="390" id="E4" modality="FACTUAL" polarity="POS" start="358" text="his coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="450" id="E5" modality="FACTUAL" polarity="POS" start="420" text="a transthoracic echocardiogram" type="TEST"/>
+<EVENT end="518" id="E6" modality="FACTUAL" polarity="POS" start="466" text="a new , moderate-to-large sized pericardial effusion" type="PROBLEM"/>
+<EVENT end="549" id="E7" modality="FACTUAL" polarity="POS" start="537" text="asymptomatic" type="PROBLEM"/>
+<EVENT end="605" id="E50" modality="FACTUAL" polarity="POS" start="594" text="monitor him" type="TEST"/>
+<EVENT end="631" id="E8" modality="FACTUAL" polarity="POS" start="626" text="Lasix" type="TREATMENT"/>
+<EVENT end="688" id="E9" modality="FACTUAL" polarity="POS" start="650" text="follow-up transthoracic echocardiogram" type="TEST"/>
+<EVENT end="738" id="E10" modality="FACTUAL" polarity="POS" start="713" text="a slightly large effusion" type="PROBLEM"/>
+<EVENT end="807" id="E52" modality="FACTUAL" polarity="POS" start="800" text="dyspnea" type="PROBLEM"/>
+<EVENT end="892" id="E51" modality="FACTUAL" polarity="POS" start="857" text="a new two to three-pillow orthopnea" type="PROBLEM"/>
+<EVENT end="925" id="E11" modality="FACTUAL" polarity="POS" start="897" text="paroxysmal nocturnal dyspnea" type="PROBLEM"/>
+<EVENT end="985" id="E12" modality="FACTUAL" polarity="POS" start="960" text="acute shortness of breath" type="PROBLEM"/>
+<EVENT end="1005" id="E13" modality="FACTUAL" polarity="POS" start="991" text="chest pressure" type="PROBLEM"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2009-11-10" type="DATE" val="2009-11-10"/>
+
+<RTIMEX3 end="2077" id="T9" mod="START" start="2061" text="the next morning" type="DATE" val="2009-11-11"/>
+
+<RTIMEX3 end="2336" id="T11" mod="NA" start="2324" text="one day post" type="DATE" val="2009-11-11"/>
+<ATIMEX3 end="249" id="T1" mod="NA" start="239" text="2009-09-11" type="DATE" val="2009-09-11"/>
+
+<RTIMEX3 end="3081" id="T13" mod="START" start="3057" text="the morning of admission" type="DATE" val="2009-11-10"/>
+<ATIMEX3 end="401" id="T4" mod="NA" start="396" text="10-14" type="DATE" val="2009-10-14"/>
+<ATIMEX3 end="56" id="T3" mod="NA" start="46" text="2009-11-12" type="DATE" val="2009-11-12"/>
+<RTIMEX3 end="562" id="T5" mod="NA" start="553" text="this time" type="DATE" val="2019-10-14"/>
+<ATIMEX3 end="697" id="T6" mod="NA" start="692" text="11-04" type="DATE" val="2009-11-04"/>
+<RTIMEX3 end="768" id="T7" mod="NA" start="741" text="A few days later , on 11-07" type="DATE" val="2009-11-07"/>
+<ATIMEX3 end="936" id="T2" mod="NA" start="931" text="11-08" type="DATE" val="2009-11-08"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2009-11-10" end="28" id="S0" start="18" text="2009-11-10" type="ADMISSION"/>
+<SECTIME dvalue="2009-11-12" end="56" id="S1" start="46" text="2009-11-12" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

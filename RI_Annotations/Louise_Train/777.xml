@@ -1,0 +1,237 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-05-24
+Discharge Date :
+2018-05-29
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+s/p AVR 05-14 .
+Postop course c/b right upper extremity DVT and postop Afib .
+Discharged home 05-19 with instructions to f/u in vascular clinic .
+Had vascular clinic f/u on day of admission .
+At that time had UE duplex which revealed RUE DVT involving IJ , Axillary , subclav , brachial , and basilic veins .
+Then referred to ER for Tx
+Brief Hospital Course :
+Pt admitted 05-24 from ER after positive RUE DVT finding in vascular lab .
+During ER evaluation pt was noted to have some degree of dyspnea as well as mental status changes , including loss of short term memory and brief unresponsive period after one dose of IV Benadry and steroids prior to CT scan .
+The CT was negative for CVA but positive for Pulmonary embolism .
+He was transferred to CSRU for evaluation .
+Neurology was consulted and the pt also had MRI which was negative .
+The pt was begun on heparin gtt and was noted to have platelet drop > 50% after infusion began , hepain was d/c 'd.
+Argatroban was started abd a HIT panel was sent , HIT panel was positive .
+Hematology was consulted .
+By the following mornig all mental status changes had cleared and the pt was transferred to the floors for continued care .
+Over the next several days the patient was maintained on Argatroban when coumadin therapy was initiated .
+On HD#6 the pt had a therapeudic INR ( 4.4 ) off Argatroban and wad discharged home .
+He was to have f/u INR check with Dr Lewis on 05-31 .
+Additionally the pt should f/u with the hematology clinic .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E27" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1019" id="E18" modality="FACTUAL" polarity="POS" start="1006" text="platelet drop" type="PROBLEM"/>
+<EVENT end="1040" id="E19" modality="FACTUAL" polarity="POS" start="1032" text="infusion" type="TREATMENT"/>
+<EVENT end="1055" id="E20" modality="FACTUAL" polarity="POS" start="1049" text="hepain" type="TREATMENT"/>
+<EVENT end="1067" id="E55" modality="FACTUAL" polarity="POS" start="1060" text="d/c 'd." type="OCCURRENCE"/>
+<EVENT end="1078" id="E21" modality="FACTUAL" polarity="POS" start="1068" text="Argatroban" type="TREATMENT"/>
+<EVENT end="1106" id="E22" modality="FACTUAL" polarity="POS" start="1095" text="a HIT panel" type="TEST"/>
+<EVENT end="1127" id="E37" modality="FACTUAL" polarity="POS" start="1118" text="HIT panel" type="TEST"/>
+<EVENT end="1140" id="E23" modality="FACTUAL" polarity="POS" start="1132" text="positive" type="PROBLEM"/>
+<EVENT end="118" id="E1" modality="FACTUAL" polarity="POS" start="115" text="AVR" type="TREATMENT"/>
+<EVENT end="1153" id="E56" modality="FACTUAL" polarity="POS" start="1143" text="Hematology" type="CLINICAL_DEPT"/>
+<EVENT end="1167" id="E38" modality="FACTUAL" polarity="POS" start="1158" text="consulted" type="OCCURRENCE"/>
+<EVENT end="1219" id="E24" modality="FACTUAL" polarity="POS" start="1194" text="all mental status changes" type="PROBLEM"/>
+<EVENT end="1258" id="E39" modality="FACTUAL" polarity="POS" start="1247" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1272" id="E57" modality="FACTUAL" polarity="POS" start="1262" text="the floors" type="CLINICAL_DEPT"/>
+<EVENT end="140" id="E0" modality="FACTUAL" polarity="POS" start="127" text="Postop course" type="OCCURRENCE"/>
+<EVENT end="1291" id="E58" modality="FACTUAL" polarity="POS" start="1277" text="continued care" type="TREATMENT"/>
+<EVENT end="1361" id="E59" modality="FACTUAL" polarity="POS" start="1351" text="Argatroban" type="TREATMENT"/>
+<EVENT end="1383" id="E60" modality="FACTUAL" polarity="POS" start="1367" text="coumadin therapy" type="TREATMENT"/>
+<EVENT end="1436" id="E61" modality="FACTUAL" polarity="POS" start="1419" text="a therapeudic INR" type="TEST"/>
+<EVENT end="170" id="E41" modality="FACTUAL" polarity="POS" start="145" text="right upper extremity DVT" type="PROBLEM"/>
+<EVENT end="1459" id="E25" modality="FACTUAL" polarity="POS" start="1449" text="Argatroban" type="TREATMENT"/>
+<EVENT end="1478" id="E40" modality="FACTUAL" polarity="POS" start="1468" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1514" id="E26" modality="FACTUAL" polarity="POS" start="1505" text="INR check" type="TEST"/>
+<EVENT end="1570" id="E62" modality="PROPOSED" polarity="POS" start="1567" text="f/u" type="OCCURRENCE"/>
+<EVENT end="1597" id="E63" modality="PROPOSED" polarity="POS" start="1576" text="the hematology clinic" type="CLINICAL_DEPT"/>
+<EVENT end="186" id="E2" modality="FACTUAL" polarity="POS" start="175" text="postop Afib" type="PROBLEM"/>
+<EVENT end="199" id="E29" modality="FACTUAL" polarity="POS" start="189" text="Discharged" type="OCCURRENCE"/>
+<EVENT end="235" id="E42" modality="FACTUAL" polarity="POS" start="232" text="f/u" type="TREATMENT"/>
+<EVENT end="254" id="E31" modality="FACTUAL" polarity="POS" start="239" text="vascular clinic" type="CLINICAL_DEPT"/>
+<EVENT end="276" id="E43" modality="FACTUAL" polarity="POS" start="261" text="vascular clinic" type="CLINICAL_DEPT"/>
+<EVENT end="280" id="E44" modality="FACTUAL" polarity="POS" start="277" text="f/u" type="TREATMENT"/>
+<EVENT end="38" id="E28" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="329" id="E45" modality="FACTUAL" polarity="POS" start="320" text="UE duplex" type="TEST"/>
+<EVENT end="344" id="E46" modality="FACTUAL" polarity="POS" start="336" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="352" id="E3" modality="FACTUAL" polarity="POS" start="345" text="RUE DVT" type="PROBLEM"/>
+<EVENT end="433" id="E47" modality="FACTUAL" polarity="POS" start="425" text="referred" type="OCCURRENCE"/>
+<EVENT end="439" id="E48" modality="FACTUAL" polarity="POS" start="437" text="ER" type="CLINICAL_DEPT"/>
+<EVENT end="446" id="E49" modality="FACTUAL" polarity="POS" start="444" text="Tx" type="TREATMENT"/>
+<EVENT end="482" id="E32" modality="FACTUAL" polarity="POS" start="474" text="admitted" type="OCCURRENCE"/>
+<EVENT end="496" id="E33" modality="FACTUAL" polarity="POS" start="494" text="ER" type="CLINICAL_DEPT"/>
+<EVENT end="519" id="E4" modality="FACTUAL" polarity="POS" start="503" text="positive RUE DVT" type="PROBLEM"/>
+<EVENT end="543" id="E50" modality="FACTUAL" polarity="POS" start="531" text="vascular lab" type="CLINICAL_DEPT"/>
+<EVENT end="566" id="E5" modality="FACTUAL" polarity="POS" start="553" text="ER evaluation" type="TEST"/>
+<EVENT end="579" id="E51" modality="FACTUAL" polarity="POS" start="574" text="noted" type="EVIDENTIAL"/>
+<EVENT end="610" id="E6" modality="FACTUAL" polarity="POS" start="603" text="dyspnea" type="PROBLEM"/>
+<EVENT end="643" id="E7" modality="FACTUAL" polarity="POS" start="622" text="mental status changes" type="PROBLEM"/>
+<EVENT end="681" id="E8" modality="FACTUAL" polarity="POS" start="656" text="loss of short term memory" type="PROBLEM"/>
+<EVENT end="711" id="E9" modality="FACTUAL" polarity="POS" start="686" text="brief unresponsive period" type="PROBLEM"/>
+<EVENT end="740" id="E10" modality="FACTUAL" polarity="POS" start="730" text="IV Benadry" type="TREATMENT"/>
+<EVENT end="753" id="E11" modality="FACTUAL" polarity="POS" start="745" text="steroids" type="TREATMENT"/>
+<EVENT end="770" id="E12" modality="FACTUAL" polarity="POS" start="763" text="CT scan" type="TEST"/>
+<EVENT end="779" id="E13" modality="FACTUAL" polarity="POS" start="773" text="The CT" type="TEST"/>
+<EVENT end="800" id="E52" modality="FACTUAL" polarity="NEG" start="797" text="CVA" type="PROBLEM"/>
+<EVENT end="836" id="E14" modality="FACTUAL" polarity="POS" start="818" text="Pulmonary embolism" type="PROBLEM"/>
+<EVENT end="857" id="E34" modality="FACTUAL" polarity="POS" start="846" text="transferred" type="OCCURRENCE"/>
+<EVENT end="865" id="E35" modality="FACTUAL" polarity="POS" start="861" text="CSRU" type="CLINICAL_DEPT"/>
+<EVENT end="880" id="E15" modality="FACTUAL" polarity="POS" start="870" text="evaluation" type="TEST"/>
+<EVENT end="892" id="E53" modality="FACTUAL" polarity="POS" start="883" text="Neurology" type="CLINICAL_DEPT"/>
+<EVENT end="906" id="E36" modality="FACTUAL" polarity="POS" start="897" text="consulted" type="OCCURRENCE"/>
+<EVENT end="930" id="E16" modality="FACTUAL" polarity="POS" start="927" text="MRI" type="TEST"/>
+<EVENT end="983" id="E17" modality="FACTUAL" polarity="POS" start="972" text="heparin gtt" type="TREATMENT"/>
+<EVENT end="997" id="E54" modality="FACTUAL" polarity="POS" start="992" text="noted" type="EVIDENTIAL"/>
+<RTIMEX3 end="1193" id="T8" mod="START" start="1173" text="the following mornig" type="DATE" val="2018-05-25"/>
+<ATIMEX3 end="124" id="T3" mod="NA" start="119" text="05-14" type="DATE" val="2018-05-14"/>
+
+<RTIMEX3 end="1407" id="T6" mod="NA" start="1403" text="HD#6" type="DATE" val="2018-05-29"/>
+<ATIMEX3 end="1537" id="T10" mod="NA" start="1532" text="05-31" type="DATE" val="2018-05-31"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2018-05-24" type="DATE" val="2018-05-24"/>
+<ATIMEX3 end="210" id="T4" mod="NA" start="205" text="05-19" type="DATE" val="2018-05-19"/>
+<RTIMEX3 end="287" id="T7" mod="NA" start="284" text="day" type="DATE" val="2018-05-24"/>
+<RTIMEX3 end="315" id="T0" mod="NA" start="306" text="that time" type="DATE" val="2018-05-24"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2018-05-29" type="DATE" val="2018-05-29"/>
+<ATIMEX3 end="488" id="T5" mod="NA" start="483" text="05-24" type="DATE" val="2018-05-24"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-05-24" end="28" id="S0" start="18" text="2018-05-24" type="ADMISSION"/>
+<SECTIME dvalue="2018-05-29" end="56" id="S1" start="46" text="2018-05-29" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

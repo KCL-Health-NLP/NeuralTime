@@ -1,0 +1,135 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+08/07/1992
+Discharge Date :
+08/10/1992
+HISTORY OF PRESENT ILLNESS :
+This is an 81 year old female with a right breast mass with a discharge .
+A mammogram of the right breast with shadow biopsy was negative .
+In the fall of 1991 , nipple changes and discomfort was again noted .
+A mmamogram showed no change on right , but new biopsy was positive .
+On the left , there was a new shawdown but the biopsy was negative .
+The patient presents now for right modified radical mastectomy with impant .
+HOSPITAL COURSE :
+The patient was taken to the Operting Room on 8/7/92 , where a right modified radical mastectomy was performed .
+Subsequently a saline-filled right breast implant was performed .
+The patient tolerated the procedure extremely well .
+Two drains were used .
+One drain was removed on postoperative day number two , and the second drain she will be discharged to home with .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="140" id="E2" modality="FACTUAL" polarity="POS" start="121" text="a right breast mass" type="PROBLEM"/>
+<EVENT end="157" id="E3" modality="FACTUAL" polarity="POS" start="146" text="a discharge" type="PROBLEM"/>
+<EVENT end="191" id="E4" modality="FACTUAL" polarity="POS" start="160" text="A mammogram of the right breast" type="TEST"/>
+<EVENT end="210" id="E5" modality="FACTUAL" polarity="POS" start="197" text="shadow biopsy" type="TEST"/>
+<EVENT end="223" id="E6" modality="FACTUAL" polarity="POS" start="215" text="negative" type="OCCURRENCE"/>
+<EVENT end="262" id="E7" modality="FACTUAL" polarity="POS" start="248" text="nipple changes" type="PROBLEM"/>
+<EVENT end="277" id="E8" modality="FACTUAL" polarity="POS" start="267" text="discomfort" type="PROBLEM"/>
+<EVENT end="293" id="E9" modality="FACTUAL" polarity="POS" start="288" text="noted" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="307" id="E10" modality="FACTUAL" polarity="POS" start="296" text="A mmamogram" type="TEST"/>
+<EVENT end="314" id="E11" modality="FACTUAL" polarity="POS" start="308" text="showed" type="EVIDENTIAL"/>
+<EVENT end="333" id="E12" modality="FACTUAL" polarity="NEG" start="318" text="change on right" type="OCCURRENCE"/>
+<EVENT end="350" id="E13" modality="FACTUAL" polarity="POS" start="340" text="new biopsy" type="TEST"/>
+<EVENT end="363" id="E14" modality="FACTUAL" polarity="POS" start="355" text="positive" type="OCCURRENCE"/>
+<EVENT end="377" id="E15" modality="FACTUAL" polarity="POS" start="369" text="the left" type="OCCURRENCE"/>
+<EVENT end="404" id="E16" modality="FACTUAL" polarity="POS" start="390" text="a new shawdown" type="PROBLEM"/>
+<EVENT end="419" id="E17" modality="FACTUAL" polarity="POS" start="409" text="the biopsy" type="TEST"/>
+<EVENT end="432" id="E18" modality="FACTUAL" polarity="POS" start="424" text="negative" type="OCCURRENCE"/>
+<EVENT end="455" id="E19" modality="FACTUAL" polarity="POS" start="447" text="presents" type="OCCURRENCE"/>
+<EVENT end="497" id="E20" modality="FACTUAL" polarity="POS" start="464" text="right modified radical mastectomy" type="TREATMENT"/>
+<EVENT end="509" id="E21" modality="FACTUAL" polarity="POS" start="503" text="impant" type="TREATMENT"/>
+<EVENT end="572" id="E22" modality="FACTUAL" polarity="POS" start="555" text="the Operting Room" type="CLINICAL_DEPT"/>
+<EVENT end="626" id="E23" modality="FACTUAL" polarity="POS" start="591" text="a right modified radical mastectomy" type="TREATMENT"/>
+<EVENT end="692" id="E24" modality="FACTUAL" polarity="POS" start="656" text="a saline-filled right breast implant" type="TREATMENT"/>
+<EVENT end="744" id="E25" modality="FACTUAL" polarity="POS" start="731" text="the procedure" type="OCCURRENCE"/>
+<EVENT end="744" id="E26" modality="FACTUAL" polarity="POS" start="731" text="the procedure" type="TREATMENT"/>
+<EVENT end="759" id="E27" modality="FACTUAL" polarity="POS" start="745" text="extremely well" type="OCCURRENCE"/>
+<EVENT end="772" id="E28" modality="FACTUAL" polarity="POS" start="762" text="Two drains" type="TREATMENT"/>
+<EVENT end="794" id="E29" modality="FACTUAL" polarity="POS" start="785" text="One drain" type="TREATMENT"/>
+<EVENT end="861" id="E30" modality="FACTUAL" polarity="POS" start="845" text="the second drain" type="TREATMENT"/>
+<EVENT end="884" id="E31" modality="FACTUAL" polarity="POS" start="874" text="discharged" type="OCCURRENCE"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="08/07/1992" type="DATE" val="1992-08-07"/>
+<RTIMEX3 end="245" id="T2" mod="APPROX" start="229" text="the fall of 1991" type="DATE" val="1991-10"/>
+<RTIMEX3 end="459" id="T5" mod="NA" start="456" text="now" type="DATE" val="1992-08-07"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="08/10/1992" type="DATE" val="1992-08-10"/>
+<ATIMEX3 end="582" id="T3" mod="NA" start="576" text="8/7/92" type="DATE" val="1992-08-07"/>
+<RTIMEX3 end="838" id="T4" mod="NA" start="810" text="postoperative day number two" type="DATE" val="1992-08-09"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1992-08-07" end="28" id="S0" start="18" text="08/07/1992" type="ADMISSION"/>
+<SECTIME dvalue="1992-08-10" end="56" id="S1" start="46" text="08/10/1992" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

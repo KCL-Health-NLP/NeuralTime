@@ -1,0 +1,210 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+03/11/2002
+DISCHARGE DATE :
+03/14/2002
+DISCHARGE DATE :
+03/14/2002
+HISTORY OF PRESENT ILLNESS :
+This is a 62-year-old hospice chaplain who was referred by Dr. Tomedankell Flowayles and Dr. Es Oarekote for evaluation of his right hip pain .
+He states that his pain has been of seven to eight durations , and rated as moderate to severe ( 7/10 ) .
+He does limp .
+He does not use a cane and he requires a bannister for going up and down stairs .
+He has trouble with his shoes and socks .
+He uses a walker .
+He can walk about a quarter of a mile without stopping .
+HOSPITAL COURSE :
+The patient was taken to the operating room on March 11 , 2002 , and underwent an uncomplicated right total hip replacement .
+The patient tolerated the procedure well and was transferred to the Post Anesthesia Care Unit and then to the floor in stable condition .
+On postoperative check , he was doing well .
+He was afebrile and his vital signs were stable .
+He was neurovascularly intact .
+His hematocrit was 34.7 .
+He was started on Coumadin for DVT prophylaxis and Ancef for routine antimicrobial coverage .
+He was made partial weight-bearing for his right lower extremity .
+He was placed on posterior hip dislocation precautions and was out of bed with physical therapy and occupational therapy .
+On postoperative day one , there were no active issues .
+He was afebrile .
+His vital signs were stable .
+He was neurovascularly intact .
+On postoperative day two , he was afebrile , vital signs were stable .
+His incision was clean , dry and intact with no erythema .
+He remained neurovascularly intact .
+His hematocrit was 34.8 .
+On postoperative day three , lower extremity noninvasive ultrasounds were performed , which showed no evidence of deep venous thrombosis in the lower extremities .
+The remainder of his hospitalization was uncomplicated .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1040" id="E29" modality="FACTUAL" polarity="POS" start="1032" text="Coumadin" type="TREATMENT"/>
+<EVENT end="1060" id="E30" modality="FACTUAL" polarity="POS" start="1045" text="DVT prophylaxis" type="TREATMENT"/>
+<EVENT end="1070" id="E31" modality="FACTUAL" polarity="POS" start="1065" text="Ancef" type="TREATMENT"/>
+<EVENT end="1105" id="E32" modality="FACTUAL" polarity="POS" start="1075" text="routine antimicrobial coverage" type="TREATMENT"/>
+<EVENT end="1142" id="E33" modality="FACTUAL" polarity="POS" start="1120" text="partial weight-bearing" type="TREATMENT"/>
+<EVENT end="1229" id="E34" modality="FACTUAL" polarity="POS" start="1192" text="posterior hip dislocation precautions" type="TREATMENT"/>
+<EVENT end="1248" id="E35" modality="FACTUAL" polarity="POS" start="1238" text="out of bed" type="TREATMENT"/>
+<EVENT end="1352" id="E36" modality="FACTUAL" polarity="NEG" start="1339" text="active issues" type="PROBLEM"/>
+<EVENT end="1370" id="E37" modality="FACTUAL" polarity="POS" start="1362" text="afebrile" type="PROBLEM"/>
+<EVENT end="1388" id="E38" modality="FACTUAL" polarity="POS" start="1373" text="His vital signs" type="TEST"/>
+<EVENT end="1400" id="E39" modality="FACTUAL" polarity="POS" start="1394" text="stable" type="OCCURRENCE"/>
+<EVENT end="1432" id="E40" modality="FACTUAL" polarity="POS" start="1410" text="neurovascularly intact" type="OCCURRENCE"/>
+<EVENT end="1477" id="E41" modality="FACTUAL" polarity="POS" start="1469" text="afebrile" type="PROBLEM"/>
+<EVENT end="1491" id="E42" modality="FACTUAL" polarity="POS" start="1480" text="vital signs" type="TEST"/>
+<EVENT end="1503" id="E43" modality="FACTUAL" polarity="POS" start="1497" text="stable" type="OCCURRENCE"/>
+<EVENT end="1518" id="E44" modality="FACTUAL" polarity="POS" start="1506" text="His incision" type="PROBLEM"/>
+<EVENT end="1545" id="E45" modality="FACTUAL" polarity="POS" start="1523" text="clean , dry and intact" type="OCCURRENCE"/>
+<EVENT end="1562" id="E46" modality="FACTUAL" polarity="NEG" start="1554" text="erythema" type="PROBLEM"/>
+<EVENT end="1599" id="E47" modality="FACTUAL" polarity="POS" start="1577" text="neurovascularly intact" type="OCCURRENCE"/>
+<EVENT end="1616" id="E48" modality="FACTUAL" polarity="POS" start="1602" text="His hematocrit" type="TEST"/>
+<EVENT end="169" id="E3" modality="FACTUAL" polarity="POS" start="161" text="referred" type="OCCURRENCE"/>
+<EVENT end="1696" id="E49" modality="FACTUAL" polarity="POS" start="1657" text="lower extremity noninvasive ultrasounds" type="TEST"/>
+<EVENT end="1726" id="E50" modality="FACTUAL" polarity="POS" start="1720" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1789" id="E51" modality="FACTUAL" polarity="NEG" start="1742" text="deep venous thrombosis in the lower extremities" type="PROBLEM"/>
+<EVENT end="1828" id="E52" modality="FACTUAL" polarity="POS" start="1809" text="his hospitalization" type="OCCURRENCE"/>
+<EVENT end="1848" id="E53" modality="FACTUAL" polarity="POS" start="1833" text="uncomplicated ." type="OCCURRENCE"/>
+<EVENT end="233" id="E4" modality="FACTUAL" polarity="POS" start="223" text="evaluation" type="TEST"/>
+<EVENT end="255" id="E5" modality="FACTUAL" polarity="POS" start="237" text="his right hip pain" type="PROBLEM"/>
+<EVENT end="267" id="E6" modality="FACTUAL" polarity="POS" start="261" text="states" type="EVIDENTIAL"/>
+<EVENT end="281" id="E7" modality="FACTUAL" polarity="POS" start="273" text="his pain" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="376" id="E8" modality="FACTUAL" polarity="POS" start="372" text="limp" type="PROBLEM"/>
+<EVENT end="401" id="E9" modality="FACTUAL" polarity="NEG" start="395" text="a cane" type="TREATMENT"/>
+<EVENT end="429" id="E10" modality="FACTUAL" polarity="POS" start="409" text="requires a bannister" type="PROBLEM"/>
+<EVENT end="500" id="E11" modality="FACTUAL" polarity="POS" start="468" text="trouble with his shoes and socks" type="PROBLEM"/>
+<EVENT end="519" id="E12" modality="FACTUAL" polarity="POS" start="511" text="a walker" type="TREATMENT"/>
+<EVENT end="549" id="E13" modality="FACTUAL" polarity="POS" start="529" text="walk about a quarter" type="OCCURRENCE"/>
+<EVENT end="66" id="E2" modality="FACTUAL" polarity="POS" start="57" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="640" id="E14" modality="FACTUAL" polarity="POS" start="622" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="720" id="E15" modality="FACTUAL" polarity="POS" start="676" text="an uncomplicated right total hip replacement" type="TREATMENT"/>
+<EVENT end="744" id="E16" modality="FACTUAL" polarity="POS" start="735" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="758" id="E17" modality="FACTUAL" polarity="POS" start="745" text="the procedure" type="TREATMENT"/>
+<EVENT end="783" id="E18" modality="FACTUAL" polarity="POS" start="772" text="transferred" type="OCCURRENCE"/>
+<EVENT end="816" id="E19" modality="FACTUAL" polarity="POS" start="787" text="the Post Anesthesia Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="838" id="E20" modality="FACTUAL" polarity="POS" start="829" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="858" id="E21" modality="FACTUAL" polarity="POS" start="842" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="883" id="E22" modality="FACTUAL" polarity="POS" start="864" text="postoperative check" type="TEST"/>
+<EVENT end="903" id="E23" modality="FACTUAL" polarity="POS" start="893" text="doing well" type="OCCURRENCE"/>
+<EVENT end="921" id="E24" modality="FACTUAL" polarity="POS" start="913" text="afebrile" type="PROBLEM"/>
+<EVENT end="941" id="E25" modality="FACTUAL" polarity="POS" start="926" text="his vital signs" type="TEST"/>
+<EVENT end="953" id="E26" modality="FACTUAL" polarity="POS" start="947" text="stable" type="OCCURRENCE"/>
+<EVENT end="985" id="E27" modality="FACTUAL" polarity="POS" start="963" text="neurovascularly intact" type="OCCURRENCE"/>
+<EVENT end="1002" id="E28" modality="FACTUAL" polarity="POS" start="988" text="His hematocrit" type="TEST"/>
+<RTIMEX3 end="1322" id="T4" mod="NA" start="1315" text="day one" type="DATE" val="2002-03-12"/>
+<RTIMEX3 end="1459" id="T5" mod="NA" start="1452" text="day two" type="DATE" val="2002-03-13"/>
+<RTIMEX3 end="1654" id="T6" mod="NA" start="1645" text="day three" type="DATE" val="2002-03-14"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="03/11/2002" type="DATE" val="2002-03-11"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="03/14/2002" type="DATE" val="2002-03-14"/>
+<RTIMEX3 end="659" id="T3" mod="NA" start="644" text="March 11 , 2002" type="DATE" val="2002-03-11"/>
+<ATIMEX3 end="84" id="T2" mod="NA" start="74" text="03/14/2002" type="DATE" val="2002-03-14"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2002-03-11" end="28" id="S0" start="18" text="03/11/2002" type="ADMISSION"/>
+<SECTIME dvalue="2002-03-14" end="56" id="S1" start="46" text="03/14/2002" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

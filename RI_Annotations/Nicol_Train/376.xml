@@ -1,0 +1,287 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+05/08/95
+DISCHARGE DATE :
+05/14/95
+HISTORY OF PRESENT ILLNESS :
+The patient is a 72-year-old right-handed gentleman with a history of coronary artery disease status post myocardial infarction in 1984 .
+Also with a history of noninsulin dependent diabetes mellitus , now presenting with acute blurry vision on the left side , which is homonymous .
+The patient woke up as usual on May 8 , 1995 .
+At 8 a.m. the patient was looking at his wife with the background outside a large window .
+The patient had sudden onset of blurred vision , where the right side of his wife &apos;s face looked blurred .
+The patient did not notice change of vision in the background .
+The blurred vision was homonymous , which he had blurred in each eye in the left visual field .
+The same blurred vision was also noticed later when the patient was watching television and also when he was reading .
+The patient was seen at the Ochtuheihugh Put University Medical Center and then he was referred to the Purckecation Balpoingdelt Pabarnes- Campa Memorial Hospital .
+At 8 p.m. the patient seen at the Purckecation Balpoingdelt Pabarnes- Campa Memorial Hospital and was examined and assessed .
+The patient was referred to Ph University Of Medical Center for rule out transient ischemic attack and rule out stroke .
+The patient denies any nausea , vomiting , ataxia , motor deficits , speech deficits or sensory deficits .
+The patient lightly bumped his head on the top three times on the previous night and the patient had frontal headaches and a tight neck .
+One hour after he had physical activity on the previously night as well .
+ALLERGIES :
+The patient denies any drug allergies .
+HOSPITAL COURSE :
+The patient was admitted with a right occipital cerebral infarction .
+The patient was started on intravenous heparin and had the studies as described above for rule out source of embolic strokes including carotid noninvasives , transcranial Dopplers , Holter electrocardiogram and echocardiogram .
+The patient also had serial electrocardiogram , which showed no change .
+The patient also had serial creatinine kinase with MB fractions studied , which revealed MB fraction too low to be tested .
+The patient also experienced a feeling of moving back and forth when lying down with neck extended during the magnetic resonance imaging study and also in bed .
+This moving sense , with normal electroencephalogram , was thought to be a mild vestibular dysfunction or from the acute episode of the stroke .
+The patient will have these symptoms only when the eyes are closed .
+Our opinion was not to intervene or have any further studies for acute period and to continued to observe .
+The patient did have a hypotensive episode and the systolic blood pressure was 80 , after the patient received his regular cardiac medications .
+The patient had been off his regular medications since during the admission and will be discharged off his medications .
+Otherwise , there were no further episodes of blurred vision .
+The patient was stable with an unchanged neurological and physical examination and was discharged on aspirin 325 mg po qd , on May 14 , 1995 .
+The patient will be randomized on the Wars study early next week by the Stroke Service at Ph University Of Medical Center .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1152" id="E46" modality="FACTUAL" polarity="POS" start="1089" text="the Purckecation Balpoingdelt Pabarnes- Campa Memorial Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1182" id="E47" modality="FACTUAL" polarity="POS" start="1161" text="examined and assessed" type="OCCURRENCE"/>
+<EVENT end="1209" id="E48" modality="FACTUAL" polarity="POS" start="1201" text="referred" type="OCCURRENCE"/>
+<EVENT end="1244" id="E49" modality="FACTUAL" polarity="POS" start="1213" text="Ph University Of Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1257" id="E50" modality="FACTUAL" polarity="POS" start="1249" text="rule out" type="TEST"/>
+<EVENT end="1283" id="E51" modality="POSSIBLE" polarity="POS" start="1258" text="transient ischemic attack" type="PROBLEM"/>
+<EVENT end="1296" id="E52" modality="FACTUAL" polarity="POS" start="1288" text="rule out" type="TEST"/>
+<EVENT end="1303" id="E53" modality="POSSIBLE" polarity="POS" start="1297" text="stroke" type="PROBLEM"/>
+<EVENT end="1324" id="E54" modality="FACTUAL" polarity="POS" start="1318" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1335" id="E8" modality="FACTUAL" polarity="NEG" start="1325" text="any nausea" type="PROBLEM"/>
+<EVENT end="1346" id="E9" modality="FACTUAL" polarity="NEG" start="1338" text="vomiting" type="PROBLEM"/>
+<EVENT end="1355" id="E10" modality="FACTUAL" polarity="NEG" start="1349" text="ataxia" type="PROBLEM"/>
+<EVENT end="1372" id="E11" modality="FACTUAL" polarity="NEG" start="1358" text="motor deficits" type="PROBLEM"/>
+<EVENT end="1390" id="E12" modality="FACTUAL" polarity="NEG" start="1375" text="speech deficits" type="PROBLEM"/>
+<EVENT end="1410" id="E13" modality="FACTUAL" polarity="NEG" start="1394" text="sensory deficits" type="PROBLEM"/>
+<EVENT end="1439" id="E55" modality="FACTUAL" polarity="POS" start="1433" text="bumped" type="PROBLEM"/>
+<EVENT end="175" id="E1" modality="FACTUAL" polarity="POS" start="152" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1531" id="E14" modality="FACTUAL" polarity="POS" start="1514" text="frontal headaches" type="PROBLEM"/>
+<EVENT end="1548" id="E15" modality="FACTUAL" polarity="POS" start="1536" text="a tight neck" type="PROBLEM"/>
+<EVENT end="1590" id="E56" modality="FACTUAL" polarity="POS" start="1573" text="physical activity" type="OCCURRENCE"/>
+<EVENT end="1655" id="E57" modality="FACTUAL" polarity="POS" start="1649" text="denies" type="EVIDENTIAL"/>
+<EVENT end="1674" id="E58" modality="FACTUAL" polarity="NEG" start="1656" text="any drug allergies" type="PROBLEM"/>
+<EVENT end="1719" id="E37" modality="FACTUAL" polarity="POS" start="1711" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1762" id="E16" modality="FACTUAL" polarity="POS" start="1725" text="a right occipital cerebral infarction" type="PROBLEM"/>
+<EVENT end="1811" id="E17" modality="FACTUAL" polarity="POS" start="1792" text="intravenous heparin" type="TREATMENT"/>
+<EVENT end="1831" id="E18" modality="FACTUAL" polarity="POS" start="1820" text="the studies" type="TEST"/>
+<EVENT end="1863" id="E59" modality="FACTUAL" polarity="POS" start="1855" text="rule out" type="TEST"/>
+<EVENT end="209" id="E2" modality="FACTUAL" polarity="POS" start="188" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="1889" id="E19" modality="FACTUAL" polarity="POS" start="1874" text="embolic strokes" type="PROBLEM"/>
+<EVENT end="1920" id="E20" modality="FACTUAL" polarity="POS" start="1900" text="carotid noninvasives" type="TEST"/>
+<EVENT end="1944" id="E21" modality="FACTUAL" polarity="POS" start="1923" text="transcranial Dopplers" type="TEST"/>
+<EVENT end="1971" id="E22" modality="FACTUAL" polarity="POS" start="1947" text="Holter electrocardiogram" type="TEST"/>
+<EVENT end="1990" id="E23" modality="FACTUAL" polarity="POS" start="1976" text="echocardiogram" type="TEST"/>
+<EVENT end="2038" id="E24" modality="FACTUAL" polarity="POS" start="2014" text="serial electrocardiogram" type="TEST"/>
+<EVENT end="2053" id="E60" modality="FACTUAL" polarity="POS" start="2047" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2063" id="E61" modality="FACTUAL" polarity="NEG" start="2057" text="change" type="PROBLEM"/>
+<EVENT end="2129" id="E25" modality="FACTUAL" polarity="POS" start="2087" text="serial creatinine kinase with MB fractions" type="TEST"/>
+<EVENT end="2154" id="E62" modality="FACTUAL" polarity="POS" start="2146" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2174" id="E63" modality="FACTUAL" polarity="POS" start="2167" text="too low" type="PROBLEM"/>
+<EVENT end="2269" id="E64" modality="FACTUAL" polarity="POS" start="2219" text="a feeling of moving back and forth when lying down" type="PROBLEM"/>
+<EVENT end="2332" id="E26" modality="FACTUAL" polarity="POS" start="2296" text="the magnetic resonance imaging study" type="TEST"/>
+<EVENT end="2368" id="E27" modality="FACTUAL" polarity="POS" start="2351" text="This moving sense" type="PROBLEM"/>
+<EVENT end="2403" id="E65" modality="FACTUAL" polarity="POS" start="2383" text="electroencephalogram" type="TEST"/>
+<EVENT end="281" id="E3" modality="FACTUAL" polarity="POS" start="243" text="noninsulin dependent diabetes mellitus" type="PROBLEM"/>
+<EVENT end="2453" id="E66" modality="POSSIBLE" polarity="POS" start="2431" text="vestibular dysfunction" type="PROBLEM"/>
+<EVENT end="2493" id="E67" modality="POSSIBLE" polarity="POS" start="2483" text="the stroke" type="PROBLEM"/>
+<EVENT end="2532" id="E68" modality="FACTUAL" polarity="POS" start="2518" text="these symptoms" type="PROBLEM"/>
+<EVENT end="2625" id="E29" modality="PROPOSED" polarity="NEG" start="2606" text="any further studies" type="TEST"/>
+<EVENT end="2670" id="E69" modality="PROPOSED" polarity="POS" start="2650" text="continued to observe" type="TREATMENT"/>
+<EVENT end="2715" id="E30" modality="FACTUAL" polarity="POS" start="2694" text="a hypotensive episode" type="PROBLEM"/>
+<EVENT end="36" id="E36" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2747" id="E31" modality="FACTUAL" polarity="POS" start="2720" text="the systolic blood pressure" type="TEST"/>
+<EVENT end="2815" id="E32" modality="FACTUAL" polarity="POS" start="2784" text="his regular cardiac medications" type="TREATMENT"/>
+<EVENT end="2866" id="E70" modality="FACTUAL" polarity="NEG" start="2843" text="his regular medications" type="TREATMENT"/>
+<EVENT end="298" id="E40" modality="FACTUAL" polarity="POS" start="288" text="presenting" type="OCCURRENCE"/>
+<EVENT end="2893" id="E71" modality="FACTUAL" polarity="POS" start="2880" text="the admission" type="OCCURRENCE"/>
+<EVENT end="2916" id="E38" modality="FACTUAL" polarity="POS" start="2906" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2936" id="E33" modality="FACTUAL" polarity="NEG" start="2921" text="his medications" type="TREATMENT"/>
+<EVENT end="2999" id="E34" modality="FACTUAL" polarity="NEG" start="2985" text="blurred vision" type="PROBLEM"/>
+<EVENT end="3024" id="E72" modality="FACTUAL" polarity="POS" start="3018" text="stable" type="OCCURRENCE"/>
+<EVENT end="340" id="E4" modality="FACTUAL" polarity="POS" start="304" text="acute blurry vision on the left side" type="PROBLEM"/>
+<EVENT end="3080" id="E35" modality="FACTUAL" polarity="POS" start="3043" text="neurological and physical examination" type="TEST"/>
+<EVENT end="3099" id="E39" modality="FACTUAL" polarity="POS" start="3089" text="discharged" type="OCCURRENCE"/>
+<EVENT end="3110" id="E73" modality="FACTUAL" polarity="POS" start="3103" text="aspirin" type="TREATMENT"/>
+<EVENT end="549" id="E41" modality="FACTUAL" polarity="POS" start="535" text="blurred vision" type="PROBLEM"/>
+<EVENT end="658" id="E5" modality="FACTUAL" polarity="NEG" start="642" text="change of vision" type="PROBLEM"/>
+<EVENT end="697" id="E6" modality="FACTUAL" polarity="POS" start="679" text="The blurred vision" type="PROBLEM"/>
+<EVENT end="747" id="E42" modality="FACTUAL" polarity="POS" start="728" text="blurred in each eye" type="PROBLEM"/>
+<EVENT end="798" id="E7" modality="FACTUAL" polarity="POS" start="775" text="The same blurred vision" type="PROBLEM"/>
+<EVENT end="964" id="E43" modality="FACTUAL" polarity="POS" start="918" text="the Ochtuheihugh Put University Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="989" id="E44" modality="FACTUAL" polarity="POS" start="981" text="referred" type="OCCURRENCE"/>
+<EVENT end="1056" id="E45" modality="FACTUAL" polarity="POS" start="993" text="the Purckecation Balpoingdelt Pabarnes- Campa Memorial Hospital" type="CLINICAL_DEPT"/>
+<ATIMEX3 end="1068" id="T7" mod="NA" start="1062" text="8 p.m." type="TIME" val="1995-05-08T20:00"/>
+
+<RTIMEX3 end="1493" id="T9" mod="END" start="1475" text="the previous night" type="DATE" val="1995-05-07"/>
+
+<RTIMEX3 end="1614" id="T11" mod="END" start="1594" text="the previously night" type="DATE" val="1995-05-07"/>
+<ATIMEX3 end="26" id="T1" mod="NA" start="18" text="05/08/95" type="DATE" val="1995-05-08"/>
+<ATIMEX3 end="217" id="T0" mod="NA" start="213" text="1984" type="DATE" val="1984"/>
+<RTIMEX3 end="3142" id="T3" mod="NA" start="3129" text="May 14 , 1995" type="DATE" val="1995-05-14"/>
+<RTIMEX3 end="409" id="T4" mod="NA" start="397" text="May 8 , 1995" type="DATE" val="1995-05-08"/>
+<ATIMEX3 end="421" id="T5" mod="NA" start="415" text="8 a.m." type="TIME" val="1995-05-08T08:00"/>
+<ATIMEX3 end="52" id="T2" mod="NA" start="44" text="05/14/95" type="DATE" val="1995-05-14"/>
+<RTIMEX3 end="821" id="T6" mod="APPROX" start="816" text="later" type="TIME" val="1995-05-08t12:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1995-05-08" end="26" id="S0" start="18" text="05/08/95" type="ADMISSION"/>
+<SECTIME dvalue="1995-05-14" end="52" id="S1" start="44" text="05/14/95" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

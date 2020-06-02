@@ -1,0 +1,169 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+09/20/2000
+Discharge Date :
+09/22/2000
+HISTORY OF PRESENT ILLNESS :
+This is a 48-year-old G 3 P 3 who presented to Dr. Fuscmadril &apos;s clinic after having an abnormal pap smear followed by an endometrial biopsy that was suggestive of grade 1 endometrial cancer .
+This is a patient who , over the past year , has had no menses and thought she had become menopausal .
+She then began spotting for several months with some constant brown discharge .
+A pap smear that was obtained by her primary care physician showed an endometrial cell and thus she was referred to a gynecologist for an endometrial biopsy .
+The endometrial biopsy showed grade 1 endometrial cancer .
+A decision was made to proceed with surgical management for this finding .
+HOSPITAL COURSE :
+The patient was admitted on the day of her surgery which was 09/20/00 .
+She underwent a TAH-BSO which was uncomplicated .
+Details of the procedure can be found in the operative dictation .
+In short , frozen pathology from the uterus showed that there was a grade 1 cancer with no invasion of the myometrium .
+There was no nodal dissection done at that time .
+The patient tolerated the procedure extremely well and did well during her postoperative course .
+By postoperative day #2 she was eating , ambulating and voiding on her own .
+She decided to now be discharged home at this time .
+She was discharged home with the following medications :
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E20" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1017" id="E34" modality="FACTUAL" polarity="POS" start="1011" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1049" id="E15" modality="FACTUAL" polarity="POS" start="1033" text="a grade 1 cancer" type="PROBLEM"/>
+<EVENT end="1084" id="E16" modality="FACTUAL" polarity="NEG" start="1058" text="invasion of the myometrium" type="PROBLEM"/>
+<EVENT end="1116" id="E17" modality="FACTUAL" polarity="NEG" start="1100" text="nodal dissection" type="TEST"/>
+<EVENT end="1172" id="E18" modality="FACTUAL" polarity="POS" start="1159" text="the procedure" type="TREATMENT"/>
+<EVENT end="1187" id="E36" modality="FACTUAL" polarity="POS" start="1173" text="extremely well" type="OCCURRENCE"/>
+<EVENT end="1200" id="E37" modality="FACTUAL" polarity="POS" start="1196" text="well" type="OCCURRENCE"/>
+<EVENT end="129" id="E0" modality="FACTUAL" polarity="POS" start="120" text="presented" type="OCCURRENCE"/>
+<EVENT end="1232" id="E38" modality="FACTUAL" polarity="POS" start="1208" text="her postoperative course" type="OCCURRENCE"/>
+<EVENT end="1273" id="E39" modality="FACTUAL" polarity="POS" start="1267" text="eating" type="OCCURRENCE"/>
+<EVENT end="1286" id="E40" modality="FACTUAL" polarity="POS" start="1276" text="ambulating" type="OCCURRENCE"/>
+<EVENT end="1298" id="E42" modality="FACTUAL" polarity="POS" start="1291" text="voiding" type="OCCURRENCE"/>
+<EVENT end="1298" id="E44" modality="FACTUAL" polarity="POS" start="1291" text="voiding" type="OCCURRENCE"/>
+<EVENT end="1344" id="E43" modality="FACTUAL" polarity="POS" start="1334" text="discharged" type="OCCURRENCE"/>
+<EVENT end="162" id="E24" modality="FACTUAL" polarity="POS" start="137" text="Fuscmadril 's clinic" type="CLINICAL_DEPT"/>
+<EVENT end="1383" id="E23" modality="FACTUAL" polarity="POS" start="1373" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1419" id="E19" modality="FACTUAL" polarity="POS" start="1394" text="the following medications" type="TREATMENT"/>
+<EVENT end="197" id="E1" modality="FACTUAL" polarity="POS" start="176" text="an abnormal pap smear" type="PROBLEM"/>
+<EVENT end="231" id="E2" modality="FACTUAL" polarity="POS" start="210" text="an endometrial biopsy" type="TEST"/>
+<EVENT end="281" id="E25" modality="POSSIBLE" polarity="POS" start="255" text="grade 1 endometrial cancer" type="PROBLEM"/>
+<EVENT end="38" id="E21" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="346" id="E27" modality="FACTUAL" polarity="NEG" start="340" text="menses" type="PROBLEM"/>
+<EVENT end="384" id="E3" modality="FACTUAL" polarity="POS" start="374" text="menopausal" type="PROBLEM"/>
+<EVENT end="410" id="E4" modality="FACTUAL" polarity="POS" start="402" text="spotting" type="PROBLEM"/>
+<EVENT end="464" id="E5" modality="FACTUAL" polarity="POS" start="435" text="some constant brown discharge" type="PROBLEM"/>
+<EVENT end="464" id="E28" modality="FACTUAL" polarity="POS" start="440" text="constant brown discharge" type="PROBLEM"/>
+<EVENT end="478" id="E6" modality="FACTUAL" polarity="POS" start="467" text="A pap smear" type="TEST"/>
+<EVENT end="533" id="E29" modality="FACTUAL" polarity="POS" start="527" text="showed" type="EVIDENTIAL"/>
+<EVENT end="553" id="E7" modality="FACTUAL" polarity="POS" start="534" text="an endometrial cell" type="PROBLEM"/>
+<EVENT end="623" id="E8" modality="FACTUAL" polarity="POS" start="602" text="an endometrial biopsy" type="TEST"/>
+<EVENT end="648" id="E9" modality="FACTUAL" polarity="POS" start="626" text="The endometrial biopsy" type="TEST"/>
+<EVENT end="655" id="E30" modality="FACTUAL" polarity="POS" start="649" text="showed" type="EVIDENTIAL"/>
+<EVENT end="682" id="E31" modality="FACTUAL" polarity="POS" start="656" text="grade 1 endometrial cancer" type="PROBLEM"/>
+<EVENT end="740" id="E32" modality="PROPOSED" polarity="POS" start="721" text="surgical management" type="TREATMENT"/>
+<EVENT end="802" id="E22" modality="FACTUAL" polarity="POS" start="794" text="admitted" type="OCCURRENCE"/>
+<EVENT end="828" id="E10" modality="FACTUAL" polarity="POS" start="817" text="her surgery" type="TREATMENT"/>
+<EVENT end="873" id="E11" modality="FACTUAL" polarity="POS" start="864" text="a TAH-BSO" type="TREATMENT"/>
+<EVENT end="924" id="E13" modality="FACTUAL" polarity="POS" start="911" text="the procedure" type="TREATMENT"/>
+<EVENT end="964" id="E33" modality="FACTUAL" polarity="POS" start="941" text="the operative dictation" type="EVIDENTIAL"/>
+<EVENT end="1010" id="E14" modality="FACTUAL" polarity="POS" start="978" text="frozen pathology from the uterus" type="TEST"/>
+<RTIMEX3 end="1134" id="T7" mod="NA" start="1125" text="that time" type="DATE" val="2000-09-20"/>
+<RTIMEX3 end="1258" id="T8" mod="NA" start="1238" text="postoperative day #2" type="DATE" val="2000-09-22"/>
+<RTIMEX3 end="1362" id="T9" mod="NA" start="1353" text="this time" type="DATE" val="2000-09-22"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="09/20/2000" type="DATE" val="2000-09-20"/>
+
+
+<ATIMEX3 end="56" id="T0" mod="NA" start="46" text="09/22/2000" type="DATE" val="2000-09-20"/>
+<RTIMEX3 end="813" id="T5" mod="NA" start="806" text="the day" type="DATE" val="2000-09-20"/>
+<ATIMEX3 end="847" id="T6" mod="NA" start="839" text="09/20/00" type="DATE" val="2000-09-20"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2000-09-20" end="28" id="S0" start="18" text="09/20/2000" type="ADMISSION"/>
+<SECTIME dvalue="2000-09-22" end="56" id="S1" start="46" text="09/22/2000" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

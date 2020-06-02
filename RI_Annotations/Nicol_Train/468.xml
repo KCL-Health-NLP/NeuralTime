@@ -1,0 +1,225 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+05/09/1998
+Discharge Date :
+05/25/1998
+HISTORY OF PRESENT ILLNESS :
+The patient is a 74-year-old woman , well known to the cardiac surgery service , readmitted from Glasmif/putdi Health Network with sternal wound infection .
+She has been previously hospitalized on 12 April 1998 for the same diagnosis .
+She is now coming for surgical treatment , wound debridement , and possible wound closure with bilateral pectoralis flap .
+She underwent coronary artery bypass graft times two with saphenous vein graft on 29 March 1998 .
+Of note , the patient is status post lymphoma with treatment of chemotherapy and radiation six years ago , and is an insulin-dependent diabetic .
+HOSPITAL COURSE :
+The patient was placed on IV antibiotics , Ancef 1 gm q.8h.
+On 10 May 1998 , she underwent sternal wound debridement and closure , performed by Dr. Falccouette and Dr. Shuffzeln .
+The patient was switched to ampicillin , gentamicin , and clindamycin , according to the culture , Enterococci and Staphylococcus in the wound .
+Due to the persistent fevers , the patient underwent vancomycin desensitization in the surgical Intensive Care Unit followed by a change of antibiotics to vancomycin and levofloxacin .
+Further cultures from sputum and urine revealed yeast sensitive to Diflucan , which was administered shortly after .
+Because of expected long term antibiotic administration , a PICC line was placed and the patient was prepared for transfer back to Fo Hospital .
+As a small complication , the patient opened a left ankle wound post saphenous vein harvest , which persists up until now and is of a size 2 x 1 cm .
+Due to difficult ambulation , the patient developed a small ulcer in the sacral area , which was treated with Duoderm dressing .
+During the course of hospitalization , the patient was followed by cardiac surgery , cardiology , infectious disease , allergy , and medicine , including GI teams .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1016" id="E28" modality="FACTUAL" polarity="POS" start="1002" text="Staphylococcus" type="PROBLEM"/>
+<EVENT end="1029" id="E29" modality="FACTUAL" polarity="POS" start="1020" text="the wound" type="PROBLEM"/>
+<EVENT end="1060" id="E30" modality="FACTUAL" polarity="POS" start="1039" text="the persistent fevers" type="PROBLEM"/>
+<EVENT end="1111" id="E31" modality="FACTUAL" polarity="POS" start="1085" text="vancomycin desensitization" type="TREATMENT"/>
+<EVENT end="1147" id="E32" modality="FACTUAL" polarity="POS" start="1115" text="the surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1183" id="E33" modality="FACTUAL" polarity="POS" start="1160" text="a change of antibiotics" type="TREATMENT"/>
+<EVENT end="1197" id="E34" modality="FACTUAL" polarity="POS" start="1187" text="vancomycin" type="TREATMENT"/>
+<EVENT end="1214" id="E35" modality="FACTUAL" polarity="POS" start="1202" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="1255" id="E36" modality="FACTUAL" polarity="POS" start="1217" text="Further cultures from sputum and urine" type="TEST"/>
+<EVENT end="1264" id="E37" modality="FACTUAL" polarity="POS" start="1256" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1270" id="E38" modality="FACTUAL" polarity="POS" start="1265" text="yeast" type="PROBLEM"/>
+<EVENT end="1292" id="E39" modality="FACTUAL" polarity="POS" start="1284" text="Diflucan" type="TREATMENT"/>
+<EVENT end="1389" id="E41" modality="HYPOTHETICAL" polarity="POS" start="1345" text="expected long term antibiotic administration" type="TREATMENT"/>
+<EVENT end="164" id="E2" modality="FACTUAL" polarity="POS" start="137" text="the cardiac surgery service" type="CLINICAL_DEPT"/>
+<EVENT end="1403" id="E42" modality="FACTUAL" polarity="POS" start="1392" text="a PICC line" type="TREATMENT"/>
+<EVENT end="1443" id="E43" modality="FACTUAL" polarity="POS" start="1435" text="prepared" type="OCCURRENCE"/>
+<EVENT end="1456" id="E44" modality="FACTUAL" polarity="POS" start="1448" text="transfer" type="OCCURRENCE"/>
+<EVENT end="1476" id="E45" modality="FACTUAL" polarity="POS" start="1465" text="Fo Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1502" id="E46" modality="FACTUAL" polarity="POS" start="1482" text="a small complication" type="PROBLEM"/>
+<EVENT end="1523" id="E40" modality="FACTUAL" polarity="POS" start="1517" text="opened" type="PROBLEM"/>
+<EVENT end="1542" id="E47" modality="FACTUAL" polarity="POS" start="1524" text="a left ankle wound" type="PROBLEM"/>
+<EVENT end="1570" id="E48" modality="FACTUAL" polarity="POS" start="1548" text="saphenous vein harvest" type="TREATMENT"/>
+<EVENT end="1587" id="E49" modality="FACTUAL" polarity="POS" start="1579" text="persists" type="OCCURRENCE"/>
+<EVENT end="1656" id="E50" modality="FACTUAL" polarity="POS" start="1636" text="difficult ambulation" type="PROBLEM"/>
+<EVENT end="177" id="E3" modality="FACTUAL" polarity="POS" start="167" text="readmitted" type="OCCURRENCE"/>
+<EVENT end="1713" id="E51" modality="FACTUAL" polarity="POS" start="1681" text="a small ulcer in the sacral area" type="PROBLEM"/>
+<EVENT end="1755" id="E52" modality="FACTUAL" polarity="POS" start="1739" text="Duoderm dressing" type="TREATMENT"/>
+<EVENT end="1794" id="E53" modality="FACTUAL" polarity="POS" start="1765" text="the course of hospitalization" type="OCCURRENCE"/>
+<EVENT end="1840" id="E54" modality="FACTUAL" polarity="POS" start="1825" text="cardiac surgery" type="CLINICAL_DEPT"/>
+<EVENT end="211" id="E4" modality="FACTUAL" polarity="POS" start="183" text="Glasmif/putdi Health Network" type="CLINICAL_DEPT"/>
+<EVENT end="1853" id="E55" modality="FACTUAL" polarity="POS" start="1843" text="cardiology" type="CLINICAL_DEPT"/>
+<EVENT end="1874" id="E56" modality="FACTUAL" polarity="POS" start="1856" text="infectious disease" type="CLINICAL_DEPT"/>
+<EVENT end="1884" id="E57" modality="FACTUAL" polarity="POS" start="1877" text="allergy" type="CLINICAL_DEPT"/>
+<EVENT end="1899" id="E58" modality="FACTUAL" polarity="POS" start="1891" text="medicine" type="CLINICAL_DEPT"/>
+<EVENT end="1920" id="E59" modality="FACTUAL" polarity="POS" start="1912" text="GI teams" type="CLINICAL_DEPT"/>
+<EVENT end="240" id="E5" modality="FACTUAL" polarity="POS" start="217" text="sternal wound infection" type="PROBLEM"/>
+<EVENT end="279" id="E6" modality="FACTUAL" polarity="POS" start="267" text="hospitalized" type="OCCURRENCE"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="319" id="E7" modality="FACTUAL" polarity="POS" start="301" text="the same diagnosis" type="PROBLEM"/>
+<EVENT end="339" id="E8" modality="FACTUAL" polarity="POS" start="333" text="coming" type="OCCURRENCE"/>
+<EVENT end="362" id="E9" modality="FACTUAL" polarity="POS" start="344" text="surgical treatment" type="TREATMENT"/>
+<EVENT end="382" id="E10" modality="FACTUAL" polarity="POS" start="365" text="wound debridement" type="TREATMENT"/>
+<EVENT end="442" id="E11" modality="POSSIBLE" polarity="POS" start="398" text="wound closure with bilateral pectoralis flap" type="TREATMENT"/>
+<EVENT end="487" id="E12" modality="FACTUAL" polarity="POS" start="459" text="coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="523" id="E13" modality="FACTUAL" polarity="POS" start="503" text="saphenous vein graft" type="TREATMENT"/>
+<EVENT end="588" id="E14" modality="FACTUAL" polarity="POS" start="580" text="lymphoma" type="PROBLEM"/>
+<EVENT end="619" id="E15" modality="FACTUAL" polarity="POS" start="607" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="633" id="E16" modality="FACTUAL" polarity="POS" start="624" text="radiation" type="TREATMENT"/>
+<EVENT end="686" id="E17" modality="FACTUAL" polarity="POS" start="657" text="an insulin-dependent diabetic" type="PROBLEM"/>
+<EVENT end="747" id="E18" modality="FACTUAL" polarity="POS" start="733" text="IV antibiotics" type="TREATMENT"/>
+<EVENT end="755" id="E19" modality="FACTUAL" polarity="POS" start="750" text="Ancef" type="TREATMENT"/>
+<EVENT end="823" id="E20" modality="FACTUAL" polarity="POS" start="798" text="sternal wound debridement" type="TREATMENT"/>
+<EVENT end="835" id="E21" modality="FACTUAL" polarity="POS" start="828" text="closure" type="TREATMENT"/>
+<EVENT end="911" id="E22" modality="FACTUAL" polarity="POS" start="903" text="switched" type="OCCURRENCE"/>
+<EVENT end="925" id="E23" modality="FACTUAL" polarity="POS" start="915" text="ampicillin" type="TREATMENT"/>
+<EVENT end="938" id="E24" modality="FACTUAL" polarity="POS" start="928" text="gentamicin" type="TREATMENT"/>
+<EVENT end="956" id="E25" modality="FACTUAL" polarity="POS" start="945" text="clindamycin" type="TREATMENT"/>
+<EVENT end="983" id="E26" modality="FACTUAL" polarity="POS" start="972" text="the culture" type="TEST"/>
+<EVENT end="997" id="E27" modality="FACTUAL" polarity="POS" start="986" text="Enterococci" type="PROBLEM"/>
+<RTIMEX3 end="1600" id="T7" mod="NA" start="1597" text="now" type="DATE" val="1998-05-25"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="05/09/1998" type="DATE" val="1998-05-09"/>
+<ATIMEX3 end="296" id="T2" mod="NA" start="283" text="12 April 1998" type="DATE" val="1998-04-12"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="05/25/1998" type="DATE" val="1998-05-25"/>
+<ATIMEX3 end="540" id="T3" mod="NA" start="527" text="29 March 1998" type="DATE" val="1998-03-29"/>
+<RTIMEX3 end="647" id="T4" mod="APPROX" start="634" text="six years ago" type="DATE" val="1992-05-09"/>
+
+<ATIMEX3 end="781" id="T6" mod="NA" start="770" text="10 May 1998" type="DATE" val="1998-05-10"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1998-05-09" end="28" id="S0" start="18" text="05/09/1998" type="ADMISSION"/>
+<SECTIME dvalue="1998-05-25" end="56" id="S1" start="46" text="05/25/1998" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

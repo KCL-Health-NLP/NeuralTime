@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+04/30/2005
+DISCHARGE DATE :
+5/14/05 05/14/2005
+HISTORY OF PRESENT ILLNESS :
+The patient is a pleasant 83-year-old retired psychiatrist who presents with a chief complaint of gait difficulty for the last five to six months .
+The patient has a history of laryngeal cancer in 2000 and 2001 , CVA in 2001 to 2002 and hypertension , who has a six month history of progressive difficulty in ambulation .
+The patient was in previously good health when he reports starting to notice problems ambulating about six months ago .
+His partner also reports that he has been having more difficulty with ADLs .
+He reported that he began with difficulty buttoning his shirt for many years since after a stroke but now reports that on occasion she would ask him why he was doing certain things and he could not give a concrete example .
+The patient was having a hard time walking and reports that he has felt weaker .
+He has had uncoordination of his feet and began having a cane four to five months ago with the increasing weakness .
+This was especially bad when trying to arise .
+The patient has seen his primary care physician who referred him to physical therapy for his gait weakness but his symptoms failed to improve .
+He continued to progress until two weeks prior to admission when he was found in the bathtub , unsteady and fell trying to steady himself .
+The patient could not be moved and had to have 911 called for help .
+Since that time he had been ambulating with a walker and has had increasing difficulty with falls in the last two weeks .
+The patient was again seen by his primary care physician and a CG scan revealed a mass in the right parietal lobe .
+The patient was referred to the Neurology Service for further workup of the mass .
+The patient denied blurry vision , headache , nausea , vomiting , paresthesias , pain in mental status , confusion or seizures .
+The patient is status post radiation therapy and resection and reconstruction for his laryngeal cancer .
+REVIEW OF SYSTEMS :
+Positive weakness , otherwise negative .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T12" start="1545" end="1554" text="two weeks" type="DATE" relative="TRUE" val="p2w" mod="NA" />
+<RTIMEX3 id="T2" start="221" end="239" text="five to six months" type="DATE" relative="TRUE" val="p5.5m" mod="APPROX" />
+<RTIMEX3 id="T8" start="519" end="533" text="six months ago" type="DATE" relative="TRUE" val="2004-11" mod="NA" />
+<RTIMEX3 id="T10" start="980" end="1003" text="four to five months ago" type="DATE" relative="TRUE" val="2004-12" mod="APPROX" />
+<ATIMEX3 id="T0" start="18" end="28" text="04/30/2005" type="DATE" val="2005-04-30" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="291" end="295" text="2000" type="DATE" val="2000" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="300" end="304" text="2001" type="DATE" val="2001" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="314" end="318" text="2001" type="DATE" val="2001" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T6" start="322" end="326" text="2002" type="DATE" val="2002" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="54" end="64" text="05/14/2005" type="DATE" val="2005-04-14" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="04/30/2005" type="ADMISSION" dvalue="2005-04-30" />
+<ANCHORLINK id="AN0" fromID="T2" fromText="five to six months" toID="S0" toText="04/30/2005" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T8" fromText="six months ago" toID="S0" toText="04/30/2005" relation="BEFORE" />
+<ANCHORLINK id="AN2" fromID="T10" fromText="four to five months ago" toID="S0" toText="04/30/2005" relation="BEFORE" />
+<ANCHORLINK id="AN3" fromID="T12" fromText="two weeks" toID="S0" toText="04/30/2005" relation="BEFORE" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -1,0 +1,442 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-11-11
+Discharge Date :
+2013-11-13
+Service :
+CMED
+History of Present Illness :
+Patient is a 75 year old right handed male with past medical history of coronary artery disease s/p NQWMI 02-25 , s/p LAD angioplasty and stent 05-26 , dementia , hyperlipidemia , aortic stenosis , atrial fibrillation on coumadin who presented from his CMED CSRU doctor 's office wtih acute onset left sided weakness and dysarthria .
+Patient was in his usual state of health until around 12:15 on day of admission .
+Was at this doctor 's office and complained of severe headache .
+Thereafter , wife noted development of left sided weakness , facial droop , slurring of speech .
+Sent to Hahnemann General Hospital for evaluation emergently .
+Tom course :
+Arrived at Hahnemann General Hospital at 12:30 .
+Finger stick blood glucose 120 .
+Rest of vitals BP 112/70 , HR 60 .
+Blood pressure up to 230 s systolic .
+Seen emergently by stroke team .
+Initial NIH stroke scale of 33 .
+Head CT showed large right intracerebral hemorrhage .
+Intubated for airway protection at 13:35 after Fentanyl , Etomidate , Vecuronium and Succhinylcholine given .
+Started on Labetalol and then Nipride drip for BP control ; discontinued as goal BP in 130-160 s.
+Received 10 mg SC Vitamin K and 2 units FFP while in Gary .
+Pupils noted to be fixed and dilated at 14:10 .
+Loaded with Dilantin and 50 grams Mannitol .
+Transferred to intensive care unit .
+Brief Hospital Course :
+Patient was a 75 year old right handed male with past medical history of atrial fibrillation on coumadin , coronary artery disease , hyperlipidemia , dementia with sudden onset left sided weakness , dysarthria .
+Head CT demonstrated a large right intracerebral hemorrhage , centered around basal ganglia and putamen .
+We felt this was likely secondary to hypertension .
+While still in the emergency department , he had rapid decompensation necessitating intubation for airway protection .
+Examination post intubation but off intubations showed clinical evidence of elevated intracranial pressure and brainstem compression .
+The overall prognosis was guarded .
+He was admitted to the Neurology / Neurosurgery ICU .
+He was loaded with Mannitol and Dilantin in the emergency room .
+He was evaluated by the Neurosurgery service and they did not feel a surgical intervention or ventriculary drain was warranted .
+After arrival in the ICU , patient was followed with neuro checks every 1 hour .
+Sedation was held to allow for frequent exams .
+Head of bed was kept at 30 degrees .
+Labetalol continuous infusion was titrated for systolic blood pressure of 130-160 .
+Mannitol and Dilantin were continued .
+After lengthy discussion , the patient 's wife opted to make him DNR on afternoon of 2013-11-11 .
+Overnight , fresh frozen plasma was given for goal INR of < 1.4 .
+On serial exams by neurology and ICU attendings in the morning on 2013-11-12 , patient had no clinical signs of brainstem activity .
+Namely , he was unresponsive .
+Pupils were fixed and dilated .
+No corneal , gag , oculocephalic , and oculovestibular reflexes were elicited .
+He was not overbreathing his ventilator .
+At this point , patient was felt to have clinical signs consistent with brain death .
+Plans were made to proceed with apnea testing .
+However , after discussion with patient 's wife , this was postponed with test planned on 2013-11-13 .
+Full medical care and managment continued overnight 11/9-11/20/2002 .
+At approximately 06:00 on 2013-11-13 , the patient became bradycardic .
+He lapsed first into a junctional rhythm and then had very infrequent ventricular escape beats on telemetry .
+Finally , he went asystolic .
+He was not resuscitated as per previous conversations with his wife .
+Ronald was pronounced dead at 06:59 am .
+The patient 's wife was notified .
+The attending was notified as well .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1039" id="E40" modality="FACTUAL" polarity="POS" start="1030" text="Intubated" type="TREATMENT"/>
+<EVENT end="1061" id="E78" modality="FACTUAL" polarity="POS" start="1044" text="airway protection" type="TREATMENT"/>
+<EVENT end="1085" id="E79" modality="FACTUAL" polarity="POS" start="1077" text="Fentanyl" type="TREATMENT"/>
+<EVENT end="1097" id="E80" modality="FACTUAL" polarity="POS" start="1088" text="Etomidate" type="TREATMENT"/>
+<EVENT end="1110" id="E81" modality="FACTUAL" polarity="POS" start="1100" text="Vecuronium" type="TREATMENT"/>
+<EVENT end="1131" id="E82" modality="FACTUAL" polarity="POS" start="1115" text="Succhinylcholine" type="TREATMENT"/>
+<EVENT end="1160" id="E83" modality="FACTUAL" polarity="POS" start="1151" text="Labetalol" type="TREATMENT"/>
+<EVENT end="1182" id="E84" modality="FACTUAL" polarity="POS" start="1170" text="Nipride drip" type="TREATMENT"/>
+<EVENT end="1197" id="E85" modality="FACTUAL" polarity="POS" start="1187" text="BP control" type="TREATMENT"/>
+<EVENT end="1223" id="E86" modality="FACTUAL" polarity="POS" start="1216" text="goal BP" type="TEST"/>
+<EVENT end="1265" id="E87" modality="FACTUAL" polarity="POS" start="1247" text="10 mg SC Vitamin K" type="TREATMENT"/>
+<EVENT end="1281" id="E88" modality="FACTUAL" polarity="POS" start="1270" text="2 units FFP" type="TREATMENT"/>
+<EVENT end="1295" id="E89" modality="FACTUAL" polarity="POS" start="1291" text="Gary" type="CLINICAL_DEPT"/>
+<EVENT end="1322" id="E90" modality="FACTUAL" polarity="POS" start="1317" text="fixed" type="PROBLEM"/>
+<EVENT end="1334" id="E91" modality="FACTUAL" polarity="POS" start="1327" text="dilated" type="PROBLEM"/>
+<EVENT end="1366" id="E92" modality="FACTUAL" polarity="POS" start="1358" text="Dilantin" type="TREATMENT"/>
+<EVENT end="1388" id="E93" modality="FACTUAL" polarity="POS" start="1371" text="50 grams Mannitol" type="TREATMENT"/>
+<EVENT end="1402" id="E118" modality="FACTUAL" polarity="POS" start="1391" text="Transferred" type="OCCURRENCE"/>
+<EVENT end="1425" id="E94" modality="FACTUAL" polarity="POS" start="1406" text="intensive care unit" type="CLINICAL_DEPT"/>
+<EVENT end="1544" id="E4" modality="FACTUAL" polarity="POS" start="1525" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1556" id="E5" modality="FACTUAL" polarity="POS" start="1548" text="coumadin" type="TREATMENT"/>
+<EVENT end="1582" id="E6" modality="FACTUAL" polarity="POS" start="1559" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1599" id="E7" modality="FACTUAL" polarity="POS" start="1585" text="hyperlipidemia" type="PROBLEM"/>
+<EVENT end="1610" id="E8" modality="FACTUAL" polarity="POS" start="1602" text="dementia" type="PROBLEM"/>
+<EVENT end="1648" id="E9" modality="FACTUAL" polarity="POS" start="1616" text="sudden onset left sided weakness" type="PROBLEM"/>
+<EVENT end="1661" id="E10" modality="FACTUAL" polarity="POS" start="1651" text="dysarthria" type="PROBLEM"/>
+<EVENT end="1671" id="E11" modality="FACTUAL" polarity="POS" start="1664" text="Head CT" type="TEST"/>
+<EVENT end="1684" id="E41" modality="FACTUAL" polarity="POS" start="1672" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="1723" id="E12" modality="FACTUAL" polarity="POS" start="1685" text="a large right intracerebral hemorrhage" type="PROBLEM"/>
+<EVENT end="196" id="E48" modality="FACTUAL" polarity="POS" start="173" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1819" id="E13" modality="POSSIBLE" polarity="POS" start="1807" text="hypertension" type="PROBLEM"/>
+<EVENT end="1861" id="E95" modality="FACTUAL" polarity="POS" start="1837" text="the emergency department" type="CLINICAL_DEPT"/>
+<EVENT end="1891" id="E14" modality="FACTUAL" polarity="POS" start="1871" text="rapid decompensation" type="PROBLEM"/>
+<EVENT end="1916" id="E42" modality="FACTUAL" polarity="POS" start="1906" text="intubation" type="TREATMENT"/>
+<EVENT end="1938" id="E15" modality="FACTUAL" polarity="POS" start="1921" text="airway protection" type="TREATMENT"/>
+<EVENT end="1952" id="E16" modality="FACTUAL" polarity="POS" start="1941" text="Examination" type="TEST"/>
+<EVENT end="1968" id="E43" modality="FACTUAL" polarity="POS" start="1958" text="intubation" type="TREATMENT"/>
+<EVENT end="1988" id="E17" modality="FACTUAL" polarity="POS" start="1977" text="intubations" type="TREATMENT"/>
+<EVENT end="1995" id="E44" modality="FACTUAL" polarity="POS" start="1989" text="showed" type="EVIDENTIAL"/>
+<EVENT end="206" id="E1" modality="FACTUAL" polarity="POS" start="201" text="NQWMI" type="PROBLEM"/>
+<EVENT end="2047" id="E18" modality="FACTUAL" polarity="POS" start="2017" text="elevated intracranial pressure" type="PROBLEM"/>
+<EVENT end="2073" id="E19" modality="FACTUAL" polarity="POS" start="2052" text="brainstem compression" type="PROBLEM"/>
+<EVENT end="2163" id="E96" modality="FACTUAL" polarity="POS" start="2131" text="the Neurology / Neurosurgery ICU" type="CLINICAL_DEPT"/>
+<EVENT end="234" id="E2" modality="FACTUAL" polarity="POS" start="219" text="LAD angioplasty" type="TREATMENT"/>
+<EVENT end="2193" id="E20" modality="FACTUAL" polarity="POS" start="2185" text="Mannitol" type="TREATMENT"/>
+<EVENT end="2206" id="E21" modality="FACTUAL" polarity="POS" start="2198" text="Dilantin" type="TREATMENT"/>
+<EVENT end="2228" id="E97" modality="FACTUAL" polarity="POS" start="2210" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="2247" id="E45" modality="FACTUAL" polarity="POS" start="2238" text="evaluated" type="TEST"/>
+<EVENT end="2321" id="E98" modality="FACTUAL" polarity="NEG" start="2298" text="a surgical intervention" type="TREATMENT"/>
+<EVENT end="2343" id="E99" modality="FACTUAL" polarity="NEG" start="2325" text="ventriculary drain" type="TREATMENT"/>
+<EVENT end="2384" id="E100" modality="FACTUAL" polarity="POS" start="2377" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="244" id="E3" modality="FACTUAL" polarity="POS" start="239" text="stent" type="TREATMENT"/>
+<EVENT end="2425" id="E22" modality="FACTUAL" polarity="POS" start="2413" text="neuro checks" type="TEST"/>
+<EVENT end="2449" id="E23" modality="FACTUAL" polarity="NEG" start="2441" text="Sedation" type="TREATMENT"/>
+<EVENT end="2486" id="E24" modality="FACTUAL" polarity="POS" start="2472" text="frequent exams" type="TEST"/>
+<EVENT end="261" id="E49" modality="FACTUAL" polarity="POS" start="253" text="dementia" type="PROBLEM"/>
+<EVENT end="2555" id="E25" modality="FACTUAL" polarity="POS" start="2526" text="Labetalol continuous infusion" type="TREATMENT"/>
+<EVENT end="2596" id="E26" modality="FACTUAL" polarity="POS" start="2573" text="systolic blood pressure" type="TEST"/>
+<EVENT end="2618" id="E27" modality="FACTUAL" polarity="POS" start="2610" text="Mannitol" type="TREATMENT"/>
+<EVENT end="2631" id="E28" modality="FACTUAL" polarity="POS" start="2623" text="Dilantin" type="TREATMENT"/>
+<EVENT end="278" id="E50" modality="FACTUAL" polarity="POS" start="264" text="hyperlipidemia" type="PROBLEM"/>
+<EVENT end="2673" id="E101" modality="FACTUAL" polarity="POS" start="2655" text="lengthy discussion" type="OCCURRENCE"/>
+<EVENT end="2717" id="E102" modality="FACTUAL" polarity="POS" start="2714" text="DNR" type="TREATMENT"/>
+<EVENT end="2778" id="E29" modality="FACTUAL" polarity="POS" start="2759" text="fresh frozen plasma" type="TREATMENT"/>
+<EVENT end="2801" id="E30" modality="FACTUAL" polarity="POS" start="2793" text="goal INR" type="TEST"/>
+<EVENT end="296" id="E51" modality="FACTUAL" polarity="POS" start="281" text="aortic stenosis" type="PROBLEM"/>
+<EVENT end="2828" id="E31" modality="FACTUAL" polarity="POS" start="2816" text="serial exams" type="TEST"/>
+<EVENT end="38" id="E47" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2943" id="E32" modality="FACTUAL" polarity="NEG" start="2904" text="no clinical signs of brainstem activity" type="PROBLEM"/>
+<EVENT end="2974" id="E33" modality="FACTUAL" polarity="POS" start="2962" text="unresponsive" type="PROBLEM"/>
+<EVENT end="318" id="E52" modality="FACTUAL" polarity="POS" start="299" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="2994" id="E34" modality="FACTUAL" polarity="POS" start="2989" text="fixed" type="PROBLEM"/>
+<EVENT end="3006" id="E35" modality="FACTUAL" polarity="POS" start="2999" text="dilated" type="PROBLEM"/>
+<EVENT end="3072" id="E103" modality="FACTUAL" polarity="POS" start="3009" text="No corneal , gag , oculocephalic , and oculovestibular reflexes" type="PROBLEM"/>
+<EVENT end="3113" id="E46" modality="FACTUAL" polarity="NEG" start="3100" text="overbreathing" type="OCCURRENCE"/>
+<EVENT end="3128" id="E36" modality="FACTUAL" polarity="POS" start="3114" text="his ventilator" type="TREATMENT"/>
+<EVENT end="3214" id="E37" modality="FACTUAL" polarity="POS" start="3203" text="brain death" type="PROBLEM"/>
+<EVENT end="330" id="E53" modality="FACTUAL" polarity="POS" start="322" text="coumadin" type="TREATMENT"/>
+<EVENT end="3262" id="E104" modality="PROPOSED" polarity="POS" start="3249" text="apnea testing" type="TEST"/>
+<EVENT end="3291" id="E105" modality="FACTUAL" polarity="POS" start="3281" text="discussion" type="OCCURRENCE"/>
+<EVENT end="3343" id="E106" modality="PROPOSED" polarity="POS" start="3339" text="test" type="TEST"/>
+<EVENT end="344" id="E117" modality="FACTUAL" polarity="POS" start="335" text="presented" type="EVIDENTIAL"/>
+<EVENT end="3385" id="E38" modality="FACTUAL" polarity="POS" start="3368" text="Full medical care" type="TREATMENT"/>
+<EVENT end="3399" id="E39" modality="FACTUAL" polarity="POS" start="3390" text="managment" type="TREATMENT"/>
+<EVENT end="3507" id="E107" modality="FACTUAL" polarity="POS" start="3496" text="bradycardic" type="PROBLEM"/>
+<EVENT end="380" id="E54" modality="FACTUAL" polarity="POS" start="350" text="his CMED CSRU doctor 's office" type="CLINICAL_DEPT"/>
+<EVENT end="3550" id="E108" modality="FACTUAL" polarity="POS" start="3531" text="a junctional rhythm" type="PROBLEM"/>
+<EVENT end="3604" id="E109" modality="FACTUAL" polarity="POS" start="3564" text="very infrequent ventricular escape beats" type="PROBLEM"/>
+<EVENT end="3617" id="E110" modality="FACTUAL" polarity="POS" start="3608" text="telemetry" type="TEST"/>
+<EVENT end="3647" id="E111" modality="FACTUAL" polarity="POS" start="3638" text="asystolic" type="PROBLEM"/>
+<EVENT end="3673" id="E112" modality="FACTUAL" polarity="NEG" start="3661" text="resuscitated" type="TREATMENT"/>
+<EVENT end="3703" id="E113" modality="FACTUAL" polarity="POS" start="3690" text="conversations" type="OCCURRENCE"/>
+<EVENT end="3746" id="E114" modality="FACTUAL" polarity="POS" start="3742" text="dead" type="PROBLEM"/>
+<EVENT end="3793" id="E115" modality="FACTUAL" polarity="POS" start="3785" text="notified" type="OCCURRENCE"/>
+<EVENT end="3822" id="E116" modality="FACTUAL" polarity="POS" start="3814" text="notified" type="OCCURRENCE"/>
+<EVENT end="417" id="E55" modality="FACTUAL" polarity="POS" start="386" text="acute onset left sided weakness" type="PROBLEM"/>
+<EVENT end="432" id="E56" modality="FACTUAL" polarity="POS" start="422" text="dysarthria" type="PROBLEM"/>
+<EVENT end="475" id="E57" modality="FACTUAL" polarity="POS" start="450" text="his usual state of health" type="OCCURRENCE"/>
+<EVENT end="514" id="E58" modality="FACTUAL" polarity="POS" start="505" text="admission" type="OCCURRENCE"/>
+<EVENT end="545" id="E59" modality="FACTUAL" polarity="POS" start="524" text="this doctor 's office" type="CLINICAL_DEPT"/>
+<EVENT end="560" id="E60" modality="FACTUAL" polarity="POS" start="550" text="complained" type="EVIDENTIAL"/>
+<EVENT end="579" id="E61" modality="FACTUAL" polarity="POS" start="564" text="severe headache" type="PROBLEM"/>
+<EVENT end="640" id="E62" modality="FACTUAL" polarity="POS" start="621" text="left sided weakness" type="PROBLEM"/>
+<EVENT end="655" id="E63" modality="FACTUAL" polarity="POS" start="643" text="facial droop" type="PROBLEM"/>
+<EVENT end="676" id="E64" modality="FACTUAL" polarity="POS" start="658" text="slurring of speech" type="PROBLEM"/>
+<EVENT end="713" id="E65" modality="FACTUAL" polarity="POS" start="687" text="Hahnemann General Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="728" id="E66" modality="FACTUAL" polarity="POS" start="718" text="evaluation" type="TEST"/>
+<EVENT end="792" id="E67" modality="FACTUAL" polarity="POS" start="766" text="Hahnemann General Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="830" id="E68" modality="FACTUAL" polarity="POS" start="804" text="Finger stick blood glucose" type="TEST"/>
+<EVENT end="851" id="E69" modality="FACTUAL" polarity="POS" start="845" text="vitals" type="TEST"/>
+<EVENT end="854" id="E70" modality="FACTUAL" polarity="POS" start="852" text="BP" type="TEST"/>
+<EVENT end="866" id="E71" modality="FACTUAL" polarity="POS" start="864" text="HR" type="TEST"/>
+<EVENT end="886" id="E72" modality="FACTUAL" polarity="POS" start="872" text="Blood pressure" type="TEST"/>
+<EVENT end="914" id="E73" modality="FACTUAL" polarity="POS" start="910" text="Seen" type="OCCURRENCE"/>
+<EVENT end="967" id="E74" modality="FACTUAL" polarity="POS" start="943" text="Initial NIH stroke scale" type="TEST"/>
+<EVENT end="983" id="E75" modality="FACTUAL" polarity="POS" start="976" text="Head CT" type="TEST"/>
+<EVENT end="990" id="E76" modality="FACTUAL" polarity="POS" start="984" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1027" id="E77" modality="FACTUAL" polarity="POS" start="991" text="large right intracerebral hemorrhage" type="PROBLEM"/>
+<ATIMEX3 end="1070" id="T6" mod="NA" start="1065" text="13:35" type="TIME" val="2013-11-11T13:35"/>
+<ATIMEX3 end="1343" id="T7" mod="NA" start="1338" text="14:10" type="TIME" val="2013-11-11T14:10"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2013-11-11" type="DATE" val="2013-11-11"/>
+<ATIMEX3 end="212" id="T3" mod="NA" start="207" text="02-25" type="DATE" val="2013-02-25"/>
+
+<ATIMEX3 end="250" id="T4" mod="NA" start="245" text="05-26" type="DATE" val="2013-05-26"/>
+<RTIMEX3 end="2744" id="T12" mod="MIDDLE" start="2721" text="afternoon of 2013-11-11" type="DATE" val="2013-11-11"/>
+
+<RTIMEX3 end="2889" id="T13" mod="START" start="2864" text="the morning on 2013-11-12" type="DATE" val="2013-11-12"/>
+<ATIMEX3 end="3365" id="T9" mod="NA" start="3355" text="2013-11-13" type="DATE" val="2013-11-13"/>
+
+<ATIMEX3 end="3474" id="T14" mod="APPROX" start="3455" text="06:00 on 2013-11-13" type="TIME" val="2013-11-13T06:00"/>
+<ATIMEX3 end="3758" id="T15" mod="NA" start="3750" text="06:59 am" type="TIME" val="2013-11-13T06:59"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2013-11-13" type="DATE" val="2013-11-13"/>
+<ATIMEX3 end="501" id="T0" mod="APPROX" start="489" text="12:15 on day" type="TIME" val="2013-11-11T12:15"/>
+<ATIMEX3 end="801" id="T5" mod="NA" start="796" text="12:30" type="TIME" val="2013-11-11T12:30"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2013-11-11" end="28" id="S0" start="18" text="2013-11-11" type="ADMISSION"/>
+<SECTIME dvalue="2013-11-13" end="56" id="S1" start="46" text="2013-11-13" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

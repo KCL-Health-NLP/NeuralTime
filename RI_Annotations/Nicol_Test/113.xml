@@ -1,0 +1,647 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2015-03-26
+Discharge Date :
+2015-03-30
+Service :
+MEDICINE
+History of Present Illness :
+47 female with h/o HCV cirrhosis compocated by encephalopathy , ascites , and h/o portal vein thrombosis ( right anterior portal vein ) and portalcaval shunt ( reversed flow in main portal vein ) presents from liver clinic with increasing abdominal girth .
+She also described sob , nausea , worsening lower ext edema .
+She denied abd pain , fevers , chills .
+She was admitted for a large volume paracentesis but her INR on admission was 3.8 .
+She received 4units of FFP which decreased her INR to 2.2 and then 2 more units during the tap .
+She then had 6L of non-bloody ascitic fluid removed without complication .
+She received 36gm of albumin following the tap .
+Her BP on admission was 120/70 and remained stable following the tap .
+Over the next several hours , pt complained of abd pain but this resolved on its own without medication .
+In the am , she was found to have a hct of 24 , down from 32 and plts 35 , down from 72 .
+She received 2 units of plts and 1 unit of PRBC s.
+Her BP was then noted to be decreased at 80/40 which improved mildly to 90/30 with 1.5L of NS .
+Temp noted to be low at 94 and she was placed on bear hugger which improved temp to 96.7 .
+Her mental status also had decreased from admission and her urine output was minimal , 225cc over the past 12 hours .
+Creatinine this am was 1.9 from 0.9 yesterday .
+Previous hospital course ( per H&P ):
+She was recently hospitalised from 02-23 / 03-04 for abdominal discomfort at which time she underwent paracentesis that ruled out SBP and relieved her abdominal pain .
+She also underwent US that revealed patent portal and hepatic vessels .
+While her discharge summary maintains that she was continued on Furosemide / Spirinolactone / Propranolol , the patient did not receive any scripts on discharge and as a result did not take these medications .
+Also , due to worsening renal function , she was started on octreotide / midodrine / albumin for hepatorenal ssyndrome ( Cr 3.3 at its worst ) which resolved prior to her discharge .
+The hospitalisation was also significant for mild DIC for which she received cryoglobulins and UTI (+ Enterococcus and + Klebsiella ).
+She received a 7 day course of amoxicillin for which Enterococcus was sensitive but Klebsiella unknown .
+Brief Hospital Course :
+A/P : 48 yo morbidly obese woman with HCV cirrhosis c/b encephalopathy , esophageal varices and partial vein thrombosis ( but no hx of SBP ) presents with increasing abdominal girth likely secondary to ascites .
+Admitted for diagnostic / therapeutic paracentesis and then transferred to the ICU for hypotension , confusion and anemia .
+# Liver cirrhosis : MELD score of 34 on admission .
+Pt became more encephalopathic during her hospital course .
+She was not a transplant candidate due to her obesity .
+A family meeting was held on hospital day #4 which included the pt 's closest family members , her hepatologist , Dr. Steidl , her PCP , Dr. Popoff and the ICU team .
+After it was explained that the pt 's prognosis was very poor given that she was not a transplant candidate , the 
+decision was made by the family and the medical team to withdraw care .
+The pt was made comfortable and she expired several hours later .
+# Recurrent ascites : On the medical floor , pt had a large volume paracentesis ( 6 liters ) followed by replacement with albumin .
+She had no evidence of SBP .
+# Hypotension : Pt became hypotensive following the large volume paracentesis despite replacement with albumin .
+This was thought to be 04-09 the large volume tap verses sepsis though she had no other evidence of sepsis .
+She was placed on pressors to maintain a MAP > 55 .
+Once the decision was made to withdraw care , the pressors were discontinued .
+# Anemia : Hct dropped following the tap and there was concern for bleed into her abdomen .
+She received one unit of PRBC s.
+CT of the abdomen and pelvis showed no evidence of bleed .
+Her hematocrit remained stable at 24-26 following the acute drop.
+# ARF : Creatinine has increased from 0.9 on admission to 1.9 on admission to ICU .
+Urine lytes with Na of 10 indicating either pre-renal or hepatorenal .
+Fluid challenge with 36gm of albumin , one unit of PRBCs and 2L of NS .
+Will check creatinine this afternoon .
+Pt previously diagnosed with hepatorenal and was started on midodrine , octreotide and albumin ; these were 
+continued .
+Her creatinine continued to increase , likely due to her worsening liver failure .
+Pt expired during this admission after family discussion to make her comfort care only .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E74" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1015" id="E8" modality="FACTUAL" polarity="POS" start="1011" text="plts" type="TEST"/>
+<EVENT end="1064" id="E9" modality="FACTUAL" polarity="POS" start="1060" text="plts" type="TREATMENT"/>
+<EVENT end="1086" id="E10" modality="FACTUAL" polarity="POS" start="1079" text="PRBC s." type="TREATMENT"/>
+<EVENT end="1093" id="E11" modality="FACTUAL" polarity="POS" start="1087" text="Her BP" type="TEST"/>
+<EVENT end="1108" id="E130" modality="FACTUAL" polarity="POS" start="1103" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1124" id="E12" modality="FACTUAL" polarity="POS" start="1115" text="decreased" type="PROBLEM"/>
+<EVENT end="1148" id="E131" modality="FACTUAL" polarity="POS" start="1140" text="improved" type="OCCURRENCE"/>
+<EVENT end="1180" id="E13" modality="FACTUAL" polarity="POS" start="1178" text="NS" type="TREATMENT"/>
+<EVENT end="1187" id="E14" modality="FACTUAL" polarity="POS" start="1183" text="Temp" type="TEST"/>
+<EVENT end="1193" id="E132" modality="FACTUAL" polarity="POS" start="1188" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1203" id="E15" modality="FACTUAL" polarity="POS" start="1200" text="low" type="PROBLEM"/>
+<EVENT end="137" id="E102" modality="FACTUAL" polarity="POS" start="124" text="HCV cirrhosis" type="PROBLEM"/>
+<EVENT end="1243" id="E16" modality="FACTUAL" polarity="POS" start="1232" text="bear hugger" type="TREATMENT"/>
+<EVENT end="1258" id="E133" modality="FACTUAL" polarity="POS" start="1250" text="improved" type="OCCURRENCE"/>
+<EVENT end="1263" id="E17" modality="FACTUAL" polarity="POS" start="1259" text="temp" type="TEST"/>
+<EVENT end="1291" id="E134" modality="FACTUAL" polarity="POS" start="1274" text="Her mental status" type="TEST"/>
+<EVENT end="1310" id="E18" modality="FACTUAL" polarity="POS" start="1301" text="decreased" type="PROBLEM"/>
+<EVENT end="1325" id="E78" modality="FACTUAL" polarity="POS" start="1316" text="admission" type="OCCURRENCE"/>
+<EVENT end="1346" id="E19" modality="FACTUAL" polarity="POS" start="1330" text="her urine output" type="TEST"/>
+<EVENT end="1358" id="E20" modality="FACTUAL" polarity="POS" start="1351" text="minimal" type="PROBLEM"/>
+<EVENT end="1402" id="E21" modality="FACTUAL" polarity="POS" start="1392" text="Creatinine" type="TEST"/>
+<EVENT end="1402" id="E193" modality="FACTUAL" polarity="POS" start="1392" text="Creatinine" type="TEST"/>
+<EVENT end="1507" id="E79" modality="FACTUAL" polarity="POS" start="1495" text="hospitalised" type="OCCURRENCE"/>
+<EVENT end="166" id="E103" modality="FACTUAL" polarity="POS" start="152" text="encephalopathy" type="PROBLEM"/>
+<EVENT end="1551" id="E22" modality="FACTUAL" polarity="POS" start="1531" text="abdominal discomfort" type="PROBLEM"/>
+<EVENT end="1592" id="E23" modality="FACTUAL" polarity="POS" start="1580" text="paracentesis" type="TREATMENT"/>
+<EVENT end="1611" id="E24" modality="FACTUAL" polarity="NEG" start="1608" text="SBP" type="PROBLEM"/>
+<EVENT end="1643" id="E25" modality="FACTUAL" polarity="POS" start="1625" text="her abdominal pain" type="PROBLEM"/>
+<EVENT end="1667" id="E26" modality="FACTUAL" polarity="POS" start="1665" text="US" type="TEST"/>
+<EVENT end="1681" id="E80" modality="FACTUAL" polarity="POS" start="1673" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="176" id="E104" modality="FACTUAL" polarity="POS" start="169" text="ascites" type="PROBLEM"/>
+<EVENT end="1695" id="E135" modality="FACTUAL" polarity="POS" start="1682" text="patent portal" type="OCCURRENCE"/>
+<EVENT end="1715" id="E136" modality="FACTUAL" polarity="POS" start="1700" text="hepatic vessels" type="OCCURRENCE"/>
+<EVENT end="1755" id="E138" modality="FACTUAL" polarity="POS" start="1746" text="maintains" type="EVIDENTIAL"/>
+<EVENT end="1792" id="E140" modality="FACTUAL" polarity="NEG" start="1782" text="Furosemide" type="TREATMENT"/>
+<EVENT end="1809" id="E141" modality="FACTUAL" polarity="NEG" start="1795" text="Spirinolactone" type="TREATMENT"/>
+<EVENT end="1823" id="E142" modality="FACTUAL" polarity="NEG" start="1812" text="Propranolol" type="TREATMENT"/>
+<EVENT end="1865" id="E144" modality="FACTUAL" polarity="NEG" start="1858" text="scripts" type="OCCURRENCE"/>
+<EVENT end="209" id="E1" modality="FACTUAL" polarity="POS" start="187" text="portal vein thrombosis" type="PROBLEM"/>
+<EVENT end="1878" id="E145" modality="FACTUAL" polarity="POS" start="1869" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1925" id="E146" modality="FACTUAL" polarity="NEG" start="1908" text="these medications" type="TREATMENT"/>
+<EVENT end="1966" id="E27" modality="FACTUAL" polarity="POS" start="1942" text="worsening renal function" type="PROBLEM"/>
+<EVENT end="1998" id="E28" modality="FACTUAL" polarity="POS" start="1988" text="octreotide" type="TREATMENT"/>
+<EVENT end="2010" id="E29" modality="FACTUAL" polarity="POS" start="2001" text="midodrine" type="TREATMENT"/>
+<EVENT end="2020" id="E147" modality="FACTUAL" polarity="POS" start="2013" text="albumin" type="TREATMENT"/>
+<EVENT end="2046" id="E148" modality="FACTUAL" polarity="POS" start="2025" text="hepatorenal ssyndrome" type="PROBLEM"/>
+<EVENT end="2051" id="E30" modality="FACTUAL" polarity="POS" start="2049" text="Cr" type="TEST"/>
+<EVENT end="2108" id="E82" modality="FACTUAL" polarity="POS" start="2095" text="her discharge" type="OCCURRENCE"/>
+<EVENT end="2130" id="E83" modality="FACTUAL" polarity="POS" start="2111" text="The hospitalisation" type="OCCURRENCE"/>
+<EVENT end="2164" id="E149" modality="FACTUAL" polarity="POS" start="2161" text="DIC" type="PROBLEM"/>
+<EVENT end="2201" id="E31" modality="FACTUAL" polarity="POS" start="2188" text="cryoglobulins" type="TREATMENT"/>
+<EVENT end="2209" id="E32" modality="FACTUAL" polarity="POS" start="2206" text="UTI" type="PROBLEM"/>
+<EVENT end="2225" id="E33" modality="FACTUAL" polarity="POS" start="2213" text="Enterococcus" type="PROBLEM"/>
+<EVENT end="2242" id="E34" modality="FACTUAL" polarity="POS" start="2232" text="Klebsiella" type="PROBLEM"/>
+<EVENT end="2288" id="E35" modality="FACTUAL" polarity="POS" start="2277" text="amoxicillin" type="TREATMENT"/>
+<EVENT end="2311" id="E36" modality="FACTUAL" polarity="POS" start="2299" text="Enterococcus" type="PROBLEM"/>
+<EVENT end="2325" id="E150" modality="FACTUAL" polarity="POS" start="2316" text="sensitive" type="OCCURRENCE"/>
+<EVENT end="2340" id="E37" modality="FACTUAL" polarity="POS" start="2330" text="Klebsiella" type="PROBLEM"/>
+<EVENT end="2348" id="E151" modality="FACTUAL" polarity="POS" start="2341" text="unknown" type="OCCURRENCE"/>
+<EVENT end="2426" id="E152" modality="FACTUAL" polarity="POS" start="2413" text="HCV cirrhosis" type="PROBLEM"/>
+<EVENT end="2445" id="E153" modality="FACTUAL" polarity="POS" start="2431" text="encephalopathy" type="PROBLEM"/>
+<EVENT end="262" id="E2" modality="FACTUAL" polarity="POS" start="245" text="portalcaval shunt" type="TREATMENT"/>
+<EVENT end="2466" id="E154" modality="FACTUAL" polarity="POS" start="2448" text="esophageal varices" type="PROBLEM"/>
+<EVENT end="2494" id="E38" modality="FACTUAL" polarity="POS" start="2471" text="partial vein thrombosis" type="PROBLEM"/>
+<EVENT end="2513" id="E39" modality="FACTUAL" polarity="NEG" start="2510" text="SBP" type="PROBLEM"/>
+<EVENT end="2524" id="E84" modality="FACTUAL" polarity="POS" start="2516" text="presents" type="EVIDENTIAL"/>
+<EVENT end="2556" id="E155" modality="FACTUAL" polarity="POS" start="2530" text="increasing abdominal girth" type="PROBLEM"/>
+<EVENT end="2584" id="E156" modality="FACTUAL" polarity="POS" start="2577" text="ascites" type="PROBLEM"/>
+<EVENT end="2595" id="E85" modality="FACTUAL" polarity="POS" start="2587" text="Admitted" type="OCCURRENCE"/>
+<EVENT end="2637" id="E40" modality="FACTUAL" polarity="POS" start="2600" text="diagnostic / therapeutic paracentesis" type="TREATMENT"/>
+<EVENT end="2658" id="E86" modality="FACTUAL" polarity="POS" start="2647" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2669" id="E87" modality="FACTUAL" polarity="POS" start="2662" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="2685" id="E41" modality="FACTUAL" polarity="POS" start="2674" text="hypotension" type="PROBLEM"/>
+<EVENT end="2697" id="E42" modality="FACTUAL" polarity="POS" start="2688" text="confusion" type="PROBLEM"/>
+<EVENT end="2708" id="E43" modality="FACTUAL" polarity="POS" start="2702" text="anemia" type="PROBLEM"/>
+<EVENT end="2728" id="E157" modality="FACTUAL" polarity="POS" start="2713" text="Liver cirrhosis" type="PROBLEM"/>
+<EVENT end="2741" id="E44" modality="FACTUAL" polarity="POS" start="2731" text="MELD score" type="TEST"/>
+<EVENT end="2760" id="E88" modality="FACTUAL" polarity="POS" start="2751" text="admission" type="OCCURRENCE"/>
+<EVENT end="2793" id="E158" modality="FACTUAL" polarity="POS" start="2773" text="more encephalopathic" type="PROBLEM"/>
+<EVENT end="2820" id="E89" modality="FACTUAL" polarity="POS" start="2801" text="her hospital course" type="OCCURRENCE"/>
+<EVENT end="2847" id="E159" modality="FACTUAL" polarity="POS" start="2835" text="a transplant" type="OCCURRENCE"/>
+<EVENT end="2876" id="E160" modality="FACTUAL" polarity="POS" start="2865" text="her obesity" type="PROBLEM"/>
+<EVENT end="2895" id="E90" modality="FACTUAL" polarity="POS" start="2879" text="A family meeting" type="OCCURRENCE"/>
+<EVENT end="38" id="E0" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="309" id="E75" modality="FACTUAL" polarity="POS" start="301" text="presents" type="EVIDENTIAL"/>
+<EVENT end="3068" id="E161" modality="FACTUAL" polarity="POS" start="3059" text="explained" type="EVIDENTIAL"/>
+<EVENT end="3093" id="E45" modality="FACTUAL" polarity="POS" start="3074" text="the pt 's prognosis" type="PROBLEM"/>
+<EVENT end="3107" id="E162" modality="FACTUAL" polarity="POS" start="3098" text="very poor" type="OCCURRENCE"/>
+<EVENT end="3153" id="E163" modality="FACTUAL" polarity="NEG" start="3131" text="a transplant candidate" type="TREATMENT"/>
+<EVENT end="327" id="E76" modality="FACTUAL" polarity="POS" start="315" text="liver clinic" type="CLINICAL_DEPT"/>
+<EVENT end="3169" id="E91" modality="FACTUAL" polarity="POS" start="3161" text="decision" type="OCCURRENCE"/>
+<EVENT end="3225" id="E164" modality="FACTUAL" polarity="POS" start="3217" text="withdraw" type="OCCURRENCE"/>
+<EVENT end="3260" id="E165" modality="FACTUAL" polarity="POS" start="3249" text="comfortable" type="TREATMENT"/>
+<EVENT end="3276" id="E166" modality="FACTUAL" polarity="POS" start="3269" text="expired" type="OCCURRENCE"/>
+<EVENT end="3318" id="E167" modality="FACTUAL" polarity="POS" start="3301" text="Recurrent ascites" type="PROBLEM"/>
+<EVENT end="359" id="E105" modality="FACTUAL" polarity="POS" start="333" text="increasing abdominal girth" type="PROBLEM"/>
+<EVENT end="3341" id="E92" modality="FACTUAL" polarity="POS" start="3324" text="the medical floor" type="CLINICAL_DEPT"/>
+<EVENT end="3378" id="E46" modality="FACTUAL" polarity="POS" start="3351" text="a large volume paracentesis" type="TREATMENT"/>
+<EVENT end="3428" id="E47" modality="FACTUAL" polarity="POS" start="3404" text="replacement with albumin" type="TREATMENT"/>
+<EVENT end="3450" id="E168" modality="FACTUAL" polarity="NEG" start="3442" text="evidence" type="EVIDENTIAL"/>
+<EVENT end="3457" id="E169" modality="FACTUAL" polarity="NEG" start="3454" text="SBP" type="PROBLEM"/>
+<EVENT end="3473" id="E48" modality="FACTUAL" polarity="POS" start="3462" text="Hypotension" type="PROBLEM"/>
+<EVENT end="3497" id="E49" modality="FACTUAL" polarity="POS" start="3486" text="hypotensive" type="PROBLEM"/>
+<EVENT end="3537" id="E50" modality="FACTUAL" polarity="POS" start="3508" text="the large volume paracentesis" type="TREATMENT"/>
+<EVENT end="3570" id="E51" modality="FACTUAL" polarity="POS" start="3546" text="replacement with albumin" type="TREATMENT"/>
+<EVENT end="3622" id="E52" modality="FACTUAL" polarity="POS" start="3602" text="the large volume tap" type="TREATMENT"/>
+<EVENT end="3636" id="E170" modality="POSSIBLE" polarity="POS" start="3630" text="sepsis" type="PROBLEM"/>
+<EVENT end="3669" id="E171" modality="FACTUAL" polarity="NEG" start="3655" text="other evidence" type="EVIDENTIAL"/>
+<EVENT end="3679" id="E172" modality="FACTUAL" polarity="POS" start="3673" text="sepsis" type="PROBLEM"/>
+<EVENT end="3708" id="E53" modality="FACTUAL" polarity="POS" start="3700" text="pressors" type="TREATMENT"/>
+<EVENT end="380" id="E106" modality="FACTUAL" polarity="POS" start="371" text="described" type="EVIDENTIAL"/>
+<EVENT end="3726" id="E54" modality="FACTUAL" polarity="POS" start="3721" text="a MAP" type="TEST"/>
+<EVENT end="3751" id="E93" modality="FACTUAL" polarity="POS" start="3739" text="the decision" type="OCCURRENCE"/>
+<EVENT end="3777" id="E174" modality="FACTUAL" polarity="POS" start="3764" text="withdraw care" type="OCCURRENCE"/>
+<EVENT end="3792" id="E55" modality="FACTUAL" polarity="POS" start="3780" text="the pressors" type="TREATMENT"/>
+<EVENT end="384" id="E3" modality="FACTUAL" polarity="POS" start="381" text="sob" type="PROBLEM"/>
+<EVENT end="3821" id="E56" modality="FACTUAL" polarity="POS" start="3815" text="Anemia" type="PROBLEM"/>
+<EVENT end="3827" id="E175" modality="FACTUAL" polarity="POS" start="3824" text="Hct" type="TEST"/>
+<EVENT end="3835" id="E177" modality="FACTUAL" polarity="POS" start="3828" text="dropped" type="PROBLEM"/>
+<EVENT end="3853" id="E57" modality="FACTUAL" polarity="POS" start="3846" text="the tap" type="TREATMENT"/>
+<EVENT end="393" id="E4" modality="FACTUAL" polarity="POS" start="387" text="nausea" type="PROBLEM"/>
+<EVENT end="3902" id="E178" modality="POSSIBLE" polarity="POS" start="3880" text="bleed into her abdomen" type="PROBLEM"/>
+<EVENT end="3937" id="E58" modality="FACTUAL" polarity="POS" start="3930" text="PRBC s." type="TREATMENT"/>
+<EVENT end="3940" id="E194" modality="FACTUAL" polarity="POS" start="3938" text="CT" type="TEST"/>
+<EVENT end="421" id="E5" modality="FACTUAL" polarity="POS" start="396" text="worsening lower ext edema" type="PROBLEM"/>
+<EVENT end="3973" id="E95" modality="FACTUAL" polarity="POS" start="3967" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3985" id="E179" modality="FACTUAL" polarity="NEG" start="3977" text="evidence" type="EVIDENTIAL"/>
+<EVENT end="3994" id="E181" modality="FACTUAL" polarity="NEG" start="3989" text="bleed" type="PROBLEM"/>
+<EVENT end="4011" id="E60" modality="FACTUAL" polarity="POS" start="3997" text="Her hematocrit" type="TEST"/>
+<EVENT end="4027" id="E182" modality="FACTUAL" polarity="POS" start="4021" text="stable" type="OCCURRENCE"/>
+<EVENT end="4062" id="E61" modality="FACTUAL" polarity="POS" start="4047" text="the acute drop." type="PROBLEM"/>
+<EVENT end="4068" id="E62" modality="FACTUAL" polarity="POS" start="4065" text="ARF" type="PROBLEM"/>
+<EVENT end="4081" id="E63" modality="FACTUAL" polarity="POS" start="4071" text="Creatinine" type="TEST"/>
+<EVENT end="4081" id="E195" modality="FACTUAL" polarity="POS" start="4071" text="Creatinine" type="TEST"/>
+<EVENT end="4095" id="E183" modality="FACTUAL" polarity="POS" start="4086" text="increased" type="OCCURRENCE"/>
+<EVENT end="4117" id="E96" modality="FACTUAL" polarity="POS" start="4108" text="admission" type="OCCURRENCE"/>
+<EVENT end="4137" id="E97" modality="FACTUAL" polarity="POS" start="4128" text="admission" type="OCCURRENCE"/>
+<EVENT end="4144" id="E98" modality="FACTUAL" polarity="POS" start="4141" text="ICU" type="CLINICAL_DEPT"/>
+<EVENT end="4158" id="E64" modality="FACTUAL" polarity="POS" start="4147" text="Urine lytes" type="TEST"/>
+<EVENT end="4166" id="E65" modality="FACTUAL" polarity="POS" start="4164" text="Na" type="TEST"/>
+<EVENT end="4183" id="E99" modality="FACTUAL" polarity="POS" start="4173" text="indicating" type="EVIDENTIAL"/>
+<EVENT end="4200" id="E184" modality="POSSIBLE" polarity="POS" start="4191" text="pre-renal" type="PROBLEM"/>
+<EVENT end="4215" id="E185" modality="POSSIBLE" polarity="POS" start="4204" text="hepatorenal" type="PROBLEM"/>
+<EVENT end="4233" id="E186" modality="FACTUAL" polarity="POS" start="4218" text="Fluid challenge" type="TEST"/>
+<EVENT end="4254" id="E66" modality="FACTUAL" polarity="POS" start="4247" text="albumin" type="TREATMENT"/>
+<EVENT end="4274" id="E67" modality="FACTUAL" polarity="POS" start="4269" text="PRBCs" type="TREATMENT"/>
+<EVENT end="434" id="E139" modality="FACTUAL" polarity="POS" start="428" text="denied" type="EVIDENTIAL"/>
+<EVENT end="4287" id="E68" modality="FACTUAL" polarity="POS" start="4285" text="NS" type="TREATMENT"/>
+<EVENT end="4311" id="E69" modality="FACTUAL" polarity="POS" start="4301" text="creatinine" type="TEST"/>
+<EVENT end="443" id="E108" modality="FACTUAL" polarity="NEG" start="435" text="abd pain" type="PROBLEM"/>
+<EVENT end="4352" id="E187" modality="FACTUAL" polarity="POS" start="4343" text="diagnosed" type="EVIDENTIAL"/>
+<EVENT end="4369" id="E188" modality="FACTUAL" polarity="POS" start="4358" text="hepatorenal" type="PROBLEM"/>
+<EVENT end="4398" id="E70" modality="FACTUAL" polarity="POS" start="4389" text="midodrine" type="TREATMENT"/>
+<EVENT end="4411" id="E71" modality="FACTUAL" polarity="POS" start="4401" text="octreotide" type="TREATMENT"/>
+<EVENT end="4423" id="E72" modality="FACTUAL" polarity="POS" start="4416" text="albumin" type="TREATMENT"/>
+<EVENT end="4464" id="E73" modality="FACTUAL" polarity="POS" start="4450" text="Her creatinine" type="TEST"/>
+<EVENT end="452" id="E109" modality="FACTUAL" polarity="NEG" start="446" text="fevers" type="PROBLEM"/>
+<EVENT end="4486" id="E189" modality="FACTUAL" polarity="POS" start="4478" text="increase" type="OCCURRENCE"/>
+<EVENT end="4530" id="E190" modality="POSSIBLE" polarity="POS" start="4503" text="her worsening liver failure" type="PROBLEM"/>
+<EVENT end="4543" id="E191" modality="FACTUAL" polarity="POS" start="4536" text="expired" type="OCCURRENCE"/>
+<EVENT end="461" id="E110" modality="FACTUAL" polarity="NEG" start="455" text="chills" type="PROBLEM"/>
+<EVENT end="4565" id="E100" modality="FACTUAL" polarity="POS" start="4551" text="this admission" type="OCCURRENCE"/>
+<EVENT end="4589" id="E101" modality="FACTUAL" polarity="POS" start="4572" text="family discussion" type="OCCURRENCE"/>
+<EVENT end="4614" id="E192" modality="FACTUAL" polarity="POS" start="4598" text="her comfort care" type="TREATMENT"/>
+<EVENT end="480" id="E111" modality="FACTUAL" polarity="POS" start="472" text="admitted" type="OCCURRENCE"/>
+<EVENT end="512" id="E112" modality="FACTUAL" polarity="POS" start="485" text="a large volume paracentesis" type="TREATMENT"/>
+<EVENT end="524" id="E6" modality="FACTUAL" polarity="POS" start="517" text="her INR" type="TEST"/>
+<EVENT end="537" id="E113" modality="FACTUAL" polarity="POS" start="528" text="admission" type="OCCURRENCE"/>
+<EVENT end="574" id="E114" modality="FACTUAL" polarity="POS" start="571" text="FFP" type="TREATMENT"/>
+<EVENT end="590" id="E115" modality="FACTUAL" polarity="POS" start="581" text="decreased" type="OCCURRENCE"/>
+<EVENT end="598" id="E116" modality="FACTUAL" polarity="POS" start="591" text="her INR" type="TEST"/>
+<EVENT end="627" id="E117" modality="FACTUAL" polarity="POS" start="615" text="2 more units" type="TREATMENT"/>
+<EVENT end="642" id="E118" modality="FACTUAL" polarity="POS" start="635" text="the tap" type="TREATMENT"/>
+<EVENT end="688" id="E119" modality="FACTUAL" polarity="POS" start="664" text="non-bloody ascitic fluid" type="PROBLEM"/>
+<EVENT end="717" id="E120" modality="FACTUAL" polarity="NEG" start="705" text="complication" type="PROBLEM"/>
+<EVENT end="748" id="E121" modality="FACTUAL" polarity="POS" start="741" text="albumin" type="TREATMENT"/>
+<EVENT end="766" id="E122" modality="FACTUAL" polarity="POS" start="759" text="the tap" type="TREATMENT"/>
+<EVENT end="775" id="E123" modality="FACTUAL" polarity="POS" start="769" text="Her BP" type="TEST"/>
+<EVENT end="788" id="E77" modality="FACTUAL" polarity="POS" start="779" text="admission" type="OCCURRENCE"/>
+<EVENT end="819" id="E124" modality="FACTUAL" polarity="POS" start="813" text="stable" type="OCCURRENCE"/>
+<EVENT end="837" id="E125" modality="FACTUAL" polarity="POS" start="830" text="the tap" type="TREATMENT"/>
+<EVENT end="883" id="E126" modality="FACTUAL" polarity="POS" start="873" text="complained" type="EVIDENTIAL"/>
+<EVENT end="895" id="E127" modality="FACTUAL" polarity="POS" start="887" text="abd pain" type="PROBLEM"/>
+<EVENT end="913" id="E128" modality="FACTUAL" polarity="POS" start="905" text="resolved" type="OCCURRENCE"/>
+<EVENT end="943" id="E129" modality="FACTUAL" polarity="NEG" start="933" text="medication" type="TREATMENT"/>
+<EVENT end="985" id="E7" modality="FACTUAL" polarity="POS" start="980" text="a hct" type="TEST"/>
+
+<RTIMEX3 end="1410" id="T5" mod="START" start="1403" text="this am" type="DATE" val="2015-03-27"/>
+<RTIMEX3 end="1437" id="T3" mod="NA" start="1428" text="yesterday" type="DATE" val="2015-03-26"/>
+<ATIMEX3 end="1518" id="T7" mod="NA" start="1513" text="02-23" type="DATE" val="2015-02-23"/>
+<ATIMEX3 end="1526" id="T8" mod="NA" start="1521" text="03-04" type="DATE" val="2015-03-04"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2015-03-26" type="DATE" val="2015-03-26"/>
+
+<RTIMEX3 end="2923" id="T10" mod="NA" start="2908" text="hospital day #4" type="DATE" val="2015-03-29"/>
+
+<RTIMEX3 end="4326" id="T12" mod="MIDDLE" start="4312" text="this afternoon" type="DATE" val="2015-03-29"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2015-03-30" type="DATE" val="2015-03-30"/>
+
+<RTIMEX3 end="955" id="T4" mod="START" start="949" text="the am" type="DATE" val="2015-03-27"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2015-03-26" end="28" id="S0" start="18" text="2015-03-26" type="ADMISSION"/>
+<SECTIME dvalue="2015-03-30" end="56" id="S1" start="46" text="2015-03-30" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

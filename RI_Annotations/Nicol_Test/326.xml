@@ -1,0 +1,422 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+04/27/1998
+DISCHARGE DATE :
+05/02/1998
+HISTORY OF PRESENT ILLNESS :
+The patient is a 72 year old white male with a history of coronary artery disease , status post a four vessel coronary artery bypass graft in 1983 , pulmonary hypertension , hepatitis C positive cirrhosis history with history of portal hypertension and status post an upper gastrointestinal bleed on 4-10-98 , who presents from Sondi Memorial for work up of pulmonary infiltrates , acute renal failure and pulmonary hypertension .
+The patient presented to Sondi Memorial on 4-10-98 with fatigue and fall , found to have a hematocrit of 29 , baseline 37 .
+The patient was transfused two units and an esophagogastroduodenoscopy done where it showed gastritis , candidal esophagitis and portal hypertensive gastropathy without varices .
+A colonoscopy showed anteriordysplasia , no bleeding was seen .
+The patient was discharged after one week on iron sulfate .
+On 4-24 , the patient was seen again at Sondi Memorial when he experienced at home a fall , no loss of consciousness , positive substernal chest pain , pleuritic pain , shortness of breath and cough .
+He went to Sondi Memorial where he ruled out for myocardial infarction and was found to have a left lower lobe infiltrate / pneumonia , started on cefuroxime .
+His respiratory condition continued to deteriorate despite aggressive chest physical therapy for possible blood , given Lasix for congestive heart failure , became hypotensive , hypoxic and intubated .
+The patient was found to have expanding pulmonary infiltrates on chest x-ray , developed acute renal insufficiency with minimal urine output , less than 10 cc an hour , started on dopamine for hemodynamic instability .
+An echocardiogram was obtained on 4-26 which showed concentric left ventricular hypertrophy with normal _____ left ventricular function , severe right ventricular dilatation with septal hypokinesis and flattening with a question of right ventricular apical clot raised with mild aortic stenosis , severe tricuspid regurgitation and increased pulmonary artery pressure of approximately 70 millimeters , consistent with fairly severe pulmonary hypertension .
+Blood cultures x two sent off with no growth .
+The patient ruled out for myocardial infarction with flat creatine kinases and he was sent to Oaksgekesser/ Memorial Hospital for further work up .
+HOSPITAL COURSE AND TREATMENT :
+At the Oaksgekesser/ Memorial Hospital he was quite hypotensive , requiring dopamine at 1,000 , Levo at 12 .
+His chest x-ray showed diffuse patchy infiltrates on left lung with left upper lung patchy infiltrates and right hemidiaphragm elevated , consistent with adult respiratory distress syndrome from possible pneumonia .
+A urinalysis was obtained which showed blood , urine sediment was active with positive dysmorphic cells , red cell casts , and 1+ albumin with mild protein uria .
+The patient had ANCA , anti-GBM , anti-streptolycin , ANA , UPEP , SPEP , renal ultrasound , hepatitis C cryoglobulin sent out .
+He had a bronchoscopy immediately done which showed no fresh blood , just old clot and a pulmonary arterial line placed in the right internal jugular vein .
+Question of pulmonary-renal syndrome was raised .
+The patient subsequently deteriorated over time , was started on CVVH and suffered significant complications without improvement of his pulmonary / renal situation .
+A family meeting was held on 5-2-98 and it was decided that the patient should be made comfort care only .
+All CVVH and the ventilator was removed and the patient spontaneously passed away on 5-2-98 , at 4:55 p.m.
+Family and primary carephysician informed .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1033" id="E97" modality="FACTUAL" polarity="POS" start="1027" text="a fall" type="PROBLEM"/>
+<EVENT end="1060" id="E98" modality="FACTUAL" polarity="NEG" start="1039" text="loss of consciousness" type="PROBLEM"/>
+<EVENT end="1093" id="E17" modality="FACTUAL" polarity="POS" start="1072" text="substernal chest pain" type="PROBLEM"/>
+<EVENT end="1110" id="E18" modality="FACTUAL" polarity="POS" start="1096" text="pleuritic pain" type="PROBLEM"/>
+<EVENT end="1132" id="E19" modality="FACTUAL" polarity="POS" start="1113" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="1142" id="E20" modality="FACTUAL" polarity="POS" start="1137" text="cough" type="PROBLEM"/>
+<EVENT end="1170" id="E99" modality="FACTUAL" polarity="POS" start="1156" text="Sondi Memorial" type="CLINICAL_DEPT"/>
+<EVENT end="1215" id="E21" modality="FACTUAL" polarity="NEG" start="1194" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="1266" id="E100" modality="FACTUAL" polarity="POS" start="1238" text="a left lower lobe infiltrate" type="PROBLEM"/>
+<EVENT end="1278" id="E22" modality="FACTUAL" polarity="POS" start="1269" text="pneumonia" type="PROBLEM"/>
+<EVENT end="1302" id="E23" modality="FACTUAL" polarity="POS" start="1292" text="cefuroxime" type="TREATMENT"/>
+<EVENT end="1355" id="E101" modality="FACTUAL" polarity="POS" start="1344" text="deteriorate" type="PROBLEM"/>
+<EVENT end="1397" id="E24" modality="FACTUAL" polarity="POS" start="1364" text="aggressive chest physical therapy" type="TREATMENT"/>
+<EVENT end="1416" id="E77" modality="POSSIBLE" polarity="POS" start="1411" text="blood" type="PROBLEM"/>
+<EVENT end="1430" id="E25" modality="FACTUAL" polarity="POS" start="1425" text="Lasix" type="TREATMENT"/>
+<EVENT end="167" id="E80" modality="FACTUAL" polarity="POS" start="144" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1459" id="E26" modality="FACTUAL" polarity="POS" start="1435" text="congestive heart failure" type="PROBLEM"/>
+<EVENT end="1480" id="E27" modality="FACTUAL" polarity="POS" start="1469" text="hypotensive" type="PROBLEM"/>
+<EVENT end="1490" id="E28" modality="FACTUAL" polarity="POS" start="1483" text="hypoxic" type="PROBLEM"/>
+<EVENT end="1504" id="E29" modality="FACTUAL" polarity="POS" start="1495" text="intubated" type="TREATMENT"/>
+<EVENT end="1568" id="E102" modality="FACTUAL" polarity="POS" start="1537" text="expanding pulmonary infiltrates" type="PROBLEM"/>
+<EVENT end="1583" id="E30" modality="FACTUAL" polarity="POS" start="1572" text="chest x-ray" type="TEST"/>
+<EVENT end="1621" id="E31" modality="FACTUAL" polarity="POS" start="1596" text="acute renal insufficiency" type="PROBLEM"/>
+<EVENT end="1647" id="E32" modality="FACTUAL" polarity="POS" start="1627" text="minimal urine output" type="PROBLEM"/>
+<EVENT end="1695" id="E33" modality="FACTUAL" polarity="POS" start="1687" text="dopamine" type="TREATMENT"/>
+<EVENT end="1723" id="E34" modality="FACTUAL" polarity="POS" start="1700" text="hemodynamic instability" type="PROBLEM"/>
+<EVENT end="1743" id="E35" modality="FACTUAL" polarity="POS" start="1726" text="An echocardiogram" type="TEST"/>
+<EVENT end="1777" id="E103" modality="FACTUAL" polarity="POS" start="1771" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1817" id="E104" modality="FACTUAL" polarity="POS" start="1778" text="concentric left ventricular hypertrophy" type="PROBLEM"/>
+<EVENT end="224" id="E1" modality="FACTUAL" polarity="POS" start="182" text="a four vessel coronary artery bypass graft" type="TREATMENT"/>
+<EVENT end="1861" id="E105" modality="FACTUAL" polarity="POS" start="1823" text="normal _____ left ventricular function" type="OCCURRENCE"/>
+<EVENT end="1899" id="E106" modality="FACTUAL" polarity="POS" start="1864" text="severe right ventricular dilatation" type="PROBLEM"/>
+<EVENT end="1938" id="E107" modality="FACTUAL" polarity="POS" start="1905" text="septal hypokinesis and flattening" type="PROBLEM"/>
+<EVENT end="1987" id="E36" modality="POSSIBLE" polarity="POS" start="1958" text="right ventricular apical clot" type="PROBLEM"/>
+<EVENT end="2020" id="E108" modality="FACTUAL" polarity="POS" start="2000" text="mild aortic stenosis" type="PROBLEM"/>
+<EVENT end="2053" id="E109" modality="FACTUAL" polarity="POS" start="2023" text="severe tricuspid regurgitation" type="PROBLEM"/>
+<EVENT end="2093" id="E110" modality="FACTUAL" polarity="POS" start="2058" text="increased pulmonary artery pressure" type="PROBLEM"/>
+<EVENT end="2180" id="E111" modality="FACTUAL" polarity="POS" start="2144" text="fairly severe pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="2197" id="E37" modality="FACTUAL" polarity="POS" start="2183" text="Blood cultures" type="TEST"/>
+<EVENT end="2227" id="E38" modality="FACTUAL" polarity="NEG" start="2221" text="growth" type="PROBLEM"/>
+<EVENT end="2277" id="E39" modality="FACTUAL" polarity="NEG" start="2256" text="myocardial infarction" type="PROBLEM"/>
+<EVENT end="2304" id="E40" modality="FACTUAL" polarity="POS" start="2288" text="creatine kinases" type="TEST"/>
+<EVENT end="2355" id="E112" modality="FACTUAL" polarity="POS" start="2324" text="Oaksgekesser/ Memorial Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="257" id="E81" modality="FACTUAL" polarity="POS" start="235" text="pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="2375" id="E41" modality="FACTUAL" polarity="POS" start="2360" text="further work up" type="TEST"/>
+<EVENT end="2448" id="E113" modality="FACTUAL" polarity="POS" start="2413" text="the Oaksgekesser/ Memorial Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2473" id="E42" modality="FACTUAL" polarity="POS" start="2456" text="quite hypotensive" type="PROBLEM"/>
+<EVENT end="2494" id="E43" modality="FACTUAL" polarity="POS" start="2486" text="dopamine" type="TREATMENT"/>
+<EVENT end="2510" id="E44" modality="FACTUAL" polarity="POS" start="2506" text="Levo" type="TREATMENT"/>
+<EVENT end="2534" id="E45" modality="FACTUAL" polarity="POS" start="2519" text="His chest x-ray" type="TEST"/>
+<EVENT end="2541" id="E114" modality="FACTUAL" polarity="POS" start="2535" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2581" id="E46" modality="FACTUAL" polarity="POS" start="2542" text="diffuse patchy infiltrates on left lung" type="PROBLEM"/>
+<EVENT end="2621" id="E47" modality="FACTUAL" polarity="POS" start="2587" text="left upper lung patchy infiltrates" type="PROBLEM"/>
+<EVENT end="271" id="E82" modality="FACTUAL" polarity="POS" start="260" text="hepatitis C" type="PROBLEM"/>
+<EVENT end="2654" id="E48" modality="FACTUAL" polarity="POS" start="2626" text="right hemidiaphragm elevated" type="PROBLEM"/>
+<EVENT end="2708" id="E49" modality="FACTUAL" polarity="POS" start="2673" text="adult respiratory distress syndrome" type="PROBLEM"/>
+<EVENT end="2732" id="E115" modality="POSSIBLE" polarity="POS" start="2723" text="pneumonia" type="PROBLEM"/>
+<EVENT end="2747" id="E50" modality="FACTUAL" polarity="POS" start="2735" text="A urinalysis" type="TEST"/>
+<EVENT end="2773" id="E116" modality="FACTUAL" polarity="POS" start="2767" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2779" id="E51" modality="FACTUAL" polarity="POS" start="2774" text="blood" type="PROBLEM"/>
+<EVENT end="2796" id="E52" modality="FACTUAL" polarity="POS" start="2782" text="urine sediment" type="PROBLEM"/>
+<EVENT end="290" id="E83" modality="FACTUAL" polarity="POS" start="281" text="cirrhosis" type="PROBLEM"/>
+<EVENT end="2807" id="E53" modality="FACTUAL" polarity="POS" start="2801" text="active" type="PROBLEM"/>
+<EVENT end="2838" id="E54" modality="FACTUAL" polarity="POS" start="2822" text="dysmorphic cells" type="PROBLEM"/>
+<EVENT end="2855" id="E55" modality="FACTUAL" polarity="POS" start="2841" text="red cell casts" type="PROBLEM"/>
+<EVENT end="2872" id="E56" modality="FACTUAL" polarity="POS" start="2862" text="1+ albumin" type="PROBLEM"/>
+<EVENT end="2895" id="E57" modality="FACTUAL" polarity="POS" start="2878" text="mild protein uria" type="PROBLEM"/>
+<EVENT end="38" id="E79" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2918" id="E58" modality="FACTUAL" polarity="POS" start="2914" text="ANCA" type="TEST"/>
+<EVENT end="2929" id="E59" modality="FACTUAL" polarity="POS" start="2921" text="anti-GBM" type="TEST"/>
+<EVENT end="2949" id="E60" modality="FACTUAL" polarity="POS" start="2932" text="anti-streptolycin" type="TEST"/>
+<EVENT end="2955" id="E61" modality="FACTUAL" polarity="POS" start="2952" text="ANA" type="TEST"/>
+<EVENT end="2962" id="E62" modality="FACTUAL" polarity="POS" start="2958" text="UPEP" type="TEST"/>
+<EVENT end="2969" id="E63" modality="FACTUAL" polarity="POS" start="2965" text="SPEP" type="TEST"/>
+<EVENT end="2988" id="E64" modality="FACTUAL" polarity="POS" start="2972" text="renal ultrasound" type="TEST"/>
+<EVENT end="3015" id="E65" modality="FACTUAL" polarity="POS" start="2991" text="hepatitis C cryoglobulin" type="TEST"/>
+<EVENT end="3048" id="E66" modality="FACTUAL" polarity="POS" start="3034" text="a bronchoscopy" type="TEST"/>
+<EVENT end="3078" id="E117" modality="FACTUAL" polarity="POS" start="3072" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3093" id="E67" modality="FACTUAL" polarity="NEG" start="3082" text="fresh blood" type="PROBLEM"/>
+<EVENT end="3109" id="E68" modality="FACTUAL" polarity="POS" start="3101" text="old clot" type="PROBLEM"/>
+<EVENT end="3139" id="E69" modality="FACTUAL" polarity="POS" start="3114" text="a pulmonary arterial line" type="TREATMENT"/>
+<EVENT end="334" id="E2" modality="FACTUAL" polarity="POS" start="315" text="portal hypertension" type="PROBLEM"/>
+<EVENT end="3220" id="E70" modality="POSSIBLE" polarity="POS" start="3196" text="pulmonary-renal syndrome" type="PROBLEM"/>
+<EVENT end="3271" id="E118" modality="FACTUAL" polarity="POS" start="3259" text="deteriorated" type="PROBLEM"/>
+<EVENT end="3303" id="E71" modality="FACTUAL" polarity="POS" start="3299" text="CVVH" type="TREATMENT"/>
+<EVENT end="3342" id="E72" modality="FACTUAL" polarity="POS" start="3317" text="significant complications" type="PROBLEM"/>
+<EVENT end="3362" id="E122" modality="FACTUAL" polarity="NEG" start="3351" text="improvement" type="OCCURRENCE"/>
+<EVENT end="3416" id="E119" modality="FACTUAL" polarity="POS" start="3400" text="A family meeting" type="OCCURRENCE"/>
+<EVENT end="3504" id="E120" modality="FACTUAL" polarity="POS" start="3487" text="comfort care only" type="TREATMENT"/>
+<EVENT end="382" id="E3" modality="FACTUAL" polarity="POS" start="351" text="an upper gastrointestinal bleed" type="PROBLEM"/>
+<EVENT end="3515" id="E74" modality="FACTUAL" polarity="POS" start="3511" text="CVVH" type="TREATMENT"/>
+<EVENT end="3534" id="E75" modality="FACTUAL" polarity="POS" start="3520" text="the ventilator" type="TREATMENT"/>
+<EVENT end="3588" id="E78" modality="FACTUAL" polarity="POS" start="3577" text="passed away" type="OCCURRENCE"/>
+<EVENT end="3655" id="E121" modality="FACTUAL" polarity="POS" start="3647" text="informed" type="OCCURRENCE"/>
+<EVENT end="408" id="E84" modality="FACTUAL" polarity="POS" start="400" text="presents" type="EVIDENTIAL"/>
+<EVENT end="428" id="E85" modality="FACTUAL" polarity="POS" start="414" text="Sondi Memorial" type="CLINICAL_DEPT"/>
+<EVENT end="440" id="E4" modality="FACTUAL" polarity="POS" start="433" text="work up" type="TEST"/>
+<EVENT end="465" id="E5" modality="FACTUAL" polarity="POS" start="444" text="pulmonary infiltrates" type="PROBLEM"/>
+<EVENT end="487" id="E86" modality="FACTUAL" polarity="POS" start="468" text="acute renal failure" type="PROBLEM"/>
+<EVENT end="514" id="E87" modality="FACTUAL" polarity="POS" start="492" text="pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="538" id="E88" modality="FACTUAL" polarity="POS" start="529" text="presented" type="EVIDENTIAL"/>
+<EVENT end="556" id="E89" modality="FACTUAL" polarity="POS" start="542" text="Sondi Memorial" type="CLINICAL_DEPT"/>
+<EVENT end="580" id="E6" modality="FACTUAL" polarity="POS" start="573" text="fatigue" type="PROBLEM"/>
+<EVENT end="589" id="E90" modality="FACTUAL" polarity="POS" start="585" text="fall" type="PROBLEM"/>
+<EVENT end="618" id="E7" modality="FACTUAL" polarity="POS" start="606" text="a hematocrit" type="TEST"/>
+<EVENT end="635" id="E91" modality="FACTUAL" polarity="POS" start="627" text="baseline" type="OCCURRENCE"/>
+<EVENT end="677" id="E8" modality="FACTUAL" polarity="POS" start="668" text="two units" type="TREATMENT"/>
+<EVENT end="711" id="E9" modality="FACTUAL" polarity="POS" start="682" text="an esophagogastroduodenoscopy" type="TEST"/>
+<EVENT end="732" id="E92" modality="FACTUAL" polarity="POS" start="726" text="showed" type="EVIDENTIAL"/>
+<EVENT end="742" id="E10" modality="FACTUAL" polarity="POS" start="733" text="gastritis" type="PROBLEM"/>
+<EVENT end="765" id="E11" modality="FACTUAL" polarity="POS" start="745" text="candidal esophagitis" type="PROBLEM"/>
+<EVENT end="801" id="E12" modality="FACTUAL" polarity="POS" start="770" text="portal hypertensive gastropathy" type="PROBLEM"/>
+<EVENT end="817" id="E93" modality="FACTUAL" polarity="NEG" start="810" text="varices" type="PROBLEM"/>
+<EVENT end="833" id="E13" modality="FACTUAL" polarity="POS" start="820" text="A colonoscopy" type="TEST"/>
+<EVENT end="840" id="E94" modality="FACTUAL" polarity="POS" start="834" text="showed" type="EVIDENTIAL"/>
+<EVENT end="858" id="E14" modality="FACTUAL" polarity="POS" start="841" text="anteriordysplasia" type="PROBLEM"/>
+<EVENT end="872" id="E15" modality="FACTUAL" polarity="NEG" start="864" text="bleeding" type="PROBLEM"/>
+<EVENT end="910" id="E76" modality="FACTUAL" polarity="POS" start="900" text="discharged" type="OCCURRENCE"/>
+<EVENT end="941" id="E16" modality="FACTUAL" polarity="POS" start="929" text="iron sulfate" type="TREATMENT"/>
+<EVENT end="974" id="E95" modality="FACTUAL" polarity="POS" start="970" text="seen" type="OCCURRENCE"/>
+<EVENT end="998" id="E96" modality="FACTUAL" polarity="POS" start="984" text="Sondi Memorial" type="CLINICAL_DEPT"/>
+<ATIMEX3 end="1764" id="T7" mod="NA" start="1760" text="4-26" type="DATE" val="1998-04-26"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="04/27/1998" type="DATE" val="1998-04-27"/>
+
+<ATIMEX3 end="232" id="T3" mod="NA" start="228" text="1983" type="DATE" val="1983"/>
+<ATIMEX3 end="3435" id="T9" mod="NA" start="3429" text="5-2-98" type="DATE" val="1998-05-02"/>
+<ATIMEX3 end="3613" id="T10" mod="NA" start="3592" text="5-2-98 , at 4:55 p.m." type="TIME" val="1998-05-02T16:55"/>
+<ATIMEX3 end="393" id="T4" mod="NA" start="386" text="4-10-98" type="DATE" val="1998-04-10"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="05/02/1998" type="DATE" val="1998-05-02"/>
+<ATIMEX3 end="567" id="T5" mod="NA" start="560" text="4-10-98" type="DATE" val="1998-04-10"/>
+
+<ATIMEX3 end="951" id="T6" mod="NA" start="947" text="4-24" type="DATE" val="1998-04-24"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1998-04-27" end="28" id="S0" start="18" text="04/27/1998" type="ADMISSION"/>
+<SECTIME dvalue="1998-05-02" end="56" id="S1" start="46" text="05/02/1998" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

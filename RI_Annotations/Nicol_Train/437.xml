@@ -1,0 +1,218 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-12-29
+Discharge Date :
+2019-01-04
+Service :
+Neonatology
+HISTORY OF PRESENT ILLNESS :
+Baby Davis is the 3.160 kilogram product of a term pregnancy .
+He was born to a 38 - year-old gravida I , para 0 ( now 1 ) mother at 37 and 1/7 weeks .
+The pregnancy was benign with an EDC of 2019-01-18 .
+Prenatal screens were O positive , antibody negative , hepatitis surface antigen negative , rapid plasma reagent nonreactive , rubella immune , group B strep negative .
+The infant delivered by spontaneous vaginal delivery with Apgar scores of 8 at one minute and 8 at five minutes .
+HOSPITAL COURSE :
+1. Respiratory .
+Without issues on this admission .
+Breath sounds are clear and equal .
+2. Cardiovascular .
+Without issues on this admission .
+He had a regular heart rate and rhythm , no murmur , pulses were 2+ and symmetric .
+3. Fluids , electrolytes and nutrition .
+The baby 's weight was 3.160 kilograms ( 7 pounds 3 ounces ).
+He is breast and bottle feeding every 3 hours with expressed breast milk and / or Enfamil .
+He is feeding well .
+His discharge weight is 3025 gm , and has been stable for past 2 days .
+4. Gastrointestinal .
+The baby 's bilirubin on 2018-12-31 , was 15.5 / 0.5 at which time double phototherapy was started .
+On 01-01 , his bilirubin was 17.3 / 0.4 at which time triple phototherapy was started and then his subsequent bilirubins are 16.5 / 0.4 on 2019-01-01 , and 16.2 / 0.5 on 2019-01-02 .
+Phototherapy was discontinued on 2019-01-04 for a bilirubin of 12.1 , and a rebound bilirubin will be checked on 01-05 .
+5. Hematology .
+The hematocrit on 01-02 , was 61 with a reticulocyte of 2.6% .
+His blood type is A+ , Coombs negative .
+6. Infectious disease .
+No issues on this admission .
+7. Neurological .
+The baby has been appropriate for gestational age with normal newborn reflexes .
+8. Sensory .
+Auditory hearing screening was performed with automated brainstem responses .
+The infant passed both ears on 2018-12-30 .
+9. Psychosocial .
+The family is invested and involved .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1016" id="E41" modality="FACTUAL" polarity="POS" start="1005" text="breast milk" type="TREATMENT"/>
+<EVENT end="1033" id="E8" modality="FACTUAL" polarity="POS" start="1026" text="Enfamil" type="TREATMENT"/>
+<EVENT end="1054" id="E42" modality="FACTUAL" polarity="POS" start="1042" text="feeding well" type="OCCURRENCE"/>
+<EVENT end="1077" id="E9" modality="FACTUAL" polarity="POS" start="1057" text="His discharge weight" type="TEST"/>
+<EVENT end="1110" id="E43" modality="FACTUAL" polarity="POS" start="1104" text="stable" type="EVIDENTIAL"/>
+<EVENT end="1172" id="E10" modality="FACTUAL" polarity="POS" start="1151" text="The baby 's bilirubin" type="TEST"/>
+<EVENT end="1237" id="E11" modality="FACTUAL" polarity="POS" start="1218" text="double phototherapy" type="TREATMENT"/>
+<EVENT end="1276" id="E12" modality="FACTUAL" polarity="POS" start="1263" text="his bilirubin" type="TEST"/>
+<EVENT end="1325" id="E13" modality="FACTUAL" polarity="POS" start="1306" text="triple phototherapy" type="TREATMENT"/>
+<EVENT end="1372" id="E14" modality="FACTUAL" polarity="POS" start="1347" text="his subsequent bilirubins" type="TEST"/>
+<EVENT end="1372" id="E15" modality="FACTUAL" polarity="POS" start="1347" text="his subsequent bilirubins" type="TEST"/>
+<EVENT end="1372" id="E51" modality="FACTUAL" polarity="POS" start="1347" text="his subsequent bilirubins" type="OCCURRENCE"/>
+<EVENT end="1447" id="E52" modality="FACTUAL" polarity="POS" start="1435" text="Phototherapy" type="TREATMENT"/>
+<EVENT end="1494" id="E16" modality="FACTUAL" polarity="POS" start="1483" text="a bilirubin" type="TEST"/>
+<EVENT end="1528" id="E17" modality="FACTUAL" polarity="POS" start="1509" text="a rebound bilirubin" type="TEST"/>
+<EVENT end="168" id="E24" modality="FACTUAL" polarity="POS" start="152" text="a term pregnancy" type="PROBLEM"/>
+<EVENT end="1586" id="E18" modality="FACTUAL" polarity="POS" start="1572" text="The hematocrit" type="TEST"/>
+<EVENT end="1624" id="E19" modality="FACTUAL" polarity="POS" start="1610" text="a reticulocyte" type="TEST"/>
+<EVENT end="1649" id="E20" modality="FACTUAL" polarity="POS" start="1635" text="His blood type" type="TEST"/>
+<EVENT end="1664" id="E21" modality="FACTUAL" polarity="POS" start="1658" text="Coombs" type="TEST"/>
+<EVENT end="1709" id="E45" modality="FACTUAL" polarity="NEG" start="1703" text="issues" type="PROBLEM"/>
+<EVENT end="1727" id="E46" modality="FACTUAL" polarity="POS" start="1713" text="this admission" type="OCCURRENCE"/>
+<EVENT end="182" id="E25" modality="FACTUAL" polarity="POS" start="178" text="born" type="OCCURRENCE"/>
+<EVENT end="1826" id="E47" modality="FACTUAL" polarity="POS" start="1803" text="normal newborn reflexes" type="EVIDENTIAL"/>
+<EVENT end="1868" id="E22" modality="FACTUAL" polarity="POS" start="1842" text="Auditory hearing screening" type="TEST"/>
+<EVENT end="1917" id="E48" modality="FACTUAL" polarity="POS" start="1888" text="automated brainstem responses" type="OCCURRENCE"/>
+<EVENT end="1947" id="E49" modality="FACTUAL" polarity="POS" start="1931" text="passed both ears" type="TEST"/>
+<EVENT end="2017" id="E50" modality="FACTUAL" polarity="POS" start="1996" text="invested and involved" type="OCCURRENCE"/>
+<EVENT end="273" id="E26" modality="FACTUAL" polarity="POS" start="260" text="The pregnancy" type="OCCURRENCE"/>
+<EVENT end="284" id="E27" modality="FACTUAL" polarity="POS" start="278" text="benign" type="EVIDENTIAL"/>
+<EVENT end="38" id="E23" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="296" id="E28" modality="FACTUAL" polarity="POS" start="290" text="an EDC" type="OCCURRENCE"/>
+<EVENT end="329" id="E1" modality="FACTUAL" polarity="POS" start="313" text="Prenatal screens" type="TEST"/>
+<EVENT end="356" id="E2" modality="FACTUAL" polarity="POS" start="348" text="antibody" type="TEST"/>
+<EVENT end="393" id="E29" modality="FACTUAL" polarity="POS" start="368" text="hepatitis surface antigen" type="TEST"/>
+<EVENT end="425" id="E3" modality="FACTUAL" polarity="POS" start="405" text="rapid plasma reagent" type="TEST"/>
+<EVENT end="447" id="E30" modality="FACTUAL" polarity="POS" start="440" text="rubella" type="TEST"/>
+<EVENT end="470" id="E31" modality="FACTUAL" polarity="POS" start="457" text="group B strep" type="TEST"/>
+<EVENT end="502" id="E32" modality="FACTUAL" polarity="POS" start="493" text="delivered" type="OCCURRENCE"/>
+<EVENT end="534" id="E33" modality="FACTUAL" polarity="POS" start="506" text="spontaneous vaginal delivery" type="OCCURRENCE"/>
+<EVENT end="552" id="E4" modality="FACTUAL" polarity="POS" start="540" text="Apgar scores" type="TEST"/>
+<EVENT end="645" id="E34" modality="FACTUAL" polarity="NEG" start="639" text="issues" type="PROBLEM"/>
+<EVENT end="663" id="E35" modality="FACTUAL" polarity="POS" start="649" text="this admission" type="OCCURRENCE"/>
+<EVENT end="679" id="E36" modality="FACTUAL" polarity="POS" start="666" text="Breath sounds" type="TEST"/>
+<EVENT end="736" id="E37" modality="FACTUAL" polarity="NEG" start="730" text="issues" type="PROBLEM"/>
+<EVENT end="754" id="E38" modality="FACTUAL" polarity="POS" start="740" text="this admission" type="OCCURRENCE"/>
+<EVENT end="795" id="E39" modality="FACTUAL" polarity="POS" start="774" text="heart rate and rhythm" type="TEST"/>
+<EVENT end="807" id="E5" modality="FACTUAL" polarity="NEG" start="801" text="murmur" type="PROBLEM"/>
+<EVENT end="816" id="E6" modality="FACTUAL" polarity="POS" start="810" text="pulses" type="TEST"/>
+<EVENT end="900" id="E7" modality="FACTUAL" polarity="POS" start="882" text="The baby 's weight" type="TEST"/>
+<EVENT end="975" id="E40" modality="FACTUAL" polarity="POS" start="950" text="breast and bottle feeding" type="TREATMENT"/>
+
+<ATIMEX3 end="1186" id="T5" mod="NA" start="1176" text="2018-12-31" type="DATE" val="2018-12-31"/>
+<ATIMEX3 end="1260" id="T6" mod="NA" start="1255" text="01-01" type="DATE" val="2019-01-01"/>
+<ATIMEX3 end="1401" id="T7" mod="NA" start="1391" text="2019-01-01" type="DATE" val="2019-01-01"/>
+<ATIMEX3 end="1432" id="T8" mod="NA" start="1422" text="2019-01-02" type="DATE" val="2019-01-02"/>
+<ATIMEX3 end="1478" id="T9" mod="NA" start="1468" text="2019-01-04" type="DATE" val="2019-01-04"/>
+<ATIMEX3 end="1553" id="T10" mod="NA" start="1548" text="01-05" type="DATE" val="2019-01-05"/>
+<ATIMEX3 end="1595" id="T11" mod="NA" start="1590" text="01-02" type="DATE" val="2019-01-02"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2018-12-29" type="DATE" val="2018-12-29"/>
+<ATIMEX3 end="1961" id="T12" mod="NA" start="1951" text="2018-12-30" type="DATE" val="2018-12-30"/>
+<ATIMEX3 end="310" id="T2" mod="NA" start="300" text="2019-01-18" type="DATE" val="2018-04-13"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2019-01-04" type="DATE" val="2019-01-04"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-12-29" end="28" id="S0" start="18" text="2018-12-29" type="ADMISSION"/>
+<SECTIME dvalue="2019-01-04" end="56" id="S1" start="46" text="2019-01-04" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

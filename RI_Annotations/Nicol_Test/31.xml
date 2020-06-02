@@ -1,0 +1,358 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+02/17/2000
+Report Status :
+Signed
+HISTORY OF PRESENT ILLNESS :
+Ri Strength is a 40 year old man with a history of GERD , who presents with abdominal pain of seven days duration .
+The patient was in general good health until seven days ago ( 2/11/00 ) , when he had a sudden onset of sharp left flank pain with radiation to the lower abdomen and then to the epigastrium .
+The patient described the pain as &quot; knife-like &quot; with a severity of 1/25 at its worse .
+The patient was exacerbated when eating and when lying flat .
+The patient also reports blood-streaked diarrhea for two days .
+He denies nausea and vomiting .
+He has had no fevers or chills .
+He has had no recent weight loss , no light-headedness or dizziness .
+He denies increased urinary frequent or urgency .
+The patient presented to the Sloan- Center Emergency Department , where he was resuscitated with normal saline and received morphine for pain .
+He was then transferred to the general medicine service for further management .
+HOSPITAL COURSE :
+On admission , the patient was diagnosed with acute pancreatitis .
+He was made NPO and was resuscitated with IV fluids .
+Pain control was initiated with morphine but was then changed to Demerol , which gave the patient better relief of his epigastric pain .
+From 2/17/00 to 2/21/00 , the patient complained of persistent and occasionally severe epigastric pain .
+His pain medication was then changed to Dilaudid IV in an attempt to better alleviate his symptoms .
+Dilaudid IV was continued for the remainder of the patient &apos;s hospitalization .
+The does was titrated to the patient &apos;s need for comfort and was eventually tapered .
+The severity and persistent of the patient &apos;s epigastric pain was concerning for a pancreatic complication such as necrosis or abscess .
+The patient had a CT scan , which revealed a mass in the gallbladder neck , but no biliary dilatation .
+There was stranding along the pancreas , but no necrosis , abscess , or pseudocyst .
+On 2/22/00 , the patient had fevers to 103.5 .
+Blood and urine cultures were sent .
+A chest x-ray was done , which revealed no infiltrate or effusion .
+The patient was started on cefotaxime 1 gm IV for empiric antibiotic treatment .
+All cultures were negative .
+On 2/23/00 , the high grade fever persisted .
+An ultrasound was done to R / O cholestasis or cholangitis .
+The ultrasound showed biliary sludge and swelling of the body and tail of the pancreas .
+No other abnormalities were noted .
+On 2/24/00 , the patient had an episode of exacerbation of epigastric pain with radiation to the left upper quadrant .
+The pain was subsequently relieved with high dose Dilaudid .
+The patient had a follow-up chest x-ray , which was essentially unchanged from previously , showing a normal heart and lungs without infiltrate .
+From 2/25 - 2/27/00 , the patient &apos;s fever defervesced and his abdominal pain gradually subsided .
+The cefotaxime was discontinued since no infection was identified .
+On 2/28/00 , the patient &apos;s diet was advanced to a low fat solids ( per pancreatitis study ) , which the patient tolerated well .
+The patient was discharged home on 2/29/00 , with much improvement of his symptoms .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1020" id="E85" modality="FACTUAL" polarity="POS" start="1002" text="further management" type="TREATMENT"/>
+<EVENT end="1053" id="E54" modality="FACTUAL" polarity="POS" start="1044" text="admission" type="OCCURRENCE"/>
+<EVENT end="1081" id="E55" modality="FACTUAL" polarity="POS" start="1072" text="diagnosed" type="OCCURRENCE"/>
+<EVENT end="1105" id="E6" modality="FACTUAL" polarity="POS" start="1087" text="acute pancreatitis" type="PROBLEM"/>
+<EVENT end="1123" id="E7" modality="FACTUAL" polarity="POS" start="1120" text="NPO" type="TREATMENT"/>
+<EVENT end="1144" id="E86" modality="FACTUAL" polarity="POS" start="1132" text="resuscitated" type="TREATMENT"/>
+<EVENT end="1159" id="E8" modality="FACTUAL" polarity="POS" start="1150" text="IV fluids" type="TREATMENT"/>
+<EVENT end="1174" id="E9" modality="FACTUAL" polarity="POS" start="1162" text="Pain control" type="TREATMENT"/>
+<EVENT end="1202" id="E10" modality="FACTUAL" polarity="POS" start="1194" text="morphine" type="TREATMENT"/>
+<EVENT end="1234" id="E11" modality="FACTUAL" polarity="POS" start="1227" text="Demerol" type="TREATMENT"/>
+<EVENT end="1296" id="E12" modality="FACTUAL" polarity="POS" start="1277" text="his epigastric pain" type="PROBLEM"/>
+<EVENT end="136" id="E59" modality="FACTUAL" polarity="POS" start="132" text="GERD" type="PROBLEM"/>
+<EVENT end="1347" id="E56" modality="FACTUAL" polarity="POS" start="1337" text="complained" type="EVIDENTIAL"/>
+<EVENT end="1401" id="E87" modality="FACTUAL" polarity="POS" start="1351" text="persistent and occasionally severe epigastric pain" type="PROBLEM"/>
+<EVENT end="1423" id="E13" modality="FACTUAL" polarity="POS" start="1404" text="His pain medication" type="TREATMENT"/>
+<EVENT end="151" id="E52" modality="FACTUAL" polarity="POS" start="143" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1455" id="E14" modality="FACTUAL" polarity="POS" start="1444" text="Dilaudid IV" type="TREATMENT"/>
+<EVENT end="1502" id="E15" modality="FACTUAL" polarity="POS" start="1490" text="his symptoms" type="PROBLEM"/>
+<EVENT end="1516" id="E16" modality="FACTUAL" polarity="POS" start="1505" text="Dilaudid IV" type="TREATMENT"/>
+<EVENT end="171" id="E1" modality="FACTUAL" polarity="POS" start="157" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="1587" id="E88" modality="FACTUAL" polarity="POS" start="1572" text="hospitalization" type="OCCURRENCE"/>
+<EVENT end="1611" id="E89" modality="FACTUAL" polarity="POS" start="1603" text="titrated" type="TREATMENT"/>
+<EVENT end="1678" id="E90" modality="FACTUAL" polarity="POS" start="1671" text="tapered" type="TREATMENT"/>
+<EVENT end="1747" id="E17" modality="FACTUAL" polarity="POS" start="1712" text="the patient 's epigastric pain" type="PROBLEM"/>
+<EVENT end="1792" id="E18" modality="POSSIBLE" polarity="POS" start="1767" text="a pancreatic complication" type="PROBLEM"/>
+<EVENT end="1809" id="E19" modality="POSSIBLE" polarity="POS" start="1801" text="necrosis" type="PROBLEM"/>
+<EVENT end="1820" id="E20" modality="POSSIBLE" polarity="POS" start="1813" text="abscess" type="PROBLEM"/>
+<EVENT end="1848" id="E21" modality="FACTUAL" polarity="POS" start="1839" text="a CT scan" type="TEST"/>
+<EVENT end="1865" id="E91" modality="FACTUAL" polarity="POS" start="1857" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1896" id="E22" modality="FACTUAL" polarity="POS" start="1866" text="a mass in the gallbladder neck" type="PROBLEM"/>
+<EVENT end="1924" id="E23" modality="FACTUAL" polarity="NEG" start="1906" text="biliary dilatation" type="PROBLEM"/>
+<EVENT end="1965" id="E24" modality="FACTUAL" polarity="POS" start="1937" text="stranding along the pancreas" type="PROBLEM"/>
+<EVENT end="1983" id="E25" modality="FACTUAL" polarity="NEG" start="1975" text="necrosis" type="PROBLEM"/>
+<EVENT end="1993" id="E26" modality="FACTUAL" polarity="NEG" start="1986" text="abscess" type="PROBLEM"/>
+<EVENT end="2009" id="E27" modality="FACTUAL" polarity="NEG" start="1999" text="pseudocyst" type="PROBLEM"/>
+<EVENT end="2047" id="E28" modality="FACTUAL" polarity="POS" start="2041" text="fevers" type="PROBLEM"/>
+<EVENT end="2083" id="E29" modality="FACTUAL" polarity="POS" start="2059" text="Blood and urine cultures" type="TEST"/>
+<EVENT end="2109" id="E30" modality="FACTUAL" polarity="POS" start="2096" text="A chest x-ray" type="TEST"/>
+<EVENT end="2135" id="E92" modality="FACTUAL" polarity="POS" start="2127" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2149" id="E31" modality="FACTUAL" polarity="NEG" start="2139" text="infiltrate" type="PROBLEM"/>
+<EVENT end="2161" id="E32" modality="FACTUAL" polarity="NEG" start="2153" text="effusion" type="PROBLEM"/>
+<EVENT end="235" id="E53" modality="FACTUAL" polarity="POS" start="216" text="general good health" type="OCCURRENCE"/>
+<EVENT end="2201" id="E33" modality="FACTUAL" polarity="POS" start="2191" text="cefotaxime" type="TREATMENT"/>
+<EVENT end="2242" id="E34" modality="FACTUAL" polarity="POS" start="2214" text="empiric antibiotic treatment" type="TREATMENT"/>
+<EVENT end="2257" id="E93" modality="FACTUAL" polarity="POS" start="2245" text="All cultures" type="TEST"/>
+<EVENT end="2307" id="E35" modality="FACTUAL" polarity="POS" start="2287" text="the high grade fever" type="PROBLEM"/>
+<EVENT end="2333" id="E36" modality="FACTUAL" polarity="POS" start="2320" text="An ultrasound" type="TEST"/>
+<EVENT end="2363" id="E94" modality="POSSIBLE" polarity="POS" start="2352" text="cholestasis" type="PROBLEM"/>
+<EVENT end="2378" id="E95" modality="POSSIBLE" polarity="POS" start="2367" text="cholangitis" type="PROBLEM"/>
+<EVENT end="2395" id="E37" modality="FACTUAL" polarity="POS" start="2381" text="The ultrasound" type="TEST"/>
+<EVENT end="2402" id="E96" modality="FACTUAL" polarity="POS" start="2396" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2417" id="E38" modality="FACTUAL" polarity="POS" start="2403" text="biliary sludge" type="PROBLEM"/>
+<EVENT end="2442" id="E39" modality="FACTUAL" polarity="POS" start="2422" text="swelling of the body" type="PROBLEM"/>
+<EVENT end="2492" id="E40" modality="FACTUAL" polarity="NEG" start="2473" text="other abnormalities" type="PROBLEM"/>
+<EVENT end="2503" id="E97" modality="FACTUAL" polarity="POS" start="2498" text="noted" type="EVIDENTIAL"/>
+<EVENT end="2580" id="E98" modality="FACTUAL" polarity="POS" start="2565" text="epigastric pain" type="PROBLEM"/>
+<EVENT end="2622" id="E41" modality="FACTUAL" polarity="POS" start="2586" text="radiation to the left upper quadrant" type="PROBLEM"/>
+<EVENT end="2633" id="E42" modality="FACTUAL" polarity="POS" start="2625" text="The pain" type="PROBLEM"/>
+<EVENT end="2683" id="E43" modality="FACTUAL" polarity="POS" start="2665" text="high dose Dilaudid" type="TREATMENT"/>
+<EVENT end="2725" id="E44" modality="FACTUAL" polarity="POS" start="2702" text="a follow-up chest x-ray" type="TEST"/>
+<EVENT end="2785" id="E99" modality="FACTUAL" polarity="POS" start="2778" text="showing" type="EVIDENTIAL"/>
+<EVENT end="2829" id="E45" modality="FACTUAL" polarity="NEG" start="2819" text="infiltrate" type="PROBLEM"/>
+<EVENT end="2879" id="E46" modality="FACTUAL" polarity="POS" start="2854" text="the patient 's fever" type="PROBLEM"/>
+<EVENT end="2914" id="E47" modality="FACTUAL" polarity="POS" start="2896" text="his abdominal pain" type="PROBLEM"/>
+<EVENT end="2950" id="E48" modality="FACTUAL" polarity="POS" start="2936" text="The cefotaxime" type="TREATMENT"/>
+<EVENT end="2967" id="E57" modality="FACTUAL" polarity="POS" start="2955" text="discontinued" type="OCCURRENCE"/>
+<EVENT end="2986" id="E49" modality="FACTUAL" polarity="NEG" start="2977" text="infection" type="PROBLEM"/>
+<EVENT end="322" id="E60" modality="FACTUAL" polarity="POS" start="301" text="sharp left flank pain" type="PROBLEM"/>
+<EVENT end="3074" id="E50" modality="FACTUAL" polarity="POS" start="3058" text="a low fat solids" type="TREATMENT"/>
+<EVENT end="3099" id="E51" modality="FACTUAL" polarity="POS" start="3081" text="pancreatitis study" type="TEST"/>
+<EVENT end="3131" id="E100" modality="FACTUAL" polarity="POS" start="3122" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="3165" id="E58" modality="FACTUAL" polarity="POS" start="3155" text="discharged" type="OCCURRENCE"/>
+<EVENT end="3205" id="E101" modality="FACTUAL" polarity="POS" start="3194" text="improvement" type="OCCURRENCE"/>
+<EVENT end="358" id="E61" modality="FACTUAL" polarity="POS" start="328" text="radiation to the lower abdomen" type="PROBLEM"/>
+<EVENT end="410" id="E62" modality="FACTUAL" polarity="POS" start="401" text="described" type="EVIDENTIAL"/>
+<EVENT end="419" id="E63" modality="FACTUAL" polarity="POS" start="411" text="the pain" type="PROBLEM"/>
+<EVENT end="440" id="E64" modality="FACTUAL" polarity="POS" start="430" text="knife-like" type="PROBLEM"/>
+<EVENT end="514" id="E65" modality="CONDITIONAL" polarity="POS" start="503" text="exacerbated" type="PROBLEM"/>
+<EVENT end="526" id="E66" modality="CONDITIONAL" polarity="POS" start="520" text="eating" type="OCCURRENCE"/>
+<EVENT end="546" id="E67" modality="CONDITIONAL" polarity="POS" start="536" text="lying flat" type="OCCURRENCE"/>
+<EVENT end="573" id="E68" modality="FACTUAL" polarity="POS" start="566" text="reports" type="EVIDENTIAL"/>
+<EVENT end="597" id="E2" modality="FACTUAL" polarity="POS" start="574" text="blood-streaked diarrhea" type="PROBLEM"/>
+<EVENT end="622" id="E69" modality="FACTUAL" polarity="POS" start="616" text="denies" type="EVIDENTIAL"/>
+<EVENT end="629" id="E71" modality="FACTUAL" polarity="NEG" start="623" text="nausea" type="PROBLEM"/>
+<EVENT end="642" id="E72" modality="FACTUAL" polarity="NEG" start="634" text="vomiting" type="PROBLEM"/>
+<EVENT end="665" id="E73" modality="FACTUAL" polarity="NEG" start="659" text="fevers" type="PROBLEM"/>
+<EVENT end="675" id="E74" modality="FACTUAL" polarity="NEG" start="669" text="chills" type="PROBLEM"/>
+<EVENT end="710" id="E3" modality="FACTUAL" polarity="NEG" start="692" text="recent weight loss" type="PROBLEM"/>
+<EVENT end="732" id="E4" modality="FACTUAL" polarity="NEG" start="716" text="light-headedness" type="PROBLEM"/>
+<EVENT end="745" id="E5" modality="FACTUAL" polarity="NEG" start="736" text="dizziness" type="PROBLEM"/>
+<EVENT end="757" id="E70" modality="FACTUAL" polarity="POS" start="751" text="denies" type="EVIDENTIAL"/>
+<EVENT end="784" id="E75" modality="FACTUAL" polarity="NEG" start="758" text="increased urinary frequent" type="PROBLEM"/>
+<EVENT end="795" id="E76" modality="FACTUAL" polarity="NEG" start="788" text="urgency" type="PROBLEM"/>
+<EVENT end="861" id="E78" modality="FACTUAL" polarity="POS" start="823" text="the Sloan- Center Emergency Department" type="CLINICAL_DEPT"/>
+<EVENT end="889" id="E79" modality="FACTUAL" polarity="POS" start="877" text="resuscitated" type="TREATMENT"/>
+<EVENT end="908" id="E80" modality="FACTUAL" polarity="POS" start="895" text="normal saline" type="TREATMENT"/>
+<EVENT end="930" id="E81" modality="FACTUAL" polarity="POS" start="922" text="morphine" type="TREATMENT"/>
+<EVENT end="939" id="E82" modality="FACTUAL" polarity="POS" start="935" text="pain" type="PROBLEM"/>
+<EVENT end="965" id="E83" modality="FACTUAL" polarity="POS" start="954" text="transferred" type="OCCURRENCE"/>
+<EVENT end="997" id="E84" modality="FACTUAL" polarity="POS" start="969" text="the general medicine service" type="OCCURRENCE"/>
+<ATIMEX3 end="1311" id="T9" mod="NA" start="1304" text="2/17/00" type="DATE" val="2000-02-17"/>
+<ATIMEX3 end="1322" id="T10" mod="NA" start="1315" text="2/21/00" type="DATE" val="2000-02-21"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="02/17/2000" type="DATE" val="2000-02-17"/>
+<ATIMEX3 end="2022" id="T2" mod="NA" start="2015" text="2/22/00" type="DATE" val="2000-02-22"/>
+<ATIMEX3 end="2284" id="T3" mod="NA" start="2277" text="2/23/00" type="DATE" val="2000-02-23"/>
+
+<ATIMEX3 end="2516" id="T4" mod="NA" start="2509" text="2/24/00" type="DATE" val="2000-02-24"/>
+<ATIMEX3 end="266" id="T6" mod="NA" start="259" text="2/11/00" type="DATE" val="2000-02-11"/>
+<ATIMEX3 end="2841" id="T11" mod="NA" start="2837" text="2/25" type="DATE" val="2000-02-25"/>
+<ATIMEX3 end="2851" id="T12" mod="NA" start="2844" text="2/27/00" type="DATE" val="2000-02-27"/>
+<ATIMEX3 end="3014" id="T5" mod="NA" start="3007" text="2/28/00" type="DATE" val="2000-02-28"/>
+<ATIMEX3 end="3181" id="T13" mod="NA" start="3174" text="2/29/00" type="DATE" val="2000-02-29"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2000-02-17" end="28" id="S0" start="18" text="02/17/2000" type="ADMISSION"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

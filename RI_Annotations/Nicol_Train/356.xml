@@ -1,0 +1,324 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+12-3-93
+DISCHARGE DATE :
+12-10-93
+HISTORY OF PRESENT ILLNESS :
+The patient is a 47 year old white male with a history of emphysema who presents for admission with a diagnosis of broncho-alveolar carcinoma and is scheduled for flexible bronchoscopy , mediastinoscopy and thoracotomy with questionable pneumonectomy by Dr. An on 12-4-93 .
+The patient is a native of Nahuter with a 70+ pack year smoking history ( 2 1/2-3 pack per day x 35 years ) whose symptoms began last 12/92 when he had a persistent cough and fever .
+In six months , he was hospitalized for pneumonia x four .
+He has had worsening dyspnea and paroxysmal nocturnal dyspnea , though denies orthopnea .
+No hemoptysis , no fevers , chills , sweats , when pneumonia resolved .
+The patient also noticed a loss of weight of approximately 25 pounds over a few months with increased fatigue and lower extremity weakness .
+A &quot; spot &quot; in the left lower lobe on chest X-ray was noted in October of 1993 , after his pneumonia cleared .
+A follow up chest computerized tomography scan led to a tissue biopsy via flexible bronchoscopy in 11/93 .
+Tissue returned well differentiated adenocarcinoma .
+The patient was told nothing could be done until he was referred to Dr. An .
+His appetite has been good and he has only complained of occasional sharp pain under his rib cage , right greater than left .
+ALLERGIES :
+The patient is allergic to Percodan , which gives him itchiness .
+MEDICATIONS ON ADMISSION :
+Triamcinolone , one tablet PO b.i.d. , dosage unknown , Xanax one tablet PO t.i.d. , prn anxiety , dosage unknown , MS Contin prn .
+HOSPITAL COURSE :
+A quantitative V / Q scan was also done preoperatively and Pulmonary consult was obtained preoperatively .
+Pulmonary recommended that he just be started on Albuterol and Atrovent metered dose inhalers , 2 puffs q6h , prior to surgery .
+The patient underwent his procedure on 12-4-93 , without complications .
+Findings included thickened pleura with multiple adhesions and an abscess near the margin major fissure .
+He had a firm nodule in the left lower lobe .
+The patient was transferred to the Respiratory Intensive Care Unit in stable condition and had an uneventful stay there .
+He had oxygen saturations of 99% with an Fi02 of 40% and had no complaints .
+He was transferred to the floor on postoperative day number one and tolerated his PO&apos;s well .
+His left lower lobe micro results revealed alpha hemolytic Streptococcus on culture and he was then switched to penicillin and Gentamicin after being started on triples of Flagyl , Ampicillin , and Gentamicin .
+He had low grade temperatures , though did not spike a high temperature during his hospital course .
+His hospital course was otherwise uneventful and the patient was discharged in stable condition on postoperative day , afebrile .
+The chest X-ray on the morning of discharge was unchanged from the previous day , with slight increase in left pleural fluid .
+He had completed six days of penicillin and Gentamicin and was discharged on Ciprofloxacin and Flagyl for the next seven days .
+He stayed at the local Comfort Inn before his return back to Aujer Cin .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1066" id="E17" modality="FACTUAL" polarity="POS" start="1020" text="A follow up chest computerized tomography scan" type="TEST"/>
+<EVENT end="1089" id="E18" modality="FACTUAL" polarity="POS" start="1074" text="a tissue biopsy" type="TEST"/>
+<EVENT end="1115" id="E19" modality="FACTUAL" polarity="POS" start="1094" text="flexible bronchoscopy" type="TEST"/>
+<EVENT end="1177" id="E56" modality="FACTUAL" polarity="POS" start="1143" text="well differentiated adenocarcinoma" type="PROBLEM"/>
+<EVENT end="1310" id="E57" modality="FACTUAL" polarity="POS" start="1300" text="complained" type="EVIDENTIAL"/>
+<EVENT end="1354" id="E58" modality="FACTUAL" polarity="POS" start="1314" text="occasional sharp pain under his rib cage" type="PROBLEM"/>
+<EVENT end="148" id="E44" modality="FACTUAL" polarity="POS" start="139" text="emphysema" type="PROBLEM"/>
+<EVENT end="1418" id="E59" modality="FACTUAL" polarity="POS" start="1410" text="allergic" type="PROBLEM"/>
+<EVENT end="1430" id="E60" modality="FACTUAL" polarity="POS" start="1422" text="Percodan" type="TREATMENT"/>
+<EVENT end="1458" id="E61" modality="FACTUAL" polarity="POS" start="1449" text="itchiness" type="PROBLEM"/>
+<EVENT end="1501" id="E62" modality="FACTUAL" polarity="POS" start="1488" text="Triamcinolone" type="TREATMENT"/>
+<EVENT end="161" id="E45" modality="FACTUAL" polarity="POS" start="153" text="presents" type="OCCURRENCE"/>
+<EVENT end="1549" id="E63" modality="FACTUAL" polarity="POS" start="1544" text="Xanax" type="TREATMENT"/>
+<EVENT end="1584" id="E64" modality="FACTUAL" polarity="POS" start="1577" text="anxiety" type="PROBLEM"/>
+<EVENT end="1613" id="E65" modality="FACTUAL" polarity="POS" start="1604" text="MS Contin" type="TREATMENT"/>
+<EVENT end="1663" id="E20" modality="FACTUAL" polarity="POS" start="1638" text="A quantitative V / Q scan" type="TEST"/>
+<EVENT end="175" id="E46" modality="FACTUAL" polarity="POS" start="166" text="admission" type="OCCURRENCE"/>
+<EVENT end="1714" id="E66" modality="FACTUAL" polarity="POS" start="1697" text="Pulmonary consult" type="CLINICAL_DEPT"/>
+<EVENT end="1754" id="E67" modality="FACTUAL" polarity="POS" start="1745" text="Pulmonary" type="CLINICAL_DEPT"/>
+<EVENT end="1803" id="E68" modality="PROPOSED" polarity="POS" start="1794" text="Albuterol" type="TREATMENT"/>
+<EVENT end="1838" id="E69" modality="PROPOSED" polarity="POS" start="1808" text="Atrovent metered dose inhalers" type="TREATMENT"/>
+<EVENT end="1871" id="E21" modality="FACTUAL" polarity="POS" start="1864" text="surgery" type="TREATMENT"/>
+<EVENT end="1909" id="E22" modality="FACTUAL" polarity="POS" start="1896" text="his procedure" type="TREATMENT"/>
+<EVENT end="1944" id="E70" modality="FACTUAL" polarity="NEG" start="1931" text="complications" type="PROBLEM"/>
+<EVENT end="222" id="E47" modality="FACTUAL" polarity="POS" start="196" text="broncho-alveolar carcinoma" type="PROBLEM"/>
+<EVENT end="1981" id="E23" modality="FACTUAL" polarity="POS" start="1965" text="thickened pleura" type="PROBLEM"/>
+<EVENT end="2005" id="E24" modality="FACTUAL" polarity="POS" start="1987" text="multiple adhesions" type="PROBLEM"/>
+<EVENT end="2050" id="E25" modality="FACTUAL" polarity="POS" start="2010" text="an abscess near the margin major fissure" type="PROBLEM"/>
+<EVENT end="2096" id="E26" modality="FACTUAL" polarity="POS" start="2060" text="a firm nodule in the left lower lobe" type="PROBLEM"/>
+<EVENT end="2126" id="E71" modality="FACTUAL" polarity="POS" start="2115" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2165" id="E39" modality="FACTUAL" polarity="POS" start="2130" text="the Respiratory Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="2246" id="E27" modality="FACTUAL" polarity="POS" start="2228" text="oxygen saturations" type="TEST"/>
+<EVENT end="2266" id="E28" modality="FACTUAL" polarity="POS" start="2259" text="an Fi02" type="TEST"/>
+<EVENT end="2295" id="E72" modality="FACTUAL" polarity="NEG" start="2285" text="complaints" type="EVIDENTIAL"/>
+<EVENT end="2316" id="E73" modality="FACTUAL" polarity="POS" start="2305" text="transferred" type="OCCURRENCE"/>
+<EVENT end="2329" id="E74" modality="FACTUAL" polarity="POS" start="2320" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="2394" id="E75" modality="FACTUAL" polarity="POS" start="2366" text="tolerated his PO's well" type="OCCURRENCE"/>
+<EVENT end="2422" id="E29" modality="FACTUAL" polarity="POS" start="2397" text="His left lower lobe micro" type="TEST"/>
+<EVENT end="265" id="E48" modality="FACTUAL" polarity="POS" start="244" text="flexible bronchoscopy" type="TEST"/>
+<EVENT end="2469" id="E30" modality="FACTUAL" polarity="POS" start="2440" text="alpha hemolytic Streptococcus" type="PROBLEM"/>
+<EVENT end="2480" id="E31" modality="FACTUAL" polarity="POS" start="2473" text="culture" type="TEST"/>
+<EVENT end="2519" id="E32" modality="FACTUAL" polarity="POS" start="2509" text="penicillin" type="TREATMENT"/>
+<EVENT end="2534" id="E33" modality="FACTUAL" polarity="POS" start="2524" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="2534" id="E36" modality="FACTUAL" polarity="POS" start="2524" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="2575" id="E34" modality="FACTUAL" polarity="POS" start="2569" text="Flagyl" type="TREATMENT"/>
+<EVENT end="2588" id="E35" modality="FACTUAL" polarity="POS" start="2578" text="Ampicillin" type="TREATMENT"/>
+<EVENT end="2605" id="E40" modality="FACTUAL" polarity="POS" start="2595" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="35" id="E43" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2637" id="E37" modality="FACTUAL" polarity="POS" start="2615" text="low grade temperatures" type="PROBLEM"/>
+<EVENT end="2679" id="E38" modality="FACTUAL" polarity="NEG" start="2661" text="a high temperature" type="PROBLEM"/>
+<EVENT end="283" id="E49" modality="FACTUAL" polarity="POS" start="268" text="mediastinoscopy" type="TEST"/>
+<EVENT end="2706" id="E76" modality="FACTUAL" polarity="POS" start="2687" text="his hospital course" type="OCCURRENCE"/>
+<EVENT end="2728" id="E77" modality="FACTUAL" polarity="POS" start="2709" text="His hospital course" type="OCCURRENCE"/>
+<EVENT end="2784" id="E41" modality="FACTUAL" polarity="POS" start="2774" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2836" id="E78" modality="FACTUAL" polarity="POS" start="2828" text="afebrile" type="PROBLEM"/>
+<EVENT end="2854" id="E79" modality="FACTUAL" polarity="POS" start="2839" text="The chest X-ray" type="TEST"/>
+<EVENT end="2854" id="E80" modality="FACTUAL" polarity="POS" start="2839" text="The chest X-ray" type="TEST"/>
+<EVENT end="299" id="E50" modality="FACTUAL" polarity="POS" start="288" text="thoracotomy" type="TREATMENT"/>
+<EVENT end="2963" id="E81" modality="FACTUAL" polarity="POS" start="2926" text="slight increase in left pleural fluid" type="PROBLEM"/>
+<EVENT end="3005" id="E82" modality="FACTUAL" polarity="POS" start="2995" text="penicillin" type="TREATMENT"/>
+<EVENT end="3020" id="E83" modality="FACTUAL" polarity="POS" start="3010" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="3039" id="E42" modality="FACTUAL" polarity="POS" start="3029" text="discharged" type="OCCURRENCE"/>
+<EVENT end="3056" id="E84" modality="FACTUAL" polarity="POS" start="3043" text="Ciprofloxacin" type="TREATMENT"/>
+<EVENT end="3067" id="E85" modality="FACTUAL" polarity="POS" start="3061" text="Flagyl" type="TREATMENT"/>
+<EVENT end="331" id="E51" modality="POSSIBLE" polarity="POS" start="318" text="pneumonectomy" type="TREATMENT"/>
+<EVENT end="426" id="E52" modality="FACTUAL" polarity="POS" start="411" text="smoking history" type="PROBLEM"/>
+<EVENT end="477" id="E53" modality="FACTUAL" polarity="POS" start="469" text="symptoms" type="PROBLEM"/>
+<EVENT end="525" id="E1" modality="FACTUAL" polarity="POS" start="507" text="a persistent cough" type="PROBLEM"/>
+<EVENT end="535" id="E2" modality="FACTUAL" polarity="POS" start="530" text="fever" type="PROBLEM"/>
+<EVENT end="573" id="E54" modality="FACTUAL" polarity="POS" start="561" text="hospitalized" type="OCCURRENCE"/>
+<EVENT end="587" id="E3" modality="FACTUAL" polarity="POS" start="578" text="pneumonia" type="PROBLEM"/>
+<EVENT end="625" id="E4" modality="FACTUAL" polarity="POS" start="608" text="worsening dyspnea" type="PROBLEM"/>
+<EVENT end="658" id="E5" modality="FACTUAL" polarity="POS" start="630" text="paroxysmal nocturnal dyspnea" type="PROBLEM"/>
+<EVENT end="684" id="E6" modality="FACTUAL" polarity="NEG" start="675" text="orthopnea" type="PROBLEM"/>
+<EVENT end="700" id="E7" modality="FACTUAL" polarity="NEG" start="690" text="hemoptysis" type="PROBLEM"/>
+<EVENT end="712" id="E8" modality="FACTUAL" polarity="NEG" start="706" text="fevers" type="PROBLEM"/>
+<EVENT end="721" id="E9" modality="FACTUAL" polarity="NEG" start="715" text="chills" type="PROBLEM"/>
+<EVENT end="730" id="E10" modality="FACTUAL" polarity="NEG" start="724" text="sweats" type="PROBLEM"/>
+<EVENT end="747" id="E55" modality="FACTUAL" polarity="NEG" start="738" text="pneumonia" type="PROBLEM"/>
+<EVENT end="800" id="E11" modality="FACTUAL" polarity="POS" start="784" text="a loss of weight" type="PROBLEM"/>
+<EVENT end="868" id="E12" modality="FACTUAL" polarity="POS" start="851" text="increased fatigue" type="PROBLEM"/>
+<EVENT end="897" id="E13" modality="FACTUAL" polarity="POS" start="873" text="lower extremity weakness" type="PROBLEM"/>
+<EVENT end="943" id="E14" modality="FACTUAL" polarity="POS" start="900" text="A &quot; spot &quot; in the left lower lobe" type="PROBLEM"/>
+<EVENT end="958" id="E15" modality="FACTUAL" polarity="POS" start="947" text="chest X-ray" type="TEST"/>
+<EVENT end="1009" id="E16" modality="FACTUAL" polarity="NEG" start="996" text="his pneumonia" type="PROBLEM"/>
+<ATIMEX3 end="1124" id="T12" mod="NA" start="1119" text="11/93" type="DATE" val="1993-11"/>
+
+
+<ATIMEX3 end="25" id="T1" mod="NA" start="18" text="12-3-93" type="DATE" val="1993-12-03"/>
+
+<ATIMEX3 end="1920" id="T6" mod="NA" start="1913" text="12-4-93" type="DATE" val="1993-12-04"/>
+<RTIMEX3 end="2361" id="T7" mod="NA" start="2333" text="postoperative day number one" type="DATE" val="1993-12-05"/>
+<RTIMEX3 end="2825" id="T8" mod="NA" start="2808" text="postoperative day" type="DATE" val="1993-12-10"/>
+<RTIMEX3 end="2882" id="T18" mod="START" start="2858" text="the morning of discharge" type="DATE" val="1993-12-10"/>
+<RTIMEX3 end="2918" id="T11" mod="NA" start="2902" text="the previous day" type="DATE" val="1993-12-09"/>
+
+
+<ATIMEX3 end="352" id="T3" mod="NA" start="345" text="12-4-93" type="DATE" val="1993-12-04"/>
+<ATIMEX3 end="51" id="T2" mod="NA" start="43" text="12-10-93" type="DATE" val="1993-12-10"/>
+<ATIMEX3 end="494" id="T4" mod="NA" start="489" text="12/92" type="DATE" val="1992-12"/>
+
+
+
+<RTIMEX3 end="987" id="T5" mod="NA" start="972" text="October of 1993" type="DATE" val="1993-10"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,95 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+06-06-93
+DISCHARGE DATE :
+06-07-93
+HISTORY OF PRESENT ILLNESS :
+The patient is a 68 year old male status post three and a half cycles of adjuvant EAP chemotherapy .
+He had a good response to preoperative therapy and negative nodes , and is admitted for the final portion of his postoperative cycles .
+His chemotherapy the week before was decreased because the white blood count dropped to 2.8 .
+In the interim , the white blood count rose again to 4.2 with a hematocrit of 30.5 , platelet count of 196 thousand .
+HOSPITAL COURSE :
+The patient was treated with Adriamycin 25 mg , Cis-platinum 40 mg , preceded by Mannitol 12.5 grams intravenous bolus , and Zofran 11 mg on two occasions given as an antiemetic .
+The chemotherapy was well tolerated .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="180" id="E2" modality="FACTUAL" polarity="POS" start="155" text="adjuvant EAP chemotherapy" type="TREATMENT"/>
+<EVENT end="205" id="E3" modality="FACTUAL" polarity="POS" start="190" text="a good response" type="OCCURRENCE"/>
+<EVENT end="229" id="E4" modality="FACTUAL" polarity="POS" start="209" text="preoperative therapy" type="TREATMENT"/>
+<EVENT end="248" id="E5" modality="FACTUAL" polarity="POS" start="234" text="negative nodes" type="OCCURRENCE"/>
+<EVENT end="266" id="E6" modality="FACTUAL" polarity="POS" start="258" text="admitted" type="OCCURRENCE"/>
+<EVENT end="36" id="E1" modality="FACTUAL" polarity="POS" start="27" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="316" id="E7" modality="FACTUAL" polarity="POS" start="292" text="his postoperative cycles" type="TREATMENT"/>
+<EVENT end="335" id="E8" modality="FACTUAL" polarity="POS" start="319" text="His chemotherapy" type="TREATMENT"/>
+<EVENT end="365" id="E9" modality="FACTUAL" polarity="POS" start="356" text="decreased" type="OCCURRENCE"/>
+<EVENT end="395" id="E10" modality="FACTUAL" polarity="POS" start="374" text="the white blood count" type="TEST"/>
+<EVENT end="403" id="E11" modality="FACTUAL" polarity="POS" start="396" text="dropped" type="OCCURRENCE"/>
+<EVENT end="451" id="E12" modality="FACTUAL" polarity="POS" start="430" text="the white blood count" type="TEST"/>
+<EVENT end="456" id="E13" modality="FACTUAL" polarity="POS" start="452" text="rose" type="OCCURRENCE"/>
+<EVENT end="487" id="E14" modality="FACTUAL" polarity="POS" start="475" text="a hematocrit" type="TEST"/>
+<EVENT end="512" id="E15" modality="FACTUAL" polarity="POS" start="498" text="platelet count" type="TEST"/>
+<EVENT end="588" id="E17" modality="FACTUAL" polarity="POS" start="578" text="Adriamycin" type="TREATMENT"/>
+<EVENT end="609" id="E18" modality="FACTUAL" polarity="POS" start="597" text="Cis-platinum" type="TREATMENT"/>
+<EVENT end="638" id="E19" modality="FACTUAL" polarity="POS" start="630" text="Mannitol" type="TREATMENT"/>
+<EVENT end="680" id="E20" modality="FACTUAL" polarity="POS" start="674" text="Zofran" type="TREATMENT"/>
+<EVENT end="726" id="E21" modality="FACTUAL" polarity="POS" start="713" text="an antiemetic" type="TREATMENT"/>
+<EVENT end="745" id="E22" modality="FACTUAL" polarity="POS" start="729" text="The chemotherapy" type="TREATMENT"/>
+<EVENT end="764" id="E23" modality="FACTUAL" polarity="POS" start="750" text="well tolerated" type="OCCURRENCE"/>
+<ATIMEX3 end="26" id="T0" mod="NA" start="18" text="06-06-93" type="DATE" val="1993-06-06"/>
+
+<ATIMEX3 end="52" id="T1" mod="NA" start="44" text="06-07-93" type="DATE" val="1993-06-07"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

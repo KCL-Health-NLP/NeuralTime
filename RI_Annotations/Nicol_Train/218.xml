@@ -1,0 +1,471 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2011-09-23
+Discharge Date :
+2011-10-06
+Service :
+NEONATOLOGY
+HISTORY OF PRESENT ILLNESS :
+Ken Nansteel-Miller is the triplet #3 of a spontaneous triamniotic-trichorionic triplet pregnancy born to a 39-year-old G4 P1 spontaneous abortion 2 woman .
+Prenatal screens :
+Blood type A positive , antibody negative , rubella immune , RPR nonreactive , hepatitis B surface antigen negative , group beta Strep status unknown .
+The mother was followed closely and received betamethasone 2011-08-22 .
+She was admitted on 2011-08-25 for nausea , vomiting , and a shortened cervix .
+She was treated with bed rest and prn terbutaline .
+Other medications including Prozac .
+The babies were born by elective cesarean section at 34 weeks gestation .
+This triplet #3 emerged with spontaneous respirations , and required blow-by oxygen in the delivery room .
+Apgars were seven at one minute and eight at five minutes .
+He was admitted to the Neonatal Intensive Care Unit for treatment of prematurity .
+PHYSICAL EXAM UPON ADMISSION TO THE NEONATAL INTENSIVE CARE UNIT :
+Weight 1.7 kg , length 41.5 cm , head circumference 29 cm , all 10th-25th percentile for 34 weeks .
+General : Nondysmorphic preterm male in mild respiratory distress .
+Head , eyes , ears , nose , and throat :
+Anterior fontanel open and flat .
+Symmetric facial features .
+Positive red reflex bilaterally .
+Palate intact .
+Chest : Mild intercostal and sternal retractions .
+Breath sounds equal with fair aeration .
+Cardiovascular : Regular , rate , and rhythm , no murmur .
+Femoral pulses +2 .
+Abdomen is soft , nontender , nondistended , no masses , positive bowel sounds .
+Genitourinary : Normal preterm male .
+Testes descended bilaterally .
+Spine straight with normal sacrum .
+Hips stable .
+Neurologic : Appropriate tone and reflexes .
+HOSPITAL COURSE BY SYSTEMS INCLUDING PERTINENT LABORATORY DATA :
+1. Respiratory : Lincoln required nasal cannula O2 for approximately the first 8-12 hours of life .
+He weaned to room air and remained on room air the rest of his Neonatal Intensive Care Unit admission .
+He has had no episodes of spontaneous apnea during admission .
+2. Cardiovascular : Falmouth has maintained normal heart rates and blood pressures .
+No murmurs have been noted .
+3. Fluids , electrolytes , and nutrition :
+Beverly was initially NPO and maintained on intravenous fluids .
+Enteral feeds were started on day of life #1 , and gradually advanced to full volume .
+His maximum caloric intake was 24 calories per ounce .
+At the time of discharge , he is breastfeeding or taking Enfamil fortified to 24 calories / ounce with intake approximately 150 cc / kg / day .
+Discharge weight is 1.89 kg .
+4. Gastrointestinal : Boston required treatment for unconjungated hyperbilirubinemia with phototherapy .
+His peak serum bilirubin occurred on day of life three with a total of 8.3 / 0.2 direct , 8.1 indirect mg/dl .
+He received phototherapy for approximately 72 hours .
+Rebound bilirubin on day of life #7 was 6.6 , and total was 0.2 direct .
+5. Neurological : Wellesley has maintained a normal neurological examination .
+Throughout admission , there are no neurological concerns at the time of discharge .
+6. Sensory :
+Audiology : Hearing screening was performed with automated auditory brain stem responses .
+Nantucket passed in both ears .
+CONDITION ON DISCHARGE : Good .
+DISCHARGE / DISPOSITION : Home with parents .
+PRIMARY PEDIATRICIAN : Dr. Penny Scott , 8400 S. Maple Blvd. , Arbour-Fuller Hospital , New Hampshire 25344 , phone number 617-6198 .
+Fax number ( 317 ) 497-7408 .
+CARE AND RECOMMENDATIONS AT THE TIME OF DISCHARGE :
+1. Feeding : Breast feeding or Enfamil 24 calories / ounce .
+2. Medications : Ferrous sulfate 0.15 cc po q day 25 mg / ml dilution .
+3. Car seat position screening was performed .
+Waltham was monitored for 90 minutes without any episodes of apnea or oxygen desaturation .
+4. State Newborn Screens were sent on 09-27 and 2011-10-05 with no notification of abnormal results to date .
+5. No immunizations administered .
+Plan is to receive hepatitis B in the pediatrician 's office , once he reaches a weight of 2 kg .
+6. Immunizations recommended : Synagis RSV prophylaxis should be considered from October through April for infants who meet any of the following three criteria :
+1) Born at less than 32 weeks ,
+2) born between 32 and 35 weeks with plans for daycare during RSV season , with a smoker in the household , or with preschool siblings , or
+3) with chronic lung disease .
+Influenza immunization should be considered annually in the fall for preterm infants with chronic lung disease once they reach six months of age .
+Before this age , the family and other caregivers should be considered for immunization against influenza to protect the infant .
+FOLLOW-UP APPOINTMENTS : Dr. Parramore on 10-10 .
+DISCHARGE DIAGNOSES :
+1. Prematurity at 34 weeks gestation .
+2. Triplet #3 of triplet gestation .
+3. Unconjugated hyperbilirubinemia .
+Reviewed By : Janna L. Desorbo , M.D.
+00-112
+Dictated By : Jeannette D. Rede , M.D.
+MEDQUIST36
+D : 2011-10-06 04:03
+T : 2011-10-06 06:19
+JOB #:
+02566
+Signed electronically by : DR. Bernice Jenkins on : FRI 2011-10-07 4:01 PM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1014" id="E34" modality="FACTUAL" polarity="POS" start="1001" text="PHYSICAL EXAM" type="TEST"/>
+<EVENT end="1029" id="E35" modality="FACTUAL" polarity="POS" start="1020" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1067" id="E36" modality="FACTUAL" polarity="POS" start="1033" text="THE NEONATAL INTENSIVE CARE UNIT :" type="CLINICAL_DEPT"/>
+<EVENT end="1074" id="E37" modality="FACTUAL" polarity="POS" start="1068" text="Weight" type="TEST"/>
+<EVENT end="1090" id="E38" modality="FACTUAL" polarity="POS" start="1084" text="length" type="TEST"/>
+<EVENT end="1119" id="E39" modality="FACTUAL" polarity="POS" start="1101" text="head circumference" type="TEST"/>
+<EVENT end="1191" id="E40" modality="FACTUAL" polarity="POS" start="1178" text="Nondysmorphic" type="PROBLEM"/>
+<EVENT end="1199" id="E41" modality="FACTUAL" polarity="POS" start="1192" text="preterm" type="PROBLEM"/>
+<EVENT end="1233" id="E42" modality="FACTUAL" polarity="POS" start="1208" text="mild respiratory distress" type="PROBLEM"/>
+<EVENT end="1308" id="E43" modality="FACTUAL" polarity="POS" start="1295" text="open and flat" type="OCCURRENCE"/>
+<EVENT end="1358" id="E44" modality="FACTUAL" polarity="POS" start="1348" text="red reflex" type="TEST"/>
+<EVENT end="1437" id="E45" modality="FACTUAL" polarity="POS" start="1397" text="Mild intercostal and sternal retractions" type="PROBLEM"/>
+<EVENT end="1453" id="E46" modality="FACTUAL" polarity="POS" start="1440" text="Breath sounds" type="TEST"/>
+<EVENT end="205" id="E2" modality="FACTUAL" polarity="POS" start="149" text="a spontaneous triamniotic-trichorionic triplet pregnancy" type="PROBLEM"/>
+<EVENT end="1537" id="E47" modality="FACTUAL" polarity="NEG" start="1531" text="murmur" type="PROBLEM"/>
+<EVENT end="1554" id="E48" modality="FACTUAL" polarity="POS" start="1540" text="Femoral pulses" type="TEST"/>
+<EVENT end="1587" id="E49" modality="FACTUAL" polarity="POS" start="1578" text="nontender" type="PROBLEM"/>
+<EVENT end="1602" id="E50" modality="FACTUAL" polarity="POS" start="1590" text="nondistended" type="PROBLEM"/>
+<EVENT end="1614" id="E51" modality="FACTUAL" polarity="POS" start="1608" text="masses" type="PROBLEM"/>
+<EVENT end="1695" id="E52" modality="FACTUAL" polarity="POS" start="1679" text="Testes descended" type="OCCURRENCE"/>
+<EVENT end="1724" id="E53" modality="FACTUAL" polarity="POS" start="1710" text="Spine straight" type="OCCURRENCE"/>
+<EVENT end="1743" id="E54" modality="FACTUAL" polarity="POS" start="1730" text="normal sacrum" type="OCCURRENCE"/>
+<EVENT end="1757" id="E55" modality="FACTUAL" polarity="POS" start="1746" text="Hips stable" type="OCCURRENCE"/>
+<EVENT end="1802" id="E56" modality="FACTUAL" polarity="POS" start="1773" text="Appropriate tone and reflexes" type="OCCURRENCE"/>
+<EVENT end="1920" id="E57" modality="FACTUAL" polarity="POS" start="1904" text="nasal cannula O2" type="TREATMENT"/>
+<EVENT end="1979" id="E58" modality="FACTUAL" polarity="POS" start="1973" text="weaned" type="TREATMENT"/>
+<EVENT end="1991" id="E59" modality="FACTUAL" polarity="POS" start="1983" text="room air" type="TREATMENT"/>
+<EVENT end="2016" id="E60" modality="FACTUAL" polarity="POS" start="2008" text="room air" type="TREATMENT"/>
+<EVENT end="2061" id="E61" modality="FACTUAL" polarity="POS" start="2029" text="his Neonatal Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="210" id="E3" modality="FACTUAL" polarity="POS" start="206" text="born" type="TREATMENT"/>
+<EVENT end="2071" id="E62" modality="FACTUAL" polarity="POS" start="2062" text="admission" type="OCCURRENCE"/>
+<EVENT end="2117" id="E63" modality="FACTUAL" polarity="NEG" start="2100" text="spontaneous apnea" type="PROBLEM"/>
+<EVENT end="2134" id="E64" modality="FACTUAL" polarity="POS" start="2125" text="admission" type="OCCURRENCE"/>
+<EVENT end="2199" id="E65" modality="FACTUAL" polarity="POS" start="2188" text="heart rates" type="TEST"/>
+<EVENT end="2219" id="E66" modality="FACTUAL" polarity="POS" start="2204" text="blood pressures" type="TEST"/>
+<EVENT end="2232" id="E67" modality="FACTUAL" polarity="POS" start="2225" text="murmurs" type="PROBLEM"/>
+<EVENT end="2260" id="E68" modality="CONDITIONAL" polarity="POS" start="2254" text="Fluids" type="TREATMENT"/>
+<EVENT end="2275" id="E69" modality="CONDITIONAL" polarity="POS" start="2263" text="electrolytes" type="TREATMENT"/>
+<EVENT end="233" id="E4" modality="FACTUAL" polarity="POS" start="228" text="G4 P1" type="OCCURRENCE"/>
+<EVENT end="2291" id="E70" modality="CONDITIONAL" polarity="POS" start="2282" text="nutrition" type="TREATMENT"/>
+<EVENT end="2319" id="E71" modality="FACTUAL" polarity="POS" start="2316" text="NPO" type="TREATMENT"/>
+<EVENT end="2356" id="E72" modality="FACTUAL" polarity="POS" start="2338" text="intravenous fluids" type="TREATMENT"/>
+<EVENT end="254" id="E5" modality="FACTUAL" polarity="POS" start="234" text="spontaneous abortion" type="PROBLEM"/>
+<EVENT end="2372" id="E73" modality="FACTUAL" polarity="POS" start="2359" text="Enteral feeds" type="TREATMENT"/>
+<EVENT end="2428" id="E74" modality="FACTUAL" polarity="POS" start="2420" text="advanced" type="TREATMENT"/>
+<EVENT end="2443" id="E75" modality="FACTUAL" polarity="POS" start="2432" text="full volume" type="TREATMENT"/>
+<EVENT end="2498" id="E76" modality="FACTUAL" polarity="POS" start="2477" text="24 calories per ounce" type="TREATMENT"/>
+<EVENT end="2525" id="E77" modality="FACTUAL" polarity="POS" start="2516" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2547" id="E78" modality="FACTUAL" polarity="POS" start="2534" text="breastfeeding" type="OCCURRENCE"/>
+<EVENT end="2565" id="E79" modality="FACTUAL" polarity="POS" start="2558" text="Enfamil" type="TREATMENT"/>
+<EVENT end="2661" id="E80" modality="FACTUAL" polarity="POS" start="2645" text="Discharge weight" type="TEST"/>
+<EVENT end="281" id="E6" modality="FACTUAL" polarity="POS" start="265" text="Prenatal screens" type="TEST"/>
+<EVENT end="2722" id="E81" modality="FACTUAL" polarity="POS" start="2713" text="treatment" type="TREATMENT"/>
+<EVENT end="2759" id="E82" modality="FACTUAL" polarity="POS" start="2727" text="unconjungated hyperbilirubinemia" type="PROBLEM"/>
+<EVENT end="2777" id="E83" modality="FACTUAL" polarity="POS" start="2765" text="phototherapy" type="TREATMENT"/>
+<EVENT end="2804" id="E84" modality="FACTUAL" polarity="POS" start="2780" text="His peak serum bilirubin" type="TEST"/>
+<EVENT end="294" id="E7" modality="FACTUAL" polarity="POS" start="284" text="Blood type" type="TEST"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2915" id="E85" modality="FACTUAL" polarity="POS" start="2903" text="phototherapy" type="TREATMENT"/>
+<EVENT end="2962" id="E86" modality="FACTUAL" polarity="POS" start="2945" text="Rebound bilirubin" type="TEST"/>
+<EVENT end="3094" id="E87" modality="FACTUAL" polarity="POS" start="3061" text="a normal neurological examination" type="OCCURRENCE"/>
+<EVENT end="316" id="E8" modality="FACTUAL" polarity="POS" start="308" text="antibody" type="TEST"/>
+<EVENT end="3117" id="E88" modality="FACTUAL" polarity="POS" start="3108" text="admission" type="OCCURRENCE"/>
+<EVENT end="3154" id="E89" modality="FACTUAL" polarity="POS" start="3133" text="neurological concerns" type="PROBLEM"/>
+<EVENT end="3179" id="E90" modality="FACTUAL" polarity="POS" start="3170" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3224" id="E91" modality="FACTUAL" polarity="POS" start="3207" text="Hearing screening" type="TEST"/>
+<EVENT end="3283" id="E92" modality="FACTUAL" polarity="POS" start="3244" text="automated auditory brain stem responses" type="OCCURRENCE"/>
+<EVENT end="335" id="E9" modality="FACTUAL" polarity="POS" start="328" text="rubella" type="TEST"/>
+<EVENT end="348" id="E10" modality="FACTUAL" polarity="POS" start="345" text="RPR" type="TEST"/>
+<EVENT end="3609" id="E93" modality="FACTUAL" polarity="POS" start="3600" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="390" id="E11" modality="FACTUAL" polarity="POS" start="363" text="hepatitis B surface antigen" type="TEST"/>
+<EVENT end="3639" id="E94" modality="FACTUAL" polarity="POS" start="3625" text="Breast feeding" type="OCCURRENCE"/>
+<EVENT end="3650" id="E95" modality="FACTUAL" polarity="POS" start="3643" text="Enfamil" type="OCCURRENCE"/>
+<EVENT end="3687" id="E97" modality="FACTUAL" polarity="POS" start="3676" text="Medications" type="TREATMENT"/>
+<EVENT end="3705" id="E96" modality="FACTUAL" polarity="POS" start="3690" text="Ferrous sulfate" type="TREATMENT"/>
+<EVENT end="3775" id="E98" modality="FACTUAL" polarity="POS" start="3748" text="Car seat position screening" type="TEST"/>
+<EVENT end="3858" id="E99" modality="FACTUAL" polarity="NEG" start="3853" text="apnea" type="PROBLEM"/>
+<EVENT end="3881" id="E100" modality="FACTUAL" polarity="NEG" start="3862" text="oxygen desaturation" type="PROBLEM"/>
+<EVENT end="3908" id="E101" modality="FACTUAL" polarity="POS" start="3887" text="State Newborn Screens" type="TEST"/>
+<EVENT end="3983" id="E102" modality="FACTUAL" polarity="NEG" start="3967" text="abnormal results" type="PROBLEM"/>
+<EVENT end="4013" id="E103" modality="FACTUAL" polarity="NEG" start="4000" text="immunizations" type="TREATMENT"/>
+<EVENT end="425" id="E12" modality="FACTUAL" polarity="POS" start="402" text="group beta Strep status" type="TEST"/>
+<EVENT end="4059" id="E104" modality="PROPOSED" polarity="POS" start="4048" text="hepatitis B" type="TREATMENT"/>
+<EVENT end="4143" id="E105" modality="PROPOSED" polarity="POS" start="4130" text="Immunizations" type="TREATMENT"/>
+<EVENT end="4181" id="E106" modality="CONDITIONAL" polarity="POS" start="4158" text="Synagis RSV prophylaxis" type="TREATMENT"/>
+<EVENT end="4489" id="E108" modality="FACTUAL" polarity="POS" start="4469" text="chronic lung disease" type="PROBLEM"/>
+<EVENT end="4514" id="E109" modality="CONDITIONAL" polarity="POS" start="4492" text="Influenza immunization" type="TREATMENT"/>
+<EVENT end="467" id="E13" modality="FACTUAL" polarity="POS" start="451" text="followed closely" type="OCCURRENCE"/>
+<EVENT end="4602" id="E110" modality="CONDITIONAL" polarity="POS" start="4582" text="chronic lung disease" type="PROBLEM"/>
+<EVENT end="4726" id="E111" modality="PROPOSED" polarity="POS" start="4714" text="immunization" type="TREATMENT"/>
+<EVENT end="4744" id="E112" modality="CONDITIONAL" polarity="POS" start="4735" text="influenza" type="PROBLEM"/>
+<EVENT end="494" id="E14" modality="FACTUAL" polarity="POS" start="481" text="betamethasone" type="TREATMENT"/>
+<EVENT end="4877" id="E113" modality="FACTUAL" polarity="POS" start="4844" text="Prematurity at 34 weeks gestation" type="PROBLEM"/>
+<EVENT end="4951" id="E114" modality="FACTUAL" polarity="POS" start="4920" text="Unconjugated hyperbilirubinemia" type="PROBLEM"/>
+<EVENT end="524" id="E15" modality="FACTUAL" polarity="POS" start="516" text="admitted" type="OCCURRENCE"/>
+<EVENT end="549" id="E16" modality="FACTUAL" polarity="POS" start="543" text="nausea" type="PROBLEM"/>
+<EVENT end="560" id="E17" modality="FACTUAL" polarity="POS" start="552" text="vomiting" type="PROBLEM"/>
+<EVENT end="585" id="E18" modality="FACTUAL" polarity="POS" start="567" text="a shortened cervix" type="PROBLEM"/>
+<EVENT end="617" id="E19" modality="FACTUAL" polarity="POS" start="609" text="bed rest" type="TREATMENT"/>
+<EVENT end="637" id="E20" modality="FACTUAL" polarity="POS" start="626" text="terbutaline" type="TREATMENT"/>
+<EVENT end="657" id="E21" modality="FACTUAL" polarity="POS" start="640" text="Other medications" type="TREATMENT"/>
+<EVENT end="674" id="E22" modality="FACTUAL" polarity="POS" start="668" text="Prozac" type="TREATMENT"/>
+<EVENT end="697" id="E23" modality="FACTUAL" polarity="POS" start="693" text="born" type="TREATMENT"/>
+<EVENT end="726" id="E24" modality="FACTUAL" polarity="POS" start="701" text="elective cesarean section" type="TREATMENT"/>
+<EVENT end="748" id="E25" modality="FACTUAL" polarity="POS" start="739" text="gestation" type="OCCURRENCE"/>
+<EVENT end="804" id="E26" modality="FACTUAL" polarity="POS" start="780" text="spontaneous respirations" type="OCCURRENCE"/>
+<EVENT end="834" id="E27" modality="FACTUAL" polarity="POS" start="820" text="blow-by oxygen" type="TREATMENT"/>
+<EVENT end="855" id="E28" modality="FACTUAL" polarity="POS" start="838" text="the delivery room" type="CLINICAL_DEPT"/>
+<EVENT end="864" id="E29" modality="FACTUAL" polarity="POS" start="858" text="Apgars" type="TEST"/>
+<EVENT end="933" id="E30" modality="FACTUAL" polarity="POS" start="925" text="admitted" type="OCCURRENCE"/>
+<EVENT end="969" id="E31" modality="FACTUAL" polarity="POS" start="937" text="the Neonatal Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="983" id="E32" modality="FACTUAL" polarity="POS" start="974" text="treatment" type="TREATMENT"/>
+<EVENT end="998" id="E33" modality="FACTUAL" polarity="POS" start="987" text="prematurity" type="PROBLEM"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2011-09-23" type="DATE" val="2011-09-23"/>
+
+<RTIMEX3 end="2403" id="T7" mod="NA" start="2389" text="day of life #1" type="DATE" val="2011-09-23"/>
+<RTIMEX3 end="2834" id="T8" mod="NA" start="2817" text="day of life three" type="DATE" val="2011-09-25"/>
+
+<RTIMEX3 end="2980" id="T10" mod="NA" start="2966" text="day of life #7" type="DATE" val="2011-09-29"/>
+
+<ATIMEX3 end="3927" id="T12" mod="NA" start="3922" text="09-27" type="DATE" val="2011-09-27"/>
+<ATIMEX3 end="3942" id="T13" mod="NA" start="3932" text="2011-10-05" type="DATE" val="2011-10-05"/>
+
+
+
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2011-10-06" type="DATE" val="2011-10-06"/>
+<RTIMEX3 end="4629" id="T18" mod="NA" start="4619" text="six months" type="DATE" val="p6m"/>
+<ATIMEX3 end="505" id="T2" mod="NA" start="495" text="2011-08-22" type="DATE" val="2011-08-22"/>
+<ATIMEX3 end="538" id="T3" mod="NA" start="528" text="2011-08-25" type="DATE" val="2011-08-25"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2011-09-23" end="28" id="S0" start="18" text="2011-09-23" type="ADMISSION"/>
+<SECTIME dvalue="2011-10-06" end="56" id="S1" start="46" text="2011-10-06" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

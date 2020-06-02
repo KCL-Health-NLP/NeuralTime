@@ -1,0 +1,333 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+8-15-93
+DISCHARGE DATE :
+08-22-93
+HISTORY OF PRESENT ILLNESS :
+The patient is a 58 year old female with a history of Parkinson &apos;s disease for more than twenty years who presented to the Gemenadentoolpai Medical Center with a revolving anterolateral wall myocardial infarction on 08-01-93 .
+She has been under the care of Dr. Aalv Manual and was referred here for further therapy .
+She had no prior significant cardiac history and presented to her local medical doctor &apos;s office with an episode of severe retrosternal chest pain .
+Her electrocardiogram showed a new right bundle branch block and left anterior hemiblock .
+The patient was transferred to the Gemenadentoolpai Medical Center and was admitted .
+Her hospital course was remarkable for ruling in for a myocardial infarction with a peak CPK of 9,379 units with a 5.9% MB fraction .
+In addition , on telemetry she developed complete heart block and hypotension requiring temporary pacing wire and then a permanent pacemaker implantation on 08-03-93 .
+She developed congestive heart failure and required pressor support .
+She underwent cardiac catheterization on 8-15-93 and was found to have a left ventricular end diastolic pressure of 28 millimeters of mercury .
+She had a dominant right coronary artery with minor disease .
+The main left coronary artery had a 20% stenosis .
+The left anterior descending had a severe 80% proximal stenosis with a filling defect consistent with intraluminal thrombus .
+The circumflex artery had a minor 40% stenosis .
+Cine left ventriculogram revealed a dilated left ventricle with an area of anterolateral , apical , and septal akinesis .
+The left ventricular ejection fraction was estimated to 38% .
+The patient was transferred to the Heaonboburg Linpack Grant Medical Center for consideration of coronary angioplasty .
+CARDIAC RISK FACTORS :
+Her risk factors for coronary artery disease included a positive family history and an elevated cholesterol level .
+HOSPITAL COURSE :
+The patient was admitted to the Medical Service .
+The patient was seen in consultation by the Neurology Department because of the history of Parkinson &apos;s disease .
+The patient was maintained on intravenous heparin .
+On 8-17-93 , she was taken to the cardiac catheterization laboratory where she underwent percutaneous transluminal coronary angioplasty of the proximal left anterior descending .
+Following balloon angioplasty , there was a local dissection with evidence of intraluminal thrombus , with a greater than 10% loss in the initial gain following coronary angioplasty .
+Therefore , directional coronary atherectomy was performed with an excellent angiographic outcome , and a less than 10% residual narrowing .
+The patient tolerated the procedure well .
+She was maintained on intravenous heparin and was brought back to the cardiac catheterization laboratory on 08-18-93 for a relook coronary angiography .
+Coronary angiography demonstrated ongoing benefit of the initial coronary atherectomy .
+Specifically , there was no decrease in the initial gain that she achieved after directional atherectomy .
+The patient remained stable during the rest of the hospitalization .
+She was transferred in stable condition to the Pasi for further rehabilitation therapy .
+RENLAN FYFEZEIS , M.D.
+Dr. Aalv Lorjes Salv Manual Pasi
+TR :
+jb / bmot
+DD :
+9-17-93
+TD :
+09/19/93
+CC :
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1075" id="E61" modality="FACTUAL" polarity="POS" start="1051" text="congestive heart failure" type="PROBLEM"/>
+<EVENT end="1104" id="E13" modality="FACTUAL" polarity="POS" start="1089" text="pressor support" type="TREATMENT"/>
+<EVENT end="1144" id="E62" modality="FACTUAL" polarity="POS" start="1121" text="cardiac catheterization" type="TEST"/>
+<EVENT end="1169" id="E63" modality="FACTUAL" polarity="POS" start="1164" text="found" type="OCCURRENCE"/>
+<EVENT end="1219" id="E64" modality="FACTUAL" polarity="POS" start="1178" text="a left ventricular end diastolic pressure" type="TEST"/>
+<EVENT end="1291" id="E14" modality="FACTUAL" polarity="POS" start="1259" text="a dominant right coronary artery" type="PROBLEM"/>
+<EVENT end="1310" id="E65" modality="FACTUAL" polarity="POS" start="1297" text="minor disease" type="PROBLEM"/>
+<EVENT end="160" id="E1" modality="FACTUAL" polarity="POS" start="135" text="Parkinson 's disease" type="PROBLEM"/>
+<EVENT end="1361" id="E15" modality="FACTUAL" polarity="POS" start="1347" text="a 20% stenosis" type="PROBLEM"/>
+<EVENT end="1427" id="E16" modality="FACTUAL" polarity="POS" start="1397" text="a severe 80% proximal stenosis" type="PROBLEM"/>
+<EVENT end="1449" id="E17" modality="FACTUAL" polarity="POS" start="1433" text="a filling defect" type="PROBLEM"/>
+<EVENT end="1487" id="E18" modality="FACTUAL" polarity="POS" start="1466" text="intraluminal thrombus" type="PROBLEM"/>
+<EVENT end="1536" id="E19" modality="FACTUAL" polarity="POS" start="1516" text="a minor 40% stenosis" type="PROBLEM"/>
+<EVENT end="1563" id="E66" modality="FACTUAL" polarity="POS" start="1539" text="Cine left ventriculogram" type="TEST"/>
+<EVENT end="1572" id="E67" modality="FACTUAL" polarity="POS" start="1564" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1597" id="E20" modality="FACTUAL" polarity="POS" start="1573" text="a dilated left ventricle" type="PROBLEM"/>
+<EVENT end="1658" id="E21" modality="FACTUAL" polarity="POS" start="1603" text="an area of anterolateral , apical , and septal akinesis" type="PROBLEM"/>
+<EVENT end="1699" id="E68" modality="FACTUAL" polarity="POS" start="1661" text="The left ventricular ejection fraction" type="TEST"/>
+<EVENT end="1713" id="E69" modality="FACTUAL" polarity="POS" start="1704" text="estimated" type="EVIDENTIAL"/>
+<EVENT end="1750" id="E70" modality="FACTUAL" polarity="POS" start="1739" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1798" id="E71" modality="FACTUAL" polarity="POS" start="1754" text="the Heaonboburg Linpack Grant Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1840" id="E72" modality="POSSIBLE" polarity="POS" start="1820" text="coronary angioplasty" type="TREATMENT"/>
+<EVENT end="1882" id="E22" modality="FACTUAL" polarity="POS" start="1866" text="Her risk factors" type="PROBLEM"/>
+<EVENT end="1910" id="E23" modality="FACTUAL" polarity="POS" start="1887" text="coronary artery disease" type="PROBLEM"/>
+<EVENT end="1945" id="E73" modality="FACTUAL" polarity="POS" start="1920" text="a positive family history" type="PROBLEM"/>
+<EVENT end="201" id="E41" modality="FACTUAL" polarity="POS" start="192" text="presented" type="OCCURRENCE"/>
+<EVENT end="1979" id="E24" modality="FACTUAL" polarity="POS" start="1950" text="an elevated cholesterol level" type="PROBLEM"/>
+<EVENT end="2024" id="E48" modality="FACTUAL" polarity="POS" start="2016" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2047" id="E74" modality="FACTUAL" polarity="POS" start="2028" text="the Medical Service" type="CLINICAL_DEPT"/>
+<EVENT end="240" id="E51" modality="FACTUAL" polarity="POS" start="205" text="the Gemenadentoolpai Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="2086" id="E75" modality="FACTUAL" polarity="POS" start="2066" text="seen in consultation" type="OCCURRENCE"/>
+<EVENT end="2114" id="E76" modality="FACTUAL" polarity="POS" start="2090" text="the Neurology Department" type="CLINICAL_DEPT"/>
+<EVENT end="2166" id="E25" modality="FACTUAL" polarity="POS" start="2141" text="Parkinson 's disease" type="PROBLEM"/>
+<EVENT end="2218" id="E26" modality="FACTUAL" polarity="POS" start="2199" text="intravenous heparin" type="TREATMENT"/>
+<EVENT end="2289" id="E77" modality="FACTUAL" polarity="POS" start="2251" text="the cardiac catheterization laboratory" type="CLINICAL_DEPT"/>
+<EVENT end="2397" id="E27" modality="FACTUAL" polarity="POS" start="2310" text="percutaneous transluminal coronary angioplasty of the proximal left anterior descending" type="TREATMENT"/>
+<EVENT end="2429" id="E28" modality="FACTUAL" polarity="POS" start="2410" text="balloon angioplasty" type="TREATMENT"/>
+<EVENT end="2460" id="E29" modality="FACTUAL" polarity="POS" start="2442" text="a local dissection" type="TREATMENT"/>
+<EVENT end="298" id="E2" modality="FACTUAL" polarity="POS" start="246" text="a revolving anterolateral wall myocardial infarction" type="PROBLEM"/>
+<EVENT end="2499" id="E30" modality="FACTUAL" polarity="POS" start="2478" text="intraluminal thrombus" type="PROBLEM"/>
+<EVENT end="2550" id="E31" modality="FACTUAL" polarity="POS" start="2507" text="a greater than 10% loss in the initial gain" type="PROBLEM"/>
+<EVENT end="2581" id="E32" modality="FACTUAL" polarity="POS" start="2561" text="coronary angioplasty" type="TREATMENT"/>
+<EVENT end="2628" id="E33" modality="FACTUAL" polarity="POS" start="2596" text="directional coronary atherectomy" type="TREATMENT"/>
+<EVENT end="35" id="E50" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2681" id="E78" modality="FACTUAL" polarity="POS" start="2648" text="an excellent angiographic outcome" type="OCCURRENCE"/>
+<EVENT end="2722" id="E34" modality="FACTUAL" polarity="POS" start="2688" text="a less than 10% residual narrowing" type="PROBLEM"/>
+<EVENT end="2746" id="E79" modality="FACTUAL" polarity="POS" start="2737" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="2760" id="E35" modality="FACTUAL" polarity="POS" start="2747" text="the procedure" type="TREATMENT"/>
+<EVENT end="2765" id="E80" modality="FACTUAL" polarity="POS" start="2761" text="well" type="OCCURRENCE"/>
+<EVENT end="2809" id="E36" modality="FACTUAL" polarity="POS" start="2790" text="intravenous heparin" type="TREATMENT"/>
+<EVENT end="2872" id="E81" modality="FACTUAL" polarity="POS" start="2834" text="the cardiac catheterization laboratory" type="CLINICAL_DEPT"/>
+<EVENT end="2918" id="E37" modality="FACTUAL" polarity="POS" start="2889" text="a relook coronary angiography" type="TEST"/>
+<EVENT end="2941" id="E38" modality="FACTUAL" polarity="POS" start="2921" text="Coronary angiography" type="TEST"/>
+<EVENT end="2954" id="E49" modality="FACTUAL" polarity="POS" start="2942" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="2970" id="E82" modality="FACTUAL" polarity="POS" start="2955" text="ongoing benefit" type="OCCURRENCE"/>
+<EVENT end="3006" id="E39" modality="FACTUAL" polarity="POS" start="2974" text="the initial coronary atherectomy" type="TREATMENT"/>
+<EVENT end="3045" id="E83" modality="FACTUAL" polarity="NEG" start="3037" text="decrease" type="PROBLEM"/>
+<EVENT end="3065" id="E84" modality="FACTUAL" polarity="POS" start="3049" text="the initial gain" type="OCCURRENCE"/>
+<EVENT end="3113" id="E40" modality="FACTUAL" polarity="POS" start="3090" text="directional atherectomy" type="TREATMENT"/>
+<EVENT end="3143" id="E85" modality="FACTUAL" polarity="POS" start="3128" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="3182" id="E86" modality="FACTUAL" polarity="POS" start="3151" text="the rest of the hospitalization" type="OCCURRENCE"/>
+<EVENT end="3204" id="E87" modality="FACTUAL" polarity="POS" start="3193" text="transferred" type="OCCURRENCE"/>
+<EVENT end="3224" id="E88" modality="FACTUAL" polarity="POS" start="3208" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="3236" id="E89" modality="FACTUAL" polarity="POS" start="3228" text="the Pasi" type="CLINICAL_DEPT"/>
+<EVENT end="3271" id="E90" modality="FACTUAL" polarity="POS" start="3241" text="further rehabilitation therapy" type="TREATMENT"/>
+<EVENT end="340" id="E52" modality="FACTUAL" polarity="POS" start="332" text="the care" type="TREATMENT"/>
+<EVENT end="376" id="E42" modality="FACTUAL" polarity="POS" start="368" text="referred" type="OCCURRENCE"/>
+<EVENT end="381" id="E53" modality="FACTUAL" polarity="POS" start="377" text="here" type="CLINICAL_DEPT"/>
+<EVENT end="401" id="E54" modality="FACTUAL" polarity="POS" start="386" text="further therapy" type="TREATMENT"/>
+<EVENT end="448" id="E55" modality="FACTUAL" polarity="NEG" start="415" text="prior significant cardiac history" type="OCCURRENCE"/>
+<EVENT end="462" id="E43" modality="FACTUAL" polarity="POS" start="453" text="presented" type="OCCURRENCE"/>
+<EVENT end="505" id="E56" modality="FACTUAL" polarity="POS" start="466" text="her local medical doctor 's office" type="CLINICAL_DEPT"/>
+<EVENT end="555" id="E3" modality="FACTUAL" polarity="POS" start="525" text="severe retrosternal chest pain" type="PROBLEM"/>
+<EVENT end="579" id="E4" modality="FACTUAL" polarity="POS" start="558" text="Her electrocardiogram" type="TEST"/>
+<EVENT end="586" id="E44" modality="FACTUAL" polarity="POS" start="580" text="showed" type="EVIDENTIAL"/>
+<EVENT end="618" id="E57" modality="FACTUAL" polarity="POS" start="587" text="a new right bundle branch block" type="PROBLEM"/>
+<EVENT end="646" id="E5" modality="FACTUAL" polarity="POS" start="623" text="left anterior hemiblock" type="PROBLEM"/>
+<EVENT end="676" id="E45" modality="FACTUAL" polarity="POS" start="665" text="transferred" type="OCCURRENCE"/>
+<EVENT end="715" id="E46" modality="FACTUAL" polarity="POS" start="680" text="the Gemenadentoolpai Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="732" id="E47" modality="FACTUAL" polarity="POS" start="724" text="admitted" type="OCCURRENCE"/>
+<EVENT end="754" id="E6" modality="FACTUAL" polarity="POS" start="735" text="Her hospital course" type="OCCURRENCE"/>
+<EVENT end="811" id="E7" modality="FACTUAL" polarity="POS" start="788" text="a myocardial infarction" type="PROBLEM"/>
+<EVENT end="827" id="E8" modality="FACTUAL" polarity="POS" start="817" text="a peak CPK" type="TEST"/>
+<EVENT end="866" id="E58" modality="FACTUAL" polarity="POS" start="855" text="MB fraction" type="TEST"/>
+<EVENT end="895" id="E9" modality="FACTUAL" polarity="POS" start="886" text="telemetry" type="TEST"/>
+<EVENT end="909" id="E59" modality="FACTUAL" polarity="POS" start="900" text="developed" type="OCCURRENCE"/>
+<EVENT end="930" id="E10" modality="FACTUAL" polarity="POS" start="910" text="complete heart block" type="PROBLEM"/>
+<EVENT end="946" id="E11" modality="FACTUAL" polarity="POS" start="935" text="hypotension" type="PROBLEM"/>
+<EVENT end="978" id="E12" modality="FACTUAL" polarity="POS" start="957" text="temporary pacing wire" type="TREATMENT"/>
+<EVENT end="1022" id="E60" modality="FACTUAL" polarity="POS" start="988" text="a permanent pacemaker implantation" type="TREATMENT"/>
+<ATIMEX3 end="1034" id="T5" mod="NA" start="1026" text="08-03-93" type="DATE" val="1993-08-03"/>
+<ATIMEX3 end="1155" id="T6" mod="NA" start="1148" text="8-15-93" type="DATE" val="1993-08-15"/>
+
+<ATIMEX3 end="25" id="T1" mod="NA" start="18" text="8-15-93" type="DATE" val="1993-08-15"/>
+<ATIMEX3 end="2231" id="T7" mod="NA" start="2224" text="8-17-93" type="DATE" val="1993-08-17"/>
+<ATIMEX3 end="2884" id="T8" mod="NA" start="2876" text="08-18-93" type="DATE" val="1993-08-18"/>
+<ATIMEX3 end="310" id="T4" mod="NA" start="302" text="08-01-93" type="DATE" val="1993-08-01"/>
+<ATIMEX3 end="51" id="T2" mod="NA" start="43" text="08-22-93" type="DATE" val="1993-08-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1993-8-15" end="25" id="S0" start="18" text="8-15-93" type="ADMISSION"/>
+<SECTIME dvalue="1993-08-22" end="52" id="S1" start="44" text="08-22-93" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

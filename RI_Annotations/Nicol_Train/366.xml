@@ -1,0 +1,50 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+01/11/1996
+Discharge Date :
+01/19/1996
+HISTORY OF PRESENT ILLNESS :
+Ms. Less is a 79 year old white female with history of non small cell lung cancer diagnosed in 02/95 .
+She underwent a resection for stage I in 10/95 and treated with XRT .
+She presented to the hospital with a numb right leg this morning and underwent an emergent embolectomy .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="167" id="E1" modality="FACTUAL" polarity="POS" start="141" text="non small cell lung cancer" type="PROBLEM"/>
+<EVENT end="214" id="E2" modality="FACTUAL" polarity="POS" start="203" text="a resection" type="TREATMENT"/>
+<EVENT end="226" id="E6" modality="FACTUAL" polarity="POS" start="219" text="stage I" type="PROBLEM"/>
+<EVENT end="256" id="E3" modality="FACTUAL" polarity="POS" start="253" text="XRT" type="TREATMENT"/>
+<EVENT end="272" id="E4" modality="FACTUAL" polarity="POS" start="263" text="presented" type="OCCURRENCE"/>
+<EVENT end="288" id="E7" modality="FACTUAL" polarity="POS" start="276" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="38" id="E5" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="310" id="E8" modality="FACTUAL" polarity="POS" start="294" text="a numb right leg" type="PROBLEM"/>
+<EVENT end="361" id="E9" modality="FACTUAL" polarity="POS" start="338" text="an emergent embolectomy" type="TREATMENT"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="01/11/1996" type="DATE" val="1996-01-11"/>
+<ATIMEX3 end="186" id="T3" mod="NA" start="181" text="02/95" type="DATE" val="1995-02"/>
+<ATIMEX3 end="235" id="T0" mod="NA" start="230" text="10/95" type="DATE" val="1995-10"/>
+<RTIMEX3 end="323" id="T4" mod="START" start="311" text="this morning" type="DATE" val="1996-01-11"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="01/19/1996" type="DATE" val="1996-01-19"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1996-01-11" end="28" id="S0" start="18" text="01/11/1996" type="ADMISSION"/>
+<SECTIME dvalue="1996-01-19" end="56" id="S1" start="46" text="01/19/1996" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

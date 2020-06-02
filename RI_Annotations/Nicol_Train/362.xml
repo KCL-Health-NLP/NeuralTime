@@ -1,0 +1,170 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2017-05-08
+Discharge Date :
+2017-05-16
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o worsening chest pain and shortness of breath .
+He had an echocardiogram which showed an EF 40-45% and severe aortic stenosis .
+He underwent cardiac catheterization which showed an 80% LAD lesion , chronically occluded RCA , anneurysmal mid LCX w/50% lesion .
+He was refered to Dr. Barber for surgical treatment .
+Brief Hospital Course :
+Mr. Williams was admitted to Hallmark Health System on 05-08 and taken to the operating room with Dr. Barber for a CABGx2 and AVR w/ 25 mm pericardial valve .
+Please see operative note for full details .
+He was transfered to the ICU in stable condition .
+He was weaned and extubated from mechanical ventillation on POD#1 without difficulty .
+He was transfered to the regular part of the hospital on POD#2 , where he began working with physical therapy .
+He developed atrial fibrillation on POD#2 with well controlled rate and hemodynamically stable .
+He was started on heparin and coumadin for anticoagulation on POD#5 .
+On POD#7 he was cleared for discharge to home by physical therapy and on POD#8 he was discharged .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1054" id="E37" modality="FACTUAL" polarity="POS" start="1034" text="well controlled rate" type="OCCURRENCE"/>
+<EVENT end="1081" id="E38" modality="FACTUAL" polarity="POS" start="1059" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1109" id="E13" modality="FACTUAL" polarity="POS" start="1102" text="heparin" type="TREATMENT"/>
+<EVENT end="1122" id="E14" modality="FACTUAL" polarity="POS" start="1114" text="coumadin" type="TREATMENT"/>
+<EVENT end="1142" id="E15" modality="FACTUAL" polarity="POS" start="1127" text="anticoagulation" type="TREATMENT"/>
+<EVENT end="1177" id="E39" modality="FACTUAL" polarity="POS" start="1170" text="cleared" type="OCCURRENCE"/>
+<EVENT end="1191" id="E40" modality="FACTUAL" polarity="POS" start="1182" text="discharge" type="OCCURRENCE"/>
+<EVENT end="1250" id="E18" modality="FACTUAL" polarity="POS" start="1240" text="discharged" type="OCCURRENCE"/>
+<EVENT end="177" id="E1" modality="FACTUAL" polarity="POS" start="154" text="a known cardiac history" type="PROBLEM"/>
+<EVENT end="216" id="E20" modality="FACTUAL" polarity="POS" start="196" text="worsening chest pain" type="PROBLEM"/>
+<EVENT end="240" id="E21" modality="FACTUAL" polarity="POS" start="221" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="267" id="E2" modality="FACTUAL" polarity="POS" start="250" text="an echocardiogram" type="TEST"/>
+<EVENT end="280" id="E22" modality="FACTUAL" polarity="POS" start="274" text="showed" type="EVIDENTIAL"/>
+<EVENT end="286" id="E3" modality="FACTUAL" polarity="POS" start="281" text="an EF" type="TEST"/>
+<EVENT end="38" id="E19" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="320" id="E4" modality="FACTUAL" polarity="POS" start="298" text="severe aortic stenosis" type="PROBLEM"/>
+<EVENT end="359" id="E5" modality="FACTUAL" polarity="POS" start="336" text="cardiac catheterization" type="TEST"/>
+<EVENT end="372" id="E23" modality="FACTUAL" polarity="POS" start="366" text="showed" type="EVIDENTIAL"/>
+<EVENT end="390" id="E6" modality="FACTUAL" polarity="POS" start="373" text="an 80% LAD lesion" type="PROBLEM"/>
+<EVENT end="417" id="E24" modality="FACTUAL" polarity="POS" start="393" text="chronically occluded RCA" type="PROBLEM"/>
+<EVENT end="439" id="E25" modality="FACTUAL" polarity="POS" start="420" text="anneurysmal mid LCX" type="PROBLEM"/>
+<EVENT end="452" id="E26" modality="FACTUAL" polarity="POS" start="440" text="w/50% lesion" type="PROBLEM"/>
+<EVENT end="506" id="E27" modality="PROPOSED" polarity="POS" start="488" text="surgical treatment" type="TREATMENT"/>
+<EVENT end="558" id="E16" modality="FACTUAL" polarity="POS" start="550" text="admitted" type="OCCURRENCE"/>
+<EVENT end="584" id="E28" modality="FACTUAL" polarity="POS" start="562" text="Hallmark Health System" type="CLINICAL_DEPT"/>
+<EVENT end="625" id="E29" modality="FACTUAL" polarity="POS" start="607" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="654" id="E7" modality="FACTUAL" polarity="POS" start="646" text="a CABGx2" type="TREATMENT"/>
+<EVENT end="662" id="E8" modality="FACTUAL" polarity="POS" start="659" text="AVR" type="TREATMENT"/>
+<EVENT end="689" id="E9" modality="FACTUAL" polarity="POS" start="666" text="25 mm pericardial valve" type="TREATMENT"/>
+<EVENT end="754" id="E30" modality="FACTUAL" polarity="POS" start="744" text="transfered" type="OCCURRENCE"/>
+<EVENT end="765" id="E31" modality="FACTUAL" polarity="POS" start="758" text="the ICU" type="CLINICAL_DEPT"/>
+<EVENT end="785" id="E32" modality="FACTUAL" polarity="POS" start="769" text="stable condition" type="OCCURRENCE"/>
+<EVENT end="801" id="E33" modality="FACTUAL" polarity="POS" start="795" text="weaned" type="TREATMENT"/>
+<EVENT end="815" id="E34" modality="FACTUAL" polarity="POS" start="806" text="extubated" type="TREATMENT"/>
+<EVENT end="844" id="E10" modality="FACTUAL" polarity="POS" start="821" text="mechanical ventillation" type="TREATMENT"/>
+<EVENT end="872" id="E11" modality="FACTUAL" polarity="NEG" start="862" text="difficulty" type="PROBLEM"/>
+<EVENT end="892" id="E17" modality="FACTUAL" polarity="POS" start="882" text="transfered" type="OCCURRENCE"/>
+<EVENT end="928" id="E35" modality="FACTUAL" polarity="POS" start="896" text="the regular part of the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="984" id="E36" modality="FACTUAL" polarity="POS" start="968" text="physical therapy" type="CLINICAL_DEPT"/>
+<EVENT end="1019" id="E12" modality="FACTUAL" polarity="POS" start="1000" text="atrial fibrillation" type="PROBLEM"/>
+<RTIMEX3 end="1028" id="T8" mod="NA" start="1023" text="POD#2" type="DATE" val="2017-08-10"/>
+<RTIMEX3 end="1151" id="T5" mod="NA" start="1146" text="POD#5" type="DATE" val="2017-05-13"/>
+<RTIMEX3 end="1162" id="T9" mod="NA" start="1157" text="POD#7" type="DATE" val="2017-05-15"/>
+<RTIMEX3 end="1232" id="T6" mod="NA" start="1227" text="POD#8" type="DATE" val="2017-05-16"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2017-05-08" type="DATE" val="2017-05-08"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2017-05-16" type="DATE" val="2017-05-16"/>
+<ATIMEX3 end="593" id="T3" mod="NA" start="588" text="05-08" type="DATE" val="2017-05-08"/>
+<RTIMEX3 end="853" id="T0" mod="NA" start="848" text="POD#1" type="DATE" val="2017-05-09"/>
+<RTIMEX3 end="937" id="T4" mod="NA" start="932" text="POD#2" type="DATE" val="2017-05-10"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2017-05-08" end="28" id="S0" start="18" text="2017-05-08" type="ADMISSION"/>
+<SECTIME dvalue="2017-05-16" end="56" id="S1" start="46" text="2017-05-16" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

@@ -1,0 +1,440 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2012-05-08
+Discharge Date :
+2012-05-18
+Service :
+Neonatology
+HISTORY :
+Baby Barbara Stead is a term infant admitted with increasing head circumference and bruising .
+He was born to a 31-year-old G1 P0 now 1 mother with unremarkable prenatal screens as follows :
+O positive , antibody negative , hepatitis B surface antigen negative , RPR nonreactive , rubella immune
+PREGNANCY HISTORY :
+Estimated date of delivery was 2012-05-14 for estimated gestational age of 39-1/7 weeks .
+Pregnancy was complicated by oligohydramnios with an AFI of 3.5 and by multiple evaluations for decreased fetal movement .
+There was spontaneous onset of labor progressing through vacuum assisted vaginal delivery under epidural anesthesia .
+clear amniotic fluid , no antepartum maternal fever or fetal tachycardia , no antepartum antibiotic prophylaxis .
+Baby was vigorous at delivery , was bulb suction , dried , and had free flow oxygen administered briefly .
+Apgars were nine and nine .
+In the Newborn Nursery , he initially had a caput which increased in the amount of swelling and bruising in the subsequent 24 hours .
+He was then referred to the CMED CCU for assessment and management of the increased bleeding .
+SUMMARY OF HOSPITAL COURSE BY SYSTEMS :
+1. Respiratory :
+Patient has been on room air maintaining sats above 95% .
+No apnea or bradycardia .
+2. Cardiovascular :
+There was an initial murmur on admission likely secondary to severe anemia which has since resolved .
+He remained hemodynamically stable throughout this admission .
+3. FEN :
+Patient was restarted on po feeds as of day of life three after the bleeding had stabilized .
+He has been taking breast milk or Enfamil 20 po adlib .
+His admission weight was 3850 grams .
+His weight on discharge was 4055 .
+4. GI :
+Given the significant amount of bleeding , baby was started prophylactically on phototherapy .
+His bilirubin peaked on day of life three at 5.4 with a subsequent bilirubin of 4.6 at which time phototherapy was discontinued .
+5. Hematology :
+Given the rapid extension of the subgaleal bleed , coagulopathy workup was initiated revealing an elevated PTT level of 77 as well as factor 8 level that was below detection in the presence of normal factors 5 , 9 , 10 , and 11 .
+He was started on a 50 units / kg bolus of factor 8 followed by continuous factor 8 infusions at 50 units / kg / day divided until hourly infusion rates at 05-10 .
+Subsequent factor 8 levels varied with an initial factor 8 level of 18 after the bolus with which he received another bolus of factor 8 of 50 units / kg and increased factor 8 infusion rate to 65 units / kg / day .
+As of 05-17 , he was switched over to bolus infusion in preparation of continued home factor 8 administration .
+His peak level after a bolus of 75 units / kg of factor 8 was 131 .
+A trough level at 20 hours after the bolus on day of discharge was 29 .
+He will continue to receive factor 8 bolus q day for a total of 2-3 weeks in light of the intracranial hemorrhage , and will be followed by Hematology visiting nurse Michael Edwards level checks at home .
+Currently , the infusion of factor 8 are going through a jugular Broviac which was placed on 05-15 for administration of factor .
+His last PTT on 05-16 was 68.3 .
+The last hematocrit was on 05-16 of 54.5 .
+6. Neurology :
+Baby Mary Stead initially presented with significant subgaleal bleed as well as a small subdural hemorrhage .
+A repeat head CT scan on 05-15 had shown the resolution of the subdural hematoma and significant improvement of the subgaleal bleed .
+His head ultrasound on 05-14 reveals no interventricular hemorrhage .
+He had remained neurologically stable .
+His head circumference on 05-18 was 36.5 cm with a maximum head circumference on
+admission of 40.5 cm .
+7. Social :
+Both parents are very involved in the care of Baby Norman Stead .
+They have been informed up to date on his needs , discharge from the hospital .
+Teaching has been completed on the care of the Boviak as well as administration of factor 8 .
+8. Sensory :
+Audiology :
+Hearing screen was performed automated auditory brain stem responses and Baby David Stead
+passed bilaterally .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1034" id="E34" modality="FACTUAL" polarity="POS" start="1027" text="a caput" type="PROBLEM"/>
+<EVENT end="1050" id="E37" modality="FACTUAL" polarity="POS" start="1041" text="increased" type="OCCURRENCE"/>
+<EVENT end="1076" id="E35" modality="FACTUAL" polarity="POS" start="1068" text="swelling" type="PROBLEM"/>
+<EVENT end="1089" id="E36" modality="FACTUAL" polarity="POS" start="1081" text="bruising" type="PROBLEM"/>
+<EVENT end="1155" id="E38" modality="FACTUAL" polarity="POS" start="1143" text="the CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="1170" id="E39" modality="FACTUAL" polarity="POS" start="1160" text="assessment" type="TEST"/>
+<EVENT end="1185" id="E40" modality="FACTUAL" polarity="POS" start="1175" text="management" type="TREATMENT"/>
+<EVENT end="1211" id="E41" modality="FACTUAL" polarity="POS" start="1189" text="the increased bleeding" type="PROBLEM"/>
+<EVENT end="133" id="E2" modality="FACTUAL" polarity="POS" start="125" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1299" id="E42" modality="FACTUAL" polarity="POS" start="1291" text="room air" type="OCCURRENCE"/>
+<EVENT end="1316" id="E43" modality="FACTUAL" polarity="POS" start="1312" text="sats" type="TEST"/>
+<EVENT end="1337" id="E44" modality="FACTUAL" polarity="NEG" start="1332" text="apnea" type="PROBLEM"/>
+<EVENT end="1352" id="E45" modality="FACTUAL" polarity="NEG" start="1341" text="bradycardia" type="PROBLEM"/>
+<EVENT end="1402" id="E46" modality="FACTUAL" polarity="POS" start="1385" text="an initial murmur" type="PROBLEM"/>
+<EVENT end="1415" id="E47" modality="FACTUAL" polarity="POS" start="1406" text="admission" type="OCCURRENCE"/>
+<EVENT end="168" id="E3" modality="FACTUAL" polarity="POS" start="139" text="increasing head circumference" type="PROBLEM"/>
+<EVENT end="1449" id="E48" modality="FACTUAL" polarity="POS" start="1436" text="severe anemia" type="PROBLEM"/>
+<EVENT end="1511" id="E49" modality="FACTUAL" polarity="POS" start="1489" text="hemodynamically stable" type="OCCURRENCE"/>
+<EVENT end="1537" id="E50" modality="FACTUAL" polarity="POS" start="1523" text="this admission" type="OCCURRENCE"/>
+<EVENT end="1582" id="E51" modality="FACTUAL" polarity="POS" start="1574" text="po feeds" type="OCCURRENCE"/>
+<EVENT end="1625" id="E52" modality="FACTUAL" polarity="POS" start="1613" text="the bleeding" type="PROBLEM"/>
+<EVENT end="1640" id="E53" modality="FACTUAL" polarity="POS" start="1630" text="stabilized" type="OCCURRENCE"/>
+<EVENT end="1673" id="E54" modality="FACTUAL" polarity="POS" start="1662" text="breast milk" type="OCCURRENCE"/>
+<EVENT end="1684" id="E55" modality="FACTUAL" polarity="POS" start="1677" text="Enfamil" type="TREATMENT"/>
+<EVENT end="1719" id="E56" modality="FACTUAL" polarity="POS" start="1699" text="His admission weight" type="TEST"/>
+<EVENT end="1760" id="E57" modality="FACTUAL" polarity="POS" start="1737" text="His weight on discharge" type="TEST"/>
+<EVENT end="181" id="E4" modality="FACTUAL" polarity="POS" start="173" text="bruising" type="PROBLEM"/>
+<EVENT end="1820" id="E58" modality="FACTUAL" polarity="POS" start="1812" text="bleeding" type="PROBLEM"/>
+<EVENT end="1872" id="E59" modality="FACTUAL" polarity="POS" start="1860" text="phototherapy" type="TREATMENT"/>
+<EVENT end="1888" id="E60" modality="FACTUAL" polarity="POS" start="1875" text="His bilirubin" type="TEST"/>
+<EVENT end="1895" id="E115" modality="FACTUAL" polarity="POS" start="1889" text="peaked" type="OCCURRENCE"/>
+<EVENT end="195" id="E5" modality="FACTUAL" polarity="POS" start="191" text="born" type="OCCURRENCE"/>
+<EVENT end="1951" id="E61" modality="FACTUAL" polarity="POS" start="1929" text="a subsequent bilirubin" type="TEST"/>
+<EVENT end="1985" id="E62" modality="FACTUAL" polarity="POS" start="1973" text="phototherapy" type="TREATMENT"/>
+<EVENT end="2069" id="E63" modality="FACTUAL" polarity="POS" start="2050" text="the subgaleal bleed" type="PROBLEM"/>
+<EVENT end="2091" id="E64" modality="FACTUAL" polarity="POS" start="2072" text="coagulopathy workup" type="TEST"/>
+<EVENT end="2115" id="E65" modality="FACTUAL" polarity="POS" start="2106" text="revealing" type="EVIDENTIAL"/>
+<EVENT end="2137" id="E66" modality="FACTUAL" polarity="POS" start="2116" text="an elevated PTT level" type="PROBLEM"/>
+<EVENT end="2169" id="E67" modality="FACTUAL" polarity="POS" start="2155" text="factor 8 level" type="TEST"/>
+<EVENT end="2248" id="E68" modality="FACTUAL" polarity="POS" start="2214" text="normal factors 5 , 9 , 10 , and 11" type="TEST"/>
+<EVENT end="2302" id="E69" modality="FACTUAL" polarity="POS" start="2269" text="a 50 units / kg bolus of factor 8" type="TREATMENT"/>
+<EVENT end="2344" id="E70" modality="FACTUAL" polarity="POS" start="2315" text="continuous factor 8 infusions" type="TREATMENT"/>
+<EVENT end="2441" id="E71" modality="FACTUAL" polarity="POS" start="2415" text="Subsequent factor 8 levels" type="TEST"/>
+<EVENT end="2479" id="E72" modality="FACTUAL" polarity="POS" start="2454" text="an initial factor 8 level" type="TEST"/>
+<EVENT end="2501" id="E73" modality="FACTUAL" polarity="POS" start="2492" text="the bolus" type="TREATMENT"/>
+<EVENT end="266" id="E6" modality="FACTUAL" polarity="POS" start="250" text="prenatal screens" type="TEST"/>
+<EVENT end="2550" id="E74" modality="FACTUAL" polarity="POS" start="2533" text="bolus of factor 8" type="TREATMENT"/>
+<EVENT end="2604" id="E75" modality="FACTUAL" polarity="POS" start="2572" text="increased factor 8 infusion rate" type="TREATMENT"/>
+<EVENT end="2682" id="E76" modality="FACTUAL" polarity="POS" start="2668" text="bolus infusion" type="TREATMENT"/>
+<EVENT end="2739" id="E77" modality="FACTUAL" polarity="POS" start="2701" text="continued home factor 8 administration" type="TREATMENT"/>
+<EVENT end="2756" id="E78" modality="FACTUAL" polarity="POS" start="2742" text="His peak level" type="TEST"/>
+<EVENT end="2799" id="E79" modality="FACTUAL" polarity="POS" start="2791" text="factor 8" type="TREATMENT"/>
+<EVENT end="2824" id="E80" modality="FACTUAL" polarity="POS" start="2810" text="A trough level" type="TEST"/>
+<EVENT end="290" id="E7" modality="FACTUAL" polarity="POS" start="280" text="O positive" type="TEST"/>
+<EVENT end="2852" id="E81" modality="FACTUAL" polarity="POS" start="2843" text="the bolus" type="TREATMENT"/>
+<EVENT end="2872" id="E82" modality="FACTUAL" polarity="POS" start="2863" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2924" id="E83" modality="FACTUAL" polarity="POS" start="2910" text="factor 8 bolus" type="TREATMENT"/>
+<EVENT end="301" id="E8" modality="FACTUAL" polarity="NEG" start="293" text="antibody" type="TEST"/>
+<EVENT end="2995" id="E84" modality="FACTUAL" polarity="POS" start="2968" text="the intracranial hemorrhage" type="PROBLEM"/>
+<EVENT end="3047" id="E85" modality="POSSIBLE" polarity="POS" start="3022" text="Hematology visiting nurse" type="CLINICAL_DEPT"/>
+<EVENT end="3076" id="E86" modality="FACTUAL" polarity="POS" start="3064" text="level checks" type="TEST"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="3123" id="E88" modality="FACTUAL" polarity="POS" start="3115" text="factor 8" type="TREATMENT"/>
+<EVENT end="3159" id="E89" modality="FACTUAL" polarity="POS" start="3142" text="a jugular Broviac" type="TREATMENT"/>
+<EVENT end="340" id="E9" modality="FACTUAL" polarity="POS" start="313" text="hepatitis B surface antigen" type="TEST"/>
+<EVENT end="3214" id="E90" modality="FACTUAL" polarity="POS" start="3208" text="factor" type="TREATMENT"/>
+<EVENT end="3229" id="E91" modality="FACTUAL" polarity="POS" start="3217" text="His last PTT" type="TEST"/>
+<EVENT end="3269" id="E92" modality="FACTUAL" polarity="POS" start="3250" text="The last hematocrit" type="TEST"/>
+<EVENT end="3343" id="E93" modality="FACTUAL" polarity="POS" start="3334" text="presented" type="OCCURRENCE"/>
+<EVENT end="3376" id="E94" modality="FACTUAL" polarity="POS" start="3349" text="significant subgaleal bleed" type="PROBLEM"/>
+<EVENT end="3415" id="E95" modality="FACTUAL" polarity="POS" start="3388" text="a small subdural hemorrhage" type="PROBLEM"/>
+<EVENT end="3439" id="E96" modality="FACTUAL" polarity="POS" start="3418" text="A repeat head CT scan" type="TEST"/>
+<EVENT end="3458" id="E97" modality="FACTUAL" polarity="POS" start="3453" text="shown" type="EVIDENTIAL"/>
+<EVENT end="3498" id="E98" modality="FACTUAL" polarity="POS" start="3477" text="the subdural hematoma" type="PROBLEM"/>
+<EVENT end="3549" id="E99" modality="FACTUAL" polarity="POS" start="3530" text="the subgaleal bleed" type="PROBLEM"/>
+<EVENT end="355" id="E10" modality="FACTUAL" polarity="POS" start="352" text="RPR" type="TEST"/>
+<EVENT end="3571" id="E100" modality="FACTUAL" polarity="POS" start="3552" text="His head ultrasound" type="TEST"/>
+<EVENT end="3588" id="E114" modality="FACTUAL" polarity="POS" start="3581" text="reveals" type="EVIDENTIAL"/>
+<EVENT end="3619" id="E102" modality="FACTUAL" polarity="NEG" start="3592" text="interventricular hemorrhage" type="PROBLEM"/>
+<EVENT end="3659" id="E103" modality="FACTUAL" polarity="POS" start="3638" text="neurologically stable" type="OCCURRENCE"/>
+<EVENT end="3684" id="E104" modality="FACTUAL" polarity="POS" start="3662" text="His head circumference" type="TEST"/>
+<EVENT end="3739" id="E105" modality="FACTUAL" polarity="POS" start="3711" text="a maximum head circumference" type="TEST"/>
+<EVENT end="384" id="E11" modality="FACTUAL" polarity="POS" start="370" text="rubella immune" type="TEST"/>
+<EVENT end="3752" id="E106" modality="FACTUAL" polarity="POS" start="3743" text="admission" type="OCCURRENCE"/>
+<EVENT end="3903" id="E107" modality="FACTUAL" polarity="POS" start="3894" text="discharge" type="OCCURRENCE"/>
+<EVENT end="3921" id="E108" modality="FACTUAL" polarity="POS" start="3909" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="3932" id="E109" modality="FACTUAL" polarity="POS" start="3924" text="Teaching" type="OCCURRENCE"/>
+<EVENT end="3977" id="E110" modality="FACTUAL" polarity="POS" start="3967" text="the Boviak" type="TREATMENT"/>
+<EVENT end="4015" id="E111" modality="FACTUAL" polarity="POS" start="4007" text="factor 8" type="TREATMENT"/>
+<EVENT end="4057" id="E112" modality="FACTUAL" polarity="POS" start="4043" text="Hearing screen" type="TEST"/>
+<EVENT end="431" id="E12" modality="FACTUAL" polarity="POS" start="405" text="Estimated date of delivery" type="OCCURRENCE"/>
+<EVENT end="4111" id="E113" modality="FACTUAL" polarity="POS" start="4072" text="automated auditory brain stem responses" type="OCCURRENCE"/>
+<EVENT end="476" id="E14" modality="FACTUAL" polarity="POS" start="451" text="estimated gestational age" type="OCCURRENCE"/>
+<EVENT end="504" id="E15" modality="FACTUAL" polarity="POS" start="495" text="Pregnancy" type="OCCURRENCE"/>
+<EVENT end="539" id="E16" modality="FACTUAL" polarity="POS" start="524" text="oligohydramnios" type="PROBLEM"/>
+<EVENT end="551" id="E17" modality="FACTUAL" polarity="POS" start="545" text="an AFI" type="TEST"/>
+<EVENT end="586" id="E18" modality="FACTUAL" polarity="POS" start="566" text="multiple evaluations" type="TEST"/>
+<EVENT end="615" id="E19" modality="FACTUAL" polarity="POS" start="591" text="decreased fetal movement" type="PROBLEM"/>
+<EVENT end="654" id="E20" modality="FACTUAL" polarity="POS" start="628" text="spontaneous onset of labor" type="OCCURRENCE"/>
+<EVENT end="707" id="E21" modality="FACTUAL" polarity="POS" start="675" text="vacuum assisted vaginal delivery" type="TREATMENT"/>
+<EVENT end="733" id="E22" modality="FACTUAL" polarity="POS" start="714" text="epidural anesthesia" type="TREATMENT"/>
+<EVENT end="756" id="E23" modality="FACTUAL" polarity="POS" start="736" text="clear amniotic fluid" type="OCCURRENCE"/>
+<EVENT end="787" id="E24" modality="FACTUAL" polarity="NEG" start="762" text="antepartum maternal fever" type="PROBLEM"/>
+<EVENT end="808" id="E25" modality="FACTUAL" polarity="NEG" start="791" text="fetal tachycardia" type="PROBLEM"/>
+<EVENT end="847" id="E26" modality="FACTUAL" polarity="NEG" start="814" text="antepartum antibiotic prophylaxis" type="TREATMENT"/>
+<EVENT end="867" id="E27" modality="FACTUAL" polarity="POS" start="859" text="vigorous" type="OCCURRENCE"/>
+<EVENT end="879" id="E28" modality="FACTUAL" polarity="POS" start="871" text="delivery" type="OCCURRENCE"/>
+<EVENT end="898" id="E29" modality="FACTUAL" polarity="POS" start="886" text="bulb suction" type="TREATMENT"/>
+<EVENT end="906" id="E30" modality="FACTUAL" polarity="POS" start="901" text="dried" type="TREATMENT"/>
+<EVENT end="933" id="E31" modality="FACTUAL" polarity="POS" start="917" text="free flow oxygen" type="TREATMENT"/>
+<EVENT end="963" id="E32" modality="FACTUAL" polarity="POS" start="957" text="Apgars" type="TEST"/>
+<EVENT end="1007" id="E33" modality="FACTUAL" polarity="POS" start="988" text="the Newborn Nursery" type="CLINICAL_DEPT"/>
+
+<RTIMEX3 end="1606" id="T5" mod="NA" start="1589" text="day of life three" type="DATE" val="2012-05-10"/>
+
+<RTIMEX3 end="1916" id="T7" mod="NA" start="1899" text="day of life three" type="DATE" val="2012-05-10"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2012-05-08" type="DATE" val="2012-05-08"/>
+<ATIMEX3 end="2412" id="T18" mod="NA" start="2407" text="05-10" type="DATE" val="2012-05-10"/>
+<ATIMEX3 end="2641" id="T8" mod="NA" start="2636" text="05-17" type="DATE" val="2012-05-17"/>
+
+<RTIMEX3 end="2859" id="T9" mod="NA" start="2856" text="day" type="DATE" val="2012-05-18"/>
+
+
+<ATIMEX3 end="3185" id="T17" mod="NA" start="3180" text="05-15" type="DATE" val="2012-05-15"/>
+<ATIMEX3 end="3238" id="T12" mod="NA" start="3233" text="05-16" type="DATE" val="2012-05-16"/>
+<ATIMEX3 end="3282" id="T13" mod="NA" start="3277" text="05-16" type="DATE" val="2012-05-16"/>
+<ATIMEX3 end="3448" id="T14" mod="NA" start="3443" text="05-15" type="DATE" val="2012-05-15"/>
+<ATIMEX3 end="3580" id="T15" mod="NA" start="3575" text="05-14" type="DATE" val="2012-05-14"/>
+<ATIMEX3 end="3693" id="T16" mod="NA" start="3688" text="05-18" type="DATE" val="2012-05-18"/>
+<ATIMEX3 end="446" id="T2" mod="NA" start="436" text="2012-05-14" type="DATE" val="2012-05-14"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2012-05-18" type="DATE" val="2012-05-18"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2012-05-08" end="28" id="S0" start="18" text="2012-05-08" type="ADMISSION"/>
+<SECTIME dvalue="2012-05-18" end="56" id="S1" start="46" text="2012-05-18" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

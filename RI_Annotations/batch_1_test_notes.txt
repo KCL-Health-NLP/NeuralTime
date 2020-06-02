@@ -1,0 +1,37 @@
+Review of diffferences : nicol vs louise vs previous annotations on batch 1 of test docs 
+
+312.xml : everybody agrees
+
+293.xml : disagreement between N and L on the operation date : there are two operations ...
+The "gs" : rather agrees with Nicol, this is probably an error on my end ? (but I would have anchored "POD1" wth the date of the first operation anyway ... )
+but also they do not always anchor the pod to the operation date bc it is not always part of the 4 possibilities that they have 
+Also : when there is an equal possibility, should we still anchor it to the operation date ? NO 
+
+361.xml : agreement L&N
+gs : super weird 
+
+277.xml : no problem, well done for anchoring the times ! 
+
+652.xml : no problem
+
+441.xml : no problem
+
+232.xml : i supposed error on nicol's part for the first expression "the night" = not the night of the admission, but after closely inspecting : there are two admission dates ... 
+Also N did not anchor the relative times
+
+78.xml : "the end of October" -> EXT 
+"the 16th" : it is an incomplete time expression 
+
+792.xml : No problem 
+
+282.xml : "day of transfer" Nicol' solution seems correct after careful reading but I looked to the normalization to decide , is it incorrect ? gs agrees with L 
+
+
+
+
+
+
+
+
+
+

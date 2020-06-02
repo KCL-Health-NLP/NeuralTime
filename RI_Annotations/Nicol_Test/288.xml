@@ -1,0 +1,299 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+2/15/94
+DISCHARGE DATE :
+2/28/94
+HISTORY OF PRESENT ILLNESS :
+This 75 year old male had been noted to be anemic with an abnormal white blood count since at least November 1993 , while he was living in Aersing Rocuch Sun and his physicians there had begun to manage him with transfusions , and low dose hydroxyurea .
+Apparently , a bone marrow biopsy at the time confirmed the diagnosis of chronic myelomonocytic leukemia .
+He came to this country in late December 1994 to live with his son for a few months and was referred to me for follow up .
+He had been noting night sweats , increasing fatigue , anorexia , and dyspnea , which were not particularly improved by increased transfusions or alterations of hydroxy urea .
+He became profoundly thrombocytopenic , and ultimately was admitted to the hospital on 2/15 with headache and weakness .
+HOSPITAL COURSE :
+The patient was admitted to the hospital and begun on high dose Hydroxyurea , with a gradual improvement in his white blood count over the next few days .
+He did spike a fever and began Ancef and Gentamicin , although cultures never revealed a source for this .
+He also tried Amicar and continued on low dose Prednisone .
+His headache improved , but her remained profoundly weak and intermittently febrile with dyspnea .
+There was hemoptysis and intermittent gastrointestinal bleeding , while he remained profoundly thrombocytopenia .
+Transfusions of platelets did not change his platelet count , presumably because of sequestration and a massive spleen .
+Amicar was of uncertain value , but used intermittently .
+A bone marrow biopsy revealed the transformation of his CMML to acute myelogenous leukemia , and given his other underlying medical problems , we chose chemotherapy with subcutaneous Cystosine Arabinoside and 6-Thioguanine , which he tolerated without incident and this brought his white blood count down to below 1,000 , and his spleen shrank noticeably , but he still could not maintain a bump in platelet count with platelet transfusions .
+He was intermittently congested limiting our ability to give intravenous fluid , for his hydrea , although we kept him on Allopurinol .
+The renal function deteriorated somewhat , hampering our ability to give him his Gentamicin .
+The family maintained an extraordinary vigil over the days of his hospitalization , providing him with some food and constant attention , while we awaited the results of his chemotherapy and treatment of his infection .
+He was intermittently restless and somewhat confused , and as his respiratory status deteriorated , the family agreed to a low dose Morphine drip which made him much more comfortable .
+They agreed with a do not resuscitate status early on in the hospitalization and in the course of being maintain on low dose Morphine , he ultimately expired on 2/28/94 with the family present .
+No autopsy was obtained .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1054" id="E12" modality="FACTUAL" polarity="POS" start="1047" text="a fever" type="PROBLEM"/>
+<EVENT end="1070" id="E13" modality="FACTUAL" polarity="POS" start="1065" text="Ancef" type="TREATMENT"/>
+<EVENT end="1085" id="E14" modality="FACTUAL" polarity="POS" start="1075" text="Gentamicin" type="TREATMENT"/>
+<EVENT end="1105" id="E15" modality="FACTUAL" polarity="POS" start="1097" text="cultures" type="TEST"/>
+<EVENT end="1120" id="E67" modality="FACTUAL" polarity="POS" start="1112" text="revealed" type="CLINICAL_DEPT"/>
+<EVENT end="1161" id="E16" modality="FACTUAL" polarity="POS" start="1155" text="Amicar" type="TREATMENT"/>
+<EVENT end="1198" id="E17" modality="FACTUAL" polarity="POS" start="1179" text="low dose Prednisone" type="TREATMENT"/>
+<EVENT end="1213" id="E18" modality="FACTUAL" polarity="POS" start="1201" text="His headache" type="PROBLEM"/>
+<EVENT end="1222" id="E68" modality="FACTUAL" polarity="POS" start="1214" text="improved" type="OCCURRENCE"/>
+<EVENT end="129" id="E1" modality="FACTUAL" polarity="POS" start="123" text="anemic" type="PROBLEM"/>
+<EVENT end="1257" id="E19" modality="FACTUAL" polarity="POS" start="1242" text="profoundly weak" type="PROBLEM"/>
+<EVENT end="1284" id="E69" modality="FACTUAL" polarity="POS" start="1262" text="intermittently febrile" type="PROBLEM"/>
+<EVENT end="1297" id="E20" modality="FACTUAL" polarity="POS" start="1290" text="dyspnea" type="PROBLEM"/>
+<EVENT end="1320" id="E21" modality="FACTUAL" polarity="POS" start="1310" text="hemoptysis" type="PROBLEM"/>
+<EVENT end="1363" id="E70" modality="FACTUAL" polarity="POS" start="1325" text="intermittent gastrointestinal bleeding" type="PROBLEM"/>
+<EVENT end="164" id="E50" modality="FACTUAL" polarity="POS" start="135" text="an abnormal white blood count" type="PROBLEM"/>
+<EVENT end="1411" id="E71" modality="FACTUAL" polarity="POS" start="1384" text="profoundly thrombocytopenia" type="PROBLEM"/>
+<EVENT end="1439" id="E22" modality="FACTUAL" polarity="POS" start="1414" text="Transfusions of platelets" type="TREATMENT"/>
+<EVENT end="1473" id="E23" modality="FACTUAL" polarity="POS" start="1455" text="his platelet count" type="TEST"/>
+<EVENT end="1511" id="E24" modality="POSSIBLE" polarity="POS" start="1498" text="sequestration" type="PROBLEM"/>
+<EVENT end="1532" id="E25" modality="FACTUAL" polarity="POS" start="1516" text="a massive spleen" type="PROBLEM"/>
+<EVENT end="1541" id="E26" modality="FACTUAL" polarity="POS" start="1535" text="Amicar" type="TREATMENT"/>
+<EVENT end="1613" id="E27" modality="FACTUAL" polarity="POS" start="1593" text="A bone marrow biopsy" type="TEST"/>
+<EVENT end="1622" id="E72" modality="FACTUAL" polarity="POS" start="1614" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1653" id="E28" modality="FACTUAL" polarity="POS" start="1645" text="his CMML" type="PROBLEM"/>
+<EVENT end="1683" id="E29" modality="FACTUAL" polarity="POS" start="1657" text="acute myelogenous leukemia" type="PROBLEM"/>
+<EVENT end="1733" id="E30" modality="FACTUAL" polarity="POS" start="1696" text="his other underlying medical problems" type="PROBLEM"/>
+<EVENT end="1757" id="E31" modality="FACTUAL" polarity="POS" start="1745" text="chemotherapy" type="TREATMENT"/>
+<EVENT end="1797" id="E32" modality="FACTUAL" polarity="POS" start="1763" text="subcutaneous Cystosine Arabinoside" type="TREATMENT"/>
+<EVENT end="1815" id="E33" modality="FACTUAL" polarity="POS" start="1802" text="6-Thioguanine" type="TREATMENT"/>
+<EVENT end="1836" id="E73" modality="FACTUAL" polarity="POS" start="1827" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="1853" id="E74" modality="FACTUAL" polarity="NEG" start="1845" text="incident" type="PROBLEM"/>
+<EVENT end="1892" id="E34" modality="FACTUAL" polarity="POS" start="1871" text="his white blood count" type="TEST"/>
+<EVENT end="1936" id="E75" modality="FACTUAL" polarity="POS" start="1919" text="his spleen shrank" type="OCCURRENCE"/>
+<EVENT end="2006" id="E35" modality="FACTUAL" polarity="POS" start="1992" text="platelet count" type="TEST"/>
+<EVENT end="2033" id="E36" modality="FACTUAL" polarity="POS" start="2012" text="platelet transfusions" type="TREATMENT"/>
+<EVENT end="2067" id="E76" modality="FACTUAL" polarity="POS" start="2043" text="intermittently congested" type="PROBLEM"/>
+<EVENT end="2114" id="E37" modality="FACTUAL" polarity="POS" start="2097" text="intravenous fluid" type="TREATMENT"/>
+<EVENT end="2131" id="E38" modality="FACTUAL" polarity="POS" start="2121" text="his hydrea" type="TREATMENT"/>
+<EVENT end="2169" id="E39" modality="FACTUAL" polarity="POS" start="2158" text="Allopurinol" type="TREATMENT"/>
+<EVENT end="2203" id="E48" modality="FACTUAL" polarity="POS" start="2191" text="deteriorated" type="OCCURRENCE"/>
+<EVENT end="2263" id="E40" modality="FACTUAL" polarity="POS" start="2249" text="his Gentamicin" type="TREATMENT"/>
+<EVENT end="2324" id="E78" modality="FACTUAL" polarity="POS" start="2316" text="the days" type="OCCURRENCE"/>
+<EVENT end="2347" id="E79" modality="FACTUAL" polarity="POS" start="2328" text="his hospitalization" type="OCCURRENCE"/>
+<EVENT end="2452" id="E41" modality="FACTUAL" polarity="POS" start="2436" text="his chemotherapy" type="TREATMENT"/>
+<EVENT end="2466" id="E42" modality="FACTUAL" polarity="POS" start="2457" text="treatment" type="TREATMENT"/>
+<EVENT end="2483" id="E43" modality="FACTUAL" polarity="POS" start="2470" text="his infection" type="PROBLEM"/>
+<EVENT end="2516" id="E44" modality="FACTUAL" polarity="POS" start="2493" text="intermittently restless" type="PROBLEM"/>
+<EVENT end="2538" id="E45" modality="FACTUAL" polarity="POS" start="2521" text="somewhat confused" type="PROBLEM"/>
+<EVENT end="2583" id="E80" modality="FACTUAL" polarity="POS" start="2571" text="deteriorated" type="PROBLEM"/>
+<EVENT end="35" id="E49" modality="FACTUAL" polarity="POS" start="26" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="2631" id="E46" modality="FACTUAL" polarity="POS" start="2607" text="a low dose Morphine drip" type="TREATMENT"/>
+<EVENT end="2668" id="E81" modality="FACTUAL" polarity="POS" start="2657" text="comfortable" type="OCCURRENCE"/>
+<EVENT end="2715" id="E82" modality="FACTUAL" polarity="POS" start="2688" text="a do not resuscitate status" type="TREATMENT"/>
+<EVENT end="2747" id="E83" modality="FACTUAL" polarity="POS" start="2728" text="the hospitalization" type="OCCURRENCE"/>
+<EVENT end="2804" id="E47" modality="FACTUAL" polarity="POS" start="2787" text="low dose Morphine" type="TREATMENT"/>
+<EVENT end="2828" id="E84" modality="FACTUAL" polarity="POS" start="2821" text="expired" type="PROBLEM"/>
+<EVENT end="2876" id="E85" modality="FACTUAL" polarity="NEG" start="2869" text="autopsy" type="TEST"/>
+<EVENT end="304" id="E51" modality="FACTUAL" polarity="POS" start="292" text="transfusions" type="TREATMENT"/>
+<EVENT end="331" id="E2" modality="FACTUAL" polarity="POS" start="311" text="low dose hydroxyurea" type="TREATMENT"/>
+<EVENT end="367" id="E52" modality="FACTUAL" polarity="POS" start="347" text="a bone marrow biopsy" type="TEST"/>
+<EVENT end="438" id="E3" modality="FACTUAL" polarity="POS" start="407" text="chronic myelomonocytic leukemia" type="PROBLEM"/>
+<EVENT end="507" id="E63" modality="FACTUAL" polarity="POS" start="490" text="live with his son" type="OCCURRENCE"/>
+<EVENT end="541" id="E53" modality="FACTUAL" polarity="POS" start="533" text="referred" type="OCCURRENCE"/>
+<EVENT end="561" id="E54" modality="FACTUAL" polarity="POS" start="552" text="follow up" type="OCCURRENCE"/>
+<EVENT end="582" id="E55" modality="FACTUAL" polarity="POS" start="576" text="noting" type="EVIDENTIAL"/>
+<EVENT end="595" id="E4" modality="FACTUAL" polarity="POS" start="583" text="night sweats" type="PROBLEM"/>
+<EVENT end="616" id="E5" modality="FACTUAL" polarity="POS" start="598" text="increasing fatigue" type="PROBLEM"/>
+<EVENT end="627" id="E6" modality="FACTUAL" polarity="POS" start="619" text="anorexia" type="PROBLEM"/>
+<EVENT end="641" id="E7" modality="FACTUAL" polarity="POS" start="634" text="dyspnea" type="PROBLEM"/>
+<EVENT end="680" id="E56" modality="FACTUAL" polarity="NEG" start="672" text="improved" type="OCCURRENCE"/>
+<EVENT end="706" id="E8" modality="FACTUAL" polarity="POS" start="684" text="increased transfusions" type="TREATMENT"/>
+<EVENT end="721" id="E57" modality="FACTUAL" polarity="POS" start="710" text="alterations" type="OCCURRENCE"/>
+<EVENT end="737" id="E9" modality="FACTUAL" polarity="POS" start="725" text="hydroxy urea" type="TREATMENT"/>
+<EVENT end="777" id="E58" modality="FACTUAL" polarity="POS" start="750" text="profoundly thrombocytopenic" type="PROBLEM"/>
+<EVENT end="807" id="E59" modality="FACTUAL" polarity="POS" start="799" text="admitted" type="OCCURRENCE"/>
+<EVENT end="823" id="E60" modality="FACTUAL" polarity="POS" start="811" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="845" id="E61" modality="FACTUAL" polarity="POS" start="837" text="headache" type="PROBLEM"/>
+<EVENT end="858" id="E62" modality="FACTUAL" polarity="POS" start="850" text="weakness" type="PROBLEM"/>
+<EVENT end="903" id="E64" modality="FACTUAL" polarity="POS" start="895" text="admitted" type="OCCURRENCE"/>
+<EVENT end="919" id="E65" modality="FACTUAL" polarity="POS" start="907" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="954" id="E10" modality="FACTUAL" polarity="POS" start="933" text="high dose Hydroxyurea" type="TREATMENT"/>
+<EVENT end="983" id="E66" modality="FACTUAL" polarity="POS" start="962" text="a gradual improvement" type="OCCURRENCE"/>
+<EVENT end="1008" id="E11" modality="FACTUAL" polarity="POS" start="987" text="his white blood count" type="TEST"/>
+
+<ATIMEX3 end="25" id="T1" mod="NA" start="18" text="2/15/94" type="DATE" val="1994-02-15"/>
+<RTIMEX3 end="193" id="T3" mod="NA" start="180" text="November 1993" type="DATE" val="1993-11"/>
+<ATIMEX3 end="2839" id="T4" mod="NA" start="2832" text="2/28/94" type="DATE" val="1994-02-28"/>
+<ATIMEX3 end="50" id="T2" mod="NA" start="43" text="2/28/94" type="DATE" val="1994-02-28"/>
+<RTIMEX3 end="486" id="T0" mod="END" start="468" text="late December 1994" type="DATE" val="1994-12"/>
+
+<ATIMEX3 end="831" id="T6" mod="NA" start="827" text="2/15" type="DATE" val="1994-02-15"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-2-15" end="25" id="S0" start="18" text="2/15/94" type="ADMISSION"/>
+<SECTIME dvalue="1994-2-28" end="50" id="S1" start="43" text="2/28/94" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

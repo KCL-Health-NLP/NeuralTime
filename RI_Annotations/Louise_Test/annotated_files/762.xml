@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-11-21
+Discharge Date :
+2016-11-30
+Service :
+CMED CCU
+CHIEF COMPLAINT AND HISTORY OF PRESENT ILLNESS :
+Mr. Jackson is a 63-year-old male with squamous cell carcinoma of the floor of mouth ( stage T2 N0 ) that was biopsied by his dentist .
+Pathology was reviewed revealing invasive squamous cell carcinoma .
+He presented on 2016-11-21 for resection .
+He was admitted on 2016-11-21 following his surgery .
+He underwent a joint procedure by Otolaryngology and Plastic Surgery .
+SUMMARY OF HOSPITAL COURSE :
+Surgeon was Dr. Kelsey K Sanchez .
+Assistant was Dr. Justin K.. Velez .
+Frozen section sent to pathology revealing invasive squamous cell carcinoma .
+No complications .
+The Plastic Team then took over for reconstruction consisting of radial forearm free flap to floor of mouth .
+Surgeon was Dr. Jude. Christopher Swinney .
+Total intravenous fluids of 7300 cc .
+Estimated blood loss of 300 cc .
+Urine output of 900 cc .
+No complications .
+In addition , the patient was prepared for an attempted percutaneous endoscopic gastrostomy tube .
+The percutaneous endoscopic gastrostomy was unsuccessful , and the procedure was converted to an open gastrostomy tube which then proceeded without complications .
+The patient was admitted to the Surgical Intensive Care Unit postoperatively .
+He was sedated and ventilated by his tracheostomy 6 cuff Shiley tube .
+He had three Westwood-Pocasset drains - two in the neck and one in his right arm .
+G-tube was to gravity , Foley to gravity , left radial A-line .
+The flap was pink with a strong Doppler signal .
+He underwent flap checks every 15 minutes initially with a dextran infusion .
+He was placed on Unasyn 3 grams IV q.6h.
+Nothing by mouth initially with morphine as needed for pain and Ativan around the clock for delirium tremens prophylaxis .
+In addition , he received metoprolol q.4.h. , a regular insulin sliding scale , and adequate gastrointestinal prophylaxis with Protonix .
+Postoperative laboratories revealed sodium was 134 , potassium was 4.1 , chloride was 102 , bicarbonate was 28 , blood urea nitrogen was 18 , creatinine was 0.8 , and glucose was 148 .
+Calcium was 7.6 .
+Magnesium was 2.2 .
+Complete blood count revealed white count was 5.4 , hematocrit was 31.3 , and platelets were 160 .
+ALT was 14 , AST was 31 , alkaline phosphatase was 42 , total bilirubin was 0.9 , albumin was 2.2 .
+A chest x-ray postoperatively showed clear lung fields .
+Tracheostomy tube in good position .
+No pneumothorax .
+By systems :
+CMED CSRU and Plastic Surgery flap checks , tracheostomy care , and Westwood-Pocasset management. 
+Cardiovascular :
+Lopressor 5 intravenously q.4.h.
+Respiratory :
+Nebulizers as needed , weaning from ventilation .
+Gastrointestinal :
+Medications per gastrostomy tube on postoperative day one .
+Genitourinary :
+Foley catheter for strict monitoring of ins and outs .
+Hematologic :
+Hematocrit stable .
+Infectious Disease :
+Unasyn for antibiotic coverage .
+Flap checks carried out q.2h. initially in the Surgical Intensive Care Unit showing positive biphasic Doppler signals .
+Pink flap with good refill .
+Right arm neurovascularly intact .
+He was weaned from ventilation on postoperative day one to pressure support ventilation and then to spontaneous breathing on postoperative day two .
+His Westwood-Pocasset output for postoperative day one on the left was 60 , right neck 93 , in the arm 20 .
+Tube feedings were started 48 hours after the procedure .
+The cuff on his tracheostomy tube was put down on 11-23 , postoperative day two which he tolerated well with minimal secretions and a strong adequate cough .
+Due to bed issues , he was transferred from the Surgical Intensive Care Unit to the Medical Intensive Care Unit on postoperative day three .
+His tube feedings were advanced .
+He was out of bed to a chair .
+He continued with pulmonary toilet and q.2h. flap checks .
+The Westwood-Pocasset in his right arm was removed on 2016-11-25 .
+His tracheostomy was changed to a 6 cuffless Shiley on 2016-11-26 and sutures in place with a 3-0 silk .
+The patient tolerated this procedure well .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T5" start="2768" end="2789" text="postoperative day one" type="DATE" relative="TRUE" val="2016-11-22" mod="NA" />
+<RTIMEX3 id="T6" start="3169" end="3190" text="postoperative day one" type="DATE" relative="TRUE" val="2016-11-22" mod="NA" />
+<RTIMEX3 id="T7" start="3260" end="3281" text="postoperative day two" type="DATE" relative="TRUE" val="2016-11-23" mod="NA" />
+<RTIMEX3 id="T8" start="3317" end="3338" text="postoperative day one" type="DATE" relative="TRUE" val="2016-11-22" mod="NA" />
+<RTIMEX3 id="T10" start="3723" end="3746" text="postoperative day three" type="DATE" relative="TRUE" val="2016-11-24" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="28" text="2016-11-21" type="DATE" val="2016-11-21" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T19" start="3419" end="3427" text="48 hours" type="DATE" val="2016-11-23" absolute="FALSE" mod="NA" />
+<ATIMEX3 id="T3" start="345" end="355" text="2016-11-21" type="DATE" val="2016-11-21" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T21" start="3500" end="3529" text="11-23 , postoperative day two" type="DATE" val="2016-11-23" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="391" end="401" text="2016-11-21" type="DATE" val="2016-11-21" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T11" start="3927" end="3937" text="2016-11-25" type="DATE" val="2016-11-25" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T12" start="3995" end="4005" text="2016-11-26" type="DATE" val="2016-11-26" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="46" end="56" text="2016-11-30" type="DATE" val="2016-11-30" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2016-11-21" type="ADMISSION" dvalue="2016-11-21" />
+<SECTIME id="S1" start="46" end="56" text="2016-11-30" type="DISCHARGE" dvalue="2016-11-30" />
+<ANCHORLINK id="AN0" fromID="T5" fromText="postoperative day one" toID="T4" toText="2016-11-21" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T6" fromText="postoperative day one" toID="T4" toText="2016-11-21" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T7" fromText="postoperative day two" toID="T4" toText="2016-11-21" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T19" fromText="48 hours" toID="T4" toText="2016-11-21" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T10" fromText="postoperative day three" toID="T3" toText="2016-11-21" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T8" fromText="postoperative day one" toID="T4" toText="2016-11-21" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

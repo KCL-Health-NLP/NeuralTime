@@ -1,0 +1,331 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+08/16/1998
+Discharge Date :
+08/18/1998
+HISTORY OF PRESENT ILLNESS :
+The patient is an 88 year-old woman undergoing treatment for a right lower extremity cellulitis who was transferred from Child for worsening cellulitis and new confusion .
+The patient has a history of severe aortic stenosis and was recently admitted to the Retelk County Medical Center for a Nafcillin sensitive Staphylococcus aureus cellulitis of the right leg treated with a course of Nafcillin and Levofloxacin .
+There was also a right leg fluid collection that was incised and drained on August 1 , 1998 .
+The patient was sent to rehabilitation on Levofloxacin orally .
+Although details were not available at the time of admission , apparently , she had done well until the 24 hours proceeding admission when the cellulitis was felt to be worsening .
+She had also been noted to be confused and combative during that 24 hour period .
+As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation center and the patient was transferred to the Retelk County Medical Center .
+HOSPITAL COURSE :
+1) Mental status changes :
+On admission to the emergency room , the patient was somewhat argumentative and confused as well as uncooperative with procedures .
+A neurologic work-up was undertaken which included a CT scan of the head which revealed no acute bleed and a lumbar puncture which revealed a glucose of 72 , protein 65 , white blood cell count 19 , red blood cell count 11,500 with no evidence of xanthrochromasia .
+The Neurology Service evaluated the patient who felt that her agitation was most likely due to infection , her multiple medications , or her metabolic condition .
+The patient &apos;s mental status slowly began to recover , however on the morning of the first day of admission , August 16 , 1998 , the patient was found after having fallen .
+A neurological examination was performed which revealed no abnormality and imaging included a head scan which revealed no bleed and a cervical spine series which revealed degenerative joint disease but no obvious fracture .
+The patient decided not to pursue further testing with a neck CT scan .
+At the time of discharge , the patient &apos;s mental status is back to its baseline .
+2) Right lower extremity cellulitis :
+The patient was evaluated by the Surgical Service who felt that the wound was clean with some erythema but without evidence of true cellulitis .
+The patient &apos;s antibiotics were discontinued with the thought that prolonged antibiotics only put her at more risk for infection .
+3) Cardiac :
+The patient has a history of critical aortic stenosis and mitral regurgitation .
+Fortunately , these issues were not active during the present admission .
+4) Status post fall :
+The patient did fall while inhouse .
+A head CT scan and cervical spine series were negative .
+The patient appeared to have no deficits at the time of discharge .
+5) Atrial fibrillation :
+The patient &apos;s Coumadin was continued .
+6) Abnormal liver function tests :
+On admission , the patient was noted to have elevated bilirubins in the 3 range and mildly elevated alkaline phosphatase consistent with a cholestatic picture .
+These liver function tests will be followed closely as an outpatient .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1054" id="E51" modality="FACTUAL" polarity="POS" start="1029" text="the rehabilitation center" type="CLINICAL_DEPT"/>
+<EVENT end="1086" id="E52" modality="FACTUAL" polarity="POS" start="1075" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1122" id="E53" modality="FACTUAL" polarity="POS" start="1090" text="the Retelk County Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="1167" id="E6" modality="FACTUAL" polarity="POS" start="1146" text="Mental status changes" type="PROBLEM"/>
+<EVENT end="1182" id="E54" modality="FACTUAL" polarity="POS" start="1173" text="admission" type="OCCURRENCE"/>
+<EVENT end="1204" id="E55" modality="FACTUAL" polarity="POS" start="1186" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="1245" id="E7" modality="FACTUAL" polarity="POS" start="1232" text="argumentative" type="PROBLEM"/>
+<EVENT end="1258" id="E8" modality="FACTUAL" polarity="POS" start="1250" text="confused" type="PROBLEM"/>
+<EVENT end="1299" id="E9" modality="FACTUAL" polarity="POS" start="1270" text="uncooperative with procedures" type="PROBLEM"/>
+<EVENT end="1322" id="E10" modality="FACTUAL" polarity="POS" start="1302" text="A neurologic work-up" type="TEST"/>
+<EVENT end="142" id="E33" modality="FACTUAL" polarity="POS" start="133" text="treatment" type="TREATMENT"/>
+<EVENT end="1374" id="E11" modality="FACTUAL" polarity="POS" start="1353" text="a CT scan of the head" type="TEST"/>
+<EVENT end="1404" id="E56" modality="FACTUAL" polarity="NEG" start="1393" text="acute bleed" type="PROBLEM"/>
+<EVENT end="1426" id="E12" modality="FACTUAL" polarity="POS" start="1409" text="a lumbar puncture" type="TEST"/>
+<EVENT end="1451" id="E13" modality="FACTUAL" polarity="POS" start="1442" text="a glucose" type="TEST"/>
+<EVENT end="1467" id="E14" modality="FACTUAL" polarity="POS" start="1460" text="protein" type="TEST"/>
+<EVENT end="181" id="E34" modality="FACTUAL" polarity="POS" start="147" text="a right lower extremity cellulitis" type="PROBLEM"/>
+<EVENT end="1495" id="E15" modality="FACTUAL" polarity="POS" start="1473" text="white blood cell count" type="TEST"/>
+<EVENT end="1521" id="E16" modality="FACTUAL" polarity="POS" start="1501" text="red blood cell count" type="TEST"/>
+<EVENT end="1565" id="E57" modality="FACTUAL" polarity="NEG" start="1549" text="xanthrochromasia" type="PROBLEM"/>
+<EVENT end="1589" id="E58" modality="FACTUAL" polarity="POS" start="1568" text="The Neurology Service" type="CLINICAL_DEPT"/>
+<EVENT end="1639" id="E17" modality="FACTUAL" polarity="POS" start="1626" text="her agitation" type="PROBLEM"/>
+<EVENT end="1672" id="E18" modality="FACTUAL" polarity="POS" start="1663" text="infection" type="PROBLEM"/>
+<EVENT end="1699" id="E19" modality="FACTUAL" polarity="POS" start="1675" text="her multiple medications" type="TREATMENT"/>
+<EVENT end="1728" id="E20" modality="FACTUAL" polarity="POS" start="1705" text="her metabolic condition" type="PROBLEM"/>
+<EVENT end="1764" id="E59" modality="FACTUAL" polarity="POS" start="1751" text="mental status" type="PROBLEM"/>
+<EVENT end="1788" id="E60" modality="FACTUAL" polarity="POS" start="1765" text="slowly began to recover" type="OCCURRENCE"/>
+<EVENT end="1886" id="E61" modality="FACTUAL" polarity="POS" start="1881" text="found" type="OCCURRENCE"/>
+<EVENT end="201" id="E35" modality="FACTUAL" polarity="POS" start="190" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1906" id="E62" modality="FACTUAL" polarity="POS" start="1900" text="fallen" type="PROBLEM"/>
+<EVENT end="1935" id="E21" modality="FACTUAL" polarity="POS" start="1909" text="A neurological examination" type="TEST"/>
+<EVENT end="1979" id="E63" modality="FACTUAL" polarity="NEG" start="1968" text="abnormality" type="PROBLEM"/>
+<EVENT end="1991" id="E22" modality="FACTUAL" polarity="POS" start="1984" text="imaging" type="TEST"/>
+<EVENT end="2012" id="E23" modality="FACTUAL" polarity="POS" start="2001" text="a head scan" type="TEST"/>
+<EVENT end="2036" id="E64" modality="FACTUAL" polarity="NEG" start="2031" text="bleed" type="PROBLEM"/>
+<EVENT end="2064" id="E24" modality="FACTUAL" polarity="POS" start="2041" text="a cervical spine series" type="TEST"/>
+<EVENT end="212" id="E36" modality="FACTUAL" polarity="POS" start="207" text="Child" type="CLINICAL_DEPT"/>
+<EVENT end="2106" id="E65" modality="FACTUAL" polarity="POS" start="2080" text="degenerative joint disease" type="PROBLEM"/>
+<EVENT end="2130" id="E66" modality="FACTUAL" polarity="NEG" start="2114" text="obvious fracture" type="PROBLEM"/>
+<EVENT end="237" id="E37" modality="FACTUAL" polarity="POS" start="217" text="worsening cellulitis" type="PROBLEM"/>
+<EVENT end="2182" id="E67" modality="PROPOSED" polarity="NEG" start="2167" text="further testing" type="TEST"/>
+<EVENT end="2202" id="E68" modality="PROPOSED" polarity="NEG" start="2188" text="a neck CT scan" type="TEST"/>
+<EVENT end="2265" id="E71" modality="FACTUAL" polarity="POS" start="2232" text="the patient 's mental status" type="PROBLEM"/>
+<EVENT end="2289" id="E72" modality="FACTUAL" polarity="POS" start="2269" text="back to its baseline" type="OCCURRENCE"/>
+<EVENT end="2327" id="E25" modality="FACTUAL" polarity="POS" start="2295" text="Right lower extremity cellulitis" type="PROBLEM"/>
+<EVENT end="2379" id="E73" modality="FACTUAL" polarity="POS" start="2359" text="the Surgical Service" type="CLINICAL_DEPT"/>
+<EVENT end="2403" id="E26" modality="FACTUAL" polarity="POS" start="2394" text="the wound" type="PROBLEM"/>
+<EVENT end="255" id="E38" modality="FACTUAL" polarity="POS" start="242" text="new confusion" type="PROBLEM"/>
+<EVENT end="2432" id="E27" modality="FACTUAL" polarity="POS" start="2419" text="some erythema" type="PROBLEM"/>
+<EVENT end="2472" id="E74" modality="FACTUAL" polarity="NEG" start="2457" text="true cellulitis" type="PROBLEM"/>
+<EVENT end="2506" id="E75" modality="FACTUAL" polarity="POS" start="2475" text="The patient 's antibiotics" type="TREATMENT"/>
+<EVENT end="2568" id="E76" modality="CONDITIONAL" polarity="POS" start="2547" text="prolonged antibiotics" type="TREATMENT"/>
+<EVENT end="2608" id="E77" modality="CONDITIONAL" polarity="POS" start="2599" text="infection" type="PROBLEM"/>
+<EVENT end="2677" id="E78" modality="FACTUAL" polarity="POS" start="2653" text="critical aortic stenosis" type="PROBLEM"/>
+<EVENT end="2702" id="E79" modality="FACTUAL" polarity="POS" start="2682" text="mitral regurgitation" type="PROBLEM"/>
+<EVENT end="2731" id="E80" modality="FACTUAL" polarity="POS" start="2719" text="these issues" type="PROBLEM"/>
+<EVENT end="2747" id="E81" modality="FACTUAL" polarity="NEG" start="2741" text="active" type="OCCURRENCE"/>
+<EVENT end="2776" id="E82" modality="FACTUAL" polarity="POS" start="2755" text="the present admission" type="OCCURRENCE"/>
+<EVENT end="2798" id="E28" modality="FACTUAL" polarity="POS" start="2794" text="fall" type="PROBLEM"/>
+<EVENT end="2821" id="E83" modality="FACTUAL" polarity="POS" start="2817" text="fall" type="OCCURRENCE"/>
+<EVENT end="2835" id="E84" modality="FACTUAL" polarity="POS" start="2828" text="inhouse" type="CLINICAL_DEPT"/>
+<EVENT end="2852" id="E29" modality="FACTUAL" polarity="POS" start="2838" text="A head CT scan" type="TEST"/>
+<EVENT end="2878" id="E30" modality="FACTUAL" polarity="POS" start="2857" text="cervical spine series" type="TEST"/>
+<EVENT end="309" id="E39" modality="FACTUAL" polarity="POS" start="287" text="severe aortic stenosis" type="PROBLEM"/>
+<EVENT end="2892" id="E98" modality="FACTUAL" polarity="POS" start="2884" text="negative" type="OCCURRENCE"/>
+<EVENT end="38" id="E32" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2935" id="E85" modality="FACTUAL" polarity="NEG" start="2927" text="deficits" type="PROBLEM"/>
+<EVENT end="2985" id="E87" modality="FACTUAL" polarity="POS" start="2966" text="Atrial fibrillation" type="PROBLEM"/>
+<EVENT end="3016" id="E88" modality="FACTUAL" polarity="POS" start="2988" text="The patient 's Coumadin" type="TREATMENT"/>
+<EVENT end="3080" id="E89" modality="FACTUAL" polarity="POS" start="3071" text="admission" type="OCCURRENCE"/>
+<EVENT end="3132" id="E90" modality="FACTUAL" polarity="POS" start="3113" text="elevated bilirubins" type="TEST"/>
+<EVENT end="3188" id="E91" modality="FACTUAL" polarity="POS" start="3152" text="mildly elevated alkaline phosphatase" type="TEST"/>
+<EVENT end="3226" id="E92" modality="FACTUAL" polarity="POS" start="3205" text="a cholestatic picture" type="OCCURRENCE"/>
+<EVENT end="3255" id="E93" modality="FACTUAL" polarity="POS" start="3229" text="These liver function tests" type="TEST"/>
+<EVENT end="335" id="E40" modality="FACTUAL" polarity="POS" start="327" text="admitted" type="OCCURRENCE"/>
+<EVENT end="3280" id="E94" modality="FACTUAL" polarity="POS" start="3264" text="followed closely" type="TREATMENT"/>
+<EVENT end="3297" id="E95" modality="FACTUAL" polarity="POS" start="3284" text="an outpatient" type="OCCURRENCE"/>
+<EVENT end="371" id="E41" modality="FACTUAL" polarity="POS" start="339" text="the Retelk County Medical Center" type="CLINICAL_DEPT"/>
+<EVENT end="447" id="E42" modality="FACTUAL" polarity="POS" start="376" text="a Nafcillin sensitive Staphylococcus aureus cellulitis of the right leg" type="PROBLEM"/>
+<EVENT end="482" id="E1" modality="FACTUAL" polarity="POS" start="461" text="a course of Nafcillin" type="TREATMENT"/>
+<EVENT end="499" id="E2" modality="FACTUAL" polarity="POS" start="487" text="Levofloxacin" type="TREATMENT"/>
+<EVENT end="545" id="E3" modality="FACTUAL" polarity="POS" start="517" text="a right leg fluid collection" type="PROBLEM"/>
+<EVENT end="562" id="E43" modality="FACTUAL" polarity="POS" start="555" text="incised" type="TREATMENT"/>
+<EVENT end="574" id="E44" modality="FACTUAL" polarity="POS" start="567" text="drained" type="TREATMENT"/>
+<EVENT end="634" id="E4" modality="FACTUAL" polarity="POS" start="620" text="rehabilitation" type="TREATMENT"/>
+<EVENT end="650" id="E5" modality="FACTUAL" polarity="POS" start="638" text="Levofloxacin" type="TREATMENT"/>
+<EVENT end="753" id="E45" modality="FACTUAL" polarity="POS" start="744" text="done well" type="EVIDENTIAL"/>
+<EVENT end="793" id="E46" modality="FACTUAL" polarity="POS" start="784" text="admission" type="OCCURRENCE"/>
+<EVENT end="813" id="E47" modality="FACTUAL" polarity="POS" start="799" text="the cellulitis" type="PROBLEM"/>
+<EVENT end="838" id="E48" modality="POSSIBLE" polarity="POS" start="829" text="worsening" type="PROBLEM"/>
+<EVENT end="879" id="E49" modality="FACTUAL" polarity="POS" start="871" text="confused" type="PROBLEM"/>
+<EVENT end="893" id="E50" modality="FACTUAL" polarity="POS" start="884" text="combative" type="PROBLEM"/>
+<EVENT end="952" id="E96" modality="FACTUAL" polarity="POS" start="926" text="her baseline mental status" type="OCCURRENCE"/>
+<EVENT end="985" id="E97" modality="FACTUAL" polarity="POS" start="956" text="completely alert and oriented" type="OCCURRENCE"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="08/16/1998" type="DATE" val="1998-08-16"/>
+<RTIMEX3 end="1862" id="T6" mod="START" start="1802" text="the morning of the first day of admission , August 16 , 1998" type="DATE" val="1998-08-16"/>
+<RTIMEX3 end="2216" id="T7" mod="NA" start="2208" text="the time" type="DATE" val="1998-08-18"/>
+<RTIMEX3 end="2960" id="T8" mod="NA" start="2939" text="the time of discharge" type="DATE" val="1998-08-18"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="08/18/1998" type="DATE" val="1998-08-18"/>
+<RTIMEX3 end="593" id="T1" mod="NA" start="578" text="August 1 , 1998" type="DATE" val="1998-08-01"/>
+<RTIMEX3 end="720" id="T9" mod="NA" start="699" text="the time of admission" type="DATE" val="1998-08-16"/>
+<RTIMEX3 end="772" id="T4" mod="START" start="760" text="the 24 hours" type="DATE" val="1998-08-15"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1998-08-16" end="28" id="S0" start="18" text="08/16/1998" type="ADMISSION"/>
+<SECTIME dvalue="1998-08-18" end="56" id="S1" start="46" text="08/18/1998" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

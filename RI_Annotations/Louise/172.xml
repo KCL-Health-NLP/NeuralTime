@@ -1,0 +1,394 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2018-04-23
+Discharge Date :
+2018-05-01
+Service :
+MEDICINE
+History of Present Illness :
+95 yo male with PMH large right thyroid cystic mass eroding into trachea , who presented to St. Anne 's Hospital 2018-04-22 with hemoptysis and respiratory distress , now diagnosed with anaplastic thyroid carcinoma .
+.
+Pt reports that he noticed a right neck mass last October .
+The mass grew larger , to the size of a baseball .
+It appears that FNA was performed but was non-diagnostic ( probably because anaplastic tumors tend to be necrotic ) .
+The mass appears to be cystic in nature and has been aspirated at least 3 times , which decrease in size each time .
+Now size is 6.5cm*6.5cm .
+Plan for surgery in Oct was deferred 04-05 syncope and pacer placement for SSS; again deferred 2 weeks ago 04-05 URI; was planned for surgery this Thurday .
+.
+Pt was o/w in his USOH until 2-3 weeks ago when he developed a URI with symptoms of dry cough; no fever , chills , sore throat , myalgias .
+Pt was treated with 3 days of an antibiotics , followed by a 10 day course of levaquin ( completed 2 days PTA ) .
+Per pt and son , no James pna .
+2 days prior to admission , pt developed hemoptysis; states he coughed up 4 tsp of blood .
+1 day PTA , pt developed stridorous breathing and respiratory distress .
+Pt was initially seen at Lahey North , where he was given steroids , with improvement in respiratory status .
+Pt was transferred to New England Baptist Hospital , where his surgeon is located .
+There he was admitted to the CMED .
+Thyroid cyst was aspirated with removal of 300cc of fluid . 
+Pt was given racemic epinephrine and Decadron 10mg IV x1. CT neck showed tracheal mass per nursing s/o ( pt brought CT ) .
+.
+Pt now breathing more comfortably .
+He has not had fever and night sweats but reports weakness and weight loss for several months recently .
+Brief Hospital Course :
+Pt was transferred here for further mgmt of airway and large thyroid mass by our IP team .
+IP found endotracheal obstructing tumor and extrinsic compression of the high trachea by thyroid mass .
+After rigid bronchoscopy with removal of the intratracheal tumor component on 2018-04-24 , stat pathology showed anaplastic tumor .
+He was tranferred to the CMED .
+Subsequently extubated and his respiratory Sx are now improved .
+Pt was seen by Rad Onc , who recommended transfer to the East Campus for XRT .
+On the morning of possible radiation , patient and family met with interventional pulmonary team who explained that the most recent CT showed further invasion of the tumor into the trachea .
+After a long discussion , patient and family asked to be made CMO .
+Patient was started on morphine drip and palliative care team was consulted with recommendations to ensure comfort .
+Mr . Davison died approximately 24 hours after decision to be CMO , on 2018-05-01 .
+Discharge Disposition :
+Expired
+Discharge Diagnosis :
+NC
+Discharge Condition :
+NC
+Discharge Instructions :
+NC
+Followup Instructions :
+NC
+John Iris MD 70-363
+Completed by :
+Patricia Rojas MD 73-701 2018-05-06 @ 1434
+Signed electronically by :
+DR. John J. Booker on :
+WED 2018-05-30 5:50 PM
+( End of Report )
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1039" id="E34" modality="FACTUAL" polarity="POS" start="1025" text="an antibiotics" type="TREATMENT"/>
+<EVENT end="1081" id="E35" modality="FACTUAL" polarity="POS" start="1073" text="levaquin" type="TREATMENT"/>
+<EVENT end="1138" id="E36" modality="FACTUAL" polarity="NEG" start="1129" text="James pna" type="PROBLEM"/>
+<EVENT end="1193" id="E37" modality="FACTUAL" polarity="POS" start="1182" text="hemoptysis;" type="PROBLEM"/>
+<EVENT end="1200" id="E38" modality="FACTUAL" polarity="POS" start="1194" text="states" type="EVIDENTIAL"/>
+<EVENT end="1214" id="E39" modality="FACTUAL" polarity="POS" start="1204" text="coughed up" type="PROBLEM"/>
+<EVENT end="1229" id="E40" modality="FACTUAL" polarity="POS" start="1224" text="blood" type="PROBLEM"/>
+<EVENT end="156" id="E2" modality="FACTUAL" polarity="POS" start="125" text="large right thyroid cystic mass" type="PROBLEM"/>
+<EVENT end="1277" id="E41" modality="FACTUAL" polarity="POS" start="1257" text="stridorous breathing" type="PROBLEM"/>
+<EVENT end="1302" id="E42" modality="FACTUAL" polarity="POS" start="1282" text="respiratory distress" type="PROBLEM"/>
+<EVENT end="1341" id="E43" modality="FACTUAL" polarity="POS" start="1330" text="Lahey North" type="CLINICAL_DEPT"/>
+<EVENT end="1371" id="E44" modality="FACTUAL" polarity="POS" start="1363" text="steroids" type="TREATMENT"/>
+<EVENT end="1390" id="E45" modality="FACTUAL" polarity="POS" start="1379" text="improvement" type="OCCURRENCE"/>
+<EVENT end="1412" id="E46" modality="FACTUAL" polarity="POS" start="1394" text="respiratory status" type="OCCURRENCE"/>
+<EVENT end="1433" id="E47" modality="FACTUAL" polarity="POS" start="1422" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1465" id="E48" modality="FACTUAL" polarity="POS" start="1437" text="New England Baptist Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1504" id="E51" modality="FACTUAL" polarity="POS" start="1499" text="There" type="CLINICAL_DEPT"/>
+<EVENT end="1520" id="E49" modality="FACTUAL" polarity="POS" start="1512" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1532" id="E50" modality="FACTUAL" polarity="POS" start="1524" text="the CMED" type="CLINICAL_DEPT"/>
+<EVENT end="1547" id="E52" modality="FACTUAL" polarity="POS" start="1535" text="Thyroid cyst" type="PROBLEM"/>
+<EVENT end="1561" id="E53" modality="FACTUAL" polarity="POS" start="1552" text="aspirated" type="TREATMENT"/>
+<EVENT end="1574" id="E54" modality="FACTUAL" polarity="POS" start="1567" text="removal" type="TREATMENT"/>
+<EVENT end="164" id="E3" modality="FACTUAL" polarity="POS" start="157" text="eroding" type="PROBLEM"/>
+<EVENT end="1628" id="E55" modality="FACTUAL" polarity="POS" start="1609" text="racemic epinephrine" type="TREATMENT"/>
+<EVENT end="1641" id="E56" modality="FACTUAL" polarity="POS" start="1633" text="Decadron" type="TREATMENT"/>
+<EVENT end="1661" id="E58" modality="FACTUAL" polarity="POS" start="1654" text="CT neck" type="TEST"/>
+<EVENT end="1668" id="E59" modality="FACTUAL" polarity="POS" start="1662" text="showed" type="EVIDENTIAL"/>
+<EVENT end="1682" id="E60" modality="FACTUAL" polarity="POS" start="1669" text="tracheal mass" type="PROBLEM"/>
+<EVENT end="1714" id="E61" modality="FACTUAL" polarity="POS" start="1712" text="CT" type="TEST"/>
+<EVENT end="1754" id="E62" modality="FACTUAL" polarity="POS" start="1728" text="breathing more comfortably" type="OCCURRENCE"/>
+<EVENT end="1777" id="E63" modality="FACTUAL" polarity="NEG" start="1772" text="fever" type="PROBLEM"/>
+<EVENT end="1794" id="E64" modality="FACTUAL" polarity="NEG" start="1782" text="night sweats" type="PROBLEM"/>
+<EVENT end="1806" id="E65" modality="FACTUAL" polarity="POS" start="1799" text="reports" type="EVIDENTIAL"/>
+<EVENT end="1815" id="E66" modality="FACTUAL" polarity="POS" start="1807" text="weakness" type="PROBLEM"/>
+<EVENT end="1831" id="E67" modality="FACTUAL" polarity="POS" start="1820" text="weight loss" type="PROBLEM"/>
+<EVENT end="193" id="E4" modality="FACTUAL" polarity="POS" start="184" text="presented" type="OCCURRENCE"/>
+<EVENT end="1904" id="E68" modality="FACTUAL" polarity="POS" start="1893" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1909" id="E69" modality="FACTUAL" polarity="POS" start="1905" text="here" type="CLINICAL_DEPT"/>
+<EVENT end="1936" id="E70" modality="FACTUAL" polarity="POS" start="1914" text="further mgmt of airway" type="TREATMENT"/>
+<EVENT end="1959" id="E71" modality="FACTUAL" polarity="POS" start="1941" text="large thyroid mass" type="PROBLEM"/>
+<EVENT end="217" id="E5" modality="FACTUAL" polarity="POS" start="197" text="St. Anne 's Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="2016" id="E72" modality="FACTUAL" polarity="POS" start="1986" text="endotracheal obstructing tumor" type="PROBLEM"/>
+<EVENT end="2062" id="E73" modality="FACTUAL" polarity="POS" start="2021" text="extrinsic compression of the high trachea" type="PROBLEM"/>
+<EVENT end="2078" id="E74" modality="FACTUAL" polarity="POS" start="2066" text="thyroid mass" type="PROBLEM"/>
+<EVENT end="2105" id="E75" modality="FACTUAL" polarity="POS" start="2087" text="rigid bronchoscopy" type="TEST"/>
+<EVENT end="2118" id="E76" modality="FACTUAL" polarity="POS" start="2111" text="removal" type="TREATMENT"/>
+<EVENT end="2155" id="E77" modality="FACTUAL" polarity="POS" start="2122" text="the intratracheal tumor component" type="PROBLEM"/>
+<EVENT end="2186" id="E78" modality="FACTUAL" polarity="POS" start="2172" text="stat pathology" type="TEST"/>
+<EVENT end="2193" id="E99" modality="FACTUAL" polarity="POS" start="2187" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2210" id="E79" modality="FACTUAL" polarity="POS" start="2194" text="anaplastic tumor" type="PROBLEM"/>
+<EVENT end="2230" id="E80" modality="FACTUAL" polarity="POS" start="2220" text="tranferred" type="OCCURRENCE"/>
+<EVENT end="2242" id="E81" modality="FACTUAL" polarity="POS" start="2234" text="the CMED" type="CLINICAL_DEPT"/>
+<EVENT end="2267" id="E82" modality="FACTUAL" polarity="POS" start="2258" text="extubated" type="TREATMENT"/>
+<EVENT end="2290" id="E83" modality="FACTUAL" polarity="POS" start="2272" text="his respiratory Sx" type="PROBLEM"/>
+<EVENT end="2307" id="E84" modality="FACTUAL" polarity="POS" start="2299" text="improved" type="OCCURRENCE"/>
+<EVENT end="2332" id="E97" modality="FACTUAL" polarity="POS" start="2325" text="Rad Onc" type="CLINICAL_DEPT"/>
+<EVENT end="244" id="E6" modality="FACTUAL" polarity="POS" start="234" text="hemoptysis" type="PROBLEM"/>
+<EVENT end="2359" id="E85" modality="PROPOSED" polarity="POS" start="2351" text="transfer" type="OCCURRENCE"/>
+<EVENT end="2378" id="E86" modality="PROPOSED" polarity="POS" start="2363" text="the East Campus" type="CLINICAL_DEPT"/>
+<EVENT end="2386" id="E87" modality="PROPOSED" polarity="POS" start="2383" text="XRT" type="TREATMENT"/>
+<EVENT end="2425" id="E88" modality="PROPOSED" polarity="POS" start="2407" text="possible radiation" type="TREATMENT"/>
+<EVENT end="269" id="E7" modality="FACTUAL" polarity="POS" start="249" text="respiratory distress" type="PROBLEM"/>
+<EVENT end="2523" id="E89" modality="FACTUAL" polarity="POS" start="2505" text="the most recent CT" type="TEST"/>
+<EVENT end="2530" id="E90" modality="FACTUAL" polarity="POS" start="2524" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2547" id="E91" modality="FACTUAL" polarity="POS" start="2531" text="further invasion" type="OCCURRENCE"/>
+<EVENT end="2560" id="E92" modality="FACTUAL" polarity="POS" start="2551" text="the tumor" type="PROBLEM"/>
+<EVENT end="2645" id="E93" modality="FACTUAL" polarity="POS" start="2642" text="CMO" type="TREATMENT"/>
+<EVENT end="2684" id="E94" modality="FACTUAL" polarity="POS" start="2671" text="morphine drip" type="TREATMENT"/>
+<EVENT end="2782" id="E95" modality="FACTUAL" polarity="POS" start="2778" text="died" type="OCCURRENCE"/>
+<EVENT end="2830" id="E96" modality="FACTUAL" polarity="POS" start="2827" text="CMO" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="319" id="E8" modality="FACTUAL" polarity="POS" start="291" text="anaplastic thyroid carcinoma" type="PROBLEM"/>
+<EVENT end="334" id="E9" modality="FACTUAL" polarity="POS" start="327" text="reports" type="EVIDENTIAL"/>
+<EVENT end="368" id="E10" modality="FACTUAL" polarity="POS" start="351" text="a right neck mass" type="PROBLEM"/>
+<EVENT end="392" id="E11" modality="FACTUAL" polarity="POS" start="384" text="The mass" type="PROBLEM"/>
+<EVENT end="404" id="E12" modality="FACTUAL" polarity="POS" start="393" text="grew larger" type="OCCURRENCE"/>
+<EVENT end="454" id="E13" modality="POSSIBLE" polarity="POS" start="451" text="FNA" type="TEST"/>
+<EVENT end="528" id="E14" modality="FACTUAL" polarity="POS" start="511" text="anaplastic tumors" type="PROBLEM"/>
+<EVENT end="548" id="E15" modality="POSSIBLE" polarity="POS" start="540" text="necrotic" type="PROBLEM"/>
+<EVENT end="561" id="E16" modality="FACTUAL" polarity="POS" start="553" text="The mass" type="PROBLEM"/>
+<EVENT end="582" id="E17" modality="FACTUAL" polarity="POS" start="576" text="cystic" type="PROBLEM"/>
+<EVENT end="615" id="E18" modality="FACTUAL" polarity="POS" start="606" text="aspirated" type="TREATMENT"/>
+<EVENT end="649" id="E98" modality="FACTUAL" polarity="POS" start="641" text="decrease" type="OCCURRENCE"/>
+<EVENT end="712" id="E19" modality="PROPOSED" polarity="POS" start="705" text="surgery" type="TREATMENT"/>
+<EVENT end="732" id="E20" modality="FACTUAL" polarity="POS" start="724" text="deferred" type="OCCURRENCE"/>
+<EVENT end="746" id="E21" modality="FACTUAL" polarity="POS" start="739" text="syncope" type="PROBLEM"/>
+<EVENT end="766" id="E22" modality="FACTUAL" polarity="POS" start="751" text="pacer placement" type="TREATMENT"/>
+<EVENT end="775" id="E23" modality="FACTUAL" polarity="POS" start="771" text="SSS;" type="PROBLEM"/>
+<EVENT end="790" id="E24" modality="FACTUAL" polarity="POS" start="776" text="again deferred" type="OCCURRENCE"/>
+<EVENT end="813" id="E25" modality="FACTUAL" polarity="POS" start="809" text="URI;" type="PROBLEM"/>
+<EVENT end="837" id="E26" modality="PROPOSED" polarity="POS" start="830" text="surgery" type="TREATMENT"/>
+<EVENT end="877" id="E27" modality="FACTUAL" polarity="POS" start="869" text="his USOH" type="OCCURRENCE"/>
+<EVENT end="921" id="E28" modality="FACTUAL" polarity="POS" start="916" text="a URI" type="PROBLEM"/>
+<EVENT end="949" id="E29" modality="FACTUAL" polarity="POS" start="939" text="dry cough;" type="PROBLEM"/>
+<EVENT end="958" id="E30" modality="FACTUAL" polarity="NEG" start="953" text="fever" type="PROBLEM"/>
+<EVENT end="967" id="E31" modality="FACTUAL" polarity="POS" start="961" text="chills" type="PROBLEM"/>
+<EVENT end="981" id="E32" modality="FACTUAL" polarity="POS" start="970" text="sore throat" type="PROBLEM"/>
+<EVENT end="992" id="E33" modality="FACTUAL" polarity="POS" start="984" text="myalgias" type="PROBLEM"/>
+
+
+<ATIMEX3 end="1100" id="T13" mod="NA" start="1094" text="2 days" type="DATE" val="2018-04-21"/>
+<ATIMEX3 end="1147" id="T14" mod="NA" start="1141" text="2 days" type="DATE" val="2018-04-21"/>
+<ATIMEX3 end="1237" id="T15" mod="NA" start="1232" text="1 day" type="DATE" val="2018-04-22"/>
+
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2018-04-23" type="DATE" val="2018-04-23"/>
+
+<ATIMEX3 end="2169" id="T17" mod="NA" start="2159" text="2018-04-24" type="DATE" val="2018-04-24"/>
+<ATIMEX3 end="228" id="T2" mod="NA" start="218" text="2018-04-22" type="DATE" val="2018-04-22"/>
+<RTIMEX3 end="2403" id="T18" mod="START" start="2392" text="the morning" type="DATE" val="2017-04-30"/>
+
+<ATIMEX3 end="2846" id="T19" mod="NA" start="2836" text="2018-05-01" type="DATE" val="2018-05-01"/>
+<RTIMEX3 end="381" id="T3" mod="NA" start="369" text="last October" type="DATE" val="2017-10"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2018-05-01" type="DATE" val="2018-05-01"/>
+
+<RTIMEX3 end="719" id="T5" mod="NA" start="716" text="Oct" type="DATE" val="2018-10"/>
+<ATIMEX3 end="738" id="T6" mod="NA" start="733" text="04-05" type="DATE" val="2018-04-05"/>
+<ATIMEX3 end="808" id="T7" mod="NA" start="791" text="2 weeks ago 04-05" type="DATE" val="2018-04-05"/>
+<RTIMEX3 end="850" id="T8" mod="APPROX" start="838" text="this Thurday" type="DATE" val="2018-04-26"/>
+<ATIMEX3 end="897" id="T9" mod="APPROX" start="884" text="2-3 weeks ago" type="DATE" val="2018-04-05"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2018-04-23" end="28" id="S0" start="18" text="2018-04-23" type="ADMISSION"/>
+<SECTIME dvalue="2018-05-01" end="56" id="S1" start="46" text="2018-05-01" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

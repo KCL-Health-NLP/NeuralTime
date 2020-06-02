@@ -1,0 +1,107 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+05/29/2000
+DISCHARGE DATE :
+05/30/2000
+HISTORY OF PRESENT ILLNESS :
+The patient is a 51 year-old female , with a non-toxic multinodular goiter .
+She has developed symptoms from a right lower dominant nodule with pressure discomfort in the neck .
+She has no dyspnea or dysphagia .
+She is euthyroid .
+There is no family history of thyroid cancer .
+She has not received prior radiation exposure .
+HOSPITAL COURSE :
+On 5-29-00 , she underwent thyroidectomy with removal of a 3.3 centimeter right lobe microfollicular adenoma and left lobe 6 mm .
+papillary carcinoma .
+There was no evidence of any middle compartment lymphadenopathy or spread of the tumor outside the thyroid .
+She had an uncomplicated postoperative recovery period .
+Her sutures were removed on postoperative day # one , at which time she went home in satisfactory condition .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="160" id="E15" modality="FACTUAL" polarity="POS" start="129" text="a non-toxic multinodular goiter" type="PROBLEM"/>
+<EVENT end="189" id="E1" modality="FACTUAL" polarity="POS" start="181" text="symptoms" type="PROBLEM"/>
+<EVENT end="224" id="E2" modality="FACTUAL" polarity="POS" start="195" text="a right lower dominant nodule" type="PROBLEM"/>
+<EVENT end="261" id="E3" modality="FACTUAL" polarity="POS" start="230" text="pressure discomfort in the neck" type="PROBLEM"/>
+<EVENT end="282" id="E4" modality="FACTUAL" polarity="NEG" start="275" text="dyspnea" type="PROBLEM"/>
+<EVENT end="295" id="E5" modality="FACTUAL" polarity="NEG" start="286" text="dysphagia" type="PROBLEM"/>
+<EVENT end="38" id="E14" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="314" id="E16" modality="FACTUAL" polarity="POS" start="305" text="euthyroid" type="OCCURRENCE"/>
+<EVENT end="361" id="E17" modality="FACTUAL" polarity="NEG" start="329" text="family history of thyroid cancer" type="OCCURRENCE"/>
+<EVENT end="409" id="E6" modality="FACTUAL" polarity="NEG" start="385" text="prior radiation exposure" type="TREATMENT"/>
+<EVENT end="470" id="E7" modality="FACTUAL" polarity="POS" start="457" text="thyroidectomy" type="TREATMENT"/>
+<EVENT end="483" id="E8" modality="FACTUAL" polarity="POS" start="476" text="removal" type="TREATMENT"/>
+<EVENT end="538" id="E19" modality="FACTUAL" polarity="POS" start="515" text="microfollicular adenoma" type="PROBLEM"/>
+<EVENT end="579" id="E10" modality="FACTUAL" polarity="POS" start="560" text="papillary carcinoma" type="PROBLEM"/>
+<EVENT end="603" id="E21" modality="FACTUAL" polarity="NEG" start="595" text="evidence" type="EVIDENTIAL"/>
+<EVENT end="645" id="E20" modality="FACTUAL" polarity="NEG" start="611" text="middle compartment lymphadenopathy" type="OCCURRENCE"/>
+<EVENT end="655" id="E22" modality="FACTUAL" polarity="POS" start="649" text="spread" type="PROBLEM"/>
+<EVENT end="668" id="E23" modality="FACTUAL" polarity="POS" start="659" text="the tumor" type="PROBLEM"/>
+<EVENT end="715" id="E13" modality="FACTUAL" polarity="POS" start="699" text="an uncomplicated" type="OCCURRENCE"/>
+<EVENT end="745" id="E26" modality="FACTUAL" polarity="POS" start="730" text="recovery period" type="OCCURRENCE"/>
+<EVENT end="759" id="E12" modality="FACTUAL" polarity="POS" start="748" text="Her sutures" type="TREATMENT"/>
+<EVENT end="829" id="E24" modality="FACTUAL" polarity="POS" start="825" text="home" type="OCCURRENCE"/>
+<EVENT end="855" id="E25" modality="FACTUAL" polarity="POS" start="833" text="satisfactory condition" type="OCCURRENCE"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="05/29/2000" type="DATE" val="2000-05-29"/>
+<ATIMEX3 end="440" id="T3" mod="NA" start="433" text="5-29-00" type="DATE" val="2000-05-29"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="05/30/2000" type="DATE" val="2000-05-30"/>
+<RTIMEX3 end="799" id="T0" mod="NA" start="776" text="postoperative day # one" type="DATE" val="2000-05-30"/>
+<RTIMEX3 end="815" id="T4" mod="NA" start="811" text="time" type="DATE" val="2000-05-30"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2000-05-29" end="28" id="S0" start="18" text="05/29/2000" type="ADMISSION"/>
+<SECTIME dvalue="2000-05-30" end="56" id="S1" start="46" text="05/30/2000" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

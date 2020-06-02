@@ -1,0 +1,471 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+01/05/1994
+Discharge Date :
+01/25/1994
+HISTORY OF PRESENT ILLNESS :
+The patient is a 49 year old woman with a metastatic adenocarcinoma of the breast who is status post high dose chemotherapy with PBSE and CCSS support ending June 1994 .
+She was admitted on 1-5-94 for fever , chest wall ulceration , cellulitis and pain control .
+The patient first presented in October 1991 with a tender right axillary mass .
+A mammogram done in November 1990 was negative .
+However , mammography repeated in October 1991 showed bilateral breast masses , suspicious for carcinoma .
+Fine needle aspiration on October 23 , 1991 demonstrated atypical cells which occurred singly and in clusters .
+Staging evaluation included normal liver function tests , normal blood counts and normal chest x-ray .
+Bone scan showed degenerative joint disease in the shoulders and lumbar spine as well as increased radio chaser uptake in the breast bilaterally .
+Dr. Berca Gachfrum performed a right modified mastectomy and left simple mastectomy on November 4 , 1991 .
+The right modified radical mastectomy contained a 5.5 cm poorly differentiated , Grade III out of III infiltrating ductal carcinoma .
+The margins were free of tumor , but 10 out of 21 lymph nodes were positive for metastatic carcinoma .
+Furthermore there was a mass on the right pectoralis muscle which is supposed to be metastatic cancer .
+The left simple mastectomy also contained 5.5 cm poorly differentiated infiltrating ductal and intraductal carcinoma with extensive lymphatic vessel invasion .
+Estrogen receptor was 0% by ERICA .
+The patient developed a large hematoma requiring surgical drainage .
+Therefore she had a Stage III-A adenocarcinoma of the breast .
+Since she was at high risk for both local and metastatic recurrence of her tumor , she received both systemic chemotherapy and radiation therapy .
+The patient was treated with CMSAP , which is Cytoxan , Methotrexate , Leukovoranrescue , 5-FU , Adriamycin and Prednisone for four cycles .
+There were no dose reductions for mucositis or myelosuppression .
+However , following cycle 4 , she developed a flu-like illness , followed by fever , nonproductive cough and dyspnea on exertion .
+ABGs showed a pO2 of 79 , pH 7.44 , pO2 33 .
+Chest x-ray showed diffuse interstitial infiltrates .
+The differential diagnosis included viral pneumonitis , Mycoplasma , Chlamydia .
+Basically in December 1993 , she returned to the Hem / Onc Clinic with chest wall nodules which turned out to be tumor recurrences and biopsied .
+Although she had mediastinal recurrence , bone scan , head and liver CT were negative for metastatic disease .
+She was thus started on a Protocol of high dose chemotherapy with GCSF and peripheral stem cell support .
+Complications has mainly included myelosuppression and mucositis .
+She also developed Klebsiella UTI after the second cycle of high dose chemotherapy .
+It was treated with gent and Cipro .
+Re-staging done in April 1993 showed a decrease in the pretracheal nodes with question of some lymphangitic spread versus some pneumonitis .
+In May 1994 she received her first course of thiotepa and Velban and Methotrexate , which required some red cell transfusions .
+In mid May she was admitted for fever and neutropenia and at that time had a UTI with blood clots in the urine .
+The patient presents today with complaints of fever and a temperature of 100 .
+She has also been having diarrhea since November and her other complaints of admission include confusion , nausea and vomiting .
+We will include a very thorough HPI with this dictation that was done by Dr. Wedleung .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1030" id="E20" modality="FACTUAL" polarity="POS" start="1008" text="left simple mastectomy" type="TREATMENT"/>
+<EVENT end="1091" id="E21" modality="FACTUAL" polarity="POS" start="1054" text="The right modified radical mastectomy" type="TREATMENT"/>
+<EVENT end="1185" id="E22" modality="FACTUAL" polarity="POS" start="1102" text="a 5.5 cm poorly differentiated , Grade III out of III infiltrating ductal carcinoma" type="PROBLEM"/>
+<EVENT end="1218" id="E23" modality="FACTUAL" polarity="NEG" start="1213" text="tumor" type="PROBLEM"/>
+<EVENT end="167" id="E1" modality="FACTUAL" polarity="POS" start="126" text="a metastatic adenocarcinoma of the breast" type="PROBLEM"/>
+<EVENT end="1288" id="E24" modality="FACTUAL" polarity="POS" start="1268" text="metastatic carcinoma" type="PROBLEM"/>
+<EVENT end="1319" id="E104" modality="FACTUAL" polarity="POS" start="1313" text="a mass" type="PROBLEM"/>
+<EVENT end="1392" id="E105" modality="POSSIBLE" polarity="POS" start="1375" text="metastatic cancer" type="PROBLEM"/>
+<EVENT end="1421" id="E26" modality="FACTUAL" polarity="POS" start="1395" text="The left simple mastectomy" type="TREATMENT"/>
+<EVENT end="1511" id="E27" modality="FACTUAL" polarity="POS" start="1437" text="5.5 cm poorly differentiated infiltrating ductal and intraductal carcinoma" type="PROBLEM"/>
+<EVENT end="1552" id="E28" modality="FACTUAL" polarity="POS" start="1517" text="extensive lymphatic vessel invasion" type="PROBLEM"/>
+<EVENT end="1572" id="E29" modality="FACTUAL" polarity="POS" start="1555" text="Estrogen receptor" type="TEST"/>
+<EVENT end="1629" id="E30" modality="FACTUAL" polarity="POS" start="1613" text="a large hematoma" type="PROBLEM"/>
+<EVENT end="1657" id="E31" modality="FACTUAL" polarity="POS" start="1640" text="surgical drainage" type="TREATMENT"/>
+<EVENT end="1720" id="E32" modality="FACTUAL" polarity="POS" start="1678" text="a Stage III-A adenocarcinoma of the breast" type="PROBLEM"/>
+<EVENT end="1790" id="E106" modality="CONDITIONAL" polarity="POS" start="1759" text="local and metastatic recurrence" type="PROBLEM"/>
+<EVENT end="1803" id="E33" modality="FACTUAL" polarity="POS" start="1794" text="her tumor" type="PROBLEM"/>
+<EVENT end="1845" id="E34" modality="FACTUAL" polarity="POS" start="1824" text="systemic chemotherapy" type="TREATMENT"/>
+<EVENT end="1867" id="E35" modality="FACTUAL" polarity="POS" start="1850" text="radiation therapy" type="TREATMENT"/>
+<EVENT end="209" id="E2" modality="FACTUAL" polarity="POS" start="187" text="high dose chemotherapy" type="TREATMENT"/>
+<EVENT end="1904" id="E36" modality="FACTUAL" polarity="POS" start="1899" text="CMSAP" type="TREATMENT"/>
+<EVENT end="1923" id="E37" modality="FACTUAL" polarity="POS" start="1916" text="Cytoxan" type="TREATMENT"/>
+<EVENT end="1938" id="E38" modality="FACTUAL" polarity="POS" start="1926" text="Methotrexate" type="TREATMENT"/>
+<EVENT end="1957" id="E39" modality="FACTUAL" polarity="POS" start="1941" text="Leukovoranrescue" type="TREATMENT"/>
+<EVENT end="1964" id="E40" modality="FACTUAL" polarity="POS" start="1960" text="5-FU" type="TREATMENT"/>
+<EVENT end="1977" id="E41" modality="FACTUAL" polarity="POS" start="1967" text="Adriamycin" type="TREATMENT"/>
+<EVENT end="1992" id="E42" modality="FACTUAL" polarity="POS" start="1982" text="Prednisone" type="TREATMENT"/>
+<EVENT end="2040" id="E107" modality="FACTUAL" polarity="NEG" start="2025" text="dose reductions" type="TREATMENT"/>
+<EVENT end="2054" id="E43" modality="FACTUAL" polarity="POS" start="2045" text="mucositis" type="PROBLEM"/>
+<EVENT end="2074" id="E44" modality="FACTUAL" polarity="POS" start="2058" text="myelosuppression" type="PROBLEM"/>
+<EVENT end="2104" id="E108" modality="FACTUAL" polarity="POS" start="2097" text="cycle 4" type="TREATMENT"/>
+<EVENT end="2139" id="E45" modality="FACTUAL" polarity="POS" start="2121" text="a flu-like illness" type="PROBLEM"/>
+<EVENT end="219" id="E3" modality="FACTUAL" polarity="POS" start="215" text="PBSE" type="TREATMENT"/>
+<EVENT end="2159" id="E46" modality="FACTUAL" polarity="POS" start="2154" text="fever" type="PROBLEM"/>
+<EVENT end="2181" id="E47" modality="FACTUAL" polarity="POS" start="2162" text="nonproductive cough" type="PROBLEM"/>
+<EVENT end="2193" id="E48" modality="FACTUAL" polarity="POS" start="2186" text="dyspnea" type="PROBLEM"/>
+<EVENT end="2212" id="E49" modality="FACTUAL" polarity="POS" start="2208" text="ABGs" type="TEST"/>
+<EVENT end="2219" id="E109" modality="FACTUAL" polarity="POS" start="2213" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2225" id="E50" modality="FACTUAL" polarity="POS" start="2220" text="a pO2" type="TEST"/>
+<EVENT end="236" id="E4" modality="FACTUAL" polarity="POS" start="224" text="CCSS support" type="TREATMENT"/>
+<EVENT end="2236" id="E51" modality="FACTUAL" polarity="POS" start="2234" text="pH" type="TEST"/>
+<EVENT end="2247" id="E110" modality="FACTUAL" polarity="POS" start="2244" text="pO2" type="TEST"/>
+<EVENT end="2264" id="E52" modality="FACTUAL" polarity="POS" start="2253" text="Chest x-ray" type="TEST"/>
+<EVENT end="2271" id="E111" modality="FACTUAL" polarity="POS" start="2265" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2304" id="E53" modality="FACTUAL" polarity="POS" start="2272" text="diffuse interstitial infiltrates" type="PROBLEM"/>
+<EVENT end="2333" id="E91" modality="FACTUAL" polarity="POS" start="2307" text="The differential diagnosis" type="OCCURRENCE"/>
+<EVENT end="2360" id="E112" modality="POSSIBLE" polarity="POS" start="2343" text="viral pneumonitis" type="PROBLEM"/>
+<EVENT end="2373" id="E113" modality="POSSIBLE" polarity="POS" start="2363" text="Mycoplasma" type="PROBLEM"/>
+<EVENT end="2385" id="E114" modality="POSSIBLE" polarity="POS" start="2376" text="Chlamydia" type="PROBLEM"/>
+<EVENT end="2453" id="E92" modality="FACTUAL" polarity="POS" start="2433" text="the Hem / Onc Clinic" type="CLINICAL_DEPT"/>
+<EVENT end="2477" id="E54" modality="FACTUAL" polarity="POS" start="2459" text="chest wall nodules" type="PROBLEM"/>
+<EVENT end="2518" id="E55" modality="FACTUAL" polarity="POS" start="2501" text="tumor recurrences" type="PROBLEM"/>
+<EVENT end="2531" id="E115" modality="FACTUAL" polarity="POS" start="2523" text="biopsied" type="TEST"/>
+<EVENT end="2573" id="E56" modality="FACTUAL" polarity="POS" start="2551" text="mediastinal recurrence" type="PROBLEM"/>
+<EVENT end="2585" id="E57" modality="FACTUAL" polarity="POS" start="2576" text="bone scan" type="TEST"/>
+<EVENT end="2605" id="E58" modality="FACTUAL" polarity="POS" start="2588" text="head and liver CT" type="TEST"/>
+<EVENT end="2619" id="E116" modality="FACTUAL" polarity="POS" start="2611" text="negative" type="TEST"/>
+<EVENT end="2642" id="E59" modality="FACTUAL" polarity="NEG" start="2624" text="metastatic disease" type="PROBLEM"/>
+<EVENT end="272" id="E88" modality="FACTUAL" polarity="POS" start="264" text="admitted" type="OCCURRENCE"/>
+<EVENT end="2705" id="E60" modality="FACTUAL" polarity="POS" start="2683" text="high dose chemotherapy" type="TREATMENT"/>
+<EVENT end="2715" id="E61" modality="FACTUAL" polarity="POS" start="2711" text="GCSF" type="TREATMENT"/>
+<EVENT end="2748" id="E62" modality="FACTUAL" polarity="POS" start="2720" text="peripheral stem cell support" type="TREATMENT"/>
+<EVENT end="2764" id="E63" modality="FACTUAL" polarity="POS" start="2751" text="Complications" type="PROBLEM"/>
+<EVENT end="2801" id="E64" modality="FACTUAL" polarity="POS" start="2785" text="myelosuppression" type="PROBLEM"/>
+<EVENT end="2815" id="E65" modality="FACTUAL" polarity="POS" start="2806" text="mucositis" type="PROBLEM"/>
+<EVENT end="2851" id="E66" modality="FACTUAL" polarity="POS" start="2837" text="Klebsiella UTI" type="PROBLEM"/>
+<EVENT end="292" id="E5" modality="FACTUAL" polarity="POS" start="287" text="fever" type="PROBLEM"/>
+<EVENT end="2874" id="E117" modality="FACTUAL" polarity="POS" start="2858" text="the second cycle" type="TREATMENT"/>
+<EVENT end="2900" id="E67" modality="FACTUAL" polarity="POS" start="2878" text="high dose chemotherapy" type="TREATMENT"/>
+<EVENT end="38" id="E87" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2927" id="E68" modality="FACTUAL" polarity="POS" start="2923" text="gent" type="TREATMENT"/>
+<EVENT end="2937" id="E69" modality="FACTUAL" polarity="POS" start="2932" text="Cipro" type="TREATMENT"/>
+<EVENT end="2950" id="E70" modality="FACTUAL" polarity="POS" start="2940" text="Re-staging" type="TEST"/>
+<EVENT end="316" id="E6" modality="FACTUAL" polarity="POS" start="295" text="chest wall ulceration" type="PROBLEM"/>
+<EVENT end="2976" id="E118" modality="FACTUAL" polarity="POS" start="2970" text="showed" type="EVIDENTIAL"/>
+<EVENT end="3012" id="E119" modality="FACTUAL" polarity="POS" start="2977" text="a decrease in the pretracheal nodes" type="OCCURRENCE"/>
+<EVENT end="3054" id="E71" modality="POSSIBLE" polarity="POS" start="3030" text="some lymphangitic spread" type="PROBLEM"/>
+<EVENT end="3078" id="E72" modality="POSSIBLE" polarity="POS" start="3062" text="some pneumonitis" type="PROBLEM"/>
+<EVENT end="3122" id="E120" modality="FACTUAL" polarity="POS" start="3106" text="her first course" type="OCCURRENCE"/>
+<EVENT end="3134" id="E73" modality="FACTUAL" polarity="POS" start="3126" text="thiotepa" type="TREATMENT"/>
+<EVENT end="3145" id="E74" modality="FACTUAL" polarity="POS" start="3139" text="Velban" type="TREATMENT"/>
+<EVENT end="3162" id="E75" modality="FACTUAL" polarity="POS" start="3150" text="Methotrexate" type="TREATMENT"/>
+<EVENT end="3206" id="E76" modality="FACTUAL" polarity="POS" start="3180" text="some red cell transfusions" type="TREATMENT"/>
+<EVENT end="329" id="E7" modality="FACTUAL" polarity="POS" start="319" text="cellulitis" type="PROBLEM"/>
+<EVENT end="3236" id="E121" modality="FACTUAL" polarity="POS" start="3228" text="admitted" type="OCCURRENCE"/>
+<EVENT end="3246" id="E77" modality="FACTUAL" polarity="POS" start="3241" text="fever" type="PROBLEM"/>
+<EVENT end="3262" id="E78" modality="FACTUAL" polarity="POS" start="3251" text="neutropenia" type="PROBLEM"/>
+<EVENT end="3289" id="E79" modality="FACTUAL" polarity="POS" start="3284" text="a UTI" type="PROBLEM"/>
+<EVENT end="3319" id="E80" modality="FACTUAL" polarity="POS" start="3295" text="blood clots in the urine" type="PROBLEM"/>
+<EVENT end="346" id="E8" modality="FACTUAL" polarity="POS" start="334" text="pain control" type="TREATMENT"/>
+<EVENT end="3342" id="E122" modality="FACTUAL" polarity="POS" start="3334" text="presents" type="OCCURRENCE"/>
+<EVENT end="3364" id="E123" modality="FACTUAL" polarity="POS" start="3354" text="complaints" type="EVIDENTIAL"/>
+<EVENT end="3373" id="E81" modality="FACTUAL" polarity="POS" start="3368" text="fever" type="PROBLEM"/>
+<EVENT end="3391" id="E82" modality="FACTUAL" polarity="POS" start="3378" text="a temperature" type="TEST"/>
+<EVENT end="3434" id="E83" modality="FACTUAL" polarity="POS" start="3426" text="diarrhea" type="PROBLEM"/>
+<EVENT end="3474" id="E124" modality="FACTUAL" polarity="POS" start="3464" text="complaints" type="EVIDENTIAL"/>
+<EVENT end="3487" id="E93" modality="FACTUAL" polarity="POS" start="3478" text="admission" type="OCCURRENCE"/>
+<EVENT end="3505" id="E84" modality="FACTUAL" polarity="POS" start="3496" text="confusion" type="PROBLEM"/>
+<EVENT end="3514" id="E85" modality="FACTUAL" polarity="POS" start="3508" text="nausea" type="PROBLEM"/>
+<EVENT end="3527" id="E86" modality="FACTUAL" polarity="POS" start="3519" text="vomiting" type="PROBLEM"/>
+<EVENT end="376" id="E94" modality="FACTUAL" polarity="POS" start="367" text="presented" type="OCCURRENCE"/>
+<EVENT end="426" id="E9" modality="FACTUAL" polarity="POS" start="398" text="a tender right axillary mass" type="PROBLEM"/>
+<EVENT end="440" id="E95" modality="FACTUAL" polarity="POS" start="429" text="A mammogram" type="TEST"/>
+<EVENT end="475" id="E96" modality="FACTUAL" polarity="POS" start="467" text="negative" type="TEST"/>
+<EVENT end="499" id="E10" modality="FACTUAL" polarity="POS" start="488" text="mammography" type="TEST"/>
+<EVENT end="531" id="E97" modality="FACTUAL" polarity="POS" start="525" text="showed" type="EVIDENTIAL"/>
+<EVENT end="555" id="E11" modality="FACTUAL" polarity="POS" start="532" text="bilateral breast masses" type="PROBLEM"/>
+<EVENT end="582" id="E12" modality="POSSIBLE" polarity="POS" start="573" text="carcinoma" type="PROBLEM"/>
+<EVENT end="607" id="E13" modality="FACTUAL" polarity="POS" start="585" text="Fine needle aspiration" type="TEST"/>
+<EVENT end="641" id="E98" modality="FACTUAL" polarity="POS" start="629" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="656" id="E14" modality="FACTUAL" polarity="POS" start="642" text="atypical cells" type="PROBLEM"/>
+<EVENT end="715" id="E15" modality="FACTUAL" polarity="POS" start="697" text="Staging evaluation" type="TEST"/>
+<EVENT end="752" id="E89" modality="FACTUAL" polarity="POS" start="725" text="normal liver function tests" type="TEST"/>
+<EVENT end="774" id="E90" modality="FACTUAL" polarity="POS" start="755" text="normal blood counts" type="TEST"/>
+<EVENT end="797" id="E99" modality="FACTUAL" polarity="POS" start="779" text="normal chest x-ray" type="TEST"/>
+<EVENT end="809" id="E16" modality="FACTUAL" polarity="POS" start="800" text="Bone scan" type="TEST"/>
+<EVENT end="816" id="E100" modality="FACTUAL" polarity="POS" start="810" text="showed" type="EVIDENTIAL"/>
+<EVENT end="843" id="E101" modality="FACTUAL" polarity="POS" start="817" text="degenerative joint disease" type="PROBLEM"/>
+<EVENT end="918" id="E103" modality="FACTUAL" polarity="POS" start="889" text="increased radio chaser uptake" type="PROBLEM"/>
+<EVENT end="1003" id="E19" modality="FACTUAL" polarity="POS" start="976" text="a right modified mastectomy" type="TREATMENT"/>
+<RTIMEX3 end="1051" id="T7" mod="NA" start="1034" text="November 4 , 1991" type="DATE" val="1991-11-04"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="01/05/1994" type="DATE" val="1994-01-05"/>
+
+<RTIMEX3 end="2414" id="T8" mod="NA" start="2401" text="December 1993" type="DATE" val="1993-12"/>
+<RTIMEX3 end="253" id="T3" mod="NA" start="244" text="June 1994" type="DATE" val="1994-06"/>
+<ATIMEX3 end="282" id="T9" mod="NA" start="276" text="1-5-94" type="DATE" val="1994-01-05"/>
+<RTIMEX3 end="2969" id="T12" mod="NA" start="2959" text="April 1993" type="DATE" val="1993-04"/>
+<RTIMEX3 end="3092" id="T0" mod="NA" start="3084" text="May 1994" type="DATE" val="1993-05"/>
+<RTIMEX3 end="3219" id="T13" mod="MORE" start="3212" text="mid May" type="DATE" val="1994-05"/>
+<RTIMEX3 end="3279" id="T16" mod="APPROX" start="3270" text="that time" type="DATE" val="1003-05-15"/>
+<RTIMEX3 end="3348" id="T14" mod="NA" start="3343" text="today" type="DATE" val="1994-01-05"/>
+<RTIMEX3 end="3449" id="T15" mod="NA" start="3441" text="November" type="DATE" val="1993-11"/>
+<RTIMEX3 end="392" id="T4" mod="NA" start="380" text="October 1991" type="DATE" val="1991-10"/>
+<RTIMEX3 end="462" id="T5" mod="NA" start="449" text="November 1990" type="DATE" val="1990-11"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="01/25/1994" type="DATE" val="1994-01-25"/>
+<RTIMEX3 end="524" id="T6" mod="NA" start="512" text="October 1991" type="DATE" val="1991-10"/>
+<RTIMEX3 end="628" id="T10" mod="NA" start="611" text="October 23 , 1991" type="DATE" val="1991-10-23"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-01-05" end="28" id="S0" start="18" text="01/05/1994" type="ADMISSION"/>
+<SECTIME dvalue="1994-01-25" end="56" id="S1" start="46" text="01/25/1994" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

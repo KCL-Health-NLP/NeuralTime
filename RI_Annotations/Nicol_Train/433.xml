@@ -1,0 +1,242 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+02/04/1990
+Discharge Date :
+02/12/1990
+HISTORY OF PRESENT ILLNESS :
+The patient is a 52-year-old right handed male with a many year history of bilateral shoulder pain , right greater than left .
+He has steroid injections in the right and in the left four times .
+Arthrogram in the distant past showed a right rotator cuff tear and he now has increased pain in his left shoulder .
+MRI by report showed bilateral rotator cuff repairs and he was admitted for repair of the left rotator cuff .
+HOSPITAL COURSE :
+The patient was admitted with the assessment of left rotator cuff repair and he was taken to the Operating Room on the day of admission where he underwent left rotator cuff repair under general endotracheal tube anesthesia .
+There were no intraoperative complications .
+His postoperative course was generally unremarkable except for a prolonged course of advancement with range of motion of his left shoulder .
+Occupational therapy became involved initially and he remained on patient controlled analgesia secondary to problems with left shoulder pain .
+He was kept in the hospital for an extended period to improve his postoperative range of motion .
+However , he was eventually able to achieve forward flexion of 135 degrees and external rotation of 30 degrees by postoperative day number eight .
+His wound remained clean and dry and showed no signs of infection and healed well .
+However , his course was otherwise complicated by discovery of persistently elevated blood sugars and Endocrinology was consulted to rule out possible newly diagnosed diabetes .
+His hemoglobin A1C levels actually came back within normal limits , however , the wide excursions of his sugars were consistent with possible diabetes .
+He was placed on a diabetic diet and his sugars did show some improvement .
+It was not necessary to start him on oral hypoglycemics or insulin .
+He also complained of occasional spells and jitteriness and some orthostatic dizziness and thus Neurology was consulted and EMG &apos;s were performed which were normal .
+His neurologist was contacted , Dr. Cap , and the exact of his problems was not demonstrated during this hospitalization , however , they felt that this could possibly be an autonomic type neuropathy maybe secondary to some underlying diabetic process .
+Further work-up of his neurologic conditions were planned as an outpatient .
+Thus , he was discharged on postoperative day number eight in good condition with a well healed left shoulder wound and doing well with occupational therapy with plans for him to follow-up with Dr. Necessary .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1031" id="E11" modality="FACTUAL" polarity="POS" start="1003" text="patient controlled analgesia" type="TREATMENT"/>
+<EVENT end="1077" id="E12" modality="FACTUAL" polarity="POS" start="1059" text="left shoulder pain" type="PROBLEM"/>
+<EVENT end="1107" id="E39" modality="FACTUAL" polarity="POS" start="1095" text="the hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1175" id="E40" modality="FACTUAL" polarity="POS" start="1142" text="his postoperative range of motion" type="PROBLEM"/>
+<EVENT end="1237" id="E41" modality="FACTUAL" polarity="POS" start="1222" text="forward flexion" type="TEST"/>
+<EVENT end="1274" id="E42" modality="FACTUAL" polarity="POS" start="1257" text="external rotation" type="TEST"/>
+<EVENT end="1334" id="E13" modality="FACTUAL" polarity="POS" start="1325" text="His wound" type="PROBLEM"/>
+<EVENT end="1390" id="E14" modality="FACTUAL" polarity="NEG" start="1372" text="signs of infection" type="PROBLEM"/>
+<EVENT end="1406" id="E43" modality="FACTUAL" polarity="POS" start="1395" text="healed well" type="OCCURRENCE"/>
+<EVENT end="1429" id="E44" modality="FACTUAL" polarity="POS" start="1419" text="his course" type="OCCURRENCE"/>
+<EVENT end="1506" id="E45" modality="FACTUAL" polarity="POS" start="1472" text="persistently elevated blood sugars" type="PROBLEM"/>
+<EVENT end="1524" id="E46" modality="FACTUAL" polarity="POS" start="1511" text="Endocrinology" type="CLINICAL_DEPT"/>
+<EVENT end="1584" id="E47" modality="POSSIBLE" polarity="POS" start="1560" text="newly diagnosed diabetes" type="PROBLEM"/>
+<EVENT end="1612" id="E15" modality="FACTUAL" polarity="POS" start="1587" text="His hemoglobin A1C levels" type="TEST"/>
+<EVENT end="184" id="E1" modality="FACTUAL" polarity="POS" start="161" text="bilateral shoulder pain" type="PROBLEM"/>
+<EVENT end="1684" id="E48" modality="FACTUAL" polarity="POS" start="1665" text="the wide excursions" type="PROBLEM"/>
+<EVENT end="1698" id="E49" modality="FACTUAL" polarity="POS" start="1688" text="his sugars" type="TEST"/>
+<EVENT end="1737" id="E50" modality="POSSIBLE" polarity="POS" start="1729" text="diabetes" type="PROBLEM"/>
+<EVENT end="1772" id="E16" modality="FACTUAL" polarity="POS" start="1757" text="a diabetic diet" type="TREATMENT"/>
+<EVENT end="1787" id="E17" modality="FACTUAL" polarity="POS" start="1777" text="his sugars" type="TEST"/>
+<EVENT end="1813" id="E51" modality="FACTUAL" polarity="POS" start="1797" text="some improvement" type="OCCURRENCE"/>
+<EVENT end="1871" id="E18" modality="FACTUAL" polarity="NEG" start="1853" text="oral hypoglycemics" type="TREATMENT"/>
+<EVENT end="1882" id="E19" modality="FACTUAL" polarity="NEG" start="1875" text="insulin" type="TREATMENT"/>
+<EVENT end="1903" id="E52" modality="FACTUAL" polarity="POS" start="1893" text="complained" type="EVIDENTIAL"/>
+<EVENT end="1924" id="E20" modality="FACTUAL" polarity="POS" start="1907" text="occasional spells" type="PROBLEM"/>
+<EVENT end="1940" id="E53" modality="FACTUAL" polarity="POS" start="1929" text="jitteriness" type="PROBLEM"/>
+<EVENT end="1971" id="E54" modality="FACTUAL" polarity="POS" start="1945" text="some orthostatic dizziness" type="PROBLEM"/>
+<EVENT end="1990" id="E55" modality="FACTUAL" polarity="POS" start="1981" text="Neurology" type="CLINICAL_DEPT"/>
+<EVENT end="2020" id="E21" modality="FACTUAL" polarity="POS" start="2009" text="EMG 's" type="TEST"/>
+<EVENT end="2053" id="E56" modality="FACTUAL" polarity="POS" start="2047" text="normal" type="EVIDENTIAL"/>
+<EVENT end="2071" id="E57" modality="FACTUAL" polarity="POS" start="2056" text="His neurologist" type="CLINICAL_DEPT"/>
+<EVENT end="2127" id="E58" modality="FACTUAL" polarity="NEG" start="2115" text="his problems" type="PROBLEM"/>
+<EVENT end="2148" id="E59" modality="FACTUAL" polarity="NEG" start="2136" text="demonstrated" type="EVIDENTIAL"/>
+<EVENT end="2176" id="E60" modality="FACTUAL" polarity="POS" start="2156" text="this hospitalization" type="OCCURRENCE"/>
+<EVENT end="238" id="E2" modality="FACTUAL" polarity="POS" start="220" text="steroid injections" type="TREATMENT"/>
+<EVENT end="2255" id="E61" modality="POSSIBLE" polarity="POS" start="2227" text="an autonomic type neuropathy" type="PROBLEM"/>
+<EVENT end="2307" id="E22" modality="POSSIBLE" polarity="POS" start="2275" text="some underlying diabetic process" type="PROBLEM"/>
+<EVENT end="2325" id="E23" modality="FACTUAL" polarity="POS" start="2310" text="Further work-up" type="TEST"/>
+<EVENT end="2354" id="E24" modality="FACTUAL" polarity="POS" start="2329" text="his neurologic conditions" type="PROBLEM"/>
+<EVENT end="2411" id="E29" modality="FACTUAL" polarity="POS" start="2401" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2463" id="E62" modality="FACTUAL" polarity="POS" start="2449" text="good condition" type="EVIDENTIAL"/>
+<EVENT end="2502" id="E63" modality="FACTUAL" polarity="POS" start="2469" text="a well healed left shoulder wound" type="PROBLEM"/>
+<EVENT end="2517" id="E64" modality="FACTUAL" polarity="POS" start="2507" text="doing well" type="EVIDENTIAL"/>
+<EVENT end="2543" id="E65" modality="FACTUAL" polarity="POS" start="2523" text="occupational therapy" type="TREATMENT"/>
+<EVENT end="2575" id="E66" modality="FACTUAL" polarity="POS" start="2566" text="follow-up" type="OCCURRENCE"/>
+<EVENT end="291" id="E3" modality="FACTUAL" polarity="POS" start="281" text="Arthrogram" type="TEST"/>
+<EVENT end="38" id="E30" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="318" id="E25" modality="FACTUAL" polarity="POS" start="312" text="showed" type="EVIDENTIAL"/>
+<EVENT end="344" id="E4" modality="FACTUAL" polarity="POS" start="319" text="a right rotator cuff tear" type="PROBLEM"/>
+<EVENT end="395" id="E5" modality="FACTUAL" polarity="POS" start="360" text="increased pain in his left shoulder" type="PROBLEM"/>
+<EVENT end="401" id="E31" modality="FACTUAL" polarity="POS" start="398" text="MRI" type="TEST"/>
+<EVENT end="418" id="E32" modality="FACTUAL" polarity="POS" start="412" text="showed" type="EVIDENTIAL"/>
+<EVENT end="449" id="E33" modality="FACTUAL" polarity="POS" start="419" text="bilateral rotator cuff repairs" type="TREATMENT"/>
+<EVENT end="469" id="E26" modality="FACTUAL" polarity="POS" start="461" text="admitted" type="OCCURRENCE"/>
+<EVENT end="505" id="E6" modality="FACTUAL" polarity="POS" start="474" text="repair of the left rotator cuff" type="TREATMENT"/>
+<EVENT end="550" id="E27" modality="FACTUAL" polarity="POS" start="542" text="admitted" type="OCCURRENCE"/>
+<EVENT end="570" id="E7" modality="FACTUAL" polarity="POS" start="556" text="the assessment" type="TEST"/>
+<EVENT end="598" id="E8" modality="FACTUAL" polarity="POS" start="574" text="left rotator cuff repair" type="TREATMENT"/>
+<EVENT end="637" id="E34" modality="FACTUAL" polarity="POS" start="619" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="705" id="E35" modality="FACTUAL" polarity="POS" start="681" text="left rotator cuff repair" type="TREATMENT"/>
+<EVENT end="748" id="E9" modality="FACTUAL" polarity="POS" start="712" text="general endotracheal tube anesthesia" type="TREATMENT"/>
+<EVENT end="793" id="E10" modality="FACTUAL" polarity="NEG" start="765" text="intraoperative complications" type="PROBLEM"/>
+<EVENT end="820" id="E36" modality="FACTUAL" polarity="POS" start="796" text="His postoperative course" type="OCCURRENCE"/>
+<EVENT end="913" id="E37" modality="FACTUAL" polarity="POS" start="859" text="a prolonged course of advancement with range of motion" type="PROBLEM"/>
+<EVENT end="957" id="E38" modality="FACTUAL" polarity="POS" start="937" text="Occupational therapy" type="CLINICAL_DEPT"/>
+
+<RTIMEX3 end="1322" id="T8" mod="NA" start="1292" text="postoperative day number eight" type="DATE" val="1990-02-12"/>
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="02/04/1990" type="DATE" val="1990-02-04"/>
+<RTIMEX3 end="2445" id="T9" mod="NA" start="2415" text="postoperative day number eight" type="DATE" val="1990-02-12"/>
+
+<RTIMEX3 end="311" id="T5" mod="APPROX" start="295" text="the distant past" type="DATE" val="1985"/>
+<RTIMEX3 end="355" id="T6" mod="NA" start="352" text="now" type="DATE" val="1990-02-04"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="02/12/1990" type="DATE" val="1990-02-12"/>
+<RTIMEX3 end="648" id="T3" mod="NA" start="641" text="the day" type="DATE" val="1990-02-04"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1990-02-04" end="28" id="S0" start="18" text="02/04/1990" type="ADMISSION"/>
+<SECTIME dvalue="1990-02-12" end="56" id="S1" start="46" text="02/12/1990" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

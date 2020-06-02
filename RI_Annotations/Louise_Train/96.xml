@@ -1,0 +1,186 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+11/17/2003
+Discharge Date :
+12/22/2003
+HISTORY OF PRESENT ILLNESS :
+This is a 57-year-old female status post ERT with recurrence of a pelvic mass and resection at an outside hospital in 06/22 .
+Per the patient , the mass was benign .
+The patient developed severe left lower quadrant pain in 07/24 .
+An MRI was done on 08/27/03 that showed an 8 cm left lower quadrant mass with both cystic and solid components .
+The patient was started on Lupron on 10/18/03 , but pain was not affected .
+She was put on Vicodin ES and Ultram with minimal relief .
+On 11/16/03 , the patient &apos;s pain increased and she presented to an outside hospital with nausea and vomiting and an inability to tolerate p.o. intake .
+The left lower quadrant pain in the groin radiated to the left knee .
+No fevers or chills , no vaginal discharge or bleeding .
+Potassium at the outside hospital was 3.1 .
+White count was 27.3 with 16% bands .
+Hematocrit was 28.7 .
+The patient was transferred to NVH after receiving intravenous fluid with potassium , Demerol for pain control and clindamycin , Valium and droperidol .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1022" id="E24" modality="FACTUAL" polarity="POS" start="1005" text="intravenous fluid" type="TREATMENT"/>
+<EVENT end="1037" id="E25" modality="FACTUAL" polarity="POS" start="1028" text="potassium" type="TREATMENT"/>
+<EVENT end="1047" id="E26" modality="FACTUAL" polarity="POS" start="1040" text="Demerol" type="TREATMENT"/>
+<EVENT end="1064" id="E27" modality="FACTUAL" polarity="POS" start="1052" text="pain control" type="TREATMENT"/>
+<EVENT end="1080" id="E28" modality="FACTUAL" polarity="POS" start="1069" text="clindamycin" type="TREATMENT"/>
+<EVENT end="1089" id="E29" modality="FACTUAL" polarity="POS" start="1083" text="Valium" type="TREATMENT"/>
+<EVENT end="1104" id="E30" modality="FACTUAL" polarity="POS" start="1094" text="droperidol" type="TREATMENT"/>
+<EVENT end="130" id="E1" modality="FACTUAL" polarity="POS" start="127" text="ERT" type="TREATMENT"/>
+<EVENT end="163" id="E2" modality="FACTUAL" polarity="POS" start="150" text="a pelvic mass" type="PROBLEM"/>
+<EVENT end="177" id="E3" modality="FACTUAL" polarity="POS" start="168" text="resection" type="TREATMENT"/>
+<EVENT end="200" id="E33" modality="FACTUAL" polarity="POS" start="181" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="227" id="E34" modality="FACTUAL" polarity="POS" start="212" text="Per the patient" type="EVIDENTIAL"/>
+<EVENT end="238" id="E4" modality="FACTUAL" polarity="POS" start="230" text="the mass" type="PROBLEM"/>
+<EVENT end="249" id="E35" modality="FACTUAL" polarity="POS" start="243" text="benign" type="TEST"/>
+<EVENT end="305" id="E5" modality="FACTUAL" polarity="POS" start="274" text="severe left lower quadrant pain" type="PROBLEM"/>
+<EVENT end="38" id="E32" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="323" id="E6" modality="FACTUAL" polarity="POS" start="317" text="An MRI" type="TEST"/>
+<EVENT end="356" id="E36" modality="FACTUAL" polarity="POS" start="350" text="showed" type="EVIDENTIAL"/>
+<EVENT end="389" id="E7" modality="FACTUAL" polarity="POS" start="357" text="an 8 cm left lower quadrant mass" type="PROBLEM"/>
+<EVENT end="427" id="E8" modality="FACTUAL" polarity="POS" start="395" text="both cystic and solid components" type="PROBLEM"/>
+<EVENT end="463" id="E9" modality="FACTUAL" polarity="POS" start="457" text="Lupron" type="TREATMENT"/>
+<EVENT end="486" id="E10" modality="FACTUAL" polarity="POS" start="482" text="pain" type="PROBLEM"/>
+<EVENT end="503" id="E37" modality="FACTUAL" polarity="NEG" start="495" text="affected" type="OCCURRENCE"/>
+<EVENT end="531" id="E11" modality="FACTUAL" polarity="POS" start="521" text="Vicodin ES" type="TREATMENT"/>
+<EVENT end="542" id="E12" modality="FACTUAL" polarity="POS" start="536" text="Ultram" type="TREATMENT"/>
+<EVENT end="562" id="E38" modality="FACTUAL" polarity="POS" start="556" text="relief" type="OCCURRENCE"/>
+<EVENT end="603" id="E39" modality="FACTUAL" polarity="POS" start="579" text="the patient 's pain" type="PROBLEM"/>
+<EVENT end="613" id="E40" modality="FACTUAL" polarity="POS" start="604" text="increased" type="PROBLEM"/>
+<EVENT end="631" id="E31" modality="FACTUAL" polarity="POS" start="622" text="presented" type="OCCURRENCE"/>
+<EVENT end="654" id="E41" modality="FACTUAL" polarity="POS" start="635" text="an outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="666" id="E13" modality="FACTUAL" polarity="POS" start="660" text="nausea" type="PROBLEM"/>
+<EVENT end="679" id="E14" modality="FACTUAL" polarity="POS" start="671" text="vomiting" type="PROBLEM"/>
+<EVENT end="720" id="E15" modality="FACTUAL" polarity="POS" start="684" text="an inability to tolerate p.o. intake" type="PROBLEM"/>
+<EVENT end="764" id="E42" modality="FACTUAL" polarity="POS" start="723" text="The left lower quadrant pain in the groin" type="PROBLEM"/>
+<EVENT end="773" id="E43" modality="FACTUAL" polarity="POS" start="765" text="radiated" type="OCCURRENCE"/>
+<EVENT end="790" id="E44" modality="FACTUAL" polarity="POS" start="777" text="the left knee" type="PROBLEM"/>
+<EVENT end="802" id="E16" modality="FACTUAL" polarity="NEG" start="796" text="fevers" type="PROBLEM"/>
+<EVENT end="812" id="E17" modality="FACTUAL" polarity="NEG" start="806" text="chills" type="PROBLEM"/>
+<EVENT end="835" id="E18" modality="FACTUAL" polarity="NEG" start="818" text="vaginal discharge" type="PROBLEM"/>
+<EVENT end="847" id="E19" modality="FACTUAL" polarity="NEG" start="839" text="bleeding" type="PROBLEM"/>
+<EVENT end="859" id="E20" modality="FACTUAL" polarity="POS" start="850" text="Potassium" type="TEST"/>
+<EVENT end="883" id="E45" modality="FACTUAL" polarity="POS" start="863" text="the outside hospital" type="CLINICAL_DEPT"/>
+<EVENT end="905" id="E21" modality="FACTUAL" polarity="POS" start="894" text="White count" type="TEST"/>
+<EVENT end="929" id="E22" modality="FACTUAL" polarity="POS" start="920" text="16% bands" type="TEST"/>
+<EVENT end="942" id="E23" modality="FACTUAL" polarity="POS" start="932" text="Hematocrit" type="TEST"/>
+<EVENT end="981" id="E46" modality="FACTUAL" polarity="POS" start="970" text="transferred" type="OCCURRENCE"/>
+<EVENT end="988" id="E47" modality="FACTUAL" polarity="POS" start="985" text="NVH" type="CLINICAL_DEPT"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="11/17/2003" type="DATE" val="2003-11-17"/>
+<ATIMEX3 end="209" id="T1" mod="NA" start="204" text="06/22" type="DATE" val="2003-06-22"/>
+<ATIMEX3 end="314" id="T5" mod="NA" start="309" text="07/24" type="DATE" val="2003-07-24"/>
+<ATIMEX3 end="344" id="T2" mod="NA" start="336" text="08/27/03" type="DATE" val="2003-08-27"/>
+<ATIMEX3 end="56" id="T4" mod="NA" start="46" text="12/22/2003" type="DATE" val="2003-12-22"/>
+<ATIMEX3 end="475" id="T6" mod="NA" start="467" text="10/18/03" type="DATE" val="2003-10-18"/>
+<ATIMEX3 end="576" id="T3" mod="NA" start="568" text="11/16/03" type="DATE" val="2003-11-16"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2003-11-17" end="28" id="S0" start="18" text="11/17/2003" type="ADMISSION"/>
+<SECTIME dvalue="2003-12-22" end="56" id="S1" start="46" text="12/22/2003" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

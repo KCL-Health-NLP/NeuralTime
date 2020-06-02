@@ -1,0 +1,16 @@
+
+46.xml: last October : anchored to discharge
+
+78.xml :  "this time" : not clear what it refers to. vi the normalized value -> anchored it to the discharge
+	" On ...., one day prior to discharge" -> anchored it to the last temp expression because EQUAL > BEFORE
+	"Oct 25" -> EXT, no anchor
+
+277.xml : what about incomplete time expressions ? I anchored them all to the day at which they were taking place
+
+282.xml : General Expressions such as "several months ago" : should we anchor them to the discharge or the admission date 
+Hesitation for "the next day", checked the "gs", they had anchored it to the last timex
+
+
+441.xml : "The time" : not clear
+
+In general : times such as "2 pm" -> ri timexe

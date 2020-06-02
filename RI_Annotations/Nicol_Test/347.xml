@@ -1,0 +1,503 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2015-06-29
+Discharge Date :
+2015-07-09
+Service :
+MEDICINE
+History of Present Illness :
+74 yo M with lung cancer DVT who presents with 1 day of substernal chest pain .
+Patient developed chest pain the night prior to admission .
+The pain was substernal 07-08 , did not radiate .
+He reports that the pain was similar to his prior MI .
+The patient had shortness of breath .
+In the Amanda the patients pain resolved with NTG and morphine .
+he was given ASA and bblocker .
+At time of my evaluation , the patient denied nausea , vomitting , abdominal pain , dysuria , dizziness , changes in vision /hearing
+Brief Hospital Course :
+A/P 74 yo M with lung cancer , DVT , CAD s/p MI presents with chest pain shortness of breath .
+# Chest Pain / Ischemia - Patient with history of CAD a/p MI .
+Now with an episode of pain consistent with his anginal equivalent .
+No changes on EKG but not in pain at time of EKG .
+Patient was ruled out by enzymes .
+He also had a stress test which revealed an irreversible deficit from his prior known IMI .
+Continued on asa , bblocker , Hicks , statin , plavix .
+BP meds held while was unstable .
+ASA , plavix held during hemothorax .
+# CHF - patient does not seem volume overloaded at this time .
+He has no JVD , no edema in legs ( other than swelling from DVT ) .
+Last Echo with EF 55% .
+Does have increased effusion although loculated .
+Continued on lasix , bblocker Robertson .
+BP meds held while unstable .
+# Afib - In sinus during admission .
+Patients anticoag held during hemothorax .
+# Shortness of Breath / loculated Effusion - patient with increaing loculated pleural effusion .
+Has chronic shortness of breath which has worsened over the past few days .
+No sign of infeciton at this time .
+Had thoracentesis by interventional pumonology on 2015-07-01 revealing almost 2 L of serous exudative fluid .
+Patient had improved breathing .
+Cytology was negative .
+However on 07-02 Hct dropped .
+CT revealed hemothorax .
+All anticoagulation stopped despite the risk of DVT , afib .
+Risk discussed with family .
+Thoracics consulted and chest tube placed .
+Frank blood was taken out .
+Patient continued to bleed in and around the tube .
+Patient sent to CMED for observation after Hct continued to drop .
+Patient spontaneously stablized and output of CT became more serous .
+Output resent for cytology which was pending at time of discharge .
+When output became < 100 cc the tube was removed .
+Patient follwed with serial CXR that did not demonstrate reaccumulation .
+Hct also remained stable .
+# DVT - patient therapeutic on heparin .
+Improving clots on LENI .
+CTA neg for PE .
+Anticoagulaiton held during hemothorax .
+Patient restarted on coumadin and will be discharged on 3mg coumadin qday .
+# Lung Cancer - patient currently with no evidence of disease .
+s/p neoadjuvant chemo/XRT now s/p surgery .
+1st cytology negative .
+2ng cytology pending .
+WIll follow up tih outpatient oncologist .
+Contacts - son 506-1596
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1044" id="E32" modality="FACTUAL" polarity="POS" start="1025" text="his prior known IMI" type="PROBLEM"/>
+<EVENT end="1063" id="E33" modality="FACTUAL" polarity="POS" start="1060" text="asa" type="TREATMENT"/>
+<EVENT end="1074" id="E34" modality="FACTUAL" polarity="POS" start="1066" text="bblocker" type="TREATMENT"/>
+<EVENT end="1082" id="E35" modality="FACTUAL" polarity="POS" start="1077" text="Hicks" type="TREATMENT"/>
+<EVENT end="1091" id="E36" modality="FACTUAL" polarity="POS" start="1085" text="statin" type="TREATMENT"/>
+<EVENT end="1100" id="E37" modality="FACTUAL" polarity="POS" start="1094" text="plavix" type="TREATMENT"/>
+<EVENT end="1110" id="E38" modality="FACTUAL" polarity="POS" start="1103" text="BP meds" type="TREATMENT"/>
+<EVENT end="1134" id="E39" modality="FACTUAL" polarity="POS" start="1126" text="unstable" type="PROBLEM"/>
+<EVENT end="1140" id="E40" modality="FACTUAL" polarity="POS" start="1137" text="ASA" type="TREATMENT"/>
+<EVENT end="1149" id="E41" modality="FACTUAL" polarity="POS" start="1143" text="plavix" type="TREATMENT"/>
+<EVENT end="1172" id="E42" modality="FACTUAL" polarity="POS" start="1162" text="hemothorax" type="PROBLEM"/>
+<EVENT end="129" id="E1" modality="FACTUAL" polarity="POS" start="118" text="lung cancer" type="PROBLEM"/>
+<EVENT end="1180" id="E43" modality="FACTUAL" polarity="POS" start="1177" text="CHF" type="PROBLEM"/>
+<EVENT end="1222" id="E112" modality="POSSIBLE" polarity="NEG" start="1205" text="volume overloaded" type="PROBLEM"/>
+<EVENT end="1251" id="E44" modality="FACTUAL" polarity="NEG" start="1248" text="JVD" type="PROBLEM"/>
+<EVENT end="1270" id="E45" modality="FACTUAL" polarity="NEG" start="1257" text="edema in legs" type="PROBLEM"/>
+<EVENT end="1292" id="E46" modality="FACTUAL" polarity="POS" start="1284" text="swelling" type="PROBLEM"/>
+<EVENT end="133" id="E2" modality="FACTUAL" polarity="POS" start="130" text="DVT" type="PROBLEM"/>
+<EVENT end="1301" id="E47" modality="FACTUAL" polarity="POS" start="1298" text="DVT" type="PROBLEM"/>
+<EVENT end="1315" id="E48" modality="FACTUAL" polarity="POS" start="1306" text="Last Echo" type="TEST"/>
+<EVENT end="1323" id="E49" modality="FACTUAL" polarity="POS" start="1321" text="EF" type="TEST"/>
+<EVENT end="1358" id="E113" modality="FACTUAL" polarity="POS" start="1340" text="increased effusion" type="PROBLEM"/>
+<EVENT end="146" id="E96" modality="FACTUAL" polarity="POS" start="138" text="presents" type="EVIDENTIAL"/>
+<EVENT end="1398" id="E50" modality="FACTUAL" polarity="POS" start="1393" text="lasix" type="TREATMENT"/>
+<EVENT end="1409" id="E51" modality="FACTUAL" polarity="POS" start="1401" text="bblocker" type="TREATMENT"/>
+<EVENT end="1429" id="E52" modality="FACTUAL" polarity="POS" start="1422" text="BP meds" type="TREATMENT"/>
+<EVENT end="1449" id="E53" modality="FACTUAL" polarity="POS" start="1441" text="unstable" type="PROBLEM"/>
+<EVENT end="1458" id="E54" modality="FACTUAL" polarity="POS" start="1454" text="Afib" type="PROBLEM"/>
+<EVENT end="1486" id="E93" modality="FACTUAL" polarity="POS" start="1477" text="admission" type="OCCURRENCE"/>
+<EVENT end="1506" id="E55" modality="FACTUAL" polarity="POS" start="1489" text="Patients anticoag" type="TREATMENT"/>
+<EVENT end="1529" id="E56" modality="FACTUAL" polarity="POS" start="1519" text="hemothorax" type="PROBLEM"/>
+<EVENT end="1553" id="E57" modality="FACTUAL" polarity="POS" start="1534" text="Shortness of Breath" type="PROBLEM"/>
+<EVENT end="1574" id="E58" modality="FACTUAL" polarity="POS" start="1556" text="loculated Effusion" type="PROBLEM"/>
+<EVENT end="1626" id="E59" modality="FACTUAL" polarity="POS" start="1590" text="increaing loculated pleural effusion" type="PROBLEM"/>
+<EVENT end="182" id="E3" modality="FACTUAL" polarity="POS" start="161" text="substernal chest pain" type="PROBLEM"/>
+<EVENT end="1660" id="E60" modality="FACTUAL" polarity="POS" start="1633" text="chronic shortness of breath" type="PROBLEM"/>
+<EVENT end="1679" id="E114" modality="FACTUAL" polarity="POS" start="1671" text="worsened" type="OCCURRENCE"/>
+<EVENT end="1725" id="E116" modality="FACTUAL" polarity="NEG" start="1716" text="infeciton" type="PROBLEM"/>
+<EVENT end="1758" id="E61" modality="FACTUAL" polarity="POS" start="1745" text="thoracentesis" type="TEST"/>
+<EVENT end="1811" id="E117" modality="FACTUAL" polarity="POS" start="1802" text="revealing" type="EVIDENTIAL"/>
+<EVENT end="1848" id="E62" modality="FACTUAL" polarity="POS" start="1826" text="serous exudative fluid" type="PROBLEM"/>
+<EVENT end="1881" id="E118" modality="FACTUAL" polarity="POS" start="1863" text="improved breathing" type="OCCURRENCE"/>
+<EVENT end="1892" id="E63" modality="FACTUAL" polarity="POS" start="1884" text="Cytology" type="TEST"/>
+<EVENT end="1928" id="E64" modality="FACTUAL" polarity="POS" start="1925" text="Hct" type="TEST"/>
+<EVENT end="1936" id="E119" modality="FACTUAL" polarity="POS" start="1929" text="dropped" type="PROBLEM"/>
+<EVENT end="1941" id="E65" modality="FACTUAL" polarity="POS" start="1939" text="CT" type="TEST"/>
+<EVENT end="1950" id="E120" modality="FACTUAL" polarity="POS" start="1942" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1961" id="E66" modality="FACTUAL" polarity="POS" start="1951" text="hemothorax" type="PROBLEM"/>
+<EVENT end="1983" id="E67" modality="FACTUAL" polarity="POS" start="1964" text="All anticoagulation" type="TREATMENT"/>
+<EVENT end="2015" id="E121" modality="CONDITIONAL" polarity="POS" start="2012" text="DVT" type="PROBLEM"/>
+<EVENT end="2022" id="E122" modality="CONDITIONAL" polarity="POS" start="2018" text="afib" type="PROBLEM"/>
+<EVENT end="213" id="E4" modality="FACTUAL" polarity="POS" start="203" text="chest pain" type="PROBLEM"/>
+<EVENT end="2039" id="E123" modality="FACTUAL" polarity="POS" start="2030" text="discussed" type="OCCURRENCE"/>
+<EVENT end="2073" id="E124" modality="FACTUAL" polarity="POS" start="2054" text="Thoracics consulted" type="OCCURRENCE"/>
+<EVENT end="2088" id="E68" modality="FACTUAL" polarity="POS" start="2078" text="chest tube" type="TREATMENT"/>
+<EVENT end="2109" id="E69" modality="FACTUAL" polarity="POS" start="2098" text="Frank blood" type="PROBLEM"/>
+<EVENT end="2152" id="E125" modality="FACTUAL" polarity="POS" start="2134" text="continued to bleed" type="PROBLEM"/>
+<EVENT end="2175" id="E70" modality="FACTUAL" polarity="POS" start="2167" text="the tube" type="TREATMENT"/>
+<EVENT end="2198" id="E126" modality="FACTUAL" polarity="POS" start="2194" text="CMED" type="CLINICAL_DEPT"/>
+<EVENT end="2214" id="E71" modality="FACTUAL" polarity="POS" start="2203" text="observation" type="TEST"/>
+<EVENT end="2224" id="E72" modality="FACTUAL" polarity="POS" start="2221" text="Hct" type="TEST"/>
+<EVENT end="2242" id="E127" modality="FACTUAL" polarity="POS" start="2225" text="continued to drop" type="OCCURRENCE"/>
+<EVENT end="2276" id="E128" modality="FACTUAL" polarity="POS" start="2267" text="stablized" type="OCCURRENCE"/>
+<EVENT end="2287" id="E129" modality="FACTUAL" polarity="POS" start="2281" text="output" type="TEST"/>
+<EVENT end="2293" id="E73" modality="FACTUAL" polarity="POS" start="2291" text="CT" type="TEST"/>
+<EVENT end="2312" id="E130" modality="FACTUAL" polarity="POS" start="2306" text="serous" type="OCCURRENCE"/>
+<EVENT end="2321" id="E74" modality="FACTUAL" polarity="POS" start="2315" text="Output" type="TEST"/>
+<EVENT end="242" id="E97" modality="FACTUAL" polarity="POS" start="233" text="admission" type="OCCURRENCE"/>
+<EVENT end="2341" id="E75" modality="FACTUAL" polarity="POS" start="2333" text="cytology" type="TEST"/>
+<EVENT end="2380" id="E131" modality="FACTUAL" polarity="POS" start="2371" text="discharge" type="OCCURRENCE"/>
+<EVENT end="2394" id="E132" modality="FACTUAL" polarity="POS" start="2388" text="output" type="TEST"/>
+<EVENT end="2419" id="E76" modality="FACTUAL" polarity="POS" start="2411" text="the tube" type="TREATMENT"/>
+<EVENT end="2431" id="E133" modality="FACTUAL" polarity="POS" start="2424" text="removed" type="TREATMENT"/>
+<EVENT end="253" id="E5" modality="FACTUAL" polarity="POS" start="245" text="The pain" type="PROBLEM"/>
+<EVENT end="2465" id="E77" modality="FACTUAL" polarity="POS" start="2455" text="serial CXR" type="TEST"/>
+<EVENT end="2505" id="E78" modality="FACTUAL" polarity="NEG" start="2491" text="reaccumulation" type="PROBLEM"/>
+<EVENT end="2511" id="E79" modality="FACTUAL" polarity="POS" start="2508" text="Hct" type="TEST"/>
+<EVENT end="2532" id="E134" modality="FACTUAL" polarity="POS" start="2517" text="remained stable" type="OCCURRENCE"/>
+<EVENT end="2540" id="E80" modality="FACTUAL" polarity="POS" start="2537" text="DVT" type="PROBLEM"/>
+<EVENT end="2573" id="E81" modality="FACTUAL" polarity="POS" start="2566" text="heparin" type="TREATMENT"/>
+<EVENT end="2591" id="E82" modality="FACTUAL" polarity="POS" start="2586" text="clots" type="PROBLEM"/>
+<EVENT end="2599" id="E83" modality="FACTUAL" polarity="POS" start="2595" text="LENI" type="TREATMENT"/>
+<EVENT end="2605" id="E84" modality="FACTUAL" polarity="POS" start="2602" text="CTA" type="TEST"/>
+<EVENT end="2616" id="E135" modality="FACTUAL" polarity="NEG" start="2614" text="PE" type="PROBLEM"/>
+<EVENT end="2634" id="E85" modality="FACTUAL" polarity="POS" start="2619" text="Anticoagulaiton" type="TREATMENT"/>
+<EVENT end="2657" id="E86" modality="FACTUAL" polarity="POS" start="2647" text="hemothorax" type="PROBLEM"/>
+<EVENT end="2689" id="E87" modality="FACTUAL" polarity="POS" start="2681" text="coumadin" type="TREATMENT"/>
+<EVENT end="2712" id="E94" modality="FACTUAL" polarity="POS" start="2702" text="discharged" type="OCCURRENCE"/>
+<EVENT end="2728" id="E136" modality="FACTUAL" polarity="POS" start="2720" text="coumadin" type="TREATMENT"/>
+<EVENT end="2749" id="E88" modality="FACTUAL" polarity="POS" start="2738" text="Lung Cancer" type="PROBLEM"/>
+<EVENT end="2797" id="E89" modality="FACTUAL" polarity="NEG" start="2790" text="disease" type="PROBLEM"/>
+<EVENT end="2825" id="E90" modality="FACTUAL" polarity="POS" start="2804" text="neoadjuvant chemo/XRT" type="TREATMENT"/>
+<EVENT end="2841" id="E91" modality="FACTUAL" polarity="POS" start="2834" text="surgery" type="TREATMENT"/>
+<EVENT end="2856" id="E92" modality="FACTUAL" polarity="POS" start="2844" text="1st cytology" type="TEST"/>
+<EVENT end="292" id="E98" modality="FACTUAL" polarity="NEG" start="285" text="radiate" type="PROBLEM"/>
+<EVENT end="2880" id="E137" modality="FACTUAL" polarity="POS" start="2868" text="2ng cytology" type="TEST"/>
+<EVENT end="2905" id="E138" modality="PROPOSED" polarity="POS" start="2896" text="follow up" type="OCCURRENCE"/>
+<EVENT end="38" id="E95" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="305" id="E99" modality="FACTUAL" polarity="POS" start="298" text="reports" type="EVIDENTIAL"/>
+<EVENT end="319" id="E6" modality="FACTUAL" polarity="POS" start="311" text="the pain" type="PROBLEM"/>
+<EVENT end="347" id="E7" modality="FACTUAL" polarity="POS" start="335" text="his prior MI" type="PROBLEM"/>
+<EVENT end="385" id="E8" modality="FACTUAL" polarity="POS" start="366" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="401" id="E100" modality="FACTUAL" polarity="POS" start="391" text="the Amanda" type="CLINICAL_DEPT"/>
+<EVENT end="419" id="E9" modality="FACTUAL" polarity="POS" start="402" text="the patients pain" type="PROBLEM"/>
+<EVENT end="437" id="E10" modality="FACTUAL" polarity="POS" start="434" text="NTG" type="TREATMENT"/>
+<EVENT end="450" id="E11" modality="FACTUAL" polarity="POS" start="442" text="morphine" type="TREATMENT"/>
+<EVENT end="469" id="E12" modality="FACTUAL" polarity="POS" start="466" text="ASA" type="TREATMENT"/>
+<EVENT end="482" id="E13" modality="FACTUAL" polarity="POS" start="474" text="bblocker" type="TREATMENT"/>
+<EVENT end="509" id="E101" modality="FACTUAL" polarity="POS" start="496" text="my evaluation" type="TEST"/>
+<EVENT end="530" id="E102" modality="FACTUAL" polarity="POS" start="524" text="denied" type="EVIDENTIAL"/>
+<EVENT end="537" id="E103" modality="FACTUAL" polarity="NEG" start="531" text="nausea" type="PROBLEM"/>
+<EVENT end="549" id="E104" modality="FACTUAL" polarity="NEG" start="540" text="vomitting" type="PROBLEM"/>
+<EVENT end="566" id="E105" modality="FACTUAL" polarity="NEG" start="552" text="abdominal pain" type="PROBLEM"/>
+<EVENT end="576" id="E106" modality="FACTUAL" polarity="NEG" start="569" text="dysuria" type="PROBLEM"/>
+<EVENT end="588" id="E107" modality="FACTUAL" polarity="NEG" start="579" text="dizziness" type="PROBLEM"/>
+<EVENT end="617" id="E108" modality="FACTUAL" polarity="NEG" start="591" text="changes in vision /hearing" type="PROBLEM"/>
+<EVENT end="670" id="E14" modality="FACTUAL" polarity="POS" start="659" text="lung cancer" type="PROBLEM"/>
+<EVENT end="676" id="E15" modality="FACTUAL" polarity="POS" start="673" text="DVT" type="PROBLEM"/>
+<EVENT end="682" id="E16" modality="FACTUAL" polarity="POS" start="679" text="CAD" type="PROBLEM"/>
+<EVENT end="689" id="E17" modality="FACTUAL" polarity="POS" start="687" text="MI" type="PROBLEM"/>
+<EVENT end="698" id="E109" modality="FACTUAL" polarity="POS" start="690" text="presents" type="EVIDENTIAL"/>
+<EVENT end="714" id="E18" modality="FACTUAL" polarity="POS" start="704" text="chest pain" type="PROBLEM"/>
+<EVENT end="734" id="E19" modality="FACTUAL" polarity="POS" start="715" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="749" id="E20" modality="FACTUAL" polarity="POS" start="739" text="Chest Pain" type="PROBLEM"/>
+<EVENT end="760" id="E21" modality="FACTUAL" polarity="POS" start="752" text="Ischemia" type="PROBLEM"/>
+<EVENT end="790" id="E22" modality="FACTUAL" polarity="POS" start="787" text="CAD" type="PROBLEM"/>
+<EVENT end="797" id="E23" modality="FACTUAL" polarity="POS" start="795" text="MI" type="PROBLEM"/>
+<EVENT end="827" id="E24" modality="FACTUAL" polarity="POS" start="823" text="pain" type="PROBLEM"/>
+<EVENT end="866" id="E25" modality="FACTUAL" polarity="POS" start="844" text="his anginal equivalent" type="PROBLEM"/>
+<EVENT end="879" id="E26" modality="FACTUAL" polarity="NEG" start="872" text="changes" type="PROBLEM"/>
+<EVENT end="886" id="E27" modality="FACTUAL" polarity="POS" start="883" text="EKG" type="TEST"/>
+<EVENT end="902" id="E28" modality="FACTUAL" polarity="NEG" start="898" text="pain" type="PROBLEM"/>
+<EVENT end="917" id="E110" modality="FACTUAL" polarity="POS" start="914" text="EKG" type="TEST"/>
+<EVENT end="952" id="E29" modality="FACTUAL" polarity="POS" start="945" text="enzymes" type="TEST"/>
+<EVENT end="980" id="E30" modality="FACTUAL" polarity="POS" start="967" text="a stress test" type="TEST"/>
+<EVENT end="995" id="E111" modality="FACTUAL" polarity="POS" start="987" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1019" id="E31" modality="FACTUAL" polarity="POS" start="996" text="an irreversible deficit" type="PROBLEM"/>
+
+
+<ATIMEX3 end="1801" id="T6" mod="NA" start="1791" text="2015-07-01" type="DATE" val="2015-07-01"/>
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2015-06-29" type="DATE" val="2015-06-29"/>
+<ATIMEX3 end="1924" id="T3" mod="NA" start="1919" text="07-02" type="DATE" val="2015-07-02"/>
+<RTIMEX3 end="223" id="T4" mod="END" start="214" text="the night" type="DATE" val="2015-06-28"/>
+
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2015-07-09" type="DATE" val="2015-07-09"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2015-06-29" end="28" id="S0" start="18" text="2015-06-29" type="ADMISSION"/>
+<SECTIME dvalue="2015-07-09" end="56" id="S1" start="46" text="2015-07-09" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

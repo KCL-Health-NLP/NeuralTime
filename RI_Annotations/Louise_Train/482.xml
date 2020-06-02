@@ -1,0 +1,282 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2020-05-23
+Discharge Date :
+2020-05-29
+Service :
+MEDICINE
+History of Present Illness :
+64 F with breast CA s/p mastectomy 17 y ago with local recurrence leading to paralysis of L arm ~ 5-6 y ago .
+Now declining gradually since January ( 30 lbs weight loss , becoming more confused , decreased appetite ).
+Patient declined workup / imaging for mets as outpatient .
+Moving toward home hospice .
+Over the last 2 weeks , husband reports patient becoming increasingly weak , unable to leave bed , confused , unable to feed herself .
+Seen by VNA and noted to be tachycardic and sent to Middleborough or evaluation .
+Now sent in to Amesbury by VNA because of asymptomatic sinus tachycardia .
+Transferred here for workup for CNS mets and admission .
+In John , VS - 99.6 , 135 , 122/65 , 20 .
+Neurology evaluated pt and felt to have intact brainstem reflexes but poor prognosis .
+Neurosurg evaluated pt and felt to not be surgical candidate ; recommended dilantin load and decadron .
+Received lorazepam prior to CT scan .
+Intubated for MS changes and lethargy and concern for airway protection .
+Post intubation , hypotensive and started on dopamine and transitioned to levophed .
+Received vancomycin / levafloxacin at OSH .
+Received metronidazole at Ricky in Mediplex Rehab Hospital .
+In CMED CCU , pt. responsive to noxious stimuli only .
+History obtained from husband as above .
+Brief Hospital Course :
+Metastatic breast CA - Large brain mets with midline shift .
+Intubated for airway protection .
+Treated with IV dilantin and decadron .
+Patient mental status improved slightly .
+After discussion with primary oncologist goals of care where change to comfort .
+Dilantin was stopped .
+Will go home with prn morphine , ativan , and PR decadron .
+Pnuemonia - Possible aspiration .
+Completed a 7 day course of vancomycin and levofloxacin .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1011" id="E51" modality="FACTUAL" polarity="POS" start="1002" text="lorazepam" type="TREATMENT"/>
+<EVENT end="1028" id="E52" modality="FACTUAL" polarity="POS" start="1021" text="CT scan" type="TEST"/>
+<EVENT end="1040" id="E53" modality="FACTUAL" polarity="POS" start="1031" text="Intubated" type="TREATMENT"/>
+<EVENT end="1055" id="E38" modality="FACTUAL" polarity="POS" start="1045" text="MS changes" type="PROBLEM"/>
+<EVENT end="1068" id="E39" modality="FACTUAL" polarity="POS" start="1060" text="lethargy" type="PROBLEM"/>
+<EVENT end="1102" id="E40" modality="FACTUAL" polarity="POS" start="1085" text="airway protection" type="TREATMENT"/>
+<EVENT end="1120" id="E41" modality="FACTUAL" polarity="POS" start="1110" text="intubation" type="TREATMENT"/>
+<EVENT end="1134" id="E42" modality="FACTUAL" polarity="POS" start="1123" text="hypotensive" type="PROBLEM"/>
+<EVENT end="124" id="E2" modality="FACTUAL" polarity="POS" start="115" text="breast CA" type="PROBLEM"/>
+<EVENT end="1158" id="E43" modality="FACTUAL" polarity="POS" start="1150" text="dopamine" type="TREATMENT"/>
+<EVENT end="1187" id="E44" modality="FACTUAL" polarity="POS" start="1179" text="levophed" type="TREATMENT"/>
+<EVENT end="1209" id="E45" modality="FACTUAL" polarity="POS" start="1199" text="vancomycin" type="TREATMENT"/>
+<EVENT end="1224" id="E46" modality="FACTUAL" polarity="POS" start="1212" text="levafloxacin" type="TREATMENT"/>
+<EVENT end="1231" id="E47" modality="FACTUAL" polarity="POS" start="1228" text="OSH" type="CLINICAL_DEPT"/>
+<EVENT end="1256" id="E54" modality="FACTUAL" polarity="POS" start="1243" text="metronidazole" type="TREATMENT"/>
+<EVENT end="1265" id="E55" modality="FACTUAL" polarity="POS" start="1260" text="Ricky" type="CLINICAL_DEPT"/>
+<EVENT end="1292" id="E56" modality="FACTUAL" polarity="POS" start="1269" text="Mediplex Rehab Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="139" id="E3" modality="FACTUAL" polarity="POS" start="129" text="mastectomy" type="TREATMENT"/>
+<EVENT end="1306" id="E58" modality="FACTUAL" polarity="POS" start="1298" text="CMED CCU" type="CLINICAL_DEPT"/>
+<EVENT end="1342" id="E59" modality="FACTUAL" polarity="POS" start="1327" text="noxious stimuli" type="TEST"/>
+<EVENT end="1435" id="E60" modality="FACTUAL" polarity="POS" start="1415" text="Metastatic breast CA" type="PROBLEM"/>
+<EVENT end="1454" id="E61" modality="FACTUAL" polarity="POS" start="1438" text="Large brain mets" type="PROBLEM"/>
+<EVENT end="1473" id="E62" modality="FACTUAL" polarity="POS" start="1460" text="midline shift" type="PROBLEM"/>
+<EVENT end="1485" id="E63" modality="FACTUAL" polarity="POS" start="1476" text="Intubated" type="TREATMENT"/>
+<EVENT end="1507" id="E64" modality="FACTUAL" polarity="POS" start="1490" text="airway protection" type="TREATMENT"/>
+<EVENT end="1534" id="E65" modality="FACTUAL" polarity="POS" start="1523" text="IV dilantin" type="TREATMENT"/>
+<EVENT end="170" id="E4" modality="FACTUAL" polarity="POS" start="154" text="local recurrence" type="PROBLEM"/>
+<EVENT end="1547" id="E66" modality="FACTUAL" polarity="POS" start="1539" text="decadron" type="TREATMENT"/>
+<EVENT end="1580" id="E79" modality="FACTUAL" polarity="POS" start="1558" text="mental status improved" type="OCCURRENCE"/>
+<EVENT end="1608" id="E67" modality="FACTUAL" polarity="POS" start="1598" text="discussion" type="OCCURRENCE"/>
+<EVENT end="1632" id="E68" modality="FACTUAL" polarity="POS" start="1614" text="primary oncologist" type="CLINICAL_DEPT"/>
+<EVENT end="1670" id="E69" modality="FACTUAL" polarity="POS" start="1663" text="comfort" type="TREATMENT"/>
+<EVENT end="1681" id="E70" modality="FACTUAL" polarity="POS" start="1673" text="Dilantin" type="TREATMENT"/>
+<EVENT end="1726" id="E71" modality="FACTUAL" polarity="POS" start="1718" text="morphine" type="TREATMENT"/>
+<EVENT end="1735" id="E72" modality="FACTUAL" polarity="POS" start="1729" text="ativan" type="TREATMENT"/>
+<EVENT end="1753" id="E73" modality="FACTUAL" polarity="POS" start="1742" text="PR decadron" type="TREATMENT"/>
+<EVENT end="1765" id="E74" modality="FACTUAL" polarity="POS" start="1756" text="Pnuemonia" type="PROBLEM"/>
+<EVENT end="1787" id="E75" modality="CONDITIONAL" polarity="POS" start="1777" text="aspiration" type="PROBLEM"/>
+<EVENT end="200" id="E5" modality="FACTUAL" polarity="POS" start="182" text="paralysis of L arm" type="PROBLEM"/>
+<EVENT end="1828" id="E76" modality="FACTUAL" polarity="POS" start="1818" text="vancomycin" type="TREATMENT"/>
+<EVENT end="1845" id="E77" modality="FACTUAL" polarity="POS" start="1833" text="levofloxacin" type="TREATMENT"/>
+<EVENT end="228" id="E6" modality="FACTUAL" polarity="POS" start="219" text="declining" type="OCCURRENCE"/>
+<EVENT end="273" id="E7" modality="FACTUAL" polarity="POS" start="255" text="30 lbs weight loss" type="PROBLEM"/>
+<EVENT end="298" id="E8" modality="FACTUAL" polarity="POS" start="285" text="more confused" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="319" id="E9" modality="FACTUAL" polarity="POS" start="301" text="decreased appetite" type="PROBLEM"/>
+<EVENT end="346" id="E10" modality="FACTUAL" polarity="POS" start="340" text="workup" type="TEST"/>
+<EVENT end="356" id="E11" modality="FACTUAL" polarity="POS" start="349" text="imaging" type="TEST"/>
+<EVENT end="365" id="E12" modality="FACTUAL" polarity="POS" start="361" text="mets" type="PROBLEM"/>
+<EVENT end="408" id="E13" modality="FACTUAL" polarity="POS" start="396" text="home hospice" type="TREATMENT"/>
+<EVENT end="450" id="E14" modality="FACTUAL" polarity="POS" start="443" text="reports" type="EVIDENTIAL"/>
+<EVENT end="485" id="E15" modality="FACTUAL" polarity="POS" start="468" text="increasingly weak" type="PROBLEM"/>
+<EVENT end="507" id="E16" modality="FACTUAL" polarity="POS" start="488" text="unable to leave bed" type="PROBLEM"/>
+<EVENT end="518" id="E17" modality="FACTUAL" polarity="POS" start="510" text="confused" type="PROBLEM"/>
+<EVENT end="543" id="E18" modality="FACTUAL" polarity="POS" start="521" text="unable to feed herself" type="PROBLEM"/>
+<EVENT end="557" id="E19" modality="FACTUAL" polarity="POS" start="554" text="VNA" type="CLINICAL_DEPT"/>
+<EVENT end="567" id="E20" modality="FACTUAL" polarity="POS" start="562" text="noted" type="EVIDENTIAL"/>
+<EVENT end="585" id="E21" modality="FACTUAL" polarity="POS" start="574" text="tachycardic" type="PROBLEM"/>
+<EVENT end="594" id="E78" modality="FACTUAL" polarity="POS" start="590" text="sent" type="OCCURRENCE"/>
+<EVENT end="611" id="E22" modality="FACTUAL" polarity="POS" start="598" text="Middleborough" type="CLINICAL_DEPT"/>
+<EVENT end="625" id="E23" modality="FACTUAL" polarity="POS" start="615" text="evaluation" type="TEST"/>
+<EVENT end="639" id="E24" modality="FACTUAL" polarity="POS" start="632" text="sent in" type="OCCURRENCE"/>
+<EVENT end="651" id="E25" modality="FACTUAL" polarity="POS" start="643" text="Amesbury" type="CLINICAL_DEPT"/>
+<EVENT end="658" id="E26" modality="FACTUAL" polarity="POS" start="655" text="VNA" type="CLINICAL_DEPT"/>
+<EVENT end="700" id="E27" modality="FACTUAL" polarity="POS" start="670" text="asymptomatic sinus tachycardia" type="PROBLEM"/>
+<EVENT end="714" id="E28" modality="FACTUAL" polarity="POS" start="703" text="Transferred" type="OCCURRENCE"/>
+<EVENT end="730" id="E29" modality="FACTUAL" polarity="POS" start="724" text="workup" type="TEST"/>
+<EVENT end="743" id="E30" modality="FACTUAL" polarity="POS" start="735" text="CNS mets" type="PROBLEM"/>
+<EVENT end="757" id="E31" modality="FACTUAL" polarity="POS" start="748" text="admission" type="OCCURRENCE"/>
+<EVENT end="767" id="E34" modality="FACTUAL" polarity="POS" start="763" text="John" type="CLINICAL_DEPT"/>
+<EVENT end="772" id="E32" modality="FACTUAL" polarity="POS" start="770" text="VS" type="TEST"/>
+<EVENT end="811" id="E33" modality="FACTUAL" polarity="POS" start="802" text="Neurology" type="CLINICAL_DEPT"/>
+<EVENT end="867" id="E35" modality="FACTUAL" polarity="POS" start="842" text="intact brainstem reflexes" type="PROBLEM"/>
+<EVENT end="886" id="E36" modality="FACTUAL" polarity="POS" start="872" text="poor prognosis" type="PROBLEM"/>
+<EVENT end="898" id="E37" modality="FACTUAL" polarity="POS" start="889" text="Neurosurg" type="CLINICAL_DEPT"/>
+<EVENT end="949" id="E48" modality="POSSIBLE" polarity="NEG" start="931" text="surgical candidate" type="TREATMENT"/>
+<EVENT end="977" id="E49" modality="FACTUAL" polarity="POS" start="964" text="dilantin load" type="TREATMENT"/>
+<EVENT end="990" id="E50" modality="FACTUAL" polarity="POS" start="982" text="decadron" type="TREATMENT"/>
+<ATIMEX3 end="148" id="T2" mod="APPROX" start="140" text="17 y ago" type="DATE" val="2003-05-23"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2020-05-23" type="DATE" val="2020-05-23"/>
+
+<ATIMEX3 end="212" id="T3" mod="APPROX" start="203" text="5-6 y ago" type="DATE" val="2014-11-23"/>
+<RTIMEX3 end="252" id="T4" mod="APPROX" start="245" text="January" type="DATE" val="2020-01"/>
+
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2020-05-29" type="DATE" val="2020-05-29"/>
+<RTIMEX3 end="631" id="T6" mod="NA" start="628" text="Now" type="DATE" val="2020-05-23"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2020-05-23" end="28" id="S0" start="18" text="2020-05-23" type="ADMISSION"/>
+<SECTIME dvalue="2020-05-29" end="56" id="S1" start="46" text="2020-05-29" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

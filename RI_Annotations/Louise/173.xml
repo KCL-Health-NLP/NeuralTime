@@ -1,0 +1,246 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2009-05-01
+Discharge Date :
+Date of Birth :
+Service :
+Surgery
+HISTORY OF PRESENT ILLNESS :
+The patient is a 39 year-old gentleman admitted on 2009-05-01 to the Jewish Memorial Hospital referred from South Cove Community Health Center .
+He is a 39 year-old gentleman with hyperlipidemia and smoking who presented with acute onset of chest pain since five in the morning with radiation to the left arm and nausea .
+Symptoms resolved spontaneously .
+He was taken to the Cath Lab at the Pinewood , Norfolk that evening where a stent procedure to the RCA was complicated by guidewire entrapment inside of a stent requiring CT surgery to do a thoracotomy with bypass and excision of the wire .
+The case was complicated by an episode of coffee ground emesis and a bleed from femoral access site prior to CT surgery .
+Gastroenterology was consulted and they recommended Protonix and felt it was due to peptic ulcer disease .
+HOSPITAL COURSE :
+The patient was diagnosed as having an acute myocardial infarction .
+The patient was taken emergently to the operating room on 2009-05-02 for his CABG , right coronary endarterectomy , removal of RCA stents and retrieval of the aortic guidewire .
+Postoperatively he did well and was transferred to the Cardiac Surgery Intensive Care Unit where he was on pressor support of Neo-Synephrine and he was extubated .
+The patient slowly weaned off Neo-Synephrine as tolerated .
+He was transferred to the floor on 2009-05-04 .
+His chest tube had been discontinued .
+Upon arrival to the floor the patient 's wires were discontinued on 2009-05-05 and his Foley catheter was discontinued .
+The patient was seen by Physical Therapy .
+His electrolytes were repleted and the patient was discharged home on 2009-05-06 after tolerating a level V .
+MEDICATIONS : His prescriptions shall include
+1. Lopressor 25 milligrams po bid .
+2. Lipitor 20 milligrams po q HS .
+3. Niferex 150 milligrams caplet one cap per day .
+4. Protonix 40 milligrams po q day .
+5. Colace 100 milligrams po bid .
+6. Percocet one to two tablets q four H prn for pain .
+He will get 60 of those .
+7. Plavix 75 milligrams po q day times three months .
+8. Aspirin 325 milligrams po q day .
+9. Lasix 20 milligrams po times 30 days .
+10. KCL 20 milliequivalents po q d times three days .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1043" id="E32" modality="FACTUAL" polarity="POS" start="1038" text="taken" type="OCCURRENCE"/>
+<EVENT end="1076" id="E33" modality="FACTUAL" polarity="POS" start="1058" text="the operating room" type="CLINICAL_DEPT"/>
+<EVENT end="1103" id="E34" modality="FACTUAL" polarity="POS" start="1095" text="his CABG" type="TREATMENT"/>
+<EVENT end="1135" id="E35" modality="FACTUAL" polarity="POS" start="1106" text="right coronary endarterectomy" type="TREATMENT"/>
+<EVENT end="1145" id="E36" modality="FACTUAL" polarity="POS" start="1138" text="removal" type="TREATMENT"/>
+<EVENT end="1159" id="E37" modality="FACTUAL" polarity="POS" start="1149" text="RCA stents" type="TREATMENT"/>
+<EVENT end="1173" id="E38" modality="FACTUAL" polarity="POS" start="1164" text="retrieval" type="TREATMENT"/>
+<EVENT end="1197" id="E39" modality="FACTUAL" polarity="POS" start="1177" text="the aortic guidewire" type="TREATMENT"/>
+<EVENT end="1227" id="E40" modality="FACTUAL" polarity="POS" start="1219" text="did well" type="OCCURRENCE"/>
+<EVENT end="1247" id="E41" modality="FACTUAL" polarity="POS" start="1236" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1290" id="E42" modality="FACTUAL" polarity="POS" start="1251" text="the Cardiac Surgery Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1322" id="E43" modality="FACTUAL" polarity="POS" start="1307" text="pressor support" type="TREATMENT"/>
+<EVENT end="1340" id="E44" modality="FACTUAL" polarity="POS" start="1326" text="Neo-Synephrine" type="TREATMENT"/>
+<EVENT end="1361" id="E45" modality="FACTUAL" polarity="POS" start="1352" text="extubated" type="OCCURRENCE"/>
+<EVENT end="1408" id="E46" modality="FACTUAL" polarity="POS" start="1394" text="Neo-Synephrine" type="TREATMENT"/>
+<EVENT end="1442" id="E47" modality="FACTUAL" polarity="POS" start="1431" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1455" id="E49" modality="FACTUAL" polarity="POS" start="1446" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="1486" id="E50" modality="FACTUAL" polarity="POS" start="1472" text="His chest tube" type="TREATMENT"/>
+<EVENT end="156" id="E2" modality="FACTUAL" polarity="POS" start="148" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1523" id="E54" modality="FACTUAL" polarity="POS" start="1516" text="arrival" type="OCCURRENCE"/>
+<EVENT end="1536" id="E51" modality="FACTUAL" polarity="POS" start="1527" text="the floor" type="CLINICAL_DEPT"/>
+<EVENT end="1557" id="E52" modality="FACTUAL" polarity="POS" start="1537" text="the patient 's wires" type="TREATMENT"/>
+<EVENT end="1612" id="E53" modality="FACTUAL" polarity="POS" start="1594" text="his Foley catheter" type="TREATMENT"/>
+<EVENT end="1691" id="E55" modality="FACTUAL" polarity="POS" start="1675" text="His electrolytes" type="TEST"/>
+<EVENT end="1705" id="E56" modality="FACTUAL" polarity="POS" start="1697" text="repleted" type="TREATMENT"/>
+<EVENT end="1736" id="E57" modality="FACTUAL" polarity="POS" start="1726" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1782" id="E58" modality="FACTUAL" polarity="POS" start="1762" text="tolerating a level V" type="OCCURRENCE"/>
+<EVENT end="202" id="E3" modality="FACTUAL" polarity="POS" start="174" text="the Jewish Memorial Hospital" type="CLINICAL_DEPT"/>
+<EVENT end="1816" id="E59" modality="FACTUAL" polarity="POS" start="1799" text="His prescriptions" type="TREATMENT"/>
+<EVENT end="1843" id="E60" modality="FACTUAL" polarity="POS" start="1834" text="Lopressor" type="TREATMENT"/>
+<EVENT end="1877" id="E61" modality="FACTUAL" polarity="POS" start="1870" text="Lipitor" type="TREATMENT"/>
+<EVENT end="1912" id="E62" modality="FACTUAL" polarity="POS" start="1905" text="Niferex" type="TREATMENT"/>
+<EVENT end="1964" id="E64" modality="FACTUAL" polarity="POS" start="1956" text="Protonix" type="TREATMENT"/>
+<EVENT end="1999" id="E65" modality="FACTUAL" polarity="POS" start="1993" text="Colace" type="TREATMENT"/>
+<EVENT end="2035" id="E66" modality="FACTUAL" polarity="POS" start="2027" text="Percocet" type="TREATMENT"/>
+<EVENT end="2076" id="E67" modality="HYPOTHETICAL" polarity="POS" start="2072" text="pain" type="PROBLEM"/>
+<EVENT end="2114" id="E68" modality="FACTUAL" polarity="POS" start="2108" text="Plavix" type="TREATMENT"/>
+<EVENT end="2169" id="E69" modality="FACTUAL" polarity="POS" start="2162" text="Aspirin" type="TREATMENT"/>
+<EVENT end="251" id="E4" modality="FACTUAL" polarity="POS" start="217" text="South Cove Community Health Center" type="CLINICAL_DEPT"/>
+<EVENT end="2204" id="E70" modality="FACTUAL" polarity="POS" start="2199" text="Lasix" type="TREATMENT"/>
+<EVENT end="2245" id="E71" modality="FACTUAL" polarity="POS" start="2242" text="KCL" type="TREATMENT"/>
+<EVENT end="303" id="E5" modality="FACTUAL" polarity="POS" start="289" text="hyperlipidemia" type="PROBLEM"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="315" id="E6" modality="FACTUAL" polarity="POS" start="308" text="smoking" type="OCCURRENCE"/>
+<EVENT end="329" id="E7" modality="FACTUAL" polarity="POS" start="320" text="presented" type="OCCURRENCE"/>
+<EVENT end="360" id="E8" modality="FACTUAL" polarity="POS" start="350" text="chest pain" type="PROBLEM"/>
+<EVENT end="401" id="E9" modality="FACTUAL" polarity="POS" start="392" text="radiation" type="PROBLEM"/>
+<EVENT end="428" id="E10" modality="FACTUAL" polarity="POS" start="422" text="nausea" type="PROBLEM"/>
+<EVENT end="439" id="E11" modality="FACTUAL" polarity="POS" start="431" text="Symptoms" type="PROBLEM"/>
+<EVENT end="477" id="E12" modality="FACTUAL" polarity="POS" start="472" text="taken" type="OCCURRENCE"/>
+<EVENT end="493" id="E14" modality="FACTUAL" polarity="POS" start="481" text="the Cath Lab" type="CLINICAL_DEPT"/>
+<EVENT end="519" id="E15" modality="FACTUAL" polarity="POS" start="497" text="the Pinewood , Norfolk" type="CLINICAL_DEPT"/>
+<EVENT end="556" id="E16" modality="FACTUAL" polarity="POS" start="539" text="a stent procedure" type="TEST"/>
+<EVENT end="607" id="E17" modality="FACTUAL" polarity="POS" start="587" text="guidewire entrapment" type="PROBLEM"/>
+<EVENT end="625" id="E18" modality="FACTUAL" polarity="POS" start="618" text="a stent" type="TREATMENT"/>
+<EVENT end="646" id="E20" modality="FACTUAL" polarity="POS" start="636" text="CT surgery" type="TREATMENT"/>
+<EVENT end="666" id="E21" modality="FACTUAL" polarity="POS" start="653" text="a thoracotomy" type="TREATMENT"/>
+<EVENT end="678" id="E22" modality="FACTUAL" polarity="POS" start="672" text="bypass" type="TREATMENT"/>
+<EVENT end="691" id="E23" modality="FACTUAL" polarity="POS" start="683" text="excision" type="TREATMENT"/>
+<EVENT end="703" id="E24" modality="FACTUAL" polarity="POS" start="695" text="the wire" type="PROBLEM"/>
+<EVENT end="768" id="E25" modality="FACTUAL" polarity="POS" start="748" text="coffee ground emesis" type="PROBLEM"/>
+<EVENT end="780" id="E26" modality="FACTUAL" polarity="POS" start="773" text="a bleed" type="PROBLEM"/>
+<EVENT end="805" id="E27" modality="FACTUAL" polarity="POS" start="786" text="femoral access site" type="OCCURRENCE"/>
+<EVENT end="825" id="E28" modality="FACTUAL" polarity="POS" start="815" text="CT surgery" type="TREATMENT"/>
+<EVENT end="888" id="E29" modality="PROPOSED" polarity="POS" start="880" text="Protonix" type="TREATMENT"/>
+<EVENT end="932" id="E30" modality="FACTUAL" polarity="POS" start="912" text="peptic ulcer disease" type="PROBLEM"/>
+<EVENT end="1019" id="E31" modality="FACTUAL" polarity="POS" start="989" text="an acute myocardial infarction" type="PROBLEM"/>
+<ATIMEX3 end="1090" id="T4" mod="NA" start="1080" text="2009-05-02" type="DATE" val="2009-05-02"/>
+<ATIMEX3 end="1469" id="T5" mod="NA" start="1459" text="2009-05-04" type="DATE" val="2009-05-04"/>
+<ATIMEX3 end="1589" id="T6" mod="NA" start="1579" text="2009-05-05" type="DATE" val="2009-05-05"/>
+<ATIMEX3 end="170" id="T1" mod="NA" start="160" text="2009-05-01" type="DATE" val="2009-05-01"/>
+<ATIMEX3 end="1755" id="T7" mod="NA" start="1745" text="2009-05-06" type="DATE" val="2009-05-06"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2009-05-01" type="DATE" val="2009-05-01"/>
+
+
+
+
+
+
+
+
+
+
+
+<RTIMEX3 end="386" id="T2" mod="NA" start="367" text="five in the morning" type="TIME" val="2009-05-01T05:00"/>
+<RTIMEX3 end="532" id="T3" mod="END" start="525" text="evening" type="DATE" val="2009-05-01"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2009-05-01" end="28" id="S0" start="18" text="2009-05-01" type="ADMISSION"/>
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

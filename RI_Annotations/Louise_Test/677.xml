@@ -1,0 +1,165 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-09-05
+Discharge Date :
+2016-09-14
+Service :
+CSU
+HISTORY OF PRESENT ILLNESS :
+Mr. Hohlt is a 76 - year-old man with a history of hypertension , hyperlipidemia and prior myocardial infarction with a percutaneous transluminal coronary angioplasty of the right coronary artery in 2005 at the Cambridge Health Alliance .
+He states that he has experienced pain and tightness in his back radiating into both shoulders starting on 2016-09-02 .
+The patient denies shortness of breath , dizziness , diaphoresis , or nausea .
+The pain lasted for 30 seconds following pushing a wheelbarrow and resolved with rest .
+The patient denied any prior episodes of pain or any since 2005 following the initial episode of pain .
+The patient informs his primary care provider who referred him to the emergency room .
+He then presented to Mass. Mental Health Center where he was ruled out for an myocardial infarction by enzymes and electrocardiograms .
+The patient also underwent a negative evaluation for dissecting aortic aneurysm .
+On 2016-09-03 , the patient began experiencing continuing chest pain of increasing intensity .
+He was treated with nitroglycerin paste and IV Integrelin as well as Plavix .
+At that time , he ruled in for an NST EMI with a peak CK of 412 and a troponin of 6.23 .
+Electrocardiograms progressed to inverted T waves in V5 and V6 .
+The patient is now transferred to Cambridge Health Alliance for cardiac catheterization .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1032" id="E27" modality="FACTUAL" polarity="NEG" start="1006" text="dissecting aortic aneurysm" type="PROBLEM"/>
+<EVENT end="1103" id="E28" modality="FACTUAL" polarity="POS" start="1082" text="continuing chest pain" type="PROBLEM"/>
+<EVENT end="1169" id="E29" modality="FACTUAL" polarity="POS" start="1150" text="nitroglycerin paste" type="TREATMENT"/>
+<EVENT end="1187" id="E30" modality="FACTUAL" polarity="POS" start="1174" text="IV Integrelin" type="TREATMENT"/>
+<EVENT end="1205" id="E31" modality="FACTUAL" polarity="POS" start="1199" text="Plavix" type="TREATMENT"/>
+<EVENT end="1249" id="E32" modality="FACTUAL" polarity="POS" start="1239" text="an NST EMI" type="PROBLEM"/>
+<EVENT end="1264" id="E33" modality="FACTUAL" polarity="POS" start="1255" text="a peak CK" type="TEST"/>
+<EVENT end="1286" id="E34" modality="FACTUAL" polarity="POS" start="1276" text="a troponin" type="TEST"/>
+<EVENT end="1315" id="E35" modality="FACTUAL" polarity="POS" start="1297" text="Electrocardiograms" type="TEST"/>
+<EVENT end="1359" id="E36" modality="FACTUAL" polarity="POS" start="1330" text="inverted T waves in V5 and V6" type="PROBLEM"/>
+<EVENT end="1392" id="E37" modality="FACTUAL" polarity="POS" start="1381" text="transferred" type="OCCURRENCE"/>
+<EVENT end="1421" id="E38" modality="FACTUAL" polarity="POS" start="1396" text="Cambridge Health Alliance" type="CLINICAL_DEPT"/>
+<EVENT end="1449" id="E39" modality="FACTUAL" polarity="POS" start="1426" text="cardiac catheterization" type="TEST"/>
+<EVENT end="163" id="E2" modality="FACTUAL" polarity="POS" start="151" text="hypertension" type="PROBLEM"/>
+<EVENT end="180" id="E3" modality="FACTUAL" polarity="POS" start="166" text="hyperlipidemia" type="PROBLEM"/>
+<EVENT end="212" id="E4" modality="FACTUAL" polarity="POS" start="185" text="prior myocardial infarction" type="PROBLEM"/>
+<EVENT end="295" id="E5" modality="FACTUAL" polarity="POS" start="218" text="a percutaneous transluminal coronary angioplasty of the right coronary artery" type="TREATMENT"/>
+<EVENT end="38" id="E1" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="336" id="E6" modality="FACTUAL" polarity="POS" start="307" text="the Cambridge Health Alliance" type="CLINICAL_DEPT"/>
+<EVENT end="348" id="E7" modality="FACTUAL" polarity="POS" start="342" text="states" type="EVIDENTIAL"/>
+<EVENT end="377" id="E8" modality="FACTUAL" polarity="POS" start="373" text="pain" type="PROBLEM"/>
+<EVENT end="403" id="E9" modality="FACTUAL" polarity="POS" start="382" text="tightness in his back" type="PROBLEM"/>
+<EVENT end="477" id="E10" modality="FACTUAL" polarity="POS" start="471" text="denies" type="EVIDENTIAL"/>
+<EVENT end="497" id="E11" modality="FACTUAL" polarity="NEG" start="478" text="shortness of breath" type="PROBLEM"/>
+<EVENT end="509" id="E12" modality="FACTUAL" polarity="NEG" start="500" text="dizziness" type="PROBLEM"/>
+<EVENT end="523" id="E13" modality="FACTUAL" polarity="NEG" start="512" text="diaphoresis" type="PROBLEM"/>
+<EVENT end="535" id="E14" modality="FACTUAL" polarity="NEG" start="529" text="nausea" type="PROBLEM"/>
+<EVENT end="546" id="E15" modality="FACTUAL" polarity="POS" start="538" text="The pain" type="PROBLEM"/>
+<EVENT end="600" id="E40" modality="FACTUAL" polarity="POS" start="579" text="pushing a wheelbarrow" type="OCCURRENCE"/>
+<EVENT end="623" id="E16" modality="FACTUAL" polarity="POS" start="619" text="rest" type="TREATMENT"/>
+<EVENT end="644" id="E17" modality="FACTUAL" polarity="POS" start="638" text="denied" type="EVIDENTIAL"/>
+<EVENT end="671" id="E18" modality="FACTUAL" polarity="NEG" start="667" text="pain" type="PROBLEM"/>
+<EVENT end="727" id="E19" modality="FACTUAL" polarity="POS" start="723" text="pain" type="PROBLEM"/>
+<EVENT end="749" id="E20" modality="FACTUAL" polarity="POS" start="742" text="informs" type="EVIDENTIAL"/>
+<EVENT end="814" id="E21" modality="FACTUAL" polarity="POS" start="796" text="the emergency room" type="CLINICAL_DEPT"/>
+<EVENT end="834" id="E22" modality="FACTUAL" polarity="POS" start="825" text="presented" type="OCCURRENCE"/>
+<EVENT end="864" id="E23" modality="FACTUAL" polarity="POS" start="838" text="Mass. Mental Health Center" type="CLINICAL_DEPT"/>
+<EVENT end="916" id="E24" modality="FACTUAL" polarity="NEG" start="892" text="an myocardial infarction" type="PROBLEM"/>
+<EVENT end="927" id="E25" modality="FACTUAL" polarity="POS" start="920" text="enzymes" type="TEST"/>
+<EVENT end="950" id="E26" modality="FACTUAL" polarity="POS" start="932" text="electrocardiograms" type="TEST"/>
+<ATIMEX3 end="1048" id="T6" mod="NA" start="1038" text="2016-09-03" type="DATE" val="2016-09-03"/>
+<RTIMEX3 end="1220" id="T8" mod="APPROX" start="1211" text="that time" type="DATE" val="2016-09-03"/>
+<ATIMEX3 end="28" id="T0" mod="NA" start="18" text="2016-09-05" type="DATE" val="2016-09-05"/>
+<ATIMEX3 end="303" id="T2" mod="NA" start="299" text="2005" type="DATE" val="2005"/>
+<ATIMEX3 end="456" id="T3" mod="NA" start="446" text="2016-09-02" type="DATE" val="2016-09-02"/>
+<ATIMEX3 end="56" id="T1" mod="NA" start="46" text="2016-09-14" type="DATE" val="2016-09-14"/>
+
+<ATIMEX3 end="689" id="T5" mod="NA" start="685" text="2005" type="DATE" val="2005"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2016-09-05" end="28" id="S0" start="18" text="2016-09-05" type="ADMISSION"/>
+<SECTIME dvalue="2016-09-14" end="56" id="S1" start="46" text="2016-09-14" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

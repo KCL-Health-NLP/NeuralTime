@@ -1,0 +1,160 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE : 
+06/22/94 
+DISCHARGE DATE : 
+07/04/94 
+HISTORY OF PRESENT ILLNESS : 
+This 68 year old female had rheumatic fever in the past , and has had chronic atrial fibrillation . 
+She has had progressive heart failure and an evaluation demonstrated worsening mitral stenosis with severe pulmonary hypertension . 
+Because of her deteriorating status , she underwent prior cardiac catheterization , which confirmed severe mitral stenosis with secondary tricuspid valve regurgitation due to pulmonary hypertension . 
+She was referred for valve surgery . 
+HOSPITAL COURSE : 
+The patient was brought to the Operating Room , on April 22 . 
+She underwent a mitral valve replacement , utilizing a 27 mm . 
+St. Jude prosthesis , and tricuspid valve reconstruction by ring anuloplasty . 
+She weaned from cardiopulmonary bypass with good hemodynamics . 
+She initially awoke after surgery , with good hemodynamics . 
+She was transiently in sinus rhythm , but atrial fibrillation recurred . 
+She was extubated on the third postoperative day , and was initially slightly agitated and confused , largely due to an Intensive Care Unit psychosis . 
+She continued to improve , with mobilization of fluid . 
+She was initially noted to have a slow ventricular response in atrial fibrillation , but this gradually improved over time . 
+She was initially noted to be somewhat anemic , and received transfusions . 
+Coumadin was restarted , and her anticoagulation came into range . 
+She was ultimately discharged with a heart rate in the 90 's , and with resolving edema and a clear chest . 
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E0" modality="FACTUAL" polarity="POS" start="1" text="ADMISSION" type="OCCURRENCE"/>
+<EVENT end="1073" id="E9" modality="FACTUAL" polarity="POS" start="1046" text="initially slightly agitated" type="PROBLEM"/>
+<EVENT end="1086" id="E10" modality="FACTUAL" polarity="POS" start="1078" text="confused" type="PROBLEM"/>
+<EVENT end="1136" id="E11" modality="FACTUAL" polarity="POS" start="1104" text="an Intensive Care Unit psychosis" type="PROBLEM"/>
+<EVENT end="130" id="E1" modality="FACTUAL" polarity="POS" start="115" text="rheumatic fever" type="PROBLEM"/>
+<EVENT end="1220" id="E41" modality="FACTUAL" polarity="POS" start="1215" text="noted" type="EVIDENTIAL"/>
+<EVENT end="1256" id="E12" modality="FACTUAL" polarity="POS" start="1229" text="a slow ventricular response" type="PROBLEM"/>
+<EVENT end="1279" id="E13" modality="FACTUAL" polarity="POS" start="1260" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1309" id="E42" modality="FACTUAL" polarity="POS" start="1301" text="improved" type="OCCURRENCE"/>
+<EVENT end="1368" id="E14" modality="FACTUAL" polarity="POS" start="1353" text="somewhat anemic" type="PROBLEM"/>
+<EVENT end="1396" id="E15" modality="FACTUAL" polarity="POS" start="1384" text="transfusions" type="TREATMENT"/>
+<EVENT end="1408" id="E16" modality="FACTUAL" polarity="POS" start="1400" text="Coumadin" type="TREATMENT"/>
+<EVENT end="1448" id="E17" modality="FACTUAL" polarity="POS" start="1429" text="her anticoagulation" type="TREATMENT"/>
+<EVENT end="1497" id="E21" modality="FACTUAL" polarity="POS" start="1487" text="discharged" type="OCCURRENCE"/>
+<EVENT end="1515" id="E18" modality="FACTUAL" polarity="POS" start="1503" text="a heart rate" type="TEST"/>
+<EVENT end="1555" id="E19" modality="FACTUAL" polarity="POS" start="1540" text="resolving edema" type="PROBLEM"/>
+<EVENT end="184" id="E22" modality="FACTUAL" polarity="POS" start="157" text="chronic atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1573" id="E43" modality="FACTUAL" polarity="POS" start="1560" text="a clear chest" type="PROBLEM"/>
+<EVENT end="225" id="E23" modality="FACTUAL" polarity="POS" start="200" text="progressive heart failure" type="PROBLEM"/>
+<EVENT end="243" id="E24" modality="FACTUAL" polarity="POS" start="230" text="an evaluation" type="TEST"/>
+<EVENT end="282" id="E25" modality="FACTUAL" polarity="POS" start="257" text="worsening mitral stenosis" type="PROBLEM"/>
+<EVENT end="317" id="E26" modality="FACTUAL" polarity="POS" start="288" text="severe pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="38" id="E20" modality="FACTUAL" polarity="POS" start="29" text="DISCHARGE" type="OCCURRENCE"/>
+<EVENT end="349" id="E27" modality="FACTUAL" polarity="POS" start="332" text="her deteriorating" type="EVIDENTIAL"/>
+<EVENT end="402" id="E2" modality="FACTUAL" polarity="POS" start="373" text="prior cardiac catheterization" type="TEST"/>
+<EVENT end="443" id="E28" modality="FACTUAL" polarity="POS" start="421" text="severe mitral stenosis" type="PROBLEM"/>
+<EVENT end="488" id="E29" modality="FACTUAL" polarity="POS" start="449" text="secondary tricuspid valve regurgitation" type="PROBLEM"/>
+<EVENT end="518" id="E30" modality="FACTUAL" polarity="POS" start="496" text="pulmonary hypertension" type="PROBLEM"/>
+<EVENT end="538" id="E31" modality="FACTUAL" polarity="POS" start="530" text="referred" type="OCCURRENCE"/>
+<EVENT end="556" id="E32" modality="PROPOSED" polarity="POS" start="543" text="valve surgery" type="TREATMENT"/>
+<EVENT end="624" id="E33" modality="FACTUAL" polarity="POS" start="606" text="the Operating Room" type="CLINICAL_DEPT"/>
+<EVENT end="682" id="E3" modality="FACTUAL" polarity="POS" start="656" text="a mitral valve replacement" type="TREATMENT"/>
+<EVENT end="725" id="E34" modality="FACTUAL" polarity="POS" start="715" text="prosthesis" type="TREATMENT"/>
+<EVENT end="762" id="E4" modality="FACTUAL" polarity="POS" start="732" text="tricuspid valve reconstruction" type="TREATMENT"/>
+<EVENT end="782" id="E5" modality="FACTUAL" polarity="POS" start="766" text="ring anuloplasty" type="TREATMENT"/>
+<EVENT end="796" id="E35" modality="FACTUAL" polarity="POS" start="790" text="weaned" type="OCCURRENCE"/>
+<EVENT end="824" id="E6" modality="FACTUAL" polarity="POS" start="802" text="cardiopulmonary bypass" type="TREATMENT"/>
+<EVENT end="847" id="E36" modality="FACTUAL" polarity="POS" start="830" text="good hemodynamics" type="EVIDENTIAL"/>
+<EVENT end="870" id="E37" modality="FACTUAL" polarity="POS" start="865" text="awoke" type="OCCURRENCE"/>
+<EVENT end="884" id="E7" modality="FACTUAL" polarity="POS" start="877" text="surgery" type="TREATMENT"/>
+<EVENT end="909" id="E38" modality="FACTUAL" polarity="POS" start="892" text="good hemodynamics" type="EVIDENTIAL"/>
+<EVENT end="948" id="E39" modality="FACTUAL" polarity="POS" start="936" text="sinus rhythm" type="PROBLEM"/>
+<EVENT end="974" id="E8" modality="FACTUAL" polarity="POS" start="955" text="atrial fibrillation" type="PROBLEM"/>
+<EVENT end="1004" id="E40" modality="FACTUAL" polarity="POS" start="995" text="extubated" type="TREATMENT"/>
+<RTIMEX3 end="1035" id="T3" mod="NA" start="1008" text="the third postoperative day" type="DATE" val="1994-06-25"/>
+<ATIMEX3 end="27" id="T1" mod="NA" start="19" text="06/22/94" type="DATE" val="1994-06-22"/>
+<ATIMEX3 end="55" id="T2" mod="NA" start="47" text="07/04/94" type="DATE" val="1994-07-04"/>
+<RTIMEX3 end="638" id="T0" mod="NA" start="630" text="April 22" type="DATE" val="1994-04-22"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="1994-06-22" end="26" id="S0" start="18" text="06/22/94" type="ADMISSION"/>
+<SECTIME dvalue="1994-07-04" end="52" id="S1" start="44" text="07/04/94" type="DISCHARGE"/>
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>

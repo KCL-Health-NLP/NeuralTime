@@ -1,0 +1,497 @@
+<ClinicalNarrativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2016-11-21
+Discharge Date :
+2016-11-30
+Service :
+CMED CCU
+CHIEF COMPLAINT AND HISTORY OF PRESENT ILLNESS :
+Mr. Jackson is a 63-year-old male with squamous cell carcinoma of the floor of mouth ( stage T2 N0 ) that was biopsied by his dentist .
+Pathology was reviewed revealing invasive squamous cell carcinoma .
+He presented on 2016-11-21 for resection .
+He was admitted on 2016-11-21 following his surgery .
+He underwent a joint procedure by Otolaryngology and Plastic Surgery .
+SUMMARY OF HOSPITAL COURSE :
+Surgeon was Dr. Kelsey K Sanchez .
+Assistant was Dr. Justin K.. Velez .
+Frozen section sent to pathology revealing invasive squamous cell carcinoma .
+No complications .
+The Plastic Team then took over for reconstruction consisting of radial forearm free flap to floor of mouth .
+Surgeon was Dr. Jude. Christopher Swinney .
+Total intravenous fluids of 7300 cc .
+Estimated blood loss of 300 cc .
+Urine output of 900 cc .
+No complications .
+In addition , the patient was prepared for an attempted percutaneous endoscopic gastrostomy tube .
+The percutaneous endoscopic gastrostomy was unsuccessful , and the procedure was converted to an open gastrostomy tube which then proceeded without complications .
+The patient was admitted to the Surgical Intensive Care Unit postoperatively .
+He was sedated and ventilated by his tracheostomy 6 cuff Shiley tube .
+He had three Westwood-Pocasset drains - two in the neck and one in his right arm .
+G-tube was to gravity , Foley to gravity , left radial A-line .
+The flap was pink with a strong Doppler signal .
+He underwent flap checks every 15 minutes initially with a dextran infusion .
+He was placed on Unasyn 3 grams IV q.6h.
+Nothing by mouth initially with morphine as needed for pain and Ativan around the clock for delirium tremens prophylaxis .
+In addition , he received metoprolol q.4.h. , a regular insulin sliding scale , and adequate gastrointestinal prophylaxis with Protonix .
+Postoperative laboratories revealed sodium was 134 , potassium was 4.1 , chloride was 102 , bicarbonate was 28 , blood urea nitrogen was 18 , creatinine was 0.8 , and glucose was 148 .
+Calcium was 7.6 .
+Magnesium was 2.2 .
+Complete blood count revealed white count was 5.4 , hematocrit was 31.3 , and platelets were 160 .
+ALT was 14 , AST was 31 , alkaline phosphatase was 42 , total bilirubin was 0.9 , albumin was 2.2 .
+A chest x-ray postoperatively showed clear lung fields .
+Tracheostomy tube in good position .
+No pneumothorax .
+By systems :
+CMED CSRU and Plastic Surgery flap checks , tracheostomy care , and Westwood-Pocasset management. 
+Cardiovascular :
+Lopressor 5 intravenously q.4.h.
+Respiratory :
+Nebulizers as needed , weaning from ventilation .
+Gastrointestinal :
+Medications per gastrostomy tube on postoperative day one .
+Genitourinary :
+Foley catheter for strict monitoring of ins and outs .
+Hematologic :
+Hematocrit stable .
+Infectious Disease :
+Unasyn for antibiotic coverage .
+Flap checks carried out q.2h. initially in the Surgical Intensive Care Unit showing positive biphasic Doppler signals .
+Pink flap with good refill .
+Right arm neurovascularly intact .
+He was weaned from ventilation on postoperative day one to pressure support ventilation and then to spontaneous breathing on postoperative day two .
+His Westwood-Pocasset output for postoperative day one on the left was 60 , right neck 93 , in the arm 20 .
+Tube feedings were started 48 hours after the procedure .
+The cuff on his tracheostomy tube was put down on 11-23 , postoperative day two which he tolerated well with minimal secretions and a strong adequate cough .
+Due to bed issues , he was transferred from the Surgical Intensive Care Unit to the Medical Intensive Care Unit on postoperative day three .
+His tube feedings were advanced .
+He was out of bed to a chair .
+He continued with pulmonary toilet and q.2h. flap checks .
+The Westwood-Pocasset in his right arm was removed on 2016-11-25 .
+His tracheostomy was changed to a 6 cuffless Shiley on 2016-11-26 and sutures in place with a 3-0 silk .
+The patient tolerated this procedure well .
+]]></TEXT>
+<TAGS>
+<EVENT end="10" id="E90" modality="FACTUAL" polarity="POS" start="1" text="Admission" type="OCCURRENCE"/>
+<EVENT end="1060" id="E15" modality="FACTUAL" polarity="POS" start="1007" text="an attempted percutaneous endoscopic gastrostomy tube" type="TREATMENT"/>
+<EVENT end="1102" id="E16" modality="FACTUAL" polarity="POS" start="1063" text="The percutaneous endoscopic gastrostomy" type="TREATMENT"/>
+<EVENT end="1119" id="E99" modality="FACTUAL" polarity="POS" start="1107" text="unsuccessful" type="OCCURRENCE"/>
+<EVENT end="1139" id="E17" modality="FACTUAL" polarity="POS" start="1126" text="the procedure" type="TREATMENT"/>
+<EVENT end="1181" id="E18" modality="FACTUAL" polarity="POS" start="1157" text="an open gastrostomy tube" type="TREATMENT"/>
+<EVENT end="1224" id="E19" modality="FACTUAL" polarity="NEG" start="1211" text="complications" type="PROBLEM"/>
+<EVENT end="1251" id="E100" modality="FACTUAL" polarity="POS" start="1243" text="admitted" type="OCCURRENCE"/>
+<EVENT end="1287" id="E101" modality="FACTUAL" polarity="POS" start="1255" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="1320" id="E20" modality="FACTUAL" polarity="POS" start="1313" text="sedated" type="TREATMENT"/>
+<EVENT end="1335" id="E21" modality="FACTUAL" polarity="POS" start="1325" text="ventilated" type="TREATMENT"/>
+<EVENT end="1374" id="E22" modality="FACTUAL" polarity="POS" start="1339" text="his tracheostomy 6 cuff Shiley tube" type="TREATMENT"/>
+<EVENT end="1414" id="E23" modality="FACTUAL" polarity="POS" start="1390" text="Westwood-Pocasset drains" type="TREATMENT"/>
+<EVENT end="1466" id="E24" modality="FACTUAL" polarity="POS" start="1460" text="G-tube" type="TREATMENT"/>
+<EVENT end="1489" id="E25" modality="FACTUAL" polarity="POS" start="1484" text="Foley" type="TREATMENT"/>
+<EVENT end="1521" id="E26" modality="FACTUAL" polarity="POS" start="1503" text="left radial A-line" type="TREATMENT"/>
+<EVENT end="1532" id="E27" modality="FACTUAL" polarity="POS" start="1524" text="The flap" type="TREATMENT"/>
+<EVENT end="1541" id="E102" modality="FACTUAL" polarity="POS" start="1537" text="pink" type="OCCURRENCE"/>
+<EVENT end="1570" id="E28" modality="FACTUAL" polarity="POS" start="1547" text="a strong Doppler signal" type="TEST"/>
+<EVENT end="1597" id="E29" modality="FACTUAL" polarity="POS" start="1586" text="flap checks" type="TEST"/>
+<EVENT end="1648" id="E30" modality="FACTUAL" polarity="POS" start="1630" text="a dextran infusion" type="TREATMENT"/>
+<EVENT end="187" id="E1" modality="FACTUAL" polarity="POS" start="164" text="squamous cell carcinoma" type="PROBLEM"/>
+<EVENT end="1674" id="E31" modality="FACTUAL" polarity="POS" start="1668" text="Unasyn" type="TREATMENT"/>
+<EVENT end="1708" id="E103" modality="FACTUAL" polarity="POS" start="1692" text="Nothing by mouth" type="TREATMENT"/>
+<EVENT end="1732" id="E32" modality="FACTUAL" polarity="POS" start="1724" text="morphine" type="TREATMENT"/>
+<EVENT end="1751" id="E33" modality="FACTUAL" polarity="POS" start="1747" text="pain" type="PROBLEM"/>
+<EVENT end="1762" id="E34" modality="FACTUAL" polarity="POS" start="1756" text="Ativan" type="TREATMENT"/>
+<EVENT end="1812" id="E35" modality="FACTUAL" polarity="POS" start="1784" text="delirium tremens prophylaxis" type="TREATMENT"/>
+<EVENT end="1851" id="E36" modality="FACTUAL" polarity="POS" start="1841" text="metoprolol" type="TREATMENT"/>
+<EVENT end="1892" id="E37" modality="FACTUAL" polarity="POS" start="1861" text="a regular insulin sliding scale" type="TREATMENT"/>
+<EVENT end="1936" id="E104" modality="FACTUAL" polarity="POS" start="1908" text="gastrointestinal prophylaxis" type="TREATMENT"/>
+<EVENT end="1950" id="E38" modality="FACTUAL" polarity="POS" start="1942" text="Protonix" type="TREATMENT"/>
+<EVENT end="1979" id="E39" modality="FACTUAL" polarity="POS" start="1953" text="Postoperative laboratories" type="TEST"/>
+<EVENT end="1988" id="E105" modality="FACTUAL" polarity="POS" start="1980" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="1995" id="E40" modality="FACTUAL" polarity="POS" start="1989" text="sodium" type="TEST"/>
+<EVENT end="2015" id="E41" modality="FACTUAL" polarity="POS" start="2006" text="potassium" type="TEST"/>
+<EVENT end="2034" id="E42" modality="FACTUAL" polarity="POS" start="2026" text="chloride" type="TEST"/>
+<EVENT end="2056" id="E43" modality="FACTUAL" polarity="POS" start="2045" text="bicarbonate" type="TEST"/>
+<EVENT end="2085" id="E44" modality="FACTUAL" polarity="POS" start="2066" text="blood urea nitrogen" type="TEST"/>
+<EVENT end="2105" id="E45" modality="FACTUAL" polarity="POS" start="2095" text="creatinine" type="TEST"/>
+<EVENT end="223" id="E98" modality="FACTUAL" polarity="POS" start="212" text="stage T2 N0" type="PROBLEM"/>
+<EVENT end="2127" id="E46" modality="FACTUAL" polarity="POS" start="2120" text="glucose" type="TEST"/>
+<EVENT end="2145" id="E47" modality="FACTUAL" polarity="POS" start="2138" text="Calcium" type="TEST"/>
+<EVENT end="2165" id="E48" modality="FACTUAL" polarity="POS" start="2156" text="Magnesium" type="TEST"/>
+<EVENT end="2196" id="E49" modality="FACTUAL" polarity="POS" start="2176" text="Complete blood count" type="TEST"/>
+<EVENT end="2205" id="E106" modality="FACTUAL" polarity="POS" start="2197" text="revealed" type="EVIDENTIAL"/>
+<EVENT end="2217" id="E50" modality="FACTUAL" polarity="POS" start="2206" text="white count" type="TEST"/>
+<EVENT end="2238" id="E51" modality="FACTUAL" polarity="POS" start="2228" text="hematocrit" type="TEST"/>
+<EVENT end="2263" id="E52" modality="FACTUAL" polarity="POS" start="2254" text="platelets" type="TEST"/>
+<EVENT end="2278" id="E53" modality="FACTUAL" polarity="POS" start="2275" text="ALT" type="TEST"/>
+<EVENT end="2291" id="E54" modality="FACTUAL" polarity="POS" start="2288" text="AST" type="TEST"/>
+<EVENT end="2321" id="E55" modality="FACTUAL" polarity="POS" start="2301" text="alkaline phosphatase" type="TEST"/>
+<EVENT end="2346" id="E56" modality="FACTUAL" polarity="POS" start="2331" text="total bilirubin" type="TEST"/>
+<EVENT end="243" id="E0" modality="FACTUAL" polarity="POS" start="235" text="biopsied" type="TEST"/>
+<EVENT end="2364" id="E57" modality="FACTUAL" polarity="POS" start="2357" text="albumin" type="TEST"/>
+<EVENT end="2388" id="E58" modality="FACTUAL" polarity="POS" start="2375" text="A chest x-ray" type="TEST"/>
+<EVENT end="2411" id="E107" modality="FACTUAL" polarity="POS" start="2405" text="showed" type="EVIDENTIAL"/>
+<EVENT end="2429" id="E108" modality="FACTUAL" polarity="POS" start="2412" text="clear lung fields" type="OCCURRENCE"/>
+<EVENT end="2449" id="E59" modality="FACTUAL" polarity="POS" start="2432" text="Tracheostomy tube" type="TREATMENT"/>
+<EVENT end="2466" id="E109" modality="FACTUAL" polarity="POS" start="2453" text="good position" type="OCCURRENCE"/>
+<EVENT end="2484" id="E60" modality="FACTUAL" polarity="NEG" start="2472" text="pneumothorax" type="PROBLEM"/>
+<EVENT end="2541" id="E61" modality="FACTUAL" polarity="POS" start="2530" text="flap checks" type="TEST"/>
+<EVENT end="2561" id="E62" modality="FACTUAL" polarity="POS" start="2544" text="tracheostomy care" type="TREATMENT"/>
+<EVENT end="2597" id="E63" modality="FACTUAL" polarity="POS" start="2568" text="Westwood-Pocasset management." type="TREATMENT"/>
+<EVENT end="270" id="E2" modality="FACTUAL" polarity="POS" start="261" text="Pathology" type="TEST"/>
+<EVENT end="2625" id="E64" modality="FACTUAL" polarity="POS" start="2616" text="Lopressor" type="TREATMENT"/>
+<EVENT end="2673" id="E65" modality="FACTUAL" polarity="POS" start="2663" text="Nebulizers" type="TREATMENT"/>
+<EVENT end="2693" id="E110" modality="FACTUAL" polarity="POS" start="2686" text="weaning" type="OCCURRENCE"/>
+<EVENT end="2710" id="E66" modality="FACTUAL" polarity="POS" start="2699" text="ventilation" type="TREATMENT"/>
+<EVENT end="2743" id="E67" modality="FACTUAL" polarity="POS" start="2732" text="Medications" type="TREATMENT"/>
+<EVENT end="2764" id="E68" modality="FACTUAL" polarity="POS" start="2748" text="gastrostomy tube" type="TREATMENT"/>
+<EVENT end="2822" id="E69" modality="FACTUAL" polarity="POS" start="2808" text="Foley catheter" type="TREATMENT"/>
+<EVENT end="2860" id="E70" modality="FACTUAL" polarity="POS" start="2827" text="strict monitoring of ins and outs" type="TEST"/>
+<EVENT end="293" id="E93" modality="FACTUAL" polarity="POS" start="284" text="revealing" type="EVIDENTIAL"/>
+<EVENT end="2887" id="E71" modality="FACTUAL" polarity="POS" start="2877" text="Hematocrit" type="TEST"/>
+<EVENT end="38" id="E91" modality="FACTUAL" polarity="POS" start="29" text="Discharge" type="OCCURRENCE"/>
+<EVENT end="2924" id="E72" modality="FACTUAL" polarity="POS" start="2918" text="Unasyn" type="TREATMENT"/>
+<EVENT end="2948" id="E73" modality="FACTUAL" polarity="POS" start="2929" text="antibiotic coverage" type="TREATMENT"/>
+<EVENT end="326" id="E3" modality="FACTUAL" polarity="POS" start="294" text="invasive squamous cell carcinoma" type="PROBLEM"/>
+<EVENT end="2962" id="E74" modality="FACTUAL" polarity="POS" start="2951" text="Flap checks" type="TEST"/>
+<EVENT end="3026" id="E111" modality="FACTUAL" polarity="POS" start="2994" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3034" id="E112" modality="FACTUAL" polarity="POS" start="3027" text="showing" type="EVIDENTIAL"/>
+<EVENT end="3068" id="E113" modality="FACTUAL" polarity="POS" start="3044" text="biphasic Doppler signals" type="OCCURRENCE"/>
+<EVENT end="3080" id="E75" modality="FACTUAL" polarity="POS" start="3071" text="Pink flap" type="TREATMENT"/>
+<EVENT end="3097" id="E114" modality="FACTUAL" polarity="POS" start="3086" text="good refill" type="OCCURRENCE"/>
+<EVENT end="3132" id="E115" modality="FACTUAL" polarity="POS" start="3110" text="neurovascularly intact" type="OCCURRENCE"/>
+<EVENT end="3165" id="E76" modality="FACTUAL" polarity="POS" start="3154" text="ventilation" type="TREATMENT"/>
+<EVENT end="3222" id="E77" modality="FACTUAL" polarity="POS" start="3194" text="pressure support ventilation" type="TREATMENT"/>
+<EVENT end="3256" id="E117" modality="FACTUAL" polarity="POS" start="3235" text="spontaneous breathing" type="OCCURRENCE"/>
+<EVENT end="3312" id="E78" modality="FACTUAL" polarity="POS" start="3284" text="His Westwood-Pocasset output" type="TEST"/>
+<EVENT end="341" id="E94" modality="FACTUAL" polarity="POS" start="332" text="presented" type="OCCURRENCE"/>
+<EVENT end="3405" id="E79" modality="FACTUAL" polarity="POS" start="3392" text="Tube feedings" type="TREATMENT"/>
+<EVENT end="3447" id="E80" modality="FACTUAL" polarity="POS" start="3434" text="the procedure" type="TREATMENT"/>
+<EVENT end="3458" id="E128" modality="FACTUAL" polarity="POS" start="3450" text="The cuff" type="TREATMENT"/>
+<EVENT end="3483" id="E81" modality="FACTUAL" polarity="POS" start="3462" text="his tracheostomy tube" type="TREATMENT"/>
+<EVENT end="3553" id="E118" modality="FACTUAL" polarity="POS" start="3539" text="tolerated well" type="OCCURRENCE"/>
+<EVENT end="3577" id="E82" modality="FACTUAL" polarity="POS" start="3559" text="minimal secretions" type="PROBLEM"/>
+<EVENT end="3605" id="E119" modality="FACTUAL" polarity="POS" start="3582" text="a strong adequate cough" type="OCCURRENCE"/>
+<EVENT end="369" id="E95" modality="FACTUAL" polarity="POS" start="360" text="resection" type="TREATMENT"/>
+<EVENT end="3646" id="E92" modality="FACTUAL" polarity="POS" start="3635" text="transferred" type="OCCURRENCE"/>
+<EVENT end="3684" id="E120" modality="FACTUAL" polarity="POS" start="3652" text="the Surgical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3719" id="E121" modality="FACTUAL" polarity="POS" start="3688" text="the Medical Intensive Care Unit" type="CLINICAL_DEPT"/>
+<EVENT end="3766" id="E83" modality="FACTUAL" polarity="POS" start="3749" text="His tube feedings" type="TREATMENT"/>
+<EVENT end="3780" id="E122" modality="FACTUAL" polarity="POS" start="3772" text="advanced" type="OCCURRENCE"/>
+<EVENT end="387" id="E96" modality="FACTUAL" polarity="POS" start="379" text="admitted" type="OCCURRENCE"/>
+<EVENT end="3800" id="E123" modality="FACTUAL" polarity="POS" start="3790" text="out of bed" type="OCCURRENCE"/>
+<EVENT end="3848" id="E84" modality="FACTUAL" polarity="POS" start="3832" text="pulmonary toilet" type="TREATMENT"/>
+<EVENT end="3870" id="E124" modality="FACTUAL" polarity="POS" start="3859" text="flap checks" type="TEST"/>
+<EVENT end="3911" id="E85" modality="FACTUAL" polarity="POS" start="3873" text="The Westwood-Pocasset in his right arm" type="TREATMENT"/>
+<EVENT end="3956" id="E86" modality="FACTUAL" polarity="POS" start="3940" text="His tracheostomy" type="TREATMENT"/>
+<EVENT end="3991" id="E125" modality="FACTUAL" polarity="POS" start="3972" text="a 6 cuffless Shiley" type="TREATMENT"/>
+<EVENT end="4017" id="E87" modality="FACTUAL" polarity="POS" start="4010" text="sutures" type="TREATMENT"/>
+<EVENT end="4042" id="E88" modality="FACTUAL" polarity="POS" start="4032" text="a 3-0 silk" type="TREATMENT"/>
+<EVENT end="4066" id="E127" modality="FACTUAL" polarity="POS" start="4057" text="tolerated" type="OCCURRENCE"/>
+<EVENT end="4081" id="E89" modality="FACTUAL" polarity="POS" start="4067" text="this procedure" type="TREATMENT"/>
+<EVENT end="4086" id="E126" modality="FACTUAL" polarity="POS" start="4082" text="well" type="OCCURRENCE"/>
+<EVENT end="423" id="E4" modality="FACTUAL" polarity="POS" start="412" text="his surgery" type="TREATMENT"/>
+<EVENT end="456" id="E5" modality="FACTUAL" polarity="POS" start="439" text="a joint procedure" type="TREATMENT"/>
+<EVENT end="612" id="E6" modality="FACTUAL" polarity="POS" start="598" text="Frozen section" type="TEST"/>
+<EVENT end="640" id="E97" modality="FACTUAL" polarity="POS" start="631" text="revealing" type="EVIDENTIAL"/>
+<EVENT end="673" id="E7" modality="FACTUAL" polarity="POS" start="641" text="invasive squamous cell carcinoma" type="PROBLEM"/>
+<EVENT end="692" id="E8" modality="FACTUAL" polarity="NEG" start="679" text="complications" type="PROBLEM"/>
+<EVENT end="745" id="E9" modality="FACTUAL" polarity="POS" start="731" text="reconstruction" type="TREATMENT"/>
+<EVENT end="784" id="E10" modality="FACTUAL" polarity="POS" start="760" text="radial forearm free flap" type="TREATMENT"/>
+<EVENT end="873" id="E11" modality="FACTUAL" polarity="POS" start="849" text="Total intravenous fluids" type="TREATMENT"/>
+<EVENT end="907" id="E12" modality="FACTUAL" polarity="POS" start="887" text="Estimated blood loss" type="PROBLEM"/>
+<EVENT end="932" id="E13" modality="FACTUAL" polarity="POS" start="920" text="Urine output" type="TEST"/>
+<EVENT end="961" id="E14" modality="FACTUAL" polarity="NEG" start="948" text="complications" type="PROBLEM"/>
+
+
+<ATIMEX3 end="28" id="T1" mod="NA" start="18" text="2016-11-21" type="DATE" val="2016-11-21"/>
+
+
+
+<RTIMEX3 end="2789" id="T5" mod="NA" start="2768" text="postoperative day one" type="DATE" val="2016-11-22"/>
+
+<RTIMEX3 end="3190" id="T6" mod="NA" start="3169" text="postoperative day one" type="DATE" val="2016-11-22"/>
+<RTIMEX3 end="3281" id="T7" mod="NA" start="3260" text="postoperative day two" type="DATE" val="2016-11-23"/>
+<RTIMEX3 end="3338" id="T8" mod="NA" start="3317" text="postoperative day one" type="DATE" val="2016-11-22"/>
+<ATIMEX3 end="3427" id="T19" mod="NA" start="3419" text="48 hours" type="DATE" val="2016-11-23"/>
+<ATIMEX3 end="355" id="T3" mod="NA" start="345" text="2016-11-21" type="DATE" val="2016-11-21"/>
+<ATIMEX3 end="3529" id="T21" mod="NA" start="3500" text="11-23 , postoperative day two" type="DATE" val="2016-11-23"/>
+<RTIMEX3 end="3746" id="T10" mod="NA" start="3723" text="postoperative day three" type="DATE" val="2016-11-24"/>
+
+<ATIMEX3 end="401" id="T4" mod="NA" start="391" text="2016-11-21" type="DATE" val="2016-11-21"/>
+<ATIMEX3 end="3937" id="T11" mod="NA" start="3927" text="2016-11-25" type="DATE" val="2016-11-25"/>
+<ATIMEX3 end="4005" id="T12" mod="NA" start="3995" text="2016-11-26" type="DATE" val="2016-11-26"/>
+<ATIMEX3 end="56" id="T2" mod="NA" start="46" text="2016-11-30" type="DATE" val="2016-11-30"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SECTIME dvalue="2016-11-21" end="28" id="S0" start="18" text="2016-11-21" type="ADMISSION"/>
+<SECTIME dvalue="2016-11-30" end="56" id="S1" start="46" text="2016-11-30" type="DISCHARGE"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TAGS>
+</ClinicalNarrativeTemporalAnnotation>
