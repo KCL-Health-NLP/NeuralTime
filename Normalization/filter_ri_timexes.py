@@ -89,7 +89,7 @@ def filter_absolute_timexes():
     it saves the resulting tables as :
     - absolute_timexes
     - filtered_timexes for the relative timexes
-    - date_and_time for all the timexes with a boolean attribute : "absolute"
+    - date_and_time for all the date and time timexes, with a boolean attribute : "absolute"
     :return: relative_timexes
     """
 
@@ -132,5 +132,5 @@ def filter_absolute_timexes():
     return relative_timexes
 
 
-filter_absolute_timexes()
+#filter_absolute_timexes()
 

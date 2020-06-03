@@ -1,6 +1,7 @@
 import pandas as pd
 
 
+# This file contains a scrip which analyses the document distribution of the original RITimexes annotations
 
 original_annotations = pd.read_csv('../TimeDatasets/i2b2 Data/test_reltime_gs.csv')
 print(original_annotations)

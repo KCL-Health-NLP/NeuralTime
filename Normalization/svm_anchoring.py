@@ -98,13 +98,15 @@ def get_previous_timexes(id, document_name):
 
 
 
-def extract_features(annotations):
+def extract_features(annotations, text_documents, vectorizer):
 
     """
     Takes ri timexes annotations in dataframe format and returns the vectors that will be used for the classification
 
-    :param annotations: a dataframe
-    :return:
+    :param annotations: a dataframe with the following format :
+    :param text_documents : a dictionnary with docnames as keys and document text as value
+    :param vectorizer : tht vectorizer (already fitted)
+    :return: vectors : a sparse matrix of feature vectors
     """
     # initialize tokenizer
 
@@ -176,48 +178,56 @@ def extract_features(annotations):
     return vectors
 
 
-import random
-random.seed(42)
-
-ri_original_timexes = pd.read_csv('../TimeDatasets/i2b2 Data/test_reltime_gs.csv')
-y = ri_original_timexes['Anchor'].to_numpy()
-
-# Train/Test split
-
-train_data, test_data, y_train, y_test = train_test_split(ri_original_timexes, y, test_size=0.15, random_state=0, stratify=y)
 
 
-print(ri_original_timexes)
-
-# extracting document text
-
-path = '../TimeDatasets/i2b2 Data/Test_data/merged_i2b2/'
-
-text_documents = {}
-for filepath in ri_original_timexes['docname'].unique() :
-    text_path = filepath + '.txt'
-    text = open( path + text_path, 'r').read()
-    text_documents[filepath] = text
-
-# initialize the vectorizer
-vectorizer = initialize_bow([text for text in text_documents.values()])
 
 
-# random train/test set
 
-"""train_data = ri_original_timexes[ri_original_timexes.test == False]
-test_data = ri_original_timexes[ri_original_timexes.test == True]"""
+def svm_anchoring(data, path= '../TimeDatasets/i2b2 Data/all_data/'):
 
-def prepare_data():
+
+    """
+     This function takes a dataframe with the anotations and their anchor and anchor relation, and performs training and
+     testing of the models
+
+     :param data:
+     :param path : path to the xml files for the documents contained in data.docnames
+     :return:
+     """
+
+    y = data['Anchor'].to_numpy()
+
+
+    # divide into train/test sets
+
+    try :
+        train_data = data[data.test == False]
+        test_data = data[data.test == True]  # boolean or strings ?
+        y_train = train_data['Anchor'].to_numpy()
+        y_test = test_data['Anchor'].to_numpy
+    except Exception as e:
+        print(e)
+        train_data, test_data, y_train, y_test = train_test_split(data, y, test_size=0.15, random_state=0, stratify=y)
+
+
+    # create text_document
+    text_documents = {}
+    for filepath in data['docname'].unique():
+        text_path = filepath + '.txt'
+        text = open(path + text_path, 'r').read()
+        text_documents[filepath] = text
     print()
     print('Data Distribution')
 
-    print(len(ri_original_timexes))
+    # describe data distribution
 
-    g = ri_original_timexes.groupby('Anchor').agg(['count'])['docname']
+    print(str(len(data)) + ' documents')
+    print()
+
+    g = data.groupby('Anchor').agg(['count'])['docname']
     print(g)
 
-    print( )
+    print()
     print('Train set : ' + str(len(train_data)) + ' documents')
     print(train_data.groupby('Anchor').agg(['count'])['docname'])
     print()
@@ -225,13 +235,16 @@ def prepare_data():
     print(test_data.groupby('Anchor').agg(['count'])['docname'])
     print()
 
+    # initialize the vectorizer
+    vectorizer = initialize_bow([text for text in text_documents.values()])
+
+    # extract feature vectors
+
+    X_train = extract_features(train_data, text_documents, vectorizer)
+    X_test = extract_features(test_data, text_documents, vectorizer)
 
 
-    X_train = extract_features(train_data)
-    X_test = extract_features(test_data)
-
-
-def svm_anchoring():
+    # training models
 
     anchor_types = ['A', 'D', 'P', 'PA']
 
@@ -241,7 +254,9 @@ def svm_anchoring():
     optimized_parameters['P'] = {'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['PA'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
 
+
     def train_model(anchor_type):
+
         """
         trains a classification model for one type of anchor
         """
@@ -320,15 +335,13 @@ def svm_anchoring():
         print()
         print()
 
+        return clf
 
+
+    models = []
     for t in anchor_types:
-        train_model(t)
+        models += [train_model(t)]
 
 
+    return models
 
-    return None
-
-
-
-"""prepare_data()
-svm_anchoring()"""

@@ -213,6 +213,63 @@ def anchorlink_agreement(text_fname1, text_fname2, doc_annotations):
 
 
 
+
+def evaluate_agreement(batch1, batch2, annotations):
+
+    """
+    This function evaluates the agreement between two batches of documents annotated by different annotators
+    :param batch1: the list of path for the xml files annotated by annotator 1
+    :param batch2: the list of paths for the xml files annotated by annotator 2
+    :param annotations : the date and time timexes annotations
+    :return:
+    """
+    print()
+    print()
+
+
+    # FILTERING RELATIVE TIMEXES - AGREEMENT
+    rel1, rel2 = [], [] #to contain the values for the "relative" attribute
+    for i in range(len(batch1)):
+        path1 = batch1[i]
+        path2 = batch2[i]
+        docname = os.path.basename(path1)
+        print(docname)
+        f_score, kappa, r1, r2 = compare_filtering(path1, path2)
+        rel1 += r1
+        rel2 += r2
+    print(rel1)
+    print(rel2)
+    print()
+    print()
+    print('=====================================================================')
+    print()
+    print('Global Filtering F1 score : ' + str(f1_score(rel1, rel2, pos_label='TRUE')))
+    print('Global Filtering Cohen Kappa : ' + str(cohen_kappa_score(rel1, rel2)))
+
+    # ANCHORLINKS AGREEMENT
+    print()
+
+    total_anchored, positives, equivalent, negatives, missing_links = 0, 0, 0, 0,0
+    for i in range(len(batch1)):
+        path1 = batch1[i]
+        path2 = batch2[i]
+        docname = os.path.basename(path1)
+        print(docname)
+        t,p, e, n, m = anchorlink_agreement(path1, path2, annotations[annotations.docname == docname])
+        positives += p
+        total_anchored += t
+        equivalent += e
+        negatives += n
+        missing_links += m
+
+    print()
+    print('=====================================================================')
+    print()
+    print('Global Link Strict Agreement : ' + str(positives * 100/total_anchored))
+    print('Global Link Relaxed Agreement : ' + str((positives + equivalent) * 100/total_anchored))
+
+
+
 '''
 
 timexes_annotations = pd.read_excel('../TimeDatasets/i2b2 Data/date_and_time.xlsx')

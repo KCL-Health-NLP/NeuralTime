@@ -177,13 +177,13 @@ def extract_i2b2_annotations():
 
     return timexes, events, tlinks, sectimes
 
-timexes, events, tlinks, sectimes = extract_i2b2_annotations()
+"""timexes, events, tlinks, sectimes = extract_i2b2_annotations()
 
 timexes.to_excel('i2b2_timexe_annotations.xlsx')
 events.to_excel('i2b2_events_annotations.xlsx')
 tlinks.to_excel('i2b2_tlinks_annotations.xlsx')
 sectimes.to_excel('i2b2_sectimes_annotations.xlsx')
-
+"""
 
 
 

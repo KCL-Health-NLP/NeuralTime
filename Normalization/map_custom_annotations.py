@@ -12,6 +12,7 @@ from RI_Annotations import agreementEvaluation
 from Normalization import svm_anchoring
 
 
+
 def get_rtimex_attr(timex_line):
     """
     This function extracts attributes from a relative timex
@@ -74,6 +75,7 @@ def get_timexes(text_fname):
     return timexes
 
 
+
 def attr_by_line(linkline):
     """
     This function takes an MAE file ANCHORLINK line and extracts its attributes
@@ -88,6 +90,8 @@ def attr_by_line(linkline):
     else:
         raise Exception("Malformed EVENT tag: %s" % (linkline))
     return [id, fromid, fromtext, toid, totext, relation]
+
+
 
 def get_anchorlinks(text_fname):
     '''
@@ -106,6 +110,7 @@ def get_anchorlinks(text_fname):
             anchorlink_tuple=attr_by_line(line)
             anchorlinks.append(anchorlink_tuple)
     return anchorlinks
+
 
 
 def annotated_files_to_dataframe(filepaths):
@@ -136,6 +141,7 @@ def annotated_files_to_dataframe(filepaths):
     print(timexes)
 
     return anchorlinks, timexes
+
 
 
 def custom_to_standard(anchorlinks, timexes):
@@ -208,12 +214,12 @@ def custom_to_standard(anchorlinks, timexes):
 
 
 
-filepaths = ['../RI_Annotations/Louise_Test/annotated_files/53.xml', '../RI_Annotations/Louise_Test/annotated_files/61.xml']
+"""filepaths = ['../RI_Annotations/Louise_Test/annotated_files/53.xml', '../RI_Annotations/Louise_Test/annotated_files/61.xml']
 
 anchorlinks, timexes = annotated_files_to_dataframe(filepaths)
 
 print(timexes['annotated_relative'])
-custom_to_standard(anchorlinks, timexes)
+custom_to_standard(anchorlinks, timexes)"""
 
 
 
