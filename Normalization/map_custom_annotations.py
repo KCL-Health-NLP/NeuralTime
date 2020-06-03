@@ -214,12 +214,6 @@ def custom_to_standard(anchorlinks, timexes):
 
 
 
-"""filepaths = ['../RI_Annotations/Louise_Test/annotated_files/53.xml', '../RI_Annotations/Louise_Test/annotated_files/61.xml']
-
-anchorlinks, timexes = annotated_files_to_dataframe(filepaths)
-
-print(timexes['annotated_relative'])
-custom_to_standard(anchorlinks, timexes)"""
 
 
 
