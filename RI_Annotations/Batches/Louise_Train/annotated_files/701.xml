@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+11/12/2002
+DISCHARGE DATE :
+11/15/2002
+HISTORY OF PRESENT ILLNESS :
+This is a 44 year-old right handed woman with Down &apos;s syndrome who presents with increased falling and gait unsteadiness and an increased inability to perform her activities of daily living over the past three years .
+The diagnosis of Alzheimer &apos;s was made in 1998 .
+The patient had an MRI at an outside hospital which showed enlarged lateral ventricles and the possible diagnosis of normal pressure hydrocephalus was entertained and the patient was admitted for diagnostic lumbar puncture .
+HOSPITAL COURSE :
+The patient was admitted to the Arkzie- Memorial for lumbar puncture .
+On the night of admission lumbar puncture was attempted on the floor , but we were unable to get cerebral spinal fluid due to difficulty with compliance with the patient who was severely agitated and would not comply with the examination .
+On hospital day the patient underwent conscious sedation in the operating room where lumbar puncture was performed .
+Opening pressure was 17 and approximately 20-25 cc of CSF was removed .
+CSF was notable for sugar level of 65 and total protein level of 56 .
+OTHER LABORATORIES THAT WERE NOTABLE :
+Vitamin B12 of 855 , folic acid of 15.4 .
+Chem-7 was within normal limits .
+Tube and requisition of the CSF labeled tube # 1 was notable for color pink , turbidity slight , xanthochromia yes , red blood cells 3,800 , white blood cells 3 , neutrophils 58 , bands 4 , lymphs 29 , monos 6 , eos 2 and basos 1 .
+CSF tube labeled # 4 was notable for CSF color pink , CSF turbidity slight , CSF xanthochromia yes , CSF RBCs 3,900 , CSF white blood cells 3 , CSF neutrophils 61 , CSF bands 3 , CSF lymphs 31 , CSF monos 1 , CSF eos 3 , CSF basos 1 .
+CSF gram stain was notable for no polys and no organisms seen .
+The fluid culture was no growth to date .
+One day prior to lumbar puncture , an aerobic culture was similarly pending .
+Lyme capture was pending and at the time of discharge .
+Other notable tests :
+RPR card test was negative .
+Because of poor compliance with the gait examination it was very difficult to assess changing gait post lumbar puncture .
+The patient &apos;s gait remained wide based and shuffling and requiring assist .
+Her mental status remained similarly to her admission examination .
+The patient was discharged to home on 11/15/02 with instructions to the family to observe her gait in her home environment and to observe her behavior in her home environment over the next day and to report back to the primary neurologist , Dr. Flythegach , as to changes .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1864" end="1871" text="One day" type="DATE" relative="TRUE" val="2002-11-12" mod="NA" />
+<RTIMEX3 id="T7" start="1974" end="1982" text="the time" type="DATE" relative="TRUE" val="2002-11-15" mod="NA" />
+<RTIMEX3 id="T4" start="680" end="689" text="the night" type="DATE" relative="TRUE" val="2002-11-12" mod="END" />
+<RTIMEX3 id="T5" start="920" end="932" text="hospital day" type="DATE" relative="TRUE" val="2002-11-13" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="11/12/2002" type="DATE" val="2002-11-12" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T8" start="2359" end="2367" text="11/15/02" type="DATE" val="2002-11-15" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="356" end="360" text="1998" type="DATE" val="1998" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="11/15/2002" type="DATE" val="2002-11-15" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="11/12/2002" type="ADMISSION" dvalue="2002-11-12" />
+<SECTIME id="S1" start="46" end="56" text="11/15/2002" type="DISCHARGE" dvalue="2002-11-15" />
+<ANCHORLINK id="AN0" fromID="T4" fromText="the night" toID="S0" toText="11/12/2002" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T5" fromText="hospital day" toID="S0" toText="11/12/2002" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T6" fromText="One day" toID="T5" toText="hospital day" relation="BEFORE" />
+<ANCHORLINK id="AN3" fromID="T7" fromText="the time" toID="S1" toText="11/15/2002" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>

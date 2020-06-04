@@ -1,0 +1,9 @@
+
+68.xml : imprecise expressions are ambiguous
+
+492 : no discharge date !! 
+511 : idem
+526 no value for a timex
+666 no discharge
+
+

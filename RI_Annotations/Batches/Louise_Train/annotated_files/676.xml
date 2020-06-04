@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+02/19/1991
+Discharge Date :
+02/25/1991
+HISTORY OF PRESENT ILLNESS :
+This is an 81-year-old who presented with postmenopausal spotting and had an endometrial biopsy which was read at the Etearal Etsystems/ Hospital as showing grade I adenocarcinoma .
+Accordingly she presents for operative therapy at this time .
+HOSPITAL COURSE :
+The patient was brought to the Operating Room on 2-19-91 where she had an exploratory laparotomy , TAH / BSO , and omental biopsy .
+She had a normal abdominal exploration of a small uterus with superficial invasion on gross examination , normal ovaries .
+Washings were sent .
+A subfascial J-P was left .
+The patient did well postoperatively and had a regular diet by the third postoperative day .
+Subfascia drain was discontinued .
+The patient &apos;s postoperative Hct was 34 .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T2" start="318" end="327" text="this time" type="DATE" relative="TRUE" val="1991-02-19" mod="NA" />
+<RTIMEX3 id="T4" start="715" end="742" text="the third postoperative day" type="DATE" relative="TRUE" val="1997-02-22" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="02/19/1991" type="DATE" val="1991-02-19" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="397" end="404" text="2-19-91" type="DATE" val="1991-02-19" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="02/25/1991" type="DATE" val="1991-02-25" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="02/19/1991" type="ADMISSION" dvalue="1991-02-19" />
+<SECTIME id="S1" start="46" end="56" text="02/25/1991" type="DISCHARGE" dvalue="1991-02-25" />
+<ANCHORLINK id="AN0" fromID="T2" fromText="this time" toID="S0" toText="02/19/1991" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T4" fromText="the third postoperative day" toID="T3" toText="2-19-91" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

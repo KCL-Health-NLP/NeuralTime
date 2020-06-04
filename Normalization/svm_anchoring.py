@@ -14,11 +14,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_selection import VarianceThreshold
 
 
-# need to cross reference between annotations ids and what we know of i2b2 ann
-
-i2b2_timexes = pd.read_excel('../TimeDatasets/i2b2 Data/date_and_time.xlsx')
-all_timexes = pd.read_excel('../TimeDatasets/i2b2 Data/i2b2_timexe_annotations.xlsx')
-
 
 
 def normalize_digits(text):
@@ -36,6 +31,7 @@ def normalize_digits(text):
     new_text = ' '.join(['N' if word in all_leter_digits else word for word in new_text.split(' ')])
 
     return new_text
+
 
 def initialize_bow(text_documents):
     """
@@ -55,7 +51,7 @@ def initialize_bow(text_documents):
 
 
 
-def get_previous_timexes(id, document_name):
+def get_previous_timexes(id, document_name, date_and_time, all_timexes):
 
         """
         returns the previous timex (from all the timexes) and previous absolute date or time timex
@@ -63,20 +59,30 @@ def get_previous_timexes(id, document_name):
         :param document_name: the name of the document
         :return: the id of the previous timexe and prvious absolute timexe
         """
-
-        doc_ann = i2b2_timexes[i2b2_timexes.docname == document_name]  # only date and times
+        print()
+        print(document_name)
+        print(id)
+        doc_ann = date_and_time[date_and_time.docname == document_name]  # only date and times
         all_doc_ann = all_timexes[all_timexes.docname == document_name]  # all timexes annotations
+        absolute_doc_ann = date_and_time[(date_and_time.docname == document_name) & (date_and_time.absolute == True)] # absolute timexes
 
-        ordered_ids = [id for id in doc_ann['id']]
-        all_ordered_ids = [id for id in all_doc_ann['id']]
+        # ordering ids as the timexes appear in the document
+        start_ids = [(start, id, abs) for start, id, abs in zip(doc_ann['start'], doc_ann['id'], doc_ann['absolute'])]
+        all_ordered_ids = [(start,id) for start,id in zip(all_doc_ann['start'], all_doc_ann['id'])]
 
-        ordered_ids.sort()
-        ordered_ids.sort(key = len)
-        index = ordered_ids.index(id)
-
+        start_ids.sort()
         all_ordered_ids.sort()
-        all_ordered_ids.sort(key=len)
+
+        print(start_ids)
+        print(all_ordered_ids)
+
+        ordered_ids = [s[1] for s in start_ids]
+        all_ordered_ids = [s[1] for s in all_ordered_ids]
+
+
+        index = ordered_ids.index(id)
         all_index = all_ordered_ids.index(id)
+        print(all_index)
 
         # finding the previous timexe id
         if all_index > 0:
@@ -85,20 +91,27 @@ def get_previous_timexes(id, document_name):
             previous_timex_id = all_ordered_ids[all_index]
 
         # finding the previous absolute timexe id
-        b = list(zip(doc_ann.id, doc_ann.absolute))
-        count = index
-        previous_absolute_id = ordered_ids[count]
-        while count >0:
-            if b[count][1]:
-                previous_absolute_id = ordered_ids[count]
-                return previous_timex_id, previous_absolute_id
-            else:
-                count -= 1
+
+        if index > 0:
+            count = index - 1
+            previous_absolute_id = ordered_ids[count]
+            while count > 0:
+                if start_ids[count][2]:
+                    previous_absolute_id = ordered_ids[count]
+                    print('previous')
+                    print(previous_timex_id, previous_absolute_id)
+                    return previous_timex_id, previous_absolute_id
+                else:
+                    count -= 1
+        else :
+            previous_absolute_id = ordered_ids[index]
+        print('previous')
+        print(previous_timex_id, previous_absolute_id)
         return previous_timex_id, previous_absolute_id
 
 
 
-def extract_features(annotations, text_documents, vectorizer):
+def extract_features(annotations, text_documents, vectorizer, date_and_time, all_timexes):
 
     """
     Takes ri timexes annotations in dataframe format and returns the vectors that will be used for the classification
@@ -107,6 +120,7 @@ def extract_features(annotations, text_documents, vectorizer):
     :param text_documents : a dictionnary with docnames as keys and document text as value
     :param vectorizer : tht vectorizer (already fitted)
     :return: vectors : a sparse matrix of feature vectors
+            previous_ids : the ids for previous timexes and previous absolute timexes
     """
     # initialize tokenizer
 
@@ -148,7 +162,7 @@ def extract_features(annotations, text_documents, vectorizer):
     print(window_vectors.shape)
 
     # extract previous timex and previous absolute timex
-    previous_ids = [get_previous_timexes(id, docname) for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
+    previous_ids = [get_previous_timexes(id, docname, date_and_time, all_timexes) for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
 
     # add previous timex vectors
     print('Previous T')
@@ -175,7 +189,7 @@ def extract_features(annotations, text_documents, vectorizer):
 
     print(vectors.shape)
 
-    return vectors
+    return vectors, previous_ids
 
 
 
@@ -183,7 +197,7 @@ def extract_features(annotations, text_documents, vectorizer):
 
 
 
-def svm_anchoring(data, path= '../TimeDatasets/i2b2 Data/all_data/'):
+def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 Data/all_data/'):
 
 
     """
@@ -191,6 +205,8 @@ def svm_anchoring(data, path= '../TimeDatasets/i2b2 Data/all_data/'):
      testing of the models
 
      :param data:
+     :param date_and_time : the dataframe containing all date and time timexes (careful of the filtering)
+     :param all_timexes : all the original i2b2 timexes annotation (pre ri annotations)
      :param path : path to the xml files for the documents contained in data.docnames
      :return:
      """
@@ -240,8 +256,10 @@ def svm_anchoring(data, path= '../TimeDatasets/i2b2 Data/all_data/'):
 
     # extract feature vectors
 
-    X_train = extract_features(train_data, text_documents, vectorizer)
-    X_test = extract_features(test_data, text_documents, vectorizer)
+    X_train, previous_ids_train = extract_features(train_data, text_documents, vectorizer, date_and_time, all_timexes)
+    X_test, previous_ids_test = extract_features(test_data, text_documents, vectorizer, date_and_time, all_timexes)
+
+
 
 
     # training models
@@ -269,6 +287,23 @@ def svm_anchoring(data, path= '../TimeDatasets/i2b2 Data/all_data/'):
 
         y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
         y_test_binary = [1 if type == anchor_type else 0 for type in y_test]
+
+        print(y_train_binary)
+        print(y_test_binary)
+
+        # for cases where the previous timex and the previous absolute timex are the same :
+        if anchor_type == 'P' or anchor_type == 'PA':
+            p_and_pa_train = [(p == pa) for p,pa in previous_ids_train]
+            p_and_pa_test = [(p == pa) for p, pa in previous_ids_test]
+            for i in range(len(p_and_pa_train)):
+                if p_and_pa_train[i]:
+                    y_train_binary[i] = 1
+            for i in range(len(p_and_pa_test)):
+                if p_and_pa_test[i]:
+                    y_test_binary[i] = 1
+            print('Modified if P = PA' )
+            print(y_train_binary)
+            print(y_test_binary)
 
         # Cross Validation
 
