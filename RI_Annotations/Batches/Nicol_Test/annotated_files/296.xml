@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+1-3-94
+DISCHARGE DATE :
+1-9-94
+HISTORY OF PRESENT ILLNESS :
+The patient is a 66 year old white female with metastatic colon carcinoma with a mass in the left superhilar region , who presents for bronchoscopy , mediastinal exploration and resection .
+The patient was in her usual state of health until she experienced the onset of abdominal pain in early 1992 .
+In December of 1992 , she underwent a transverse colectomy for colon carcinoma which was Duke &apos;s grade B-II , lymph nodes were negative .
+She received postoperative chemotherapy .
+In September of 1992 , she underwent an exploratory laparotomy because of an increased level of CEA in her blood with the presence of a liver abnormality on computerized tomography scan .
+The exploratory laparotomy was negative .
+She continued to have a rise in her CEA level which prompted a further work up .
+In September of 1993 , an abdominal and pelvic computerized tomography scan was negative and in June of 1993 , she had a negative bone scan .
+In December of 1994 , a thoracic computerized tomography scan showed a four centimeter soft tissue mass on the left suprahilar region , adjacent to the aortopulmonary window .
+She also experienced increased hoarseness over the preceding months , which was due to left vocal cord paralysis .
+She also complains of increased shortness of breath for the preceding month and now presents for mediastinal exploration and resection of her probable metastatic mass .
+HOSPITAL COURSE :
+The patient was admitted to the Fairm of Ijordcompmac Hospital .
+The patient was brought to the Operating Room on January 3 , 1994 where she underwent a median sternotomy with removal of her mediastinal mass .
+This mass was situated in the aortopulmonary window and was sent to pathology .
+The frozen section analysis revealed this to be adenocarcinoma , metastatic disease from the colon most likely .
+She had a chest tube placed intraoperatively and another placed postoperatively in the recovery room , for what was presumed to be a left pleural effusion .
+This tube drained only a small amount of fluid and it was likely that the effusion was made to look more severe in the presence of left hemidiaphragm elevation .
+This additional chest tube was removed the following day .
+Her postoperative hematocrit was 31 , compared to a preoperative level of 43 .
+Her postoperative recovery was really quite remarkable .
+Mediastinal chest tube was removed on postoperative day three .
+The patient was discharged home in stable condition on postoperative day six .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T9" start="1020" end="1036" text="December of 1994" type="DATE" relative="FALSE" val="1994-12" mod="NA" />
+<RTIMEX3 id="T7" start="1609" end="1625" text="January 3 , 1994" type="DATE" relative="FALSE" val="1994-01-03" mod="NA" />
+<RTIMEX3 id="T15" start="2256" end="2273" text="the following day" type="DATE" relative="TRUE" val="1994-01-04" mod="NA" />
+<RTIMEX3 id="T16" start="2450" end="2473" text="postoperative day three" type="DATE" relative="TRUE" val="1994-01-06" mod="NA" />
+<RTIMEX3 id="T8" start="2531" end="2552" text="postoperative day six" type="DATE" relative="TRUE" val="1994-01-09" mod="NA" />
+<RTIMEX3 id="T3" start="366" end="376" text="early 1992" type="DATE" relative="FALSE" val="1992" mod="START" />
+<RTIMEX3 id="T0" start="382" end="398" text="December of 1992" type="DATE" relative="FALSE" val="1992-12" mod="NA" />
+<RTIMEX3 id="T4" start="567" end="584" text="September of 1992" type="DATE" relative="FALSE" val="1992-09" mod="NA" />
+<RTIMEX3 id="T5" start="878" end="895" text="September of 1993" type="DATE" relative="FALSE" val="1993-09" mod="NA" />
+<RTIMEX3 id="T6" start="971" end="983" text="June of 1993" type="DATE" relative="FALSE" val="1993-06" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="24" text="1-3-94" type="DATE" val="1994-01-03" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="42" end="48" text="1-9-94" type="DATE" val="1994-01-09" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="24" text="1-3-94" type="ADMISSION" dvalue="1994-01-03" />
+<SECTIME id="S1" start="42" end="48" text="1-9-94" type="DISCHARGE" dvalue="1994-01-09" />
+<ANCHORLINK id="AN0" fromID="T15" fromText="the following day" toID="T7" toText="January 3 , 1994" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T16" fromText="postoperative day three" toID="T7" toText="January 3 , 1994" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T8" fromText="postoperative day six" toID="T7" toText="January 3 , 1994" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

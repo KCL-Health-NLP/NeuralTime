@@ -3,6 +3,8 @@ import random
 import pandas as pd
 import svm_anchoring
 import map_custom_annotations
+import data_analysis
+import os
 random.seed(42)
 
 
@@ -18,12 +20,16 @@ models = svm_anchoring.svm_anchoring(ri_original_timexes, date_and_time, all_tim
 
 
 # mapping our custom data to the original format
-"""
+
 # test, only on two files
 filepaths = ['../RI_Annotations/Batches/Louise_Test/annotated_files/53.xml', '../RI_Annotations/Batches/Louise_Test/annotated_files/61.xml']
 
-anchorlinks, timexes = map_custom_annotations.annotated_files_to_dataframe(filepaths)
+filepath_test= [ '../RI_Annotations/Batches/Louise_Test/annotated_files/' + docname  for docname in os.listdir('../RI_Annotations/Batches/Louise_Test/annotated_files') ]
 
-print(timexes['annotated_relative'])
-map_custom_annotations.custom_to_standard(anchorlinks, timexes)"""
+print(filepath_test)
+anchorlinks, timexes = map_custom_annotations.annotated_files_to_dataframe(filepath_test)
 
+
+mapped_data = map_custom_annotations.custom_to_standard(anchorlinks, timexes, all_timexes)
+
+data_analysis.analysis_mapped_custom_data(mapped_data)

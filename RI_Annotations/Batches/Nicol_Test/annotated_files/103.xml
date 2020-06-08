@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2013-10-29
+Discharge Date :
+2013-11-04
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+Mr. Andersen is a 71-year-old male with worsening anginal symptoms who underwent catheterization that showed severe three-vessel disease .
+He is presenting for revascularization .
+Brief Hospital Course :
+The patient was taken to the operating room on 2013-10-29 for a CABG x5 .
+Please see operative note for full details .
+The patient tolerated this procedure well .
+He was taken immediately post-operatively to the CSRU .
+He was extubated that night .
+The did well in the ICU .
+His central line and chest tubes were removed on post-op day #2 and was transferred to the floor in stable condition .
+On post-op day #3 , the patient 's pacing wires were removed , and his lopressor was started .
+On post-op day #4 , the patient failed the first of his void trials .
+He was seen and cleared by physical therapy .
+He was discharged home on post-op day #6 in stable condition with a foley catheter and leg bag .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T3" start="551" end="561" text="that night" type="DATE" relative="TRUE" val="2013-10-29" mod="END" />
+<RTIMEX3 id="T4" start="639" end="653" text="post-op day #2" type="DATE" relative="TRUE" val="2013-10-31" mod="NA" />
+<RTIMEX3 id="T5" start="712" end="726" text="post-op day #3" type="DATE" relative="TRUE" val="2013-11-01" mod="NA" />
+<RTIMEX3 id="T6" start="807" end="821" text="post-op day #4" type="DATE" relative="TRUE" val="2013-11-02" mod="NA" />
+<RTIMEX3 id="T7" start="946" end="960" text="post-op day #6" type="DATE" relative="TRUE" val="2013-11-04" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="2013-10-29" type="DATE" val="2013-10-29" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="362" end="372" text="2013-10-29" type="DATE" val="2013-10-29" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="2013-11-04" type="DATE" val="2013-11-04" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2013-10-29" type="ADMISSION" dvalue="2013-10-29" />
+<SECTIME id="S1" start="46" end="56" text="2013-11-04" type="DISCHARGE" dvalue="2013-11-04" />
+<ANCHORLINK id="AN0" fromID="T3" fromText="that night" toID="T2" toText="2013-10-29" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T4" fromText="post-op day #2" toID="T2" toText="2013-10-29" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T5" fromText="post-op day #3" toID="T2" toText="2013-10-29" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T6" fromText="post-op day #4" toID="T2" toText="2013-10-29" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T7" fromText="post-op day #6" toID="T2" toText="2013-10-29" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

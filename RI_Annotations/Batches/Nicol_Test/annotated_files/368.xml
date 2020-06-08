@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+01-11-92
+DISCHARGE DATE :
+01-22-92
+HISTORY OF PRESENT ILLNESS :
+Ms. Tikrhalt is an 86 year old female , previously healthy , who presents with a 3 month history of dysphagia .
+A subsequent workup including upper gastrointestinal series and abdominal computerized tomography scan suggested the presence of a gastric mass .
+Endoscopy with biopsy revealed gastric carcinoma , poorly differentiated , within the body of the stomach along the greater curvature .
+She was subsequently referred to Dr. Ko for a possible resection of this carcinoma .
+She reports a 10 pound weight loss over the past several months .
+She denies any abdominal pain .
+HOSPITAL COURSE :
+The patient was admitted to the Service of Dr. Fede A. Duhenile .
+On 1/12/92 she was taken to the operating room where she underwent a neart total gastrectomy with a retrocolic Bill-Roth II gastrojejunostomy reconstruction .
+In addition a small ventral hernia was noted upon abdominal exploration within a previous surgical incision .
+This was repaired .
+A needle jejunostomy catheter was placed at the time of her operation to facilitate postoperative nutrition .
+With regards to the cancer , there was a large mass along the greater curvature in the body of the stomach , and several perigastric lymph nodes which were taken with the specimen .
+In addition , there were at least two lymph nodes within the porta hepatis which were dissected free and taken en bloc with the specimen .
+The remainder of her abdomen was unremarkable without evidence of metastatic spread elsewhere , including the liver .
+The patient tolerated the procedure well and was taken to the recovery room in good condition .
+The patient 's postoperative course was for the most part unremarkable .
+Her wounds healed well without incident and the needle jejunostomy tube was utilized on the first postoperative day right up until the time of discharge , infusing Vivonex T.E.N.
+The patient tolerated this without difficulty .
+The patient 's nasogastric tube was removed on the 3rd postoperative day , and with the passage of flatus and good bowel sounds noted , she was started on a liquid diet which was advanced slowly .
+She was seen by the dietician and was advised with regard to needing numerous small meals during the day rather than 3 larger meals as she previously was used to .
+Her ambulation and mobilization increased gradually and by the time of discharge she was walking in the halls without assistance .
+As mentioned , her wounds healed well without incident and the staples were removed on the 10th postoperative day just prior to discharge .
+She had some difficulties with confusion in the early postoperative period which were attributable to her advanced age and a sundowning effect .
+These problems resolved by the 4th or 5th postoperative day and she remained lucid and alert for the remainder of her hospital stay .
+Surgical pathology report was completed prior to discharge which revealed poorly differentiated adenocarcinoma ulcerating and extending through the wall into the serosa of the stomach .
+Metastatic carcinoma was present in 3 of 3 lymph nodes .
+The gastric resection margins were free of carcinoma .
+The patient was set for discharge on the 11th postoperative day doing well .
+On the day prior to discharge she complained of some dysuria , a urine specimen was obtained , which showed numerous white cells consistent with a urinary tract infection .
+She was started empirically on Bactrim , while culture and sensitivity results were pending and remained pending at the time of this dictation .
+She will be discharged to home and will be seen in follow-up by her regular physicians as well as Dr. Ko .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T6" start="1838" end="1865" text="the first postoperative day" type="DATE" relative="TRUE" val="1992-01-12" mod="NA" />
+<RTIMEX3 id="T7" start="1881" end="1889" text="the time" type="DATE" relative="TRUE" val="1992-01-22" mod="NA" />
+<RTIMEX3 id="T9" start="2024" end="2049" text="the 3rd postoperative day" type="DATE" relative="TRUE" val="1992-01-14" mod="NA" />
+<RTIMEX3 id="T10" start="2556" end="2582" text="the 10th postoperative day" type="DATE" relative="TRUE" val="1992-01-21" mod="NA" />
+<RTIMEX3 id="T14" start="2781" end="2813" text="the 4th or 5th postoperative day" type="DATE" relative="TRUE" val="1992-01-17" mod="APPROX" />
+<RTIMEX3 id="T12" start="3223" end="3249" text="the 11th postoperative day" type="DATE" relative="TRUE" val="1992-01-22" mod="NA" />
+<RTIMEX3 id="T13" start="3266" end="3292" text="the day prior to discharge" type="DATE" relative="TRUE" val="1992-01-21" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="26" text="01-11-92" type="DATE" val="1992-01-11" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="44" end="52" text="01-22-92" type="DATE" val="1992-01-22" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="746" end="753" text="1/12/92" type="DATE" val="1992-01-12" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="26" text="01-11-92" type="ADMISSION" dvalue="1992-01-11" />
+<SECTIME id="S1" start="44" end="52" text="01-22-92" type="DISCHARGE" dvalue="1992-01-22" />
+<ANCHORLINK id="AN0" fromID="T6" fromText="the first postoperative day" toID="T4" toText="1/12/92" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T7" fromText="the time" toID="S1" toText="01-22-92" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T9" fromText="the 3rd postoperative day" toID="T4" toText="1/12/92" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T10" fromText="the 10th postoperative day" toID="T4" toText="1/12/92" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T14" fromText="the 4th or 5th postoperative day" toID="T4" toText="1/12/92" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T12" fromText="the 11th postoperative day" toID="T4" toText="1/12/92" relation="AFTER" />
+<ANCHORLINK id="AN6" fromID="T13" fromText="the day prior to discharge" toID="S1" toText="01-22-92" relation="BEFORE" />
+</TAGS>
+</RelativeTemporalAnnotation>

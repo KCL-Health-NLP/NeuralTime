@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2015-09-16
+Discharge Date :
+2015-09-21
+Service :
+CARDIOTHOR
+HISTORY OF PRESENT ILLNESS :
+The patient is a 52 year old Czech speaking gentleman with a history of severe mitral regurgitation .
+For the past several years , the patient has continued to have significant exercise intolerance which has limited his ability to work .
+He reports severe dyspnea on exertion .
+The patient had a recent admission earlier in the month and he was discharged on 2015-09-10 , after undergoing cardiac catheterization .
+This was significant for demonstrating no flow-limited disease in the coronaries but several fistulae
+from the left anterior descending to the PA .
+Several of these were coil embolized during this admission .
+He tolerated this well , was sent home , and now returns for his mitral valve repair .
+HOSPITAL COURSE :
+On the day of admission , the patient went to the Operating Room and underwent a minimally invasive
+mitral valve repair .
+He tolerated this procedure well .
+The patient was brought to the cardiothoracic Intensive Care Unit in stable condition on minimal pressor support .
+He was successfully weaned off this support .
+The patient was fully weaned from ventilatory support secondary to a persistent acidemia .
+This was treated with sodium bicarbonate and a Swan-Ganz was placed to provide close hemodynamic monitoring .
+The patient was found to have stable hemodynamics with appropriate mixed venous saturations in the 70% range .
+The patient was corrected to a normal pH of 7.41 by the first postoperative night and remained stable .
+He was then weaned off of ventilatory support and was successfully extubated .
+The patient did have a slight bit of confusion early in post-extubation course which cleared .
+This was also compounded by a language barrier since the patient cannot speak English .
+In addition , the patient 's early postoperative course had a tremendous urine output .
+It was equally up to 700 cc. an hour and a renal consultation was obtained .
+He underwent a head CT scan to rule out intracranial pathology leading to diabetes insipidus .
+This was negative .
+The patient 's serum and urine electrolytes indicated that this diuresis was appropriate .
+The patient 's urine output has decreased and his BUN and creatinine remained normal .
+The patient 's Foley was discontinued .
+He had developed some hematuria which has resolved .
+The patient has remained stable and is now ready for discharge to home with follow-up in approximately four weeks .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T8" start="1518" end="1547" text="the first postoperative night" type="DATE" relative="TRUE" val="2015-09-16" mod="END" />
+<RTIMEX3 id="T9" start="1705" end="1727" text="post-extubation course" type="DATE" relative="TRUE" val="2015-09-17" mod="APPROX" />
+<RTIMEX3 id="T10" start="1861" end="1887" text="early postoperative course" type="DATE" relative="TRUE" val="2015-09-17" mod="APPROX" />
+<RTIMEX3 id="T11" start="2422" end="2425" text="now" type="DATE" relative="TRUE" val="2015-09-21" mod="NA" />
+<RTIMEX3 id="T12" start="2486" end="2496" text="four weeks" type="DATE" relative="TRUE" val="2015-10-19" mod="APPROX" />
+<RTIMEX3 id="T4" start="420" end="440" text="earlier in the month" type="DATE" relative="TRUE" val="2015-09" mod="START" />
+<RTIMEX3 id="T6" start="776" end="779" text="now" type="DATE" relative="TRUE" val="2015-09-16" mod="NA" />
+<RTIMEX3 id="T7" start="839" end="846" text="the day" type="DATE" relative="TRUE" val="2015-09-16" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="2015-09-16" type="DATE" val="2015-09-16" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="46" end="56" text="2015-09-21" type="DATE" val="2015-09-21" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="466" end="476" text="2015-09-10" type="DATE" val="2015-09-10" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2015-09-16" type="ADMISSION" dvalue="2015-09-16" />
+<SECTIME id="S1" start="46" end="56" text="2015-09-21" type="DISCHARGE" dvalue="2015-09-21" />
+<ANCHORLINK id="AN0" fromID="T4" fromText="earlier in the month" toID="S0" toText="2015-09-16" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T6" fromText="now" toID="S0" toText="2015-09-16" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T7" fromText="the day" toID="S0" toText="2015-09-16" relation="EQUAL" />
+<ANCHORLINK id="AN3" fromID="T8" fromText="the first postoperative night" toID="T7" toText="the day" relation="AFTER" />
+<ANCHORLINK id="AN4" fromID="T9" fromText="post-extubation course" toID="T7" toText="the day" relation="AFTER" />
+<ANCHORLINK id="AN5" fromID="T10" fromText="early postoperative course" toID="T7" toText="the day" relation="AFTER" />
+<ANCHORLINK id="AN6" fromID="T11" fromText="now" toID="S1" toText="2015-09-21" relation="EQUAL" />
+<ANCHORLINK id="AN7" fromID="T12" fromText="four weeks" toID="S1" toText="2015-09-21" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

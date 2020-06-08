@@ -27,7 +27,8 @@ def get_rtimex_attr(timex_line):
         id, start, end, text, type, relative, val, mod = m.groups()
     else:
         raise Exception("Malformed Timex3 tag: %s" % (timex_line))
-    return [id, start, end, text, type.upper(), relative, val.upper(), mod.upper(), True]
+
+    return [id, start, end, text, type.upper(), True, val.upper(), mod.upper(), (relative == 'TRUE')]
 
 
 
@@ -44,7 +45,25 @@ def get_atimex_attr(timex_line):
         id, start, end, text, type, val, absolute, mod = m.groups()
     else:
         raise Exception("Malformed Timex3 tag: %s" % (timex_line))
-    return [id, start, end, text, type.upper(), not absolute, val.upper(), mod.upper(), False]
+
+    return [id, start, end, text, type.upper(), False, val.upper(), mod.upper(), (absolute == 'FALSE')]
+
+
+
+def get_sectimex_attr(timex_line):
+    """
+    This function extracts attributes from a sectime timex
+    Args:
+      line - str: MAE SECTIME tag line,
+                  e.g. <SECTIME id="S0" start="18" end="28" text="2010-06-28" type="ADMISSION" dvalue="2010-06-28" />
+    """
+    re_exp = 'id=\"([^"]*)\"\s+start=\"([^"]*)\"\s+end=\"([^"]*)\"\s+text=\"([^"]*)\"\s+type=\"([^"]*)\"\s+dvalue=\"([^"]*)\"\s+\/>'
+    m = re.search(re_exp, timex_line)
+    if m:
+        id, start, end, text, type, dvalue = m.groups()
+    else:
+        raise Exception("Malformed Timex3 tag: %s" % (timex_line))
+    return [id, start, end, text, type.upper(), False, dvalue, None, False]
 
 
 
@@ -69,6 +88,11 @@ def get_timexes(text_fname):
                 unique_ids.append(timexTuple[0])
         if re.search('<ATIMEX3', line):
             timexTuple = get_atimex_attr(line)
+            if timexTuple[0] not in unique_ids:
+                timexes.append(timexTuple)
+                unique_ids.append(timexTuple[0])
+        if re.search('<SECTIME', line):
+            timexTuple = get_sectimex_attr(line)
             if timexTuple[0] not in unique_ids:
                 timexes.append(timexTuple)
                 unique_ids.append(timexTuple[0])
@@ -125,11 +149,14 @@ def annotated_files_to_dataframe(filepaths):
     timexes = []
     for path in filepaths:
         docname = os.path.basename(path)
+
         doc_anchorlinks = get_anchorlinks(path)
-        doc_anchorlinks = np.append(np.array([[docname] for i in range(len(doc_anchorlinks))]), np.array(doc_anchorlinks), axis=1).tolist()
+
+        if len(doc_anchorlinks)>0:
+            doc_anchorlinks = np.append(np.array([[docname] for i in range(len(doc_anchorlinks))]), np.array(doc_anchorlinks), axis=1).tolist()
         doc_timexes = get_timexes(path)
         doc_timexes = np.append(np.array([[docname] for i in range(len(doc_timexes))]), np.array(doc_timexes), axis=1 ).tolist()
-        print(doc_timexes)
+
 
         anchorlinks += doc_anchorlinks
         timexes += doc_timexes
@@ -144,20 +171,50 @@ def annotated_files_to_dataframe(filepaths):
 
 
 
-def custom_to_standard(anchorlinks, timexes):
+def custom_to_standard(anchorlinks, timexes, all_timexes):
 
      print('Custom to standard')
 
      """
-     Takes the anchorlink and timexe dataframes and produces a ataframe with the same format as the standard annotations we received
+     Takes the anchorlink and timexe dataframes and produces a dataframe with the same format as the standard annotations we received
 
      :return:
      standard_df = a dataframe with the following format : docname, TIMEX_id, TIMEX_value, TIMEX_text, Admission_date, Discharge_date, Previous_timex, Previous_absolute_timex, Anchor, Relation_to_anchor
      """
 
-     RI = timexes[timexes['annotated_relative'] == 'True']
+     timexes['absolute'] = [not relative for relative in timexes['annotated_relative']]
+     print(timexes)
 
+
+     RI = timexes[timexes['annotated_relative']]
+
+     print('RI')
      print(RI)
+
+     def admission_and_discharge_ids(docname):
+
+         doc_timexes = timexes[timexes.docname == docname]
+
+
+
+         # extract admission and discharge ids
+
+         admission = doc_timexes[doc_timexes.type == 'ADMISSION'].to_dict('records')[0]
+         admission_id = doc_timexes[doc_timexes.start == admission['start']].to_dict('records')[0]['id']
+         try :
+             discharge = doc_timexes[doc_timexes.type == 'DISCHARGE'].to_dict('records')[0]
+             discharge_id = doc_timexes[doc_timexes.start == discharge['start']].to_dict('records')[0]['id']
+         except Exception as e:
+             print(e)
+             discharge_id = 'S1'
+         return admission_id, discharge_id
+
+
+
+
+
+
+
 
      def extract_ids(docname, id):
 
@@ -166,44 +223,41 @@ def custom_to_standard(anchorlinks, timexes):
          :return:
          """
 
-         previous_id, previous_absolute_id = svm_anchoring.get_previous_timexes(id, docname)
-         admission_id = 'T0'
-         discharge_id = 'T1'
+         previous_id, previous_absolute_id = svm_anchoring.get_previous_timexes(id, docname, timexes, all_timexes)
+
+         admission_id, discharge_id = admission_and_discharge_ids(docname)
 
          return admission_id, discharge_id, previous_id, previous_absolute_id
 
+
      def get_anchor(docname, id):
-         print('get anchor')
 
          admission_id, discharge_id, previous_id, previous_absolute_id = extract_ids(docname, id)
          link = anchorlinks[(anchorlinks.docname == docname) & (anchorlinks.fromID == id)].to_dict('records')
-         print(link)
 
          if len(link) > 0:
              toID = link[0]['toID']
              relation = link[0]['relation'][0]
-             print(toID, relation)
 
              if toID == admission_id or toID == 'S0':
                  anchor = 'A'
              elif toID == discharge_id or toID == 'S1':
                  anchor = 'D'
-             elif toID == previous_id:
-                 anchor = 'P'
              elif toID == previous_absolute_id:
                  anchor = 'PA'
+             elif toID == previous_id:
+                 anchor = 'P'
              else:
                  anchor = 'O'
 
 
          else :
              anchor = 'N'
+             relation = 'NA'
 
          return [docname, id, admission_id, discharge_id, previous_id, previous_absolute_id, anchor, relation]
 
-
      result = [get_anchor(docname, id) for docname, id in zip(RI['docname'], RI['id'])]
-
      result = pd.DataFrame(result, columns=['docname', 'TIMEX_id',  'Admission_id', 'Discharge_id', 'Previous_id','Previous_absolute_id', 'Anchor', 'Relation_to_anchor'])
 
      print(result)

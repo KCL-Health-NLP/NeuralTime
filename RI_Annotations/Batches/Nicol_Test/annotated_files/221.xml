@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+09/21/92
+DISCHARGE DATE :
+09/24/92
+DISCHARGE DATE :
+09/24/92
+HISTORY OF PRESENT ILLNESS :
+The patient is a seventy-one year old white female with stenotic area on her mid sigmoid , noticed on barium enema .
+The ultrasound showed ascites and question of pelvic mass .
+The patient was explored by General surgery , who saw the 3C ovarian carcinoma .
+The patient also had an omentectomy and ileostomy .
+The patient was admitted for one cycle of Cytoxan and Cisplatin , and subsequently underwent debulking in June 1992 , as well as a total abdominal hysterectomy/ bilateral salpingo-oophorectomy , omentectomy , splenectomy , rectosigmoid resection with a take down of the ileostomy .
+Also ileal cecal resection , MDR showed that Cisplatin and VP 16 were more effective .
+The patient now presents for line 1 , cycle 4 to 15 of VP 16 and Cisplatin chemotherapy .
+HOSPITAL COURSE :
+The patient was admitted to the hospital and received two units of packed red blood cells for her hematocrit of 26 , and had a magnesium repleted .
+The patient received three days of chemotherapy , consisting of 45 mg. of Cisplatin 160 mg. of VP 16 , and tolerated chemotherapy resonably well .
+Serial PTs were obtained , and the patient was noted to have an initial PT of 10.9 on admission , despite Coumadin at home .
+She was given 10 mg. on hospital day # 1 , and 5 mg. on hospital day 2 , and back to 2.5 qhs .
+The patient &apos;s pro time bumped to 19.5 on hospital day # 3 , and the patient was instructed to continue with 2 1/2 mg. qhs and is to followup with Anticoagulation Clinic in one week for further pro time checks and adjustments .
+The patient did develop some hypertension during infusion of her VP 16 to the 170/100 range , which apparently happened during her prior chemotherapy .
+The patient was instructed to followup with her internist regarding further evaluation of her hypertension , and should be assessed regarding further management , as an inpatient , or while receiving chemotherapy .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T5" start="1339" end="1355" text="hospital day # 1" type="DATE" relative="TRUE" val="1992-09-21" mod="NA" />
+<RTIMEX3 id="T6" start="1371" end="1385" text="hospital day 2" type="DATE" relative="TRUE" val="1992-09-22" mod="NA" />
+<RTIMEX3 id="T8" start="1457" end="1473" text="hospital day # 3" type="DATE" relative="TRUE" val="1992-09-23" mod="NA" />
+<RTIMEX3 id="T3" start="524" end="533" text="June 1992" type="DATE" relative="FALSE" val="1992-06" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="26" text="09/21/92" type="DATE" val="1992-09-21" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="44" end="52" text="09/24/92" type="DATE" val="1992-09-24" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="70" end="78" text="09/24/92" type="DATE" val="1992-09-24" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="26" text="09/21/92" type="ADMISSION" dvalue="1992-09-21" />
+<SECTIME id="S1" start="44" end="52" text="09/24/92" type="DISCHARGE" dvalue="1992-09-24" />
+<ANCHORLINK id="AN0" fromID="T5" fromText="hospital day # 1" toID="S0" toText="09/21/92" relation="AFTER" />
+<ANCHORLINK id="AN1" fromID="T6" fromText="hospital day 2" toID="S0" toText="09/21/92" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T8" fromText="hospital day # 3" toID="S0" toText="09/21/92" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -59,12 +59,10 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
         :param document_name: the name of the document
         :return: the id of the previous timexe and prvious absolute timexe
         """
-        print()
-        print(document_name)
-        print(id)
+
         doc_ann = date_and_time[date_and_time.docname == document_name]  # only date and times
         all_doc_ann = all_timexes[all_timexes.docname == document_name]  # all timexes annotations
-        absolute_doc_ann = date_and_time[(date_and_time.docname == document_name) & (date_and_time.absolute == True)] # absolute timexes
+
 
         # ordering ids as the timexes appear in the document
         start_ids = [(start, id, abs) for start, id, abs in zip(doc_ann['start'], doc_ann['id'], doc_ann['absolute'])]
@@ -73,8 +71,6 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
         start_ids.sort()
         all_ordered_ids.sort()
 
-        print(start_ids)
-        print(all_ordered_ids)
 
         ordered_ids = [s[1] for s in start_ids]
         all_ordered_ids = [s[1] for s in all_ordered_ids]
@@ -82,7 +78,6 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
 
         index = ordered_ids.index(id)
         all_index = all_ordered_ids.index(id)
-        print(all_index)
 
         # finding the previous timexe id
         if all_index > 0:
@@ -98,15 +93,12 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
             while count > 0:
                 if start_ids[count][2]:
                     previous_absolute_id = ordered_ids[count]
-                    print('previous')
-                    print(previous_timex_id, previous_absolute_id)
                     return previous_timex_id, previous_absolute_id
                 else:
                     count -= 1
         else :
             previous_absolute_id = ordered_ids[index]
-        print('previous')
-        print(previous_timex_id, previous_absolute_id)
+
         return previous_timex_id, previous_absolute_id
 
 
@@ -202,7 +194,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     """
      This function takes a dataframe with the anotations and their anchor and anchor relation, and performs training and
-     testing of the models
+     testing of the models, on anchor date and anchor relation
 
      :param data:
      :param date_and_time : the dataframe containing all date and time timexes (careful of the filtering)
@@ -211,7 +203,9 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
      :return:
      """
 
-    y = data['Anchor'].to_numpy()
+    y_anchor = data['Anchor'].to_numpy()
+    y_relation = data['Relation_to_anchor'].to_numpy()
+    y_relation = [ 'After' if r == 'A' else r for r in y_relation]
 
 
     # divide into train/test sets
@@ -219,11 +213,13 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     try :
         train_data = data[data.test == False]
         test_data = data[data.test == True]  # boolean or strings ?
-        y_train = train_data['Anchor'].to_numpy()
-        y_test = test_data['Anchor'].to_numpy
+        y_anchor_train = train_data['Anchor'].to_numpy()
+        y_anchor_test = test_data['Anchor'].to_numpy
+        y_relation_train = train_data['Relation_to_anchor'].to_numpy()
+        y_relation_test = test_data['Relation_to_anchor'].to_numpy
     except Exception as e:
         print(e)
-        train_data, test_data, y_train, y_test = train_test_split(data, y, test_size=0.15, random_state=0, stratify=y)
+        train_data, test_data, y_anchor_train, y_anchor_test, y_relation_train, y_relation_test = train_test_split(data, y_anchor, y_relation, test_size=0.15, random_state=0, stratify=y_anchor)
 
 
     # create text_document
@@ -261,7 +257,6 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
 
 
-
     # training models
 
     anchor_types = ['A', 'D', 'P', 'PA']
@@ -271,9 +266,11 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     optimized_parameters['D'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['P'] = {'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['PA'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+    optimized_parameters['B'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+    optimized_parameters['E'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
 
 
-    def train_model(anchor_type):
+    def train_model(anchor_type, y_train, y_test, optimize_params = False):
 
         """
         trains a classification model for one type of anchor
@@ -284,12 +281,15 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         print(anchor_type)
         print()
 
-
         y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
         y_test_binary = [1 if type == anchor_type else 0 for type in y_test]
 
+        print('y train (binary) :')
         print(y_train_binary)
-        print(y_test_binary)
+        print(sum(y_train_binary))
+        print('y test (binary) :')
+        print(y_train_binary)
+        print(sum(y_test_binary))
 
         # for cases where the previous timex and the previous absolute timex are the same :
         if anchor_type == 'P' or anchor_type == 'PA':
@@ -304,33 +304,40 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
             print('Modified if P = PA' )
             print(y_train_binary)
             print(y_test_binary)
+        print()
 
         # Cross Validation
 
-        """# Parameters otpimization
-        tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-3, 1e-4],
-                             'C': [1, 10, 100, 1000]},
-                            {'kernel': ['linear'], 'C': [1, 10, 100, 1000]}]
+        # Parameters otpimization
 
-        clf = GridSearchCV(
-            svm.SVC(), tuned_parameters, scoring='f1')
-        clf.fit(X_train, y_train_binary)
+        if optimize_params :
+            tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-3, 1e-4],
+                                 'C': [1, 10, 100, 1000]},
+                                {'kernel': ['linear'], 'C': [1, 10, 100, 1000]}]
 
-        print("Best parameters set found on development set:")
-        print()
-        print(clf.best_params_)
-        print()
-        print("Grid scores on development set:")
-        print()
-        means = clf.cv_results_['mean_test_score']
-        stds = clf.cv_results_['std_test_score']
-        for mean, std, params in zip(means, stds, clf.cv_results_['params']):
-            print("%0.3f (+/-%0.03f) for %r"
-                  % (mean, std * 2, params))
-        print()"""
+            clf = GridSearchCV(
+                svm.SVC(), tuned_parameters, scoring='f1')
+            clf.fit(X_train, y_train_binary)
 
-        params = optimized_parameters[anchor_type]
-        clf = svm.SVC(C = params['C'], kernel = params['kernel'], gamma= params['gamma'])
+            print("Best parameters set found on development set:")
+            print()
+            print(clf.best_params_)
+            print()
+            print("Grid scores on development set:")
+            print()
+            means = clf.cv_results_['mean_test_score']
+            stds = clf.cv_results_['std_test_score']
+            for mean, std, params in zip(means, stds, clf.cv_results_['params']):
+                print("%0.3f (+/-%0.03f) for %r"
+                      % (mean, std * 2, params))
+            print()
+
+        try:
+            params = optimized_parameters[anchor_type]
+            clf = svm.SVC(C = params['C'], kernel = params['kernel'], gamma= params['gamma'])
+        except KeyError :
+            print('No optimized parameters')
+            clf = svm.SVC()
 
         scores = cross_val_score(clf, X_train, y_train_binary, cv=10, scoring = 'f1')
         precisions = cross_val_score(clf, X_train, y_train_binary, cv=10, scoring = 'precision')
@@ -356,6 +363,8 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         # Test the model
 
         y_pred = clf.predict(X_test)
+
+        print('y pred :')
         print(y_pred)
         print()
 
@@ -375,7 +384,11 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     models = []
     for t in anchor_types:
-        models += [train_model(t)]
+        models += [train_model(t, y_anchor_train, y_anchor_test)]
+
+    relations = ['B', 'E', 'After']
+    for r in relations:
+        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= True)]
 
 
     return models

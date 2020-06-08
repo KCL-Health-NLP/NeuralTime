@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+ADMISSION DATE :
+09/08/96
+DISCHARGE DATE :
+09/17/96
+HISTORY OF PRESENT ILLNESS :
+This 82 year old retired engineer has had multiple admissions to the Ph University Of Medical Center for multiple strokes and a spontaneous subdural hematoma and prostatic hypertrophy .
+He has been managing at home on restricted activity but able to get around with a walker but on the day before admission he became increasing dyspneic and on the day of admission he collapsed and was unable to walk to his bed .
+For this he was admitted .
+HOSPITAL COURSE AND TREATMENT :
+The patient was started on Clindamycin intravenous and Cefuroxime intravenous with clearing of his fever but persistence of cough , choking , and intermittently many coarse rales in his base with no clearing by x-ray .
+His ambulation was minimal and always with assistance but he had a transurethral resection of the prostate on 09/14/96 .
+He is transferred to Louline Mauikings Medical Center for future rehabilitation and hopeful return home with considerable support and assistance .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T0" start="364" end="371" text="the day" type="DATE" relative="TRUE" val="1996-09-07" mod="NA" />
+<RTIMEX3 id="T4" start="426" end="433" text="the day" type="DATE" relative="TRUE" val="1996-09-08" mod="NA" />
+<ATIMEX3 id="T1" start="18" end="26" text="09/08/96" type="DATE" val="1996-09-08" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="44" end="52" text="09/17/96" type="DATE" val="1996-09-17" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T5" start="884" end="892" text="09/14/96" type="DATE" val="1996-09-14" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="26" text="09/08/96" type="ADMISSION" dvalue="1996-09-08" />
+<SECTIME id="S1" start="44" end="52" text="09/17/96" type="DISCHARGE" dvalue="1996-09-17" />
+<ANCHORLINK id="AN0" fromID="T0" fromText="the day" toID="S0" toText="09/08/96" relation="BEFORE" />
+<ANCHORLINK id="AN1" fromID="T4" fromText="the day" toID="S0" toText="09/08/96" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>

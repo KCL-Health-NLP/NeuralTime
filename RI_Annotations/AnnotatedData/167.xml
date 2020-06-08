@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+2019-06-25
+Discharge Date :
+2019-07-01
+Service :
+CARDIOTHORACIC
+History of Present Illness :
+69yoM with OA having workup for knee replacements found to be in Afib , had stress test that was positive followed by cardiac catheterization which revealed severe 3VD .
+Then referred for CABG
+Brief Hospital Course :
+69 yo M with known Atrial fibrillation and coronary artery disease admitted preop for transition fro Coumadin to Heparin .
+Brought to the OR on 06-26 for CABG , please see OR report for details .
+In summary pt had off pump CABGx4 with LIMA-LAD , SVG OM-Y graft - Diag , SVG-PDA .
+Pt tolerated surgery well and was transferred to CT CMED ICU .
+He did well in immediate post-op period was extubated and on POD1 he was transferred to the step down floor .
+On POD2 his chest tubes and epicardial pacing wires were removed and his Coumadin was restarted .
+Over the next several days his activity was advanced on POD5 it was decided he was stable and ready to be discharged home with visiting nurses .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T1" start="732" end="736" text="POD1" type="DATE" relative="TRUE" val="2019-06-27" mod="NA" />
+<RTIMEX3 id="T2" start="784" end="788" text="POD2" type="DATE" relative="TRUE" val="2019-06-28" mod="NA" />
+<RTIMEX3 id="T7" start="935" end="939" text="POD5" type="DATE" relative="TRUE" val="2019-07-01" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="2019-06-25" type="DATE" val="2019-06-25" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="46" end="56" text="2019-07-01" type="DATE" val="2019-07-01" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="472" end="477" text="06-26" type="DATE" val="2019-06-26" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="2019-06-25" type="ADMISSION" dvalue="2019-06-25" />
+<SECTIME id="S1" start="46" end="56" text="2019-07-01" type="DISCHARGE" dvalue="2019-07-01" />
+<ANCHORLINK id="AN1" fromID="T1" fromText="POD1" toID="T4" toText="06-26" relation="AFTER" />
+<ANCHORLINK id="AN2" fromID="T2" fromText="POD2" toID="T4" toText="06-26" relation="AFTER" />
+<ANCHORLINK id="AN3" fromID="T7" fromText="POD5" toID="T4" toText="06-26" relation="AFTER" />
+</TAGS>
+</RelativeTemporalAnnotation>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RelativeTemporalAnnotation>
+<TEXT><![CDATA[
+Admission Date :
+10/25/1997
+Discharge Date :
+11/03/1997
+HISTORY OF PRESENT ILLNESS :
+The patient is a 67-year-old woman with occasional abdominal pain in the right lower quadrant and left lower quadrant .
+She has not complained of any fever , shaking , or chills .
+No nausea or vomiting , no change in her bowel movements .
+She has had attacks treated with antibiotics in the past notably in 12/96 and 08/97 .
+She has had a diagnosis of diverticulitis flairs and baseline diverticulosis flairing in 09/96 .
+Also , three years prior in 1993 , she had an attack of diverticulitis .
+She has been worked up with barium enema in 09/97 which showed multiple diverticula throughout the colon , but mostly in the sigmoid .
+At this time , there was diverticulosis with no acute diverticulitis .
+There was also no obstruction .
+The patient is also status post aortic valve replacement in 1996 , and presented for heparinization prior to her elective valve surgery .
+HOSPITAL COURSE :
+The patient was admitted and begun on cefotetan and Flagyl , as well as heparin .
+Her INR dropped to 1.6 prior to surgery , and her PTT was in the mid 80s prior to surgery .
+She was admitted and placed on a bowel prep two days before surgery and was taken to the Operating Room on hospital day # 3 , 10/28/97 .
+At that time , she underwent sigmoid colectomy and ventral hernia repair . ( A full account of this operation can be found in the Operative Note ) .
+She tolerated this procedure without complications initially and was taken to the Recovery Room in stable condition .
+Postoperatively , she had her heparin restarted , and had a PTT rising to 142.8 and then down to 92 .
+Her primary postoperative development was the passage of some blood clots and blood per rectum on postoperative day # 2 .
+She continued to pass blood per rectum and was transfused with one unit of packed red blood cells .
+Her preoperative hematocrit was 41 and her hematocrit dropped to 30.4 on postoperative day # 2 .
+This was a drop from an immediate postoperative hematocrit of 35.4 .
+Upon receiving the one unit of red blood cells , her hematocrit returned to 33 , and in the two days subsequent to the transfusion , returned to 34 .
+Otherwise , her postoperative course was uneventful with gradual resolution of the passage of blood per rectum .
+Her heparin was discontinued when it was noted that she was bleeding per rectum and her PTT drifted to a normal range of 35 by postoperative day # 3 .
+On postoperative day # 1 , the patient was restarted on 2 mg of Coumadin .
+However , due to the episode of bleeding on postoperative day # 2 , the Coumadin was held for two consecutive days , and then restarted on postoperative day # 4 .
+At this time , she is given 3 mg and was gradually increased to her regular regimen of 4 mg alternating with 3 mg.
+The patient &apos;s INR had dropped to 1.7 at the time of operation , and remained in this range initially , but began to rise to 2.0 with her Coumadin dosing .
+At the time of discharge , it was 1.9 , for which she received 4 mg.
+On the next day , it was 1.6 and she returned to a normal dosing of 4 mg followed by outpatient draws to determine the further Coumadin dosing .
+This was postoperative day # 6 , at which time she is ready for discharge .
+The rest of her hospital course was unremarkable , with perioperative ampicillin , gentamicin and Flagyl discontinued on postoperative day # 1 .
+She had some initial nausea but had no emesis .
+Her nasogastric tube was discontinued on postoperative day # 1 , and she tolerated a regular diet by postoperative day # 3 .
+She had flatus and regular bowel movements by postoperative day # 5 .
+She also complained of some slight dizziness upon getting up .
+For this reason , her normal Lopressor and Norvasc were held .
+It was felt that this was re-equalibration after being sedentary and mostly in bed following the operation .
+She had some slight headaches which resolved with Tylenol , and the dizziness resolved as well .
+She was ready for discharge on postoperative day # 6 .
+Her wound remained benign and was healing nicely at the time of discharge .
+]]></TEXT>
+<TAGS>
+<RTIMEX3 id="T23" start="1193" end="1208" text="two days before" type="DATE" relative="TRUE" val="1997-10-26" mod="NA" />
+<RTIMEX3 id="T24" start="1256" end="1272" text="hospital day # 3" type="DATE" relative="TRUE" val="1997-10-28" mod="NA" />
+<RTIMEX3 id="T26" start="1289" end="1298" text="that time" type="DATE" relative="TRUE" val="1997-10-28" mod="NA" />
+<RTIMEX3 id="T5" start="1753" end="1774" text="postoperative day # 2" type="DATE" relative="TRUE" val="1997-10-30" mod="NA" />
+<RTIMEX3 id="T6" start="1950" end="1971" text="postoperative day # 2" type="DATE" relative="TRUE" val="1997-10-30" mod="NA" />
+<RTIMEX3 id="T7" start="2433" end="2454" text="postoperative day # 3" type="DATE" relative="TRUE" val="1997-10-31" mod="NA" />
+<RTIMEX3 id="T8" start="2460" end="2481" text="postoperative day # 1" type="DATE" relative="TRUE" val="1997-10-29" mod="NA" />
+<RTIMEX3 id="T9" start="2576" end="2597" text="postoperative day # 2" type="DATE" relative="TRUE" val="1997-10-30" mod="NA" />
+<RTIMEX3 id="T29" start="2671" end="2692" text="postoperative day # 4" type="DATE" relative="TRUE" val="1997-11-01" mod="NA" />
+<RTIMEX3 id="T30" start="2698" end="2707" text="this time" type="DATE" relative="TRUE" val="1997-11-01" mod="NA" />
+<RTIMEX3 id="T31" start="2856" end="2877" text="the time of operation" type="DATE" relative="TRUE" val="1997-10-28" mod="NA" />
+<RTIMEX3 id="T32" start="2974" end="2982" text="the time" type="DATE" relative="TRUE" val="1997-11-03" mod="NA" />
+<RTIMEX3 id="T33" start="3043" end="3055" text="the next day" type="DATE" relative="TRUE" val="1997-11-04" mod="NA" />
+<RTIMEX3 id="T10" start="3194" end="3215" text="postoperative day # 6" type="DATE" relative="TRUE" val="1997-11-03" mod="NA" />
+<RTIMEX3 id="T34" start="3227" end="3231" text="time" type="DATE" relative="TRUE" val="1997-11-03" mod="NA" />
+<RTIMEX3 id="T11" start="3382" end="3403" text="postoperative day # 1" type="DATE" relative="TRUE" val="1997-10-29" mod="NA" />
+<RTIMEX3 id="T12" start="3495" end="3516" text="postoperative day # 1" type="DATE" relative="TRUE" val="1997-10-29" mod="NA" />
+<RTIMEX3 id="T14" start="3555" end="3576" text="postoperative day # 3" type="DATE" relative="TRUE" val="1997-10-31" mod="NA" />
+<RTIMEX3 id="T13" start="3625" end="3646" text="postoperative day # 5" type="DATE" relative="TRUE" val="1997-11-02" mod="NA" />
+<RTIMEX3 id="T15" start="4012" end="4033" text="postoperative day # 6" type="DATE" relative="TRUE" val="1997-11-03" mod="NA" />
+<RTIMEX3 id="T35" start="4088" end="4096" text="the time" type="DATE" relative="TRUE" val="1997-11-03" mod="NA" />
+<RTIMEX3 id="T18" start="515" end="532" text="three years prior" type="DATE" relative="TRUE" val="1993" mod="NA" />
+<RTIMEX3 id="T20" start="719" end="728" text="this time" type="DATE" relative="TRUE" val="1997-10-25" mod="NA" />
+<ATIMEX3 id="T25" start="1275" end="1283" text="10/28/97" type="DATE" val="1997-10-28" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T0" start="18" end="28" text="10/25/1997" type="DATE" val="1997-10-25" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T1" start="393" end="398" text="12/96" type="DATE" val="1996-12" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T2" start="403" end="408" text="08/97" type="DATE" val="1997-08" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T16" start="46" end="56" text="11/03/1997" type="DATE" val="1997-11-03" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T3" start="500" end="505" text="09/96" type="DATE" val="1996-09" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T19" start="536" end="540" text="1993" type="DATE" val="1993" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T4" start="625" end="630" text="09/97" type="DATE" val="1997-09" absolute="TRUE" mod="NA" />
+<ATIMEX3 id="T21" start="879" end="883" text="1996" type="DATE" val="1996" absolute="TRUE" mod="NA" />
+<SECTIME id="S0" start="18" end="28" text="10/25/1997" type="ADMISSION" dvalue="1997-10-25" />
+<SECTIME id="S1" start="46" end="56" text="11/03/1997" type="DISCHARGE" dvalue="1997-11-03" />
+<ANCHORLINK id="AN0" fromID="T18" fromText="three years prior" toID="T19" toText="1993" relation="EQUAL" />
+<ANCHORLINK id="AN1" fromID="T20" fromText="this time" toID="T4" toText="09/97" relation="EQUAL" />
+<ANCHORLINK id="AN2" fromID="T23" fromText="two days before" toID="S0" toText="10/25/1997" relation="EQUAL" />
+<ANCHORLINK id="AN3" fromID="T24" fromText="hospital day # 3" toID="T25" toText="10/28/97" relation="EQUAL" />
+<ANCHORLINK id="AN4" fromID="T26" fromText="that time" toID="T25" toText="10/28/97" relation="EQUAL" />
+<ANCHORLINK id="AN5" fromID="T5" fromText="postoperative day # 2" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN6" fromID="T6" fromText="postoperative day # 2" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN7" fromID="T7" fromText="postoperative day # 3" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN8" fromID="T8" fromText="postoperative day # 1" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN9" fromID="T9" fromText="postoperative day # 2" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN10" fromID="T29" fromText="postoperative day # 4" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN11" fromID="T30" fromText="this time" toID="T29" toText="postoperative day # 4" relation="EQUAL" />
+<ANCHORLINK id="AN12" fromID="T31" fromText="the time of operation" toID="T25" toText="10/28/97" relation="EQUAL" />
+<ANCHORLINK id="AN13" fromID="T32" fromText="the time" toID="S1" toText="11/03/1997" relation="EQUAL" />
+<ANCHORLINK id="AN14" fromID="T33" fromText="the next day" toID="T32" toText="the time" relation="AFTER" />
+<ANCHORLINK id="AN15" fromID="T10" fromText="postoperative day # 6" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN16" fromID="T34" fromText="time" toID="T10" toText="postoperative day # 6" relation="EQUAL" />
+<ANCHORLINK id="AN17" fromID="T11" fromText="postoperative day # 1" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN18" fromID="T12" fromText="postoperative day # 1" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN19" fromID="T14" fromText="postoperative day # 3" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN20" fromID="T13" fromText="postoperative day # 5" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN21" fromID="T15" fromText="postoperative day # 6" toID="T25" toText="10/28/97" relation="AFTER" />
+<ANCHORLINK id="AN22" fromID="T35" fromText="the time" toID="S1" toText="11/03/1997" relation="EQUAL" />
+</TAGS>
+</RelativeTemporalAnnotation>
