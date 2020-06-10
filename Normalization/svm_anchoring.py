@@ -268,6 +268,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     optimized_parameters['PA'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['B'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
     optimized_parameters['E'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+    optimized_parameters['After'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
 
 
     def train_model(anchor_type, y_train, y_test, optimize_params = False):
@@ -388,7 +389,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     relations = ['B', 'E', 'After']
     for r in relations:
-        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= True)]
+        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= False)]
 
 
     return models

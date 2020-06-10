@@ -183,10 +183,10 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
      """
 
      timexes['absolute'] = [not relative for relative in timexes['annotated_relative']]
-     print(timexes)
+     print(timexes['annotated_relative'])
 
 
-     RI = timexes[timexes['annotated_relative']]
+     RI = timexes[timexes['annotated_relative'] == True]
 
      print('RI')
      print(RI)
@@ -210,12 +210,6 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
          return admission_id, discharge_id
 
 
-
-
-
-
-
-
      def extract_ids(docname, id):
 
          """
@@ -234,7 +228,7 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
 
          admission_id, discharge_id, previous_id, previous_absolute_id = extract_ids(docname, id)
          link = anchorlinks[(anchorlinks.docname == docname) & (anchorlinks.fromID == id)].to_dict('records')
-
+         print(link)
          if len(link) > 0:
              toID = link[0]['toID']
              relation = link[0]['relation'][0]

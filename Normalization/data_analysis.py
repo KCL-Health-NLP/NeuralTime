@@ -33,8 +33,11 @@ def analysis_original_data():
 
 def analysis_mapped_custom_data(mapped_data):
 
+    data_by_document = mapped_data.groupby('docname').count()['Anchor']
+
     data_by_anchor = mapped_data.groupby('Anchor').count()['docname']
     data_by_relation = mapped_data.groupby('Relation_to_anchor').count()['docname']
 
+    print(data_by_document)
     print(data_by_anchor)
     print(data_by_relation)
