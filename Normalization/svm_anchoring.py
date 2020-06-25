@@ -33,7 +33,7 @@ def normalize_digits(text):
     return new_text
 
 
-def initialize_bow(text_documents):
+def initialize_bow(text_documents, normalize_numbers = True):
     """
     This function initializes the CountVectorizer object with the vocabulary from the documents
     :param documents: a list of text strings
@@ -41,8 +41,8 @@ def initialize_bow(text_documents):
     """
 
     # normalize digits
-
-    text_documents = [normalize_digits(text) for text in text_documents]
+    if normalize_numbers:
+        text_documents = [normalize_digits(text) for text in text_documents]
 
     vectorizer = CountVectorizer()
     vectorizer.fit(text_documents)
@@ -103,7 +103,7 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
 
 
 
-def extract_features(annotations, text_documents, vectorizer, date_and_time, all_timexes):
+def extract_features(annotations, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers  = True):
 
     """
     Takes ri timexes annotations in dataframe format and returns the vectors that will be used for the classification
@@ -111,8 +111,10 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
     :param annotations: a dataframe with the following format :
     :param text_documents : a dictionnary with docnames as keys and document text as value
     :param vectorizer : tht vectorizer (already fitted)
+    :param normalize_numbers : whether or not to transform ndigits into a uniform token
     :return: vectors : a sparse matrix of feature vectors
             previous_ids : the ids for previous timexes and previous absolute timexes
+
     """
     # initialize tokenizer
 
@@ -121,9 +123,7 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
     # including punctuation rules and exceptions
     tokenizer = nlp.Defaults.create_tokenizer(nlp)
 
-
     # extract the relevant features
-
 
 
     def get_n_token_window(id, document_name, document_text, n = 8):
@@ -136,17 +136,16 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
         span = tokenized_text.char_span(start, end)
         token = span.merge()
 
-        window = normalize_digits(tokenized_text[token.i - n: token.i + n].text)
+        if normalize_numbers:
+            window = normalize_digits(tokenized_text[token.i - n: token.i + n].text)
+        else:
+            window = tokenized_text[token.i - n: token.i + n].text
         print(start,end)
         print(token.i)
         print('Token : ' + str(token.text))
         print('Window : ' + str(window))
         print()
         return window
-
-
-
-
 
     # get the window of tokens around the expression
     windows = [get_n_token_window(id, docname, text_documents[docname])for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
@@ -189,7 +188,7 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
 
 
 
-def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 Data/all_data/'):
+def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 Data/all_data/', vectorizer = 'default', normalize_numbers = True):
 
 
     """
@@ -200,6 +199,8 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
      :param date_and_time : the dataframe containing all date and time timexes (careful of the filtering)
      :param all_timexes : all the original i2b2 timexes annotation (pre ri annotations)
      :param path : path to the xml files for the documents contained in data.docnames
+     :param vectorizer : a vectorizer object with the 'fit' and 'transform' methods, or the string  'default' for classic CountVectorizer
+     :param normalize_numbers : whether or not to normalize all digits tokens to a uniform "N" token
      :return:
      """
 
@@ -233,27 +234,30 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     # describe data distribution
 
-    print(str(len(data)) + ' documents')
+    print(str(len(data)) + ' time expressions')
     print()
 
     g = data.groupby('Anchor').agg(['count'])['docname']
     print(g)
 
     print()
-    print('Train set : ' + str(len(train_data)) + ' documents')
+    print('Train set : ' + str(len(train_data)) + ' timexes')
     print(train_data.groupby('Anchor').agg(['count'])['docname'])
     print()
-    print('Test set : ' + str(len(test_data)) + ' documents')
+    print('Test set : ' + str(len(test_data)) + ' timexes')
     print(test_data.groupby('Anchor').agg(['count'])['docname'])
     print()
 
     # initialize the vectorizer
-    vectorizer = initialize_bow([text for text in text_documents.values()])
+    if vectorizer == 'default':
+        vectorizer = initialize_bow([text for text in text_documents.values()])
+    else:
+        vectorizer.fit([text for text in text_documents.values()])
 
     # extract feature vectors
 
-    X_train, previous_ids_train = extract_features(train_data, text_documents, vectorizer, date_and_time, all_timexes)
-    X_test, previous_ids_test = extract_features(test_data, text_documents, vectorizer, date_and_time, all_timexes)
+    X_train, previous_ids_train = extract_features(train_data, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers = normalize_numbers)
+    X_test, previous_ids_test = extract_features(test_data, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers = normalize_numbers)
 
 
 
@@ -262,13 +266,13 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     anchor_types = ['A', 'D', 'P', 'PA']
 
     optimized_parameters = dict()
-    optimized_parameters['A'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+    optimized_parameters['A'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
     optimized_parameters['D'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
-    optimized_parameters['P'] = {'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+    optimized_parameters['P'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['PA'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
     optimized_parameters['B'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
-    optimized_parameters['E'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
-    optimized_parameters['After'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+    optimized_parameters['E'] = {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+    optimized_parameters['After'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
 
 
     def train_model(anchor_type, y_train, y_test, optimize_params = False):
@@ -385,12 +389,11 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     models = []
     for t in anchor_types:
-        models += [train_model(t, y_anchor_train, y_anchor_test)]
+        models += [train_model(t, y_anchor_train, y_anchor_test, optimize_params= True)]
 
     relations = ['B', 'E', 'After']
     for r in relations:
-        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= False)]
-
+        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= True)]
 
     return models
 
