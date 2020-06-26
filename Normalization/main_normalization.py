@@ -1,17 +1,12 @@
 
 import random
-import pandas as pd
-import svm_anchoring
-import map_custom_annotations
-import data_analysis
-import os
-import embeddings
-
-import RI_Annotations.dataset as dataset
-
+import dataset
 import bert_transformer
 random.seed(42)
 
+import sys
+
+sys.path.append('/exps/louise/NeuralTime/RI_Annotations')
 
 """
 # training anchor classififation models with the original data

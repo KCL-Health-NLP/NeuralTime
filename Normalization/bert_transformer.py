@@ -1,14 +1,9 @@
-
-
-import random
 import torch
-from torch.utils.data import Dataset, DataLoader, TensorDataset, RandomSampler, SequentialSampler
+from torch.utils.data import Dataset, DataLoader, TensorDataset, RandomSampler
 import pandas as pd
 import transformers
-import os
 import numpy as np
-from spacy.lang.en import English
-from RI_Annotations.dataset import AnnotatedDataset
+from dataset import AnnotatedDataset
 from tqdm import trange, tqdm
 from transformers.optimization import AdamW
 from transformers import get_linear_schedule_with_warmup

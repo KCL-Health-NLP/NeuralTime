@@ -10,7 +10,7 @@ class AnnotatedDataset():
 
     def __init__(self):
         here = Path(__file__).parent
-        path = here / 'Results'
+        path = here / 'DataTables'
         self.timexes = pd.read_excel((path / 'annotated_timexes.xlsx').as_posix())
         self.anchorlinks = pd.read_excel((path /'anchorlinks.xlsx').as_posix())
         self.tuple_df = pd.read_excel((path /'tuple_format.xlsx').as_posix())
