@@ -1,26 +1,33 @@
 
 import random
 import pandas as pd
-import svm_anchoring
-import map_custom_annotations
-import data_analysis
-import os
-import embeddings
-from sklearn.model_selection import train_test_split
-import neural_models
-import numpy as np
-import map_custom_annotations
+
 
 random.seed(42)
 
-## saving the anchorlinks
+train_features = pd.read_excel('DataTables/train_features.xlsx')
+inf_train_features = pd.read_excel('DataTables/inference_train_features.xlsx')
 
-filepaths = [ '../RI_Annotations/AnnotatedData/' + docname  for docname in os.listdir('../RI_Annotations/AnnotatedData') ]
-anchorlinks, timexes = map_custom_annotations.annotated_files_to_dataframe(filepaths)
+inf_train_inputs = pd.read_excel('DataTables/inference_train_inputs.xlsx')
+train_inputs = pd.read_excel('DataTables/train_inputs.xlsx')
 
-anchorlinks.to_excel('anchorlinks.xlsx')
+train_features['label'] = train_inputs['label']
+inf_train_features['label'] = inf_train_inputs['label']
+
+train_features.to_excel('DataTables/train_features.xlsx')
+inf_train_features.to_excel('DataTables/inference_train_features.xlsx')
+
+test_features = pd.read_excel('DataTables/test_features.xlsx')
+test_inputs = pd.read_excel('DataTables/')
 
 
+
+
+
+"""print(ast.literal_eval(train_features['label_id'].values[0]))
+print(torch.tensor([ast.literal_eval(f) for f in train_features['label_id'].values], dtype=torch.long))"""
+
+#all_nput_ids = torch.tensor([f for f in train_features['input_id'].values], dtype=torch.long)
 
 """
 # training anchor classififation models with the original data

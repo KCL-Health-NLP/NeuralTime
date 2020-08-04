@@ -164,16 +164,12 @@ def annotated_files_to_dataframe(filepaths):
     anchorlinks = pd.DataFrame(anchorlinks, columns = ['docname', 'id', 'fromID', 'fromText', 'toID', 'toText', 'relation'])
     timexes = pd.DataFrame(timexes, columns = ['docname','id', 'start', 'end',' text', 'type','filtered_relative', 'val', 'mod', 'annotated_relative' ])
 
-    print(anchorlinks)
-    print(timexes)
-
     return anchorlinks, timexes
 
 
 
 def custom_to_standard(anchorlinks, timexes, all_timexes):
 
-     print('Custom to standard')
 
      """
      Takes the anchorlink and timexe dataframes and produces a dataframe with the same format as the standard annotations we received
@@ -183,13 +179,12 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
      """
 
      timexes['absolute'] = [not relative for relative in timexes['annotated_relative']]
-     print(timexes['annotated_relative'])
+
 
 
      RI = timexes[timexes['annotated_relative'] == True]
 
-     print('RI')
-     print(RI)
+
 
      def admission_and_discharge_ids(docname):
 
@@ -228,7 +223,6 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
 
          admission_id, discharge_id, previous_id, previous_absolute_id = extract_ids(docname, id)
          link = anchorlinks[(anchorlinks.docname == docname) & (anchorlinks.fromID == id)].to_dict('records')
-         print(link)
          if len(link) > 0:
              toID = link[0]['toID']
              relation = link[0]['relation'][0]
@@ -254,7 +248,6 @@ def custom_to_standard(anchorlinks, timexes, all_timexes):
      result = [get_anchor(docname, id) for docname, id in zip(RI['docname'], RI['id'])]
      result = pd.DataFrame(result, columns=['docname', 'TIMEX_id',  'Admission_id', 'Discharge_id', 'Previous_id','Previous_absolute_id', 'Anchor', 'Relation_to_anchor'])
 
-     print(result)
      return result
 
 

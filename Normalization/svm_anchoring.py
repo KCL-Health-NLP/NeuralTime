@@ -140,11 +140,11 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
             window = normalize_digits(tokenized_text[token.i - n: token.i + n].text)
         else:
             window = tokenized_text[token.i - n: token.i + n].text
-        print(start,end)
+        """print(start,end)
         print(token.i)
         print('Token : ' + str(token.text))
         print('Window : ' + str(window))
-        print()
+        print()"""
         return window
 
     # get the window of tokens around the expression
@@ -214,14 +214,16 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     try :
         train_data = data[data.test == False]
         test_data = data[data.test == True]  # boolean or strings ?
-        y_anchor_train = train_data['Anchor'].to_numpy()
-        y_anchor_test = test_data['Anchor'].to_numpy
+        #y_anchor_train = train_data['Anchor'].to_numpy()
+        #y_anchor_test = test_data['Anchor'].to_numpy
         y_relation_train = train_data['Relation_to_anchor'].to_numpy()
         y_relation_test = test_data['Relation_to_anchor'].to_numpy
     except Exception as e:
         print(e)
-        train_data, test_data, y_anchor_train, y_anchor_test, y_relation_train, y_relation_test = train_test_split(data, y_anchor, y_relation, test_size=0.15, random_state=0, stratify=y_anchor)
+        train_data, test_data, y_relation_train, y_relation_test = train_test_split(data, y_relation, test_size=0.15, random_state=0, stratify=y_anchor)
 
+    print(train_data)
+    print(test_data)
 
     # create text_document
     text_documents = {}
@@ -275,7 +277,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     optimized_parameters['After'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
 
 
-    def train_model(anchor_type, y_train, y_test, optimize_params = False):
+    def train_model(anchor_type, optimize_params = False, anchor_relation = False):
 
         """
         trains a classification model for one type of anchor
@@ -286,14 +288,17 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         print(anchor_type)
         print()
 
-        y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
-        y_test_binary = [1 if type == anchor_type else 0 for type in y_test]
+        """y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
+        y_test_binary = [1 if type == anchor_type else 0 for type in y_test]"""
+
+        y_train_binary = [1 if is_anchored else 0 for is_anchored in train_data[anchor_type]]
+        y_test_binary = [1 if is_anchored else 0 for is_anchored in test_data[anchor_type]]
 
         print('y train (binary) :')
         print(y_train_binary)
         print(sum(y_train_binary))
         print('y test (binary) :')
-        print(y_train_binary)
+        print(y_test_binary)
         print(sum(y_test_binary))
 
         # for cases where the previous timex and the previous absolute timex are the same :
@@ -374,7 +379,9 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         print()
 
         print(sklearn.metrics.classification_report(y_test_binary, y_pred))
-
+        pre, rec, f, s = sklearn.metrics.precision_recall_fscore_support(y_test_binary, y_pred, average = 'binary')
+        print('Precision : ', pre)
+        print('Recall ; ', rec)
         print('Accuracy :')
         print(clf.score(X_test, y_test_binary))
 
@@ -389,11 +396,11 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     models = []
     for t in anchor_types:
-        models += [train_model(t, y_anchor_train, y_anchor_test, optimize_params= True)]
+        models += [train_model(t, optimize_params= True)]
 
     relations = ['B', 'E', 'After']
     for r in relations:
-        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= True)]
+        models += [train_model(r, optimize_params= True)]
 
     return models
 
