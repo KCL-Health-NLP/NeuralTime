@@ -10,7 +10,10 @@ import numpy as np
 from sklearn.metrics import f1_score, cohen_kappa_score
 from distutils import util
 
-    
+
+
+"This file contains utility functions to compute agreement between annotators "
+
 def open_file(fname):
     if os.path.exists(fname):
         f = open(fname)
@@ -269,17 +272,3 @@ def evaluate_agreement(batch1, batch2, annotations):
     print('Global Link Relaxed Agreement : ' + str((positives + equivalent) * 100/total_anchored))
 
 
-
-'''
-
-timexes_annotations = pd.read_excel('../TimeDatasets/i2b2 Data/date_and_time.xlsx')
-sectimes = pd.read_excel('../TimeDatasets/i2b2 Data/i2b2_sectimes_annotations.xlsx')
-
-annotations = timexes_annotations.append(sectimes, ignore_index=True)
-
-print(annotations)
-
-
-print(anchorlink_agreement('Nicol/annotated_documents/1.xml', 'Louise/annotated_documents/1.xml', annotations[annotations.docname == '1.xml']))
-
-'''

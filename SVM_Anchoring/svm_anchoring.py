@@ -51,7 +51,7 @@ def initialize_bow(text_documents, normalize_numbers = True):
 
 
 
-def get_previous_timexes(id, document_name, date_and_time, all_timexes):
+def get_previous_timexes(id, document_name, annotated_timexes, all_timexes):
 
         """
         returns the previous timex (from all the timexes) and previous absolute date or time timex
@@ -60,7 +60,7 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
         :return: the id of the previous timexe and prvious absolute timexe
         """
 
-        doc_ann = date_and_time[date_and_time.docname == document_name]  # only date and times
+        doc_ann = annotated_timexes[annotated_timexes.docname == document_name]  # only date and times
         all_doc_ann = all_timexes[all_timexes.docname == document_name]  # all timexes annotations
 
 
@@ -103,7 +103,7 @@ def get_previous_timexes(id, document_name, date_and_time, all_timexes):
 
 
 
-def extract_features(annotations, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers  = True):
+def extract_features(annotations, text_documents, vectorizer, annotated_timexes, all_timexes, normalize_numbers  = True):
 
     """
     Takes ri timexes annotations in dataframe format and returns the vectors that will be used for the classification
@@ -129,43 +129,50 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
     def get_n_token_window(id, document_name, document_text, n = 8):
 
         ann = all_timexes[(all_timexes.docname == document_name) & (all_timexes.id == id)]
-        start = ann['start'].unique()[0]
-        end = ann['end'].unique()[0]
+        try :
+            start = ann['start'].unique()[0]
+            end = ann['end'].unique()[0]
+        except Exception as e:
+            print(e)
+            print(document_name, id)
+            start = end = 0
 
         tokenized_text = tokenizer(document_text)
         span = tokenized_text.char_span(start, end)
-        token = span.merge()
+        try:
+            token = span.merge()
+        except Exception as e:
+            print(e)
+            print(document_name,id)
+            return ''
 
         if normalize_numbers:
             window = normalize_digits(tokenized_text[token.i - n: token.i + n].text)
         else:
             window = tokenized_text[token.i - n: token.i + n].text
-        print(start,end)
+        """print(start,end)
         print(token.i)
         print('Token : ' + str(token.text))
         print('Window : ' + str(window))
-        print()
+        print()"""
         return window
 
     # get the window of tokens around the expression
     windows = [get_n_token_window(id, docname, text_documents[docname])for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
     window_vectors = vectorizer.transform(windows)
-    print(window_vectors.shape)
 
     # extract previous timex and previous absolute timex
-    previous_ids = [get_previous_timexes(id, docname, date_and_time, all_timexes) for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
+    date_and_time = pd.read_excel('DataTables/date_and_time.xlsx')
+    previous_ids = [get_previous_timexes(id, docname, annotated_timexes, all_timexes) for id, docname in zip(annotations['TIMEX_id'], annotations['docname'])]
 
     # add previous timex vectors
-    print('Previous T')
+
     previous_timexes = [get_n_token_window(ids[0], docname, text_documents[docname], 1) for ids, docname in zip(previous_ids, annotations.docname)]
     previous_timexes_vectors = vectorizer.transform(previous_timexes)
-    print(previous_timexes_vectors.shape)
 
     # add previous absolute timex vectors
-    print('Previous absolute T')
     previous_abs_timexes = [get_n_token_window(ids[1], docname, text_documents[docname], 1) for ids, docname in zip(previous_ids, annotations.docname)]
     previous_abs_timexes_vectors = vectorizer.transform(previous_abs_timexes)
-    print(previous_abs_timexes_vectors.shape)
 
     # concatenate the vectors
 
@@ -185,10 +192,7 @@ def extract_features(annotations, text_documents, vectorizer, date_and_time, all
 
 
 
-
-
-
-def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 Data/all_data/', vectorizer = 'default', normalize_numbers = True):
+def svm_anchoring(data, annotated_timexes, all_timexes, path= '../TimeDatasets/i2b2 Data/all_data/', vectorizer = 'default', normalize_numbers = True):
 
 
     """
@@ -196,7 +200,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
      testing of the models, on anchor date and anchor relation
 
      :param data:
-     :param date_and_time : the dataframe containing all date and time timexes (careful of the filtering)
+     :param annotated_timexes : the dataframe containing all annotated ri and absolute timexes
      :param all_timexes : all the original i2b2 timexes annotation (pre ri annotations)
      :param path : path to the xml files for the documents contained in data.docnames
      :param vectorizer : a vectorizer object with the 'fit' and 'transform' methods, or the string  'default' for classic CountVectorizer
@@ -204,9 +208,14 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
      :return:
      """
 
-    y_anchor = data['Anchor'].to_numpy()
+    #y_anchor = data['Anchor'].to_numpy()
     y_relation = data['Relation_to_anchor'].to_numpy()
     y_relation = [ 'After' if r == 'A' else r for r in y_relation]
+
+    try:
+        annotated_timexes['absolute']
+    except:
+        annotated_timexes['absolute'] = [not rel for rel in annotated_timexes['annotated_relative']]
 
 
     # divide into train/test sets
@@ -214,14 +223,20 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     try :
         train_data = data[data.test == False]
         test_data = data[data.test == True]  # boolean or strings ?
-        y_anchor_train = train_data['Anchor'].to_numpy()
-        y_anchor_test = test_data['Anchor'].to_numpy
+        #y_anchor_train = train_data['Anchor'].to_numpy()
+        #y_anchor_test = test_data['Anchor'].to_numpy
         y_relation_train = train_data['Relation_to_anchor'].to_numpy()
         y_relation_test = test_data['Relation_to_anchor'].to_numpy
     except Exception as e:
         print(e)
-        train_data, test_data, y_anchor_train, y_anchor_test, y_relation_train, y_relation_test = train_test_split(data, y_anchor, y_relation, test_size=0.15, random_state=0, stratify=y_anchor)
+        train_data, test_data, y_relation_train, y_relation_test = train_test_split(data, y_relation, test_size=0.15, random_state=0, stratify=y_anchor)
 
+    print('Train data :')
+    print(train_data)
+    print()
+    print('Test data :')
+    print(test_data)
+    print()
 
     # create text_document
     text_documents = {}
@@ -237,15 +252,29 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     print(str(len(data)) + ' time expressions')
     print()
 
-    g = data.groupby('Anchor').agg(['count'])['docname']
-    print(g)
+    """g = data.groupby('Anchor').agg(['count'])['docname']
+    print(g)"""
+
+
+    print('Admission : ', sum(data['A']))
+    print('Discharge : ', sum(data['D']))
+    print('P A T : ', sum(data['PA']))
+    print('P T : ', sum(data['P']))
+    print('Other : ', sum(data['O']))
+    print('None : ', sum(data['N']))
+
+    print()
+
+    print('Before : ', sum(data['B']))
+    print('Equal : ', sum(data['E']))
+    print('After: ', sum(data['After']))
 
     print()
     print('Train set : ' + str(len(train_data)) + ' timexes')
-    print(train_data.groupby('Anchor').agg(['count'])['docname'])
+    #print(train_data.groupby('Anchor').agg(['count'])['docname'])
     print()
     print('Test set : ' + str(len(test_data)) + ' timexes')
-    print(test_data.groupby('Anchor').agg(['count'])['docname'])
+    #print(test_data.groupby('Anchor').agg(['count'])['docname'])
     print()
 
     # initialize the vectorizer
@@ -256,8 +285,8 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     # extract feature vectors
 
-    X_train, previous_ids_train = extract_features(train_data, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers = normalize_numbers)
-    X_test, previous_ids_test = extract_features(test_data, text_documents, vectorizer, date_and_time, all_timexes, normalize_numbers = normalize_numbers)
+    X_train, previous_ids_train = extract_features(train_data, text_documents, vectorizer, annotated_timexes, all_timexes, normalize_numbers = normalize_numbers)
+    X_test, previous_ids_test = extract_features(test_data, text_documents, vectorizer, annotated_timexes, all_timexes, normalize_numbers = normalize_numbers)
 
 
 
@@ -275,7 +304,7 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
     optimized_parameters['After'] = {'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
 
 
-    def train_model(anchor_type, y_train, y_test, optimize_params = False):
+    def train_model(anchor_type, optimize_params = False, anchor_relation = False):
 
         """
         trains a classification model for one type of anchor
@@ -286,14 +315,17 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         print(anchor_type)
         print()
 
-        y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
-        y_test_binary = [1 if type == anchor_type else 0 for type in y_test]
+        """y_train_binary = [1 if type == anchor_type else 0 for type in y_train]
+        y_test_binary = [1 if type == anchor_type else 0 for type in y_test]"""
+
+        y_train_binary = [1 if is_anchored else 0 for is_anchored in train_data[anchor_type]]
+        y_test_binary = [1 if is_anchored else 0 for is_anchored in test_data[anchor_type]]
 
         print('y train (binary) :')
         print(y_train_binary)
         print(sum(y_train_binary))
         print('y test (binary) :')
-        print(y_train_binary)
+        print(y_test_binary)
         print(sum(y_test_binary))
 
         # for cases where the previous timex and the previous absolute timex are the same :
@@ -374,7 +406,9 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
         print()
 
         print(sklearn.metrics.classification_report(y_test_binary, y_pred))
-
+        pre, rec, f, s = sklearn.metrics.precision_recall_fscore_support(y_test_binary, y_pred, average = 'binary')
+        print('Precision : ', pre)
+        print('Recall ; ', rec)
         print('Accuracy :')
         print(clf.score(X_test, y_test_binary))
 
@@ -389,11 +423,11 @@ def svm_anchoring(data, date_and_time, all_timexes, path= '../TimeDatasets/i2b2 
 
     models = []
     for t in anchor_types:
-        models += [train_model(t, y_anchor_train, y_anchor_test, optimize_params= True)]
+        models += [train_model(t, optimize_params= True)]
 
     relations = ['B', 'E', 'After']
     for r in relations:
-        models += [train_model(r, y_relation_train, y_relation_test, optimize_params= True)]
+        models += [train_model(r, optimize_params= True)]
 
     return models
 

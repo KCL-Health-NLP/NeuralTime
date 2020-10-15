@@ -5,6 +5,8 @@ import os
 import numpy as np
 
 
+"This file contains utility functions to change the format of original i2b2 documents to one suited for the RI annotation purposes"
+
 def change_annotations(xml_path, output_path, date_and_time_ann = None, tlinks = None):
 
     """

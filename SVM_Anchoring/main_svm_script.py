@@ -1,14 +1,19 @@
+
 import random
 import dataset
 import map_custom_annotations
 import data_analysis
+import bert_transformer
 import svm_anchoring
 import embeddings
 random.seed(42)
+import transformers
 import pandas as pd
 import os
 
 import sys
+
+sys.path.append('/exps/louise/NeuralTime/RI_Annotations')
 
 date_and_time = pd.read_excel('DataTables/date_and_time.xlsx')  # all date and time i2b2 timexes
 all_timexes = pd.read_excel('DataTables/all_timexes_sectimes.xlsx') # all i2b2 timexes, including section times
@@ -48,4 +53,5 @@ mapped_data = pd.read_excel('mapped_data.xlsx')
 #data_analysis.analysis_mapped_custom_data(mapped_data)
 
 models = svm_anchoring.svm_anchoring(mapped_data, annotated_timexes, all_timexes, vectorizer = 'default', normalize_numbers = True)
+
 
