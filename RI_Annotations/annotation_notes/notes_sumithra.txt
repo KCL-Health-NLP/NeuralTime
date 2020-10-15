@@ -1,9 +1,0 @@
-Notes on annotating RI-timexes and anchor points:
-
-* When linked to admission date, have chosen sectime
-* For postoperative days, have anchored to admission date or OR if present, and added relation 'after'
-* For documents with no RITimexes, have saved file to annotated documents anyway
-* 172.xml: unclear where to anchor 'this Thursday' and 'the morning'
-* 178.xml: 'one to two weeks' - assigned true as RITIMEX, but maybe worth discussing
-* 186.xml: added an RITIMEX ('at that time')
-* 191.xml: incorrect annotation spans on 'the day of New Year's eve' - annotated RITIMEX as False on both
