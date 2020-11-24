@@ -1,6 +1,6 @@
 # NeuralTime
 
-This project presents the work from the published paper [link]. 
+This project presents the work from the published paper https://www.aclweb.org/anthology/2020.clinicalnlp-1.14/. 
 
 It focuses on the analysis of relative and temporal time expressions (RI Timexes) in clinical text. The goal is to anchor these expressions to absolute temporal expressions, "anchor dates", to determine their time value. 
 
