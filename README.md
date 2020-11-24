@@ -15,7 +15,7 @@ The TemporalExtraction package contains work from an earlier project which goal 
 
 The data that was used in this work is not made public but can be provided upon request. 
 
-Contact the authors at : 
+Contact the authors at : louise.dupuis97@gmail.com
 
 
 
